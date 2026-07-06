@@ -1,6 +1,6 @@
 # West of Ireland Planting Guide
 
-**Your available materials:** Clay soil · Multipurpose compost · Ericaceous compost · Horticultural bark · Horticultural grit · Small pebbles · Vermiculite · Perlite
+**Available materials:** Clay soil · Multipurpose compost · Ericaceous compost · Horticultural bark · Horticultural grit · Small pebbles · Vermiculite · Perlite
 
 ---
 
