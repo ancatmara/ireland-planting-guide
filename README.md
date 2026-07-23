@@ -37,7 +37,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 *Groups: A = Ornamental Trees & Shrubs | B = Fruit Trees & Shrubs | C = Groundcover & Creeping Plants | D = Climbers & Wall Plants | E = Bulbs | F = Ornamental Perennials | G = Annual Flowers | H = Kitchen Herbs & Vegetables | I = Shade & Woodland Plants | J = Pond & Water Plants*
 
 ---
-
 ## GROUP A: ORNAMENTAL TREES & SHRUBS
 
 ### A1. Bamboo (clump-forming: *Fargesia* spp., *Chusquea* spp.)
@@ -48,7 +47,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most soils including clay; prefers moist, fertile, free-draining. Choose clump-forming species — running bamboo (*Phyllostachys*) requires a 60cm deep root barrier.
 
-**Soil prep:** Dig hole twice the rootball width. Mix clay 50/50 with compost. Mulch well.
+**Soil prep:** Dig hole twice the rootball width. Mix clay 50/50 with multipurpose compost. Mulch well. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level.
 
@@ -68,7 +67,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** pH 6.0–8.0. Tolerates clay very well.
 
-**Soil prep:** Standard clay improvement with compost and grit.
+**Soil prep:** Standard clay improvement with multipurpose compost and horticultural grit.
 
 **Planting depth:** At pot level.
 
@@ -88,7 +87,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, fertile, pH 6.0–7.5.
 
-**Soil prep:** 60cm wide, 45cm deep. Mix clay 50/50 with compost and 20% grit. Stake well.
+**Soil prep:** 60cm wide, 45cm deep. Mix clay 50/50 with multipurpose compost and 20% horticultural grit. Stake well. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Graft union at or just above soil level.
 
@@ -102,13 +101,17 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A4. Common Hawthorn (*Crataegus monogyna*)
 
+**Irish name:** Sceach Gheal
+
+**Russian name:** Боярышник однопестичный
+
 📷 **Reference photo:** [Common Hawthorn — view source](https://en.wikipedia.org/wiki/Crataegus_monogyna)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
 
 **Soil needs:** Very adaptable — most soils including heavy clay, chalk, and poor ground; pH 5.5–7.5.
 
-**Soil prep:** Minimal — one of the most tolerant trees of clay and exposure. Improve drainage with grit only on the wettest sites.
+**Soil prep:** Minimal — one of the most tolerant trees of clay and exposure. Improve drainage with horticultural grit only on the wettest sites.
 
 **Planting depth:** At nursery soil mark.
 
@@ -126,25 +129,25 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 📷 **Reference photo:** [Dwarf Lily Magnolia — view source](https://en.wikipedia.org/wiki/Magnolia_liliiflora)
 
-**Light:** ☀️ Full sun to 🌤️ part shade, sheltered from cold wind.
+**Light:** ☀️ Full sun to 🌤️ part shade. Protect from early morning sun, which can damage frosted buds after a cold night.
 
 **Soil needs:** Moist but well-drained, humus-rich soil; slightly acid to neutral, pH 5.5–6.5. Dislikes shallow chalk and waterlogging.
 
-**Soil prep:** Mix clay with 30% compost/ericaceous compost and grit for drainage. Avoid deep planting.
+**Soil prep:** Mix the clay with 30% multipurpose compost and horticultural grit for drainage. For the 'Nigra' cultivar specifically, gardens4you.ie recommends a generous planting hole filled with 50% topsoil and 50% peat-free multipurpose compost, soaking the roots for around 2 hours before planting. Avoid deep planting.
 
-**Planting depth:** At nursery soil mark; shallow, fleshy roots — do not disturb once planted.
+**Planting depth:** At nursery soil mark; shallow, fleshy roots — do not disturb once planted. For potted 'Nigra' stock, plant at approximately 12cm depth per the supplier's guidance.
 
-**Spacing:** 2–3m between plants/structures
+**Spacing:** 2m between plants/structures ('Nigra' cultivar spacing per gardens4you.ie); larger species forms may need 2–3m.
 
-**Fertiliser:** Balanced or ericaceous slow-release feed in spring. Annual mulch with compost or bark, kept away from the trunk.
+**Fertiliser:** Balanced or ericaceous slow-release feed in spring. Annual mulch with multipurpose compost or horticultural bark, kept away from the trunk. An organic top-dressing in early spring is beneficial.
 
 **Companions:** Underplant with hellebores, ferns, snowdrops; pairs well with Japanese maple and star magnolia for a spring border.
 
-**West of Ireland:** More compact and later-flowering than star magnolia, so its blooms often escape the worst late frosts. Reliably hardy in sheltered west of Ireland gardens; avoid frost pockets and exposed coastal wind.
+**West of Ireland:** More compact and later-flowering than star magnolia, so its blooms often escape the worst late frosts — 'Nigra' (Black Lily Magnolia) is particularly eye-catching, with deep red-purple, bowl-shaped, pleasantly scented flowers from April to May, blooming from a younger age than most magnolias. Reliably hardy in sheltered west of Ireland gardens; avoid frost pockets and exposed coastal wind, and shelter the larger-leaved cultivars from wind, which can scorch foliage. Magnolias dislike root disturbance and resent pruning — choose the planting spot with room to grow, and only remove dead wood in summer after flowering.
 
 ---
 
-### A6. False Spirea (*Sorbaria sorbifolia*)
+### A6. False Spiraea (*Sorbaria sorbifolia*)
 
 📷 **Reference photo:** [Sorbaria sorbifolia — view source](https://en.wikipedia.org/wiki/Sorbaria_sorbifolia)
 
@@ -152,7 +155,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most moist soils including clay; pH 5.5–7.5. Very adaptable and tolerant of poor drainage better than many shrubs.
 
-**Soil prep:** Minimal — dig hole twice rootball width, mix clay 50/50 with compost.
+**Soil prep:** Minimal — dig hole twice rootball width, mix clay 50/50 with multipurpose compost. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At nursery soil mark.
 
@@ -174,7 +177,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most moist, well-drained soils including clay; pH 6.0–7.5. Not fussy once drainage is adequate.
 
-**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with compost and 20% grit.
+**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with multipurpose compost and 20% horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery soil mark.
 
@@ -190,13 +193,17 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A8. Holly (*Ilex aquifolium*)
 
+**Irish name:** Cuileann
+
+**Russian name:** Падуб остролистный
+
 📷 **Reference photo:** [Holly — view on Wikipedia](https://en.wikipedia.org/wiki/Ilex_aquifolium)
 
 **Light:** 🌑 Full shade to ☀️ full sun. Extraordinary adaptability. More berries in sunnier positions. ⚠️ Plant at least one male + one female for berries.
 
 **Soil needs:** pH 4.5–8.0. Tolerates heavy clay, poor soil, coastal exposure.
 
-**Soil prep:** Dig hole twice rootball size, backfill with clay/compost mix. Grit helpful but not essential.
+**Soil prep:** Dig hole twice rootball size, backfill with clay/multipurpose compost mix. Grit helpful but not essential. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; fibrous shallow root mat, do not bury deeply.
 
@@ -212,13 +219,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A9. Irish Yew (*Taxus baccata* 'Fastigiata')
 
+**Irish name:** Iúr
+
 📷 **Reference photo:** [Irish Yew — view on Wikipedia](https://en.wikipedia.org/wiki/Taxus_baccata)
 
 **Light:** 🌑 Full shade to ☀️ full sun. Narrow column; produces more compact form in full sun. Discovered as natural mutation in Co. Fermanagh in the 18th century — all Irish yews worldwide descend from that one tree.
 
 **Soil needs:** Most well-drained soils, pH 5.0–8.0. Tolerates heavy clay if drainage adequate. Deeply dislikes waterlogged roots.
 
-**Soil prep:** Mix clay 50/50 with compost and 20% grit. On very wet clay, plant on a raised mound.
+**Soil prep:** Mix clay 50/50 with multipurpose compost and 20% horticultural grit. On very wet clay, plant on a raised mound. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level. Extensive but not deep root system.
 
@@ -240,7 +249,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, humus-rich, acid soil; pH 5.0–6.5. Will yellow (chlorosis) on alkaline soil.
 
-**Soil prep:** Mix clay generously with ericaceous compost (40%+) and grit. In a container, use peat-free ericaceous compost.
+**Soil prep:** Mix clay generously with ericaceous compost (40%+) and horticultural grit. In a container, use peat-free ericaceous compost.
 
 **Planting depth:** At nursery soil mark; shallow-rooted, do not bury the stem base.
 
@@ -262,7 +271,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, slightly acidic, pH 5.5–6.5.
 
-**Soil prep:** Dig 2–3× diameter of rootball. Mix clay with compost, 25% ericaceous compost and 25% grit in backfill. Shallow-rooted — do not dig deeply.
+**Soil prep:** Dig 2–3× diameter of rootball. Mix clay with compost, 25% ericaceous compost and 25% horticultural grit in backfill. Shallow-rooted — do not dig deeply. Grown in a pot, blend ericaceous compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level. Shallow-rooted; do not bury.
 
@@ -284,7 +293,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, humus-rich soil; prefers slightly acid to neutral, pH 5.5–6.5. Dislikes dry or chalky soils.
 
-**Soil prep:** Mix clay with 30–40% ericaceous compost and grit for drainage. Add well-rotted organic matter.
+**Soil prep:** Mix clay with 30–40% ericaceous compost and horticultural grit for drainage. Add well-rotted organic matter. In a container, use ericaceous compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At nursery soil mark; shallow-rooted, do not bury the stem base.
 
@@ -308,7 +317,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most well-drained soils including clay; pH 6.0–7.5. Tolerant of a wide range once established.
 
-**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with compost and 20% grit for drainage.
+**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with multipurpose compost and 20% horticultural grit for drainage. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery soil mark.
 
@@ -330,7 +339,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Neutral to slightly alkaline, pH 6.5–8.0.
 
-**Soil prep:** Mix clay 50/50 with compost and 20–25% grit. Add garden lime if soil is acidic. Slight mound if waterlogging is a risk.
+**Soil prep:** Mix clay 50/50 with multipurpose compost and 20–25% horticultural grit. Add garden lime if soil is acidic. Slight mound if waterlogging is a risk.
 
 **Planting depth:** At nursery soil mark.
 
@@ -350,7 +359,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** They love a fertile, humus-rich, clay soil. pH 5.0–6.0 for blue flowers; 6.0–7.0 for pink flowers. Moist but well-drained. Good salt tolerance. Flower colour changes depending on soil pH — blue in acid soils (high aluminium availability), mauve in lightly acid to neutral soil, pink in alkaline conditions.
 
-**Soil prep:** Before planting, dig in well-rotted compost or manure to the whole area (not just the planting hole), using a bucketful per square yard/metre. Make the planting hole as deep as the root ball and three times wider. For blue flowers: use ericaceous compost in the planting hole and grow in ericaceous compost in containers.
+**Soil prep:** Before planting, dig in well-rotted multipurpose compost or manure to the whole area (not just the planting hole), using a bucketful per square yard/metre. Make the planting hole as deep as the root ball and three times wider. For blue flowers: use ericaceous compost in the planting hole and grow in ericaceous compost in containers.
 
 **Planting depth:** At pot level; place the top of the rootball at or slightly above surrounding soil level. Shallow-rooted — avoid hoeing around it as roots can be easily damaged.
 
@@ -368,7 +377,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A16. Mountain Ash / Rowan (*Sorbus aucuparia*)
+### A16. Mountain Ash (Rowan) (*Sorbus aucuparia*)
+
+**Irish name:** Caorthann
 
 📷 **Reference photo:** [Mountain Ash / Rowan — view source](https://en.wikipedia.org/wiki/Sorbus_aucuparia)
 
@@ -376,7 +387,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Very adaptable — most soils including clay, acid or neutral; pH 5.0–7.0. Dislikes shallow chalk.
 
-**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with compost; grit if drainage is poor.
+**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with multipurpose compost; horticultural grit if drainage is poor. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At nursery soil mark.
 
@@ -390,7 +401,33 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A17. St John's Wort 'Rowallane' (*Hypericum* 'Rowallane')
+### A17. Shrub Roses (*Rosa*, shrub and old-fashioned cultivars)
+
+**Irish name:** Rós
+
+**Russian name:** Роза
+
+📷 **Reference photo:** [Shrub Roses — view on Wikipedia](https://en.wikipedia.org/wiki/Garden_roses)
+
+**Light:** ☀️ Full sun essential — at least 6 hours daily; will struggle to flower well in shade.
+
+**Soil needs:** Fertile, loamy soil, neutral to slightly acid; pH 5.5–7.0, ideally around 6.5. Roses are notably one of the few plants in this guide said to genuinely enjoy clay once drainage is adequate.
+
+**Soil prep:** Dig a hole at least 45–60cm wide and deep, working in generous multipurpose compost or well-rotted manure to loosen and enrich the clay. Add horticultural grit only if the site is genuinely slow to drain — well-conditioned clay itself is a good rose soil.
+
+**Planting depth:** Bud union (the swollen point where the variety is grafted onto the rootstock) at or just below soil level; bare-root plants show a "tide mark" from the nursery as a depth guide.
+
+**Spacing:** 75cm–1m between shrub roses, depending on eventual size; allow more for vigorous old-fashioned types.
+
+**Fertiliser:** Balanced or specialist rose fertiliser in spring as growth begins, and again after the first flush of flowers. Roses are heavy feeders — an annual mulch of well-rotted manure or compost keeps them in good health.
+
+**Companions:** Alliums, catmint (nepeta), hardy geraniums and lavender as underplanting; clematis trained through an open shrub rose for a longer season of interest.
+
+**West of Ireland:** Tough, hardy, old-fashioned and modern shrub roses flower generously from summer to the first frosts and need little pampering once established, tolerating the region's clay far better than many showier border plants. Choose disease-resistant modern shrub varieties for a lower-maintenance display, or the species roses (like *Rosa rugosa*) for the most exposed, poorest sites. Prune in late winter, removing dead, damaged or crossing stems and shortening the rest by around a third.
+
+---
+
+### A18. St John's Wort 'Rowallane' (*Hypericum* 'Rowallane')
 
 📷 **Reference photo:** [Hypericum 'Rowallane' — view source](https://en.wikipedia.org/wiki/Hypericum)
 
@@ -398,7 +435,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most well-drained soils including clay; pH 5.5–7.5. Prefers shelter from hard frost and cold winds — borderline hardy (RHS H4), so a sheltered spot is important in the west of Ireland.
 
-**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with compost and 20% grit.
+**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with multipurpose compost and 20% horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery soil mark.
 
@@ -412,7 +449,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A18. Star Magnolia (*Magnolia stellata*)
+### A19. Star Magnolia (*Magnolia stellata*)
 
 📷 **Reference photo:** [Star Magnolia — view on Wikipedia](https://en.wikipedia.org/wiki/Magnolia_stellata)
 
@@ -420,7 +457,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, pH 5.0–6.5. Tolerates alkaline better than most magnolias (RHS). Shallow, fleshy roots — handle gently.
 
-**Soil prep:** Wide, shallow hole. Mix clay with compost and 20% grit. Generous bark or leaf mould mulch each spring.
+**Soil prep:** Wide, shallow hole. Mix clay with multipurpose compost and 20% horticultural grit. Generous bark or leaf mould mulch each spring. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level. Do not plant deeper. Fleshy roots are fragile — do not damage.
 
@@ -432,9 +469,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### A20. Tarentum Myrtle (*Myrtus communis* subsp. *tarentina*)
+
+📷 **Reference photo:** [Tarentum Myrtle — view on Wikipedia](https://en.wikipedia.org/wiki/Myrtus_communis)
+
+**Light:** ☀️ Full sun to 🌤️ light, dappled shade, in a sheltered spot.
+
+**Soil needs:** Well-drained, moderately fertile soil; unfussy about pH, tolerating acid to alkaline conditions, pH 6.0–7.5.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost, adding horticultural grit if the site is slow-draining — good drainage matters more here than soil type, since sand, clay, chalk or loam are all reported to suit it once drainage is adequate.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 1–1.5m between plants; a naturally compact, dense form reaching only 1–1.5m in height and spread over 10–20 years, smaller than the straight species.
+
+**Fertiliser:** Mulch around the base each spring with well-rotted manure or soil improver to support flowering. Otherwise little further feeding required.
+
+**Companions:** Lavender, rosemary and other Mediterranean sun-lovers with the same drainage and shelter needs; effective as low, informal hedging or a courtyard specimen.
+
+**West of Ireland:** A compact, hardier-than-the-species subspecies of common myrtle, particularly wind-resistant and well suited to smaller gardens or containers. Aromatic, glossy evergreen foliage and pink buds opening to white flowers in summer, followed by white berries. Requires a warm, sheltered position out of cold winter winds — a south- or west-facing wall or courtyard is ideal in the west of Ireland, and it can suffer damage in a severe winter if left fully exposed; grow in a large container that can be given extra shelter if in doubt.
+
+---
+
 ## GROUP B: FRUIT TREES & SHRUBS
 
-### B1. Apple Tree 'Baya Marisa' on P22 Rootstock (*Malus domestica*)
+### B1. Apple Tree 'Baya Marisa' (P22 Rootstock) (*Malus domestica*)
 
 📷 **Reference photo:** [Apple Tree 'Baya Marisa' on P22 Rootstock — view on Wikipedia](https://en.wikipedia.org/wiki/Malus_domestica)
 
@@ -444,7 +503,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, moderately fertile, pH 6.0–7.0. Good root rot resistance on wet clay.
 
-**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with multipurpose compost over a broad area. Keep a 60cm weed-free circle around the base permanently.
+**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with multipurpose compost over a broad area. Keep a 60cm weed-free circle around the base permanently. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Graft union (bulge near stem base) at or just above soil level. Plant to the nursery soil mark.
 
@@ -466,7 +525,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most moist, well-drained soils including clay; pH 5.5–7.0. One of the most clay-tolerant fruiting plants.
 
-**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with compost.
+**Soil prep:** Dig hole twice the rootball width. Mix excavated clay 50/50 with multipurpose compost. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery soil mark.
 
@@ -486,7 +545,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Light:** 🌤️ Full sun to partial shade — tolerates shade better than other currants.
 
-**Soil prep:** Double dig; compost generously; 15–20% grit on heavy clay.
+**Soil prep:** Double dig; multipurpose compost generously; 15–20% horticultural grit on heavy clay. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 5–7cm deeper than nursery mark. Cut all stems to 10cm after planting.
 
@@ -504,7 +563,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Light:** 🌤️ Full sun to partial shade. More berries in full sun.
 
-**Soil needs:** Ericaceous, pH 4.0–5.5. Use ericaceous compost only. Rainwater preferred for watering.
+**Soil needs:** Ericaceous, pH 4.0–5.5. Use ericaceous compost only. Rainwater preferred for watering. Grown in a pot, blend ericaceous compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Pot size:** Start in 40cm diameter pot; scale up every 2–3 years. Final container: minimum 50 litres (~60cm diameter, 45–60cm deep). One blueberry per pot. Heather and lingonberry compatible at edges of a wide trough (same pH).
 
@@ -548,7 +607,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, moderately fertile soil, pH 6.0–7.0. Dislikes waterlogged clay — good drainage is essential.
 
-**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with compost and 20–30% grit over a broad area. Keep a weed-free circle around the base.
+**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with multipurpose compost and 20–30% horticultural grit over a broad area. Keep a weed-free circle around the base. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Graft union (bulge near stem base) at or just above soil level. Plant to the nursery soil mark.
 
@@ -568,7 +627,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Light:** 🌤️ Full sun to partial shade. Tolerates semi-shade better than most fruit.
 
-**Soil prep:** Compost and grit amendment. Bonemeal at planting.
+**Soil prep:** Compost and horticultural grit amendment. Bonemeal at planting. Improve the clay with an equal volume of multipurpose compost, working in horticultural grit if drainage is sluggish. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery mark; roots covered ~5cm. Cut all stems to 30cm after planting.
 
@@ -580,7 +639,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B8. Honeyberry (*Lonicera caerulea* var. *kamtschatica*)
+### B8. Green Strawberry (*Fragaria viridis*)
+
+📷 **Reference photo:** [Green Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Fragaria_viridis)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade; fruits less freely in shade.
+
+**Soil needs:** Fertile, moisture-retentive, well-drained loamy soil; pH 5.5–7.5, close to neutral is ideal.
+
+**Soil prep:** Mix the clay 50/50 with multipurpose compost, working in extra organic matter to boost humus content. Add horticultural grit if the site is slow-draining, since this species dislikes waterlogging more than common garden strawberry.
+
+**Planting depth:** Crown at soil level — do not bury the crown.
+
+**Spacing:** 25–30cm between plants; spreads by short runners to form a low carpet.
+
+**Fertiliser:** Balanced feed in spring; annual compost mulch, kept clear of the crown.
+
+**Companions:** Woodland Strawberry, ferns, low herbs — a natural companion at the front of a fruit bed or sunny woodland edge.
+
+**West of Ireland:** Also called wild, meadow or hillside strawberry, distinct from both garden strawberry (*Fragaria × ananassa*) and woodland strawberry (*Fragaria vesca*) already in this guide — smaller, sweeter, musky-flavoured fruit with a distinctive "cracking" sound as the fruit detaches from its cap. Some plants are functionally male or female (dioecious), so growing a small group rather than a single plant improves fruiting.
+
+---
+
+### B9. Honeyberry (Kamchatka) (*Lonicera caerulea* var. *kamtschatica*)
 
 📷 **Reference photo:** [Honeyberry — Kamchatka — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_caerulea)
 
@@ -588,7 +669,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Very flexible, pH 4.5–7.5, tolerates clay. Plant two different varieties for cross-pollination.
 
-**Soil prep:** Standard clay improvement with compost and grit.
+**Soil prep:** Standard clay improvement with multipurpose compost and horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level or slightly deeper.
 
@@ -600,13 +681,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B9. Lingonberry (*Vaccinium vitis-idaea*)
+### B10. Lingonberry (*Vaccinium vitis-idaea*)
 
 📷 **Reference photo:** [Lingonberry — view on Wikipedia](https://en.wikipedia.org/wiki/Lingonberry)
 
 **Light:** 🌥️ Partial shade preferred — woodland edge as recommended by the RHS. Tolerates full sun if soil stays consistently moist.
 
-**Soil needs:** Acidic, moist but well-drained, pH 4.2–5.5. Same requirements as blueberry. Will not tolerate neutral or alkaline soil.
+**Soil needs:** Acidic, moist but well-drained, pH 4.2–5.5. Same requirements as blueberry. Will not tolerate neutral or alkaline soil. Work in a generous proportion of ericaceous compost (around half by volume) to keep the mix acidic; horticultural grit helps on heavier ground. In a container, use ericaceous compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Pot size:** 30cm diameter, 20cm+ deep container; 100% ericaceous compost. Or a dedicated acidic bed.
 
@@ -622,7 +703,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B10. Pomegranate (*Punica granatum*)
+### B11. Morello Cherry (*Prunus cerasus* 'Morello')
+
+📷 **Reference photo:** [Morello Cherry — view on Wikipedia](https://en.wikipedia.org/wiki/Morello_cherry)
+
+**Light:** 🌤️ Full sun to partial shade — unusually for a fruit tree, Morello crops well even on a north-facing wall or shaded spot, making it one of the most useful fruit trees for a less sunny corner of an Irish garden.
+
+**Soil needs:** Deep, fertile, moist but well-drained soil, slightly acidic to neutral; pH 6.0–7.0.
+
+**Soil prep:** Mix the excavated clay 50/50 with multipurpose compost over a broad area, adding horticultural grit if the site is slow-draining. In a large container (45–50cm wide and deep, terracotta or half-barrel), use a good-quality loam-based (John Innes-type) compost rather than a light multipurpose mix, since acid cherries are naturally less vigorous and better suited to pot culture on a semi-dwarfing rootstock such as 'Gisela 5'.
+
+**Planting depth:** At the nursery soil mark ("tide mark" on the stem).
+
+**Spacing:** Free-standing tree: 3.5–4m eventually (can be pruned back to around 2m); fan-trained against a wall: allow the full wall width, 45cm from the wall itself.
+
+**Fertiliser:** Balanced fruit tree fertiliser in spring. Mulch generously with well-rotted multipurpose compost or manure each autumn.
+
+**Companions:** Chives and garlic to deter aphids; underplant with spring bulbs for early nectar before the blossom opens.
+
+**West of Ireland:** Self-fertile, so a single tree crops reliably without a pollination partner — genuinely useful given how often Irish gardens are short on sun. Prune in late summer, straight after fruiting, to reduce the risk of silver leaf disease common to Prunus species; avoid winter pruning. Fruit ripens July–August, dark red and distinctly tart — excellent for jams, pies and cherry liqueurs rather than eating fresh. Stake well against Atlantic winds while young.
+
+---
+
+### B12. Pomegranate (*Punica granatum*)
 
 📷 **Reference photo:** [Pomegranate — view source](https://en.wikipedia.org/wiki/Pomegranate)
 
@@ -630,7 +733,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 5.5–7.0. Dislikes waterlogged clay.
 
-**Soil prep:** Dig hole twice the rootball width against the wall base. Mix excavated clay 50/50 with compost and 20–30% grit.
+**Soil prep:** Dig hole twice the rootball width against the wall base. Mix excavated clay 50/50 with multipurpose compost and 20–30% horticultural grit. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At nursery soil mark.
 
@@ -644,13 +747,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B11. Raspberry (*Rubus idaeus*)
+### B13. Raspberry (*Rubus idaeus*)
 
 📷 **Reference photo:** [Raspberry — view on Wikipedia](https://en.wikipedia.org/wiki/Raspberry)
 
 **Light:** 🌤️ Full sun to partial shade. Better fruiting in full sun.
 
-**Soil prep:** Compost and grit essential on clay. Raised bed recommended.
+**Soil prep:** Compost and horticultural grit essential on clay. Raised bed recommended. Mix the excavated clay 50/50 with multipurpose compost, adding a little horticultural grit if the spot is slow to drain.
 
 **Planting depth:** Crown 5–7cm below soil. Cut canes to 25cm after planting.
 
@@ -662,13 +765,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B12. Redcurrant (*Ribes rubrum*)
+### B14. Redcurrant (*Ribes rubrum*)
 
 📷 **Reference photo:** [Redcurrant — view on Wikipedia](https://en.wikipedia.org/wiki/Redcurrant)
 
 **Light:** 🌥️ Full sun to partial shade. One of the most shade-tolerant fruiting plants — good for north-facing fences trained as a fan.
 
-**Soil prep:** Compost and grit amendment. Good drainage.
+**Soil prep:** Compost and horticultural grit amendment. Good drainage. Improve the clay with an equal volume of multipurpose compost, working in horticultural grit if drainage is sluggish. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At nursery mark; roots covered ~5cm.
 
@@ -680,7 +783,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B13. Rhubarb (*Rheum × hybridum*)
+### B15. Rhubarb (*Rheum × hybridum*)
 
 📷 **Reference photo:** [Rhubarb — view on Wikipedia](https://en.wikipedia.org/wiki/Rhubarb)
 
@@ -688,7 +791,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Fertile, moisture-retentive but well-drained. RHS advises raised beds on heavy clay.
 
-**Soil prep:** Remove weeds, dig in two bucketfuls of compost per sq metre. Raised bed (30cm+) on wet clay.
+**Soil prep:** Remove weeds, dig in two bucketfuls of multipurpose compost per sq metre. Raised bed (30cm+) on wet clay. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Buds 1–2cm below soil level.
 
@@ -700,7 +803,33 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B14. Serviceberry (*Amelanchier lamarckii*)
+### B16. Sea Buckthorn (*Hippophae rhamnoides*)
+
+**Irish name:** Draighean mara
+
+📷 **Reference photo:** [Sea Buckthorn — view on Wikipedia](https://en.wikipedia.org/wiki/Hippophae_rhamnoides)
+
+**Light:** ☀️ Full sun essential — it will not fruit, and struggles to grow at all, in shade.
+
+**Soil needs:** Very adaptable — light sandy, loamy or heavy clay soils, even nutritionally poor ground; pH 5.5–8.0. Dislikes permanently waterlogged roots but otherwise tolerates drought, salt spray and poor soil better than almost anything else in this guide.
+
+**Soil prep:** Dig a wide hole and mix the excavated clay with multipurpose compost only if the soil is extremely poor — sea buckthorn generally prefers not to be pampered, and rich, heavily improved ground can encourage soft, less hardy growth. Add horticultural grit only if the site is genuinely waterlogged in winter.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 1.5–2m between plants to allow root development; naturally reaches 4–6m tall and 2.5m wide, though regular pruning keeps garden forms more compact (around 3m).
+
+**Fertiliser:** Rarely needed — as a nitrogen-fixing plant, sea buckthorn improves its own soil fertility. Avoid feeding altogether once established.
+
+**Companions:** Underplant is not usually needed given its dense, thorny, suckering habit; useful as a windbreak or informal hedge alongside other exceptionally tough coastal shrubs.
+
+**West of Ireland:** Outstandingly wind- and salt-tolerant, making it one of the best choices for an exposed Atlantic-facing boundary or coastal shelterbelt. Dioecious — you need at least one male plant for every 3–6 female plants for the females to set their vitamin C-rich orange berries (ripening late summer into autumn). Note that it suckers vigorously and can form thickets; in a smaller garden, remove suckers regularly to keep it in bounds, or install a root barrier. Very thorny — site away from paths.
+
+⚠️ Note: sea buckthorn has become locally invasive on sand dunes in parts of Britain, out-competing native dune flora — plant it in a garden setting rather than near coastal dune or machair habitat, and control suckers responsibly.
+
+---
+
+### B17. Serviceberry (*Amelanchier lamarckii*)
 
 📷 **Reference photo:** [Serviceberry — view source](https://en.wikipedia.org/wiki/Amelanchier_lamarckii)
 
@@ -708,7 +837,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most moist, well-drained soils including clay; tolerates acid to neutral, pH 5.5–7.0. Dislikes waterlogging.
 
-**Soil prep:** Dig hole twice the rootball width and as deep as the rootball. Mix excavated clay 50/50 with compost and 20% grit for drainage.
+**Soil prep:** Dig hole twice the rootball width and as deep as the rootball. Mix excavated clay 50/50 with multipurpose compost and 20% horticultural grit for drainage. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At nursery soil mark.
 
@@ -722,7 +851,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B15. Strawberry (*Fragaria × ananassa*)
+### B18. Strawberry (*Fragaria × ananassa*)
 
 📷 **Reference photo:** [Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Strawberry)
 
@@ -730,7 +859,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** pH 5.5–6.8, well-drained. Raised bed on clay strongly recommended.
 
-**Soil prep:** Compost and grit. Raised bed 20–25cm high.
+**Soil prep:** Compost and horticultural grit. Raised bed 20–25cm high. Improve the clay with an equal volume of multipurpose compost, working in horticultural grit if drainage is sluggish. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown exactly at soil level — too deep = crown rot; too shallow = roots dry out.
 
@@ -742,7 +871,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B16. Sweet Cherry 'Sylvia' (*Prunus avium* 'Sylvia')
+### B19. Sweet Cherry 'Sylvia' (*Prunus avium* 'Sylvia')
 
 📷 **Reference photo:** [Sweet Cherry 'Sylvia' — view source](https://www.gardens4you.ie/cherry-tree-sylvia-prunus-avium-a07192.html)
 
@@ -752,7 +881,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil.
 
-**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with compost and 20–30% grit for drainage.
+**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with multipurpose compost and 20–30% horticultural grit for drainage. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Approximately 12cm, or to the nursery soil mark/graft union at or just above soil level.
 
@@ -768,7 +897,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B17. Woodland Strawberry (*Fragaria vesca*)
+### B20. Woodland Strawberry (*Fragaria vesca*)
+
+**Irish name:** Sú talún fiáin
 
 📷 **Reference photo:** [Woodland Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Fragaria_vesca)
 
@@ -776,7 +907,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Fertile, moist but well-drained soil; pH 5.5–7.0. Tolerates clay and a wide pH range better than most fruit.
 
-**Soil prep:** Mix clay 50/50 with compost. Mulch with leaf mould to mimic its natural woodland-edge habitat.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. Mulch with leaf mould to mimic its natural woodland-edge habitat. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level — do not bury the crown.
 
@@ -792,7 +923,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP C: GROUNDCOVER & CREEPING PLANTS
 
-### C1. Creeping Juniper (*Juniperus horizontalis*)
+### C1. Carpathian Bellflower (*Campanula carpatica*)
+
+📷 **Reference photo:** [Carpathian Bellflower — view on Wikipedia](https://en.wikipedia.org/wiki/Campanula_carpatica)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade, especially in the heat of late summer.
+
+**Soil needs:** Well-drained, moist, fertile soil, neutral to alkaline; pH 6.0–7.0.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost and horticultural grit — this plant dislikes both waterlogging and drying out, so reliable drainage combined with moisture retention is the goal.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 25–35cm between plants; low, mounding, non-invasive habit.
+
+**Fertiliser:** Balanced feed in spring and again in midsummer.
+
+**Companions:** Sempervivum, saxifrage, dianthus pinks — front-of-border and rockery companions.
+
+**West of Ireland:** Distinct from the other campanulas already in this guide (Clustered, Spreading and Trailing Rock Bellflower) — a neat, low, non-spreading mound ideal for rock gardens, border edging or troughs, with upward-facing blue, purple or white bells from early to late summer if deadheaded.
+
+---
+
+### C2. Creeping Juniper (*Juniperus horizontalis*)
 
 📷 **Reference photo:** [Creeping Juniper — view on Wikipedia](https://en.wikipedia.org/wiki/Juniperus_horizontalis)
 
@@ -800,7 +953,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** pH 4.5–8.5. Tolerates clay, rocky and poor soils. Requires excellent drainage — will rot in constantly wet clay.
 
-**Soil prep:** Mix clay with 30–40% horticultural grit. Plant on a slight mound or raised bed. Raised bed on very wet clay.
+**Soil prep:** Mix clay with 30–40% horticultural grit. Plant on a slight mound or raised bed. Raised bed on very wet clay. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level or slightly raised above it.
 
@@ -814,7 +967,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C2. Creeping Phlox / Moss Phlox (*Phlox subulata*)
+### C3. Creeping Phlox (Moss Phlox) (*Phlox subulata*)
 
 📷 **Reference photo:** [Phlox subulata — view on Wikipedia](https://en.wikipedia.org/wiki/Phlox_subulata)
 
@@ -822,7 +975,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** This plant prefers well-drained soil. While it can tolerate a range of soil types, from sandy to clay, it doesn't like to sit in water. Consider amending your soil with compost or other organic matter to improve drainage, especially if your soil is heavy clay. pH 5.5–7.7.
 
-**Soil prep:** Mix clay 50/50 with compost and 20–25% grit. On heavy clay, a raised bed or slope is ideal.
+**Soil prep:** Mix clay 50/50 with multipurpose compost and 20–25% horticultural grit. On heavy clay, a raised bed or slope is ideal. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level. Plant Phlox subulata root balls so that the root system is fully submerged in the compost, leaving any young shoots/leaves, buds or stems exposed above the soil surface. Space 30–45cm apart.
 
@@ -838,7 +991,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C3. Heather (*Calluna vulgaris*)
+### C4. Heather (Scots Heather) (*Calluna vulgaris*)
+
+**Irish name:** Fraoch mór
 
 📷 **Reference photo:** [Heather — view on Wikipedia](https://en.wikipedia.org/wiki/Calluna_vulgaris)
 
@@ -846,7 +1001,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Calluna need neutral to acidic growing conditions — pH of 6.5 or less, ideally 5.5. They prefer light sandy soil, enriched with organic matter such as leafmould, well-composted pine needles or composted pine bark. If clay soil is heavy or alkaline, growing in containers with ericaceous compost is strongly recommended.
 
-**Soil prep:** For in-ground planting on acidic soil: add leafmould, composted bark, and 20–25% grit to the clay. For neutral to alkaline clay: grow in containers only. Do not add lime near heather.
+**Soil prep:** For in-ground planting on acidic soil: add leafmould, composted bark, and 20–25% horticultural grit to the clay. For neutral to alkaline clay: grow in containers only. Do not add lime near heather. Work in a generous proportion of ericaceous compost (around half by volume) to keep the mix acidic; horticultural grit helps on heavier ground.
 
 **Planting depth:** At pot level. Space 30–45cm apart.
 
@@ -862,7 +1017,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C4. Houseleek (*Sempervivum* spp.)
+### C5. Houseleek (*Sempervivum* spp.)
 
 📷 **Reference photo:** [Sempervivum — view source](https://en.wikipedia.org/wiki/Sempervivum)
 
@@ -870,7 +1025,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Very free-draining, poor to moderately fertile soil; pH 6.0–7.5. Rots quickly in wet clay, especially winter.
 
-**Soil prep:** Improve clay heavily with 40%+ grit, or grow entirely in a shallow pot/trough of gritty, free-draining compost.
+**Soil prep:** Improve clay heavily with 40%+ horticultural grit, or grow entirely in a shallow pot/trough of gritty, free-draining multipurpose compost. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; do not bury the rosette.
 
@@ -884,7 +1039,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C5. Periwinkle (*Vinca minor* and *V. major*)
+### C6. Mother of Thyme (Creeping Thyme) (*Thymus serpyllum*)
+
+📷 **Reference photo:** [Mother of Thyme / Creeping Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_serpyllum)
+
+**Light:** ☀️ Full sun — essential. Requires maximum sunshine and warmth.
+
+**Soil needs:** Well-drained to dry, poor soil, pH 6.0–8.0. Dislikes wet clay. Raised bed or pot essential.
+
+**Soil prep:** 40–50% horticultural grit with multipurpose compost. Small small pebbles as surface mulch. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 20–30cm between plants
+
+**Fertiliser:** Very low nutrient requirements — evolved on lean soil. A very light dressing of balanced fertiliser in spring is the maximum needed. Do not feed in summer or autumn. Grit mulch more beneficial than fertiliser.
+
+**Companions:** Rosemary, oregano, lavender, creeping juniper. Grows beautifully between paving stones or on dry walls. Alongside pasqueflower in a raised sunny bed.
+
+---
+
+### C7. Periwinkle (*Vinca minor* and *V. major*)
+
+**Irish name:** Fincín mór
 
 📷 **Reference photo:** [Periwinkle — view on Wikipedia](https://en.wikipedia.org/wiki/Vinca_minor)
 
@@ -892,7 +1069,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Grow in any but very dry soil. Tolerates heavy clay, pH 5.5–8.0. One of the most clay-tolerant ground cover plants. Remarkably adaptable.
 
-**Soil prep:** Basic compost addition to planting hole. Even unamended clay is usually tolerated.
+**Soil prep:** Basic multipurpose compost addition to planting hole. Even unamended clay is usually tolerated. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level. Space 30–45cm apart for ground cover.
 
@@ -910,7 +1087,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C6. Prickly Heath (*Gaultheria mucronata*)
+### C8. Prickly Heath (*Gaultheria mucronata*)
+
+**Irish name:** Fraoch deilgneach
 
 📷 **Reference photo:** [Prickly Heath — view source](https://en.wikipedia.org/wiki/Gaultheria_mucronata)
 
@@ -918,7 +1097,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, acid soil; pH 4.5–6.0. Dislikes lime.
 
-**Soil prep:** Mix clay with 30–40% ericaceous compost and grit.
+**Soil prep:** Mix clay with 30–40% ericaceous compost and horticultural grit. Grown in a pot, blend ericaceous compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery soil mark.
 
@@ -932,7 +1111,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C7. Reindeer Lichen (*Cladonia rangiferina*)
+### C9. Reindeer Lichen (*Cladonia rangiferina*)
 
 📷 **Reference photo:** [Reindeer Lichen — view source](https://en.wikipedia.org/wiki/Cladonia_rangiferina)
 
@@ -940,7 +1119,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Very poor, free-draining, acid soil or bare mineral ground/rock; pH 4.0–5.5. Will not survive in rich garden soil or where it is shaded out by faster-growing plants.
 
-**Soil prep:** None — this is a slow-growing lichen, not a rooted vascular plant. Best established on an existing patch of poor, undisturbed acid ground, sand, or a rockery, not planted into amended clay.
+**Soil prep:** None — this is a slow-growing lichen, not a rooted vascular plant. Best established on an existing patch of poor, undisturbed acid ground, sand, or a rockery, not planted into amended clay. Mix the clay with 40–50% ericaceous compost to hold the acidity this plant needs, adding horticultural grit if drainage is poor. In a container, use ericaceous compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Laid on the surface, not buried.
 
@@ -954,29 +1133,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C8. Saxifrage (*Saxifraga* spp., alpine/rockery types)
+### C10. Saxifrage (*Saxifraga* spp., including Mossy Saxifrage *S.* × *arendsii*)
+
+**Irish name:** Mórán
 
 📷 **Reference photo:** [Saxifrage — view source](https://en.wikipedia.org/wiki/Saxifraga)
 
-**Light:** ☀️ Full sun to 🌥️ partial shade, depending on species.
+**Light:** ☀️ Full sun to 🌥️ partial shade, depending on species; the mossy hybrid group (*S.* × *arendsii*) prefers light/partial shade, with some varieties tolerating more sun if kept consistently moist.
 
-**Soil needs:** Free-draining, gritty soil; pH 6.0–7.5. Most alpine saxifrages rot in wet, heavy clay.
+**Soil needs:** Free-draining, gritty soil for most alpine/rockery types; pH 6.0–7.5. The mossy hybrid group prefers a slightly more acid, humus-rich, moisture-retentive mix, pH 5.5–6.5, but still with excellent drainage — it rots quickly in heavy, airless ground.
 
-**Soil prep:** Improve clay heavily with 30–40% grit; best in a rockery, trough, or raised bed.
+**Soil prep:** Improve clay heavily with 30–40% horticultural grit; best in a rockery, trough, or raised bed. For the mossy hybrid group, work in 30% multipurpose compost alongside the grit for extra humus. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
-**Planting depth:** At pot level.
+**Planting depth:** At pot level; water mossy types from below rather than over the foliage, since water trapped in the rosettes encourages rot.
 
-**Spacing:** 15–20cm between plants
+**Spacing:** 15–25cm between plants, depending on type; the mossy hybrid group forms a dense, moss-like mat.
 
 **Fertiliser:** Very little required. Light balanced feed in spring for container-grown plants.
 
 **Companions:** Sempervivum, campanula saxifraga, wall pennywort, dwarf bulbs (species crocus, dwarf iris).
 
-**West of Ireland:** A large genus with many hardy mat- and cushion-forming evergreen species suited to rockeries, troughs and wall crevices; excellent drainage is the single most important factor for success on west of Ireland clay.
+**West of Ireland:** A large genus with many hardy mat- and cushion-forming evergreen species suited to rockeries, troughs and wall crevices; excellent drainage is the single most important factor for success on west of Ireland clay. The mossy hybrid group (*S.* × *arendsii*), widely sold for rockeries, has small white, pink or red flowers held just above the foliage in late spring — distinct from both the general alpine saxifrages above and from St Patrick's Cabbage (*Saxifraga spathularis*) elsewhere in this guide.
 
 ---
 
-### C9. Trailing Rock Bellflower (*Campanula saxifraga*)
+### C11. Trailing Rock Bellflower (*Campanula saxifraga*)
 
 📷 **Reference photo:** [Campanula saxifraga — view source](https://en.wikipedia.org/wiki/Campanula)
 
@@ -984,7 +1165,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, gritty soil; pH 6.5–7.5. Rots in wet, heavy clay over winter.
 
-**Soil prep:** Improve clay heavily with 30–40% grit; best in a raised trough, rockery or wall crevice rather than open ground.
+**Soil prep:** Improve clay heavily with 30–40% horticultural grit; best in a raised trough, rockery or wall crevice rather than open ground. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level.
 
@@ -998,7 +1179,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C10. Wall Pennywort (*Umbilicus rupestris*)
+### C12. Wall Pennywort (*Umbilicus rupestris*)
 
 📷 **Reference photo:** [Wall Pennywort — view source](https://en.wikipedia.org/wiki/Umbilicus_rupestris)
 
@@ -1006,7 +1187,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, near-neutral, gritty soil, often rooting in very little soil at all; pH 6.0–7.5.
 
-**Soil prep:** Minimal — this native succulent naturally colonises old stone walls, rock crevices and dry-stone boundaries. In a border, improve clay with grit; it is otherwise best established directly into a wall crevice or dry-stone gap with a little compost.
+**Soil prep:** Minimal — this native succulent naturally colonises old stone walls, rock crevices and dry-stone boundaries. In a border, improve clay with horticultural grit; it is otherwise best established directly into a wall crevice or dry-stone gap with a little multipurpose compost. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level, or tucked into a wall crevice.
 
@@ -1020,6 +1201,28 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### C13. Wild Thyme (*Thymus polytrichus*)
+
+📷 **Reference photo:** [Wild Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_polytrichus)
+
+**Light:** ☀️ Full sun essential.
+
+**Soil needs:** Free-draining, alkaline to neutral soil, tolerant of poor/shallow ground; pH 6.5–7.5. Genuinely native to Ireland on dry grassland, heaths, dunes and stone walls; in the cooler, wetter north and west it also tolerates some acidic soils better than in drier parts of Britain.
+
+**Soil prep:** Improve clay generously with 30–40% horticultural grit; this is one of the least clay-tolerant plants in the guide and needs sharp drainage above all else — a raised bed, gravel garden or wall-top setting suits it far better than flat ground.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 20–30cm between plants; spreads by runners to form a dense, low mat.
+
+**Fertiliser:** None required — this is a genuine stress-tolerator adapted to poor, lean soil; feeding produces weak, less aromatic growth.
+
+**Companions:** Sempervivum, saxifrage, wall pennywort — classic dry rockery/gravel garden companions.
+
+**West of Ireland:** A true native Irish wildflower, common on dry grassland, coastal heath and old stone walls, and the larval food plant of the large blue butterfly in Britain. Distinct from Mother of Thyme (*Thymus serpyllum*) already in this guide's herb section — wild thyme is less commonly used in cooking and better suited to a dry wildflower bank, rockery or scented lawn than a kitchen bed.
+
+---
+
 ## GROUP D: CLIMBERS & WALL PLANTS
 
 ### D1. Blue Passion Flower (*Passiflora caerulea*)
@@ -1030,7 +1233,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most well-drained soils including clay; pH 6.0–7.5. Good drainage is essential — this is the hardiest passion flower but still dislikes waterlogged roots in winter.
 
-**Soil prep:** Dig hole twice the rootball width against the wall base. Mix excavated clay 50/50 with compost and 20–30% grit.
+**Soil prep:** Dig hole twice the rootball width against the wall base. Mix excavated clay 50/50 with multipurpose compost and 20–30% horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At nursery soil mark, 30–45cm from the wall, angled towards support.
 
@@ -1052,7 +1255,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, fertile, neutral to slightly alkaline, pH 6.5–7.5.
 
-**Soil prep:** Mix clay 50/50 with compost plus 20% grit. Shade the root zone.
+**Soil prep:** Mix clay 50/50 with multipurpose compost plus 20% horticultural grit. Shade the root zone. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Groups 2 & 3 large-flowered: 10–15cm DEEPER than pot; C. montana (Group 1): 8–10cm; Evergreen types: at pot level only.
 
@@ -1066,13 +1269,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D3. Climbing Honeysuckle (*Lonicera periclymenum*)
 
+**Irish name:** Féithleann
+
 📷 **Reference photo:** [Climbing Honeysuckle — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_periclymenum)
 
 **Light:** 🌤️ Full sun to partial shade. Woodland-edge habit: roots shaded, stems growing into light.
 
 **Soil needs:** Most soils; prefers moist, humus-rich.
 
-**Soil prep:** Hole the same size as rootball. Mix in compost. Firm in and mulch.
+**Soil prep:** Hole the same size as rootball. Mix in multipurpose compost. Firm in and mulch. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level.
 
@@ -1092,7 +1297,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Fertile, moist but well-drained soil, pH 6.0–7.0. Tolerates clay, loamy and sandy soils. Dislikes waterlogged or excessively dry conditions.
 
-**Soil prep:** Dig hole twice as wide and the same depth as the rootball. Mix in compost. If against a wall or fence, allow a 45cm gap between plant and wall (rain shadow). Mulch well. Space 60cm+ between plants.
+**Soil prep:** Dig hole twice as wide and the same depth as the rootball. Mix in multipurpose compost. If against a wall or fence, allow a 45cm gap between plant and wall (rain shadow). Mulch well. Space 60cm+ between plants. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level. Can tolerate slightly deeper planting as it forms shoot-like roots on buried stem.
 
@@ -1108,13 +1313,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D5. Climbing Roses (*Rosa*, climbing cultivars)
 
+**Russian name:** Плетистая роза
+
 📷 **Reference photo:** [Climbing Roses — view on Wikipedia](https://en.wikipedia.org/wiki/Climbing_rose)
 
 **Light:** ☀️ Full sun preferred — at least 6 hours.
 
 **Soil needs:** Fertile, well-drained, pH 6.0–7.0. Never plant where a rose previously grew.
 
-**Soil prep:** Double-dig (50–60cm deep). Mix clay 50/50 with compost and 20% grit. Position at least 45cm from wall.
+**Soil prep:** Double-dig (50–60cm deep). Mix clay 50/50 with multipurpose compost and 20% horticultural grit. Position at least 45cm from wall. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Graft union just below soil level.
 
@@ -1134,7 +1341,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, pH 6.0–6.5.
 
-**Soil prep:** Clay/compost/grit plus coarse gravel at base. At least 20cm from wall.
+**Soil prep:** Clay/multipurpose compost/horticultural grit plus coarse gravel at base. At least 20cm from wall. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot depth; graft above soil.
 
@@ -1154,7 +1361,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Rich, moist, well-drained, pH 6.0–8.0. Tolerates clay well.
 
-**Soil prep:** Dig and enrich generously with compost. Heavy feeders.
+**Soil prep:** Dig and enrich generously with multipurpose compost. Heavy feeders. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Rhizome 5–8cm deep; pot-grown plants at pot level.
 
@@ -1168,13 +1375,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D8. Ivy (*Hedera helix* / *H. hibernica* — native Irish ivy)
 
+**Irish name:** Eidhneán
+
 📷 **Reference photo:** [Ivy — view on Wikipedia](https://en.wikipedia.org/wiki/Hedera_helix)
 
 **Light:** 🌑 Full shade to ☀️ full sun. One of the most light-tolerant plants. In deep shade variegated forms lose markings; green forms thrive.
 
 **Soil needs:** Almost any soil including heavy clay, pH 5.0–8.0.
 
-**Soil prep:** Minimal — basic compost addition to planting hole.
+**Soil prep:** Minimal — basic multipurpose compost addition to planting hole. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level.
 
@@ -1188,13 +1397,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D9. Tufted Vetch (*Vicia cracca*)
 
+**Irish name:** Peasair na luch
+
 📷 **Reference photo:** [Vicia — view source](https://en.wikipedia.org/wiki/Vicia_cracca)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
 
 **Soil needs:** Most soils including clay; pH 6.0–7.5. Tolerant and unfussy, as a nitrogen-fixing legume.
 
-**Soil prep:** Minimal — very adaptable. Improve heaviest clay with compost if desired.
+**Soil prep:** Minimal — very adaptable. Improve heaviest clay with multipurpose compost if desired. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level, or sow seed directly 1–2cm deep in spring.
 
@@ -1216,7 +1427,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Wide range including clay, pH 5.5–7.5.
 
-**Soil prep:** Dig twice the rootball, backfill with clay/compost mix.
+**Soil prep:** Dig twice the rootball, backfill with clay/multipurpose compost mix. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level.
 
@@ -1236,7 +1447,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, fertile, pH 6.0–7.0.
 
-**Soil prep:** 60cm wide, 40cm deep, at least 45cm from wall base. Clay/compost/grit blend over a wide area.
+**Soil prep:** 60cm wide, 40cm deep, at least 45cm from wall base. Clay/multipurpose compost/horticultural grit blend over a wide area. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; graft union above soil. Buy grafted plants — seed-grown can take 15–20 years to flower.
 
@@ -1250,13 +1461,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP E: BULBS
 
-### E1. Acidanthera (*Gladiolus murielae*)
+### E1. Acidanthera (Abyssinian Gladiolus) (*Gladiolus murielae*)
 
 📷 **Reference photo:** [Acidanthera — view on Wikipedia](https://en.wikipedia.org/wiki/Gladiolus_murielae)
 
 **Light:** ☀️ Full sun — essential. Plant in the warmest, sunniest spot available.
 
-**Soil needs:** Fertile, well-drained, pH 6.0–7.0. Plant on sharp sand base.
+**Soil needs:** Fertile, well-drained, pH 6.0–7.0. Plant on sharp sand base. Mix multipurpose compost and a generous proportion of horticultural grit (around a third by volume) into the clay; raised, gritty ground suits it best. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 10–16cm deep on a bed of sharp sand. Plant April–May. Lift after first frosts; dry and store frost-free.
 
@@ -1268,27 +1479,51 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E2. Anemone (spring: *A. blanda*, *A. nemorosa*; Japanese/autumn: *A. × hybrida*)
+### E2. African Lily (*Agapanthus africanus*)
 
-📷 **Reference photo:** [Anemone — view on Wikipedia](https://en.wikipedia.org/wiki/Anemone_blanda)
+📷 **Reference photo:** [African Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Agapanthus_africanus)
 
-**Spring anemones:**
-**Light:** 🌥️ Partial shade (woodland conditions). *A. nemorosa* is native Irish.
+**Light:** ☀️ Full sun essential for good flowering.
 
-**Spacing:** Spring Anemone: 10cm between corms. Japanese/Autumn Anemone: 45–60cm between plants; can spread.
-**Depth:** 5–8cm. Soak de Caen corms 24 hours before planting.
-**Fertiliser:** Not heavy feeders. Light balanced fertiliser in spring. Allow foliage to die back naturally.
-**Companions:** Snowdrops, bluebells, foxgloves in woodland-edge bed.
+**Soil needs:** Free-draining soil; this particular species prefers acid conditions (unlike most other agapanthus, which are not fussy about pH), pH 5.5–6.5.
 
-**Japanese/Autumn anemones:**
-**Light:** 🌥️ Partial shade to full sun. Excellent in semi-shaded spots.
-**Depth:** At pot level.
-**Fertiliser:** Balanced fertiliser in spring and compost mulch. Low-maintenance.
-**Companions:** Hostas, astilbe, hellebores (all share moisture and partial-shade requirements). Can spread — be aware in small borders.
+**Soil prep:** Mix clay with 30% ericaceous compost and generous horticultural grit for sharp drainage; a mulch of gravel or stone chips around the crown helps keep it free of excess winter moisture.
+
+**Planting depth:** Rhizome just below soil level, or at pot level for container-grown plants.
+
+**Spacing:** 40–60cm between plants; best in bold groups or a large container.
+
+**Fertiliser:** Liquid feed monthly from spring to flowering. Container plants benefit from a high-potash feed as flower spikes develop.
+
+**Companions:** Ornamental grasses, rudbeckias, late-season perennials — classic sunny late-summer border companions.
+
+**West of Ireland:** Unlike many hardier deciduous agapanthus hybrids, *A. africanus* itself is evergreen and only reliably hardy to about UK zone 9 — genuinely tender in most west of Ireland winters. Best grown in a large container that can be moved to a sheltered spot, cold frame, or unheated greenhouse over winter, rather than left in open ground.
 
 ---
 
-### E3. Checkered Lily / Snake's Head Fritillary (*Fritillaria meleagris*)
+### E3. Camassia (*Camassia* spp.)
+
+📷 **Reference photo:** [Camassia — view on Wikipedia](https://en.wikipedia.org/wiki/Camassia)
+
+**Light:** ☀️ Full sun to 🌥️ light/partial shade.
+
+**Soil needs:** Moist but well-drained, deep, humus-rich, fertile soil; pH 6.0–7.0. Genuinely tolerant of heavy clay — one of the few bulbs in this guide that positively prefers it to light, dry soil.
+
+**Soil prep:** Mix the clay with multipurpose compost; little further amendment is needed on already-moist clay, since this bulb dislikes the sharp drainage most other bulbs need. Avoid planting in the driest, sandiest corners of the garden.
+
+**Planting depth:** 10–15cm deep (about three times the bulb's depth), pointed end up, planted in autumn (September–November).
+
+**Spacing:** 15–20cm between bulbs; plant in bold drifts for the best display.
+
+**Fertiliser:** Little required on reasonably fertile soil. Annual mulch with compost or leaf litter in spring.
+
+**Companions:** Solomon's Seal, Asian Bleeding Heart, later-emerging perennials that will hide the dying foliage — good near a pond margin given its tolerance of damp ground, provided it isn't submerged.
+
+**West of Ireland:** An unusually good-value bulb for wet west of Ireland clay, since most spring bulbs demand sharp drainage that camassia positively dislikes. Tall spires of star-shaped violet-blue (occasionally white or cream) flowers in late spring, excellent for naturalising in damp meadow grass or a border that stays moist. Dislikes being moved once established and resents root disturbance — choose the final position with care, and leave clumps undisturbed to increase for years. Leave foliage to die back fully before removing it, or next year's flowering will suffer.
+
+---
+
+### E4. Checkered Lily (Snake's Head Fritillary) (*Fritillaria meleagris*)
 
 📷 **Reference photo:** [Fritillaria meleagris (Checkered / Snake's Head Lily) — view source](https://en.wikipedia.org/wiki/Fritillaria_meleagris)
 
@@ -1296,7 +1531,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but reasonably drained soil; pH 6.0–7.0. Unusually for a bulb, tolerates damper clay conditions better than most, but still dislikes being permanently waterlogged.
 
-**Soil prep:** Improve clay with compost; heavy amendment with grit is less critical here than for most bulbs given its natural preference for damper ground.
+**Soil prep:** Improve clay with multipurpose compost; heavy amendment with horticultural grit is less critical here than for most bulbs given its natural preference for damper ground. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 10cm deep, pointed end up. Small bulbs dry out quickly if left out of the ground — plant promptly after purchase.
 
@@ -1310,7 +1545,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E4. Corn Lily (*Ixia* spp.)
+### E5. Corn Lily (*Ixia* spp.)
 
 📷 **Reference photo:** [Ixia — view source](https://en.wikipedia.org/wiki/Ixia_(plant))
 
@@ -1318,7 +1553,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Light, very free-draining soil; pH 6.0–7.0. Corms rot in wet, heavy clay.
 
-**Soil prep:** Improve clay heavily with grit, or grow in containers of free-draining compost for best results.
+**Soil prep:** Improve clay heavily with horticultural grit, or grow in containers of free-draining multipurpose compost for best results.
 
 **Planting depth:** 8–10cm deep, pointed end up.
 
@@ -1332,7 +1567,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E5. Crocus (*Crocus* spp.)
+### E6. Crocus (*Crocus* spp.)
 
 📷 **Reference photo:** [Crocus — view on Wikipedia](https://en.wikipedia.org/wiki/Crocus)
 
@@ -1340,7 +1575,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained to gritty, poor to moderately fertile, pH 6.0–7.5. On heavy clay, add a handful of horticultural grit beneath each corm to prevent waterlogging. Spring types tolerate summer moisture if drainage is right; specialist alpine types prefer dry summers and are best grown in pots.
 
-**Soil prep:** Add 20–25% grit to clay planting areas. In lawns, use a bulb auger or trowel to make individual holes; place a little grit beneath each corm.
+**Soil prep:** Add 20–25% horticultural grit to clay planting areas. In lawns, use a bulb auger or trowel to make individual holes; place a little horticultural grit beneath each corm. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** To naturalise *C. tommasinianus* and *C. chrysanthus* plant 7–10cm deep in small groups. In garden lawns, Dutch hybrids have bigger corms and can go deeper at 12cm. Space individually about 9cm apart. Plant with pointed tip facing upward in September–November. A 20cm pot holds 15–20 corms comfortably — layer them 5–8cm deep, almost touching, for a dense display. Use a mix of multipurpose compost and horticultural grit (roughly 3:1) for sharp drainage.
 
@@ -1356,7 +1591,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E6. Crown Imperial (*Fritillaria imperialis*)
+### E7. Crown Imperial (*Fritillaria imperialis*)
 
 📷 **Reference photo:** [Fritillaria imperialis — view on Wikipedia](https://en.wikipedia.org/wiki/Fritillaria_imperialis)
 
@@ -1364,7 +1599,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Deep, rich, well-drained, preferably alkaline, pH 6.5–8.0. Hates waterlogged clay.
 
-**Soil prep:** Dig 40cm deep; clay/compost/grit 50/50 plus 30% grit. Grit or sharp sand at base.
+**Soil prep:** Dig 40cm deep; clay/multipurpose compost/horticultural grit 50/50 plus 30% horticultural grit. Grit or sharp sand at base. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 20–30cm deep, planted slightly on its side to prevent water collecting in the hollow crown top.
 
@@ -1378,13 +1613,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E7. Daffodils (*Narcissus* spp.)
+### E8. Daffodils (*Narcissus* spp.)
 
 📷 **Reference photo:** [Daffodils — view on Wikipedia](https://en.wikipedia.org/wiki/Narcissus_(plant))
 
 **Light:** 🌤️ Full sun to partial shade. Naturalise under deciduous trees.
 
-**Soil needs:** Well-drained, pH 6.0–7.0. Add grit at base of each planting hole.
+**Soil needs:** Well-drained, pH 6.0–7.0. Add horticultural grit at base of each planting hole. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 15cm (3× bulb height). Plant September–October.
 
@@ -1396,7 +1631,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E8. Dwarf Iris (*Iris reticulata*)
+### E9. Dwarf Iris (*Iris reticulata*)
 
 📷 **Reference photo:** [Dwarf Iris — view source](https://en.wikipedia.org/wiki/Iris_reticulata)
 
@@ -1404,7 +1639,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining soil essential; pH 6.0–7.5. Bulbs rot in wet, heavy clay over winter.
 
-**Soil prep:** Improve clay generously with 30–40% horticultural grit; excellent drainage is the key requirement. Raised beds, troughs or pots are often more reliable than open clay ground.
+**Soil prep:** Improve clay generously with 30–40% horticultural grit; excellent drainage is the key requirement. Raised beds, troughs or pots are often more reliable than open clay ground. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 8–10cm deep, pointed end up.
 
@@ -1418,7 +1653,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E9. Freesia (*Freesia* spp.)
+### E10. Freesia (*Freesia* spp.)
 
 📷 **Reference photo:** [Freesia — view source](https://en.wikipedia.org/wiki/Freesia)
 
@@ -1426,7 +1661,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Light, free-draining soil; pH 6.0–7.0. Corms are tender/half-hardy and dislike cold, wet clay.
 
-**Soil prep:** Improve clay with grit and compost, or grow entirely in containers of multipurpose/free-draining compost for reliability.
+**Soil prep:** Improve clay with horticultural grit and compost, or grow entirely in containers of multipurpose/free-draining compost for reliability.
 
 **Planting depth:** 5–8cm deep, pointed end up.
 
@@ -1440,7 +1675,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E10. Iron Cross (*Oxalis tetraphylla* 'Iron Cross')
+### E11. Grape Hyacinth (*Muscari* spp.)
+
+📷 **Reference photo:** [Grape Hyacinth — view on Wikipedia](https://en.wikipedia.org/wiki/Muscari)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade; flowers less freely and spreads less vigorously in deeper shade.
+
+**Soil needs:** Free-draining soil, tolerant of a wide range from sandy to clay; pH 6.0–7.5, close to neutral is ideal.
+
+**Soil prep:** Mix the clay with multipurpose compost and horticultural grit, since good drainage is essential — grape hyacinth bulbs are prone to rot in waterlogged, saturated ground.
+
+**Planting depth:** 7–10cm deep (about three times the bulb's height), pointed end up, planted in autumn.
+
+**Spacing:** 5–8cm between bulbs; plant in generous groups of 15 or more for the best visual impact.
+
+**Fertiliser:** Little required; a light bonemeal or bulb fertiliser at planting is usually sufficient. Allow foliage to die back naturally.
+
+**Companions:** Tulips, daffodils, crocus — a classic underplanting for taller spring bulbs, and useful for disguising the base of hostas or daylilies as their own foliage expands to hide muscari's untidy autumn leaves.
+
+**West of Ireland:** Cheerful spikes of tightly packed, grape-like blue (occasionally white) flowers in spring, easy and reliable on most soils given adequate drainage.
+
+⚠️ Spreads readily by both offset bulbs and self-seeding, and can become a nuisance in a small border if left unchecked — plant where some spread is welcome, or lift and divide congested clumps every few years to keep it in bounds.
+
+---
+
+### E12. Iron Cross (*Oxalis tetraphylla* 'Iron Cross')
 
 📷 **Reference photo:** [Iron Cross — view source](https://en.wikipedia.org/wiki/Oxalis_tetraphylla)
 
@@ -1448,7 +1707,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.0.
 
-**Soil prep:** Improve clay with compost and grit.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 5cm deep, growing point up.
 
@@ -1462,7 +1721,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E11. Lilies (*Lilium* spp.)
+### E13. Lilies (*Lilium* spp.)
 
 📷 **Reference photo:** [Lilies — view on Wikipedia](https://en.wikipedia.org/wiki/Lilium)
 
@@ -1470,7 +1729,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, pH 6.0–7.0. Drainage essential.
 
-**Soil prep:** Compost and 20–25% grit. Place 5cm grit at base of each hole.
+**Soil prep:** Compost and 20–25% horticultural grit. Place 5cm horticultural grit at base of each hole. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 15cm (3× bulb height) on a bed of grit.
 
@@ -1482,7 +1741,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E12. Martagon Lily (*Lilium martagon*)
+### E14. Martagon Lily (*Lilium martagon*)
 
 📷 **Reference photo:** [Martagon Lily — view source](https://en.wikipedia.org/wiki/Lilium_martagon)
 
@@ -1490,7 +1749,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, humus-rich soil, tolerant of neutral to slightly alkaline conditions; pH 6.0–7.5.
 
-**Soil prep:** Compost and 20% grit at planting; unlike many lilies it tolerates heavier soil reasonably well once drainage is adequate.
+**Soil prep:** Compost and 20% horticultural grit at planting; unlike many lilies it tolerates heavier soil reasonably well once drainage is adequate. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 15cm deep (3× bulb height), on a bed of grit.
 
@@ -1504,7 +1763,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E13. Native Bluebells (*Hyacinthoides non-scripta*)
+### E15. Native Bluebells (*Hyacinthoides non-scripta*)
+
+**Irish name:** Coinnle corra
 
 📷 **Reference photo:** [Native Bluebells — view on Wikipedia](https://en.wikipedia.org/wiki/Hyacinthoides_non-scripta)
 
@@ -1512,7 +1773,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, humus-rich soil; slightly acid, pH 6.0–6.8. Tolerates clay reasonably well if not waterlogged.
 
-**Soil prep:** Improve clay with leaf mould or compost; heavy grit amendment is not essential.
+**Soil prep:** Improve clay with leaf mould or multipurpose compost; heavy horticultural grit amendment is not essential. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 8cm deep, pointed end up, in autumn.
 
@@ -1528,29 +1789,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E14. Ornamental Onion (*Allium* spp.)
+### E16. Ornamental Onion (*Allium* spp., including Giant Allium *A. giganteum*)
 
 📷 **Reference photo:** [Allium — view source](https://en.wikipedia.org/wiki/Allium)
 
 **Light:** ☀️ Full sun.
 
-**Soil needs:** Free-draining soil; pH 6.0–7.5. Bulbs rot in waterlogged clay, so drainage is essential.
+**Soil needs:** Free-draining soil; pH 6.0–7.5. Bulbs rot in waterlogged clay, so drainage is essential — the giant allium (*A. giganteum*) is especially prone to rot if the ground doesn't drain sharply over winter.
 
-**Soil prep:** Improve clay with 30% horticultural grit before planting; raised beds or mounded planting help on heavy soil.
+**Soil prep:** Improve clay with 30% horticultural grit before planting; raised beds or mounded planting help on heavy soil. For giant allium specifically, growing in a large container is often more reliable on wet Irish clay than fighting the open ground. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
-**Planting depth:** Roughly 2–3× the bulb's own depth (typically 10–15cm for larger varieties), pointed end up.
+**Planting depth:** Roughly 2–3× the bulb's own depth (typically 10–15cm for most varieties; 15–20cm for the larger giant allium), pointed end up.
 
-**Spacing:** 10–20cm between bulbs depending on variety
+**Spacing:** 10–20cm between bulbs for most varieties; 25–30cm for giant allium, planted in groups for best effect.
 
-**Fertiliser:** Bonemeal or bulb fertiliser at planting (autumn). Balanced liquid feed as foliage emerges in spring, stopped once flowering finishes.
+**Fertiliser:** Bonemeal or bulb fertiliser at planting (autumn). Balanced liquid feed as foliage emerges in spring, stopped once flowering finishes; avoid nitrogen-rich feeds, which favour leaves over flowers.
 
-**Companions:** Roses (alliums are classic rose-border companions and can help deter some pests), peonies, irises, ornamental grasses.
+**Companions:** Roses (alliums are classic rose-border companions and can help deter some pests), peonies, irises, delphiniums, ornamental grasses.
 
-**West of Ireland:** Plant bulbs in autumn (September–November) for late spring/early summer flowers. Excellent in pots for good drainage on wet clay sites; leave foliage to die back naturally to feed next year's bulb.
+**West of Ireland:** Plant bulbs in autumn (September–November) for late spring/early summer flowers. Excellent in pots for good drainage on wet clay sites; leave foliage to die back naturally to feed next year's bulb. The giant allium is a dramatically larger, statement form of the same genus, with bold spherical flower heads up to 15cm across on stems 1.2–1.5m tall — its early-yellowing foliage is best disguised behind later-emerging perennials.
 
 ---
 
-### E15. Ranunculus (*Ranunculus asiaticus*)
+### E17. Ranunculus (*Ranunculus asiaticus*)
 
 📷 **Reference photo:** [Ranunculus — view on Wikipedia](https://en.wikipedia.org/wiki/Ranunculus_asiaticus)
 
@@ -1558,7 +1819,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, fertile, pH 6.0–7.0. Tubers rot in wet clay.
 
-**Soil prep:** Compost and 20–30% grit. Plant on a bed of grit.
+**Soil prep:** Compost and 20–30% horticultural grit. Plant on a bed of horticultural grit. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 5–8cm deep, claws pointing downward. Soak tubers 2–4 hours before planting. Plant in spring.
 
@@ -1572,7 +1833,33 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E16. Snowdrops (*Galanthus nivalis*)
+### E18. Siberian Squill (*Scilla siberica*)
+
+📷 **Reference photo:** [Siberian Squill — view on Wikipedia](https://en.wikipedia.org/wiki/Scilla_siberica)
+
+**Light:** ☀️ Full sun to 🌥️ dappled/light shade; excellent under deciduous trees and shrubs before the canopy closes.
+
+**Soil needs:** Moderately fertile, humus-rich, well-drained soil; pH 6.0–7.0. Tolerates acid, neutral or alkaline conditions but dislikes permanently wet ground.
+
+**Soil prep:** Mix the clay with multipurpose compost; add horticultural grit if the site is slow-draining, since — like most true bulbs — Siberian squill rots in waterlogged winter soil.
+
+**Planting depth:** 7–10cm deep (two to three times the bulb's depth), pointed end up, planted in autumn before the ground freezes.
+
+**Spacing:** 8–10cm between bulbs; plant generously (around 75 bulbs per square metre) for the best carpeting effect.
+
+**Fertiliser:** Balanced bulb fertiliser or bonemeal at planting; low-nitrogen feed as foliage emerges in spring. Allow foliage to die back naturally.
+
+**Companions:** Snowdrops, crocus, dwarf daffodils, chionodoxa — classic very-early-spring naturalising companions in grass or under deciduous shrubs.
+
+**West of Ireland:** Vivid, nodding, cobalt-blue bell-shaped flowers in very early spring, reliably hardy and one of the easiest bulbs to naturalise, self-seeding gently to form a spreading carpet over the years in a woodland-edge bed or thin grass. Well suited to the consistently moist west of Ireland climate.
+
+⚠️ Bulbs are not edible — wear gloves when handling and planting.
+
+---
+
+### E19. Snowdrops (*Galanthus nivalis*)
+
+**Irish name:** Plúirín sneachta
 
 📷 **Reference photo:** [Snowdrops — view on Wikipedia](https://en.wikipedia.org/wiki/Galanthus_nivalis)
 
@@ -1580,7 +1867,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Spacing:** 8–10cm between bulbs
 
-**Soil needs:** Humus-rich, moisture-retentive but well-drained, pH 5.5–7.0. Best planted "in the green."
+**Soil needs:** Humus-rich, moisture-retentive but well-drained, pH 5.5–7.0. Best planted "in the green." Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth (dry bulbs):** 10cm deep, 8–10cm apart.
 **Planting depth (in the green):** At same depth as growing.
@@ -1591,7 +1878,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E17. Snowflake (*Leucojum aestivum* — Summer Snowflake; *L. vernum* — Spring Snowflake)
+### E20. Snowflake (Summer) (*Leucojum aestivum* — Summer Snowflake; *L. vernum* — Spring Snowflake)
 
 📷 **Reference photo:** [Snowflake — view on Wikipedia](https://en.wikipedia.org/wiki/Leucojum_aestivum)
 
@@ -1601,7 +1888,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Organically rich, medium moisture, well-drained soils in full sun to part shade. Adapts to clay soils. Plants need consistent moisture during the spring period of growth and bloom. pH 5.5–7.0. They are notably tolerant of wet and clay soils.
 
-**Soil prep:** Add generous compost. Plants will naturalize well by bulb offsets. Bulbs are best left undisturbed once set in the ground. Mulch to retain summer moisture.
+**Soil prep:** Add generous multipurpose compost. Plants will naturalize well by bulb offsets. Bulbs are best left undisturbed once set in the ground. Mulch to retain summer moisture. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Plant dry bulbs 8–10cm deep in autumn in moist, humus-rich soil. Plant bulbs in autumn about 10cm deep and 8–10cm apart. Water well after planting and keep the soil evenly moist, especially during dry spells in spring. Allow the foliage to die back completely after flowering to feed the bulbs for next year's growth.
 
@@ -1617,7 +1904,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E18. Spring Sowbread (*Cyclamen coum*)
+### E21. Spring Anemone (*Anemone blanda* / *A. nemorosa*)
+
+📷 **Reference photo:** [Spring Anemone — view on Wikipedia](https://en.wikipedia.org/wiki/Anemone_blanda)
+
+**Light:** 🌥️ Partial shade (woodland conditions). *A. nemorosa* is native Irish.
+
+**Soil needs:** Moist, humus-rich soil; pH 5.5–7.0. Tolerates clay well if not waterlogged.
+
+**Soil prep:** Work leaf mould or multipurpose compost into the clay to mimic a woodland floor — no horticultural grit needed, since this woodland corm prefers moisture-retentive ground, unlike most sun-loving bulbs.
+
+**Planting depth:** 5–8cm deep. Soak De Caen-type corms in water for 24 hours before planting to rehydrate them.
+
+**Spacing:** 10cm between corms.
+
+**Fertiliser:** Not heavy feeders. Light balanced fertiliser in spring. Allow foliage to die back naturally.
+
+**Companions:** Snowdrops, bluebells, foxgloves in a woodland-edge bed.
+
+**West of Ireland:** *Anemone nemorosa* (wood anemone) is genuinely native to Irish woodland and hedge banks, spreading gently by rhizome to carpet the ground before the tree canopy closes in spring — one of the most reliable true naturalisers for a shaded corner.
+
+---
+
+### E22. Spring Sowbread (*Cyclamen coum*)
 
 📷 **Reference photo:** [Spring Sowbread — view source](https://en.wikipedia.org/wiki/Cyclamen_coum)
 
@@ -1625,7 +1934,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, humus-rich soil; pH 6.0–7.5. Dislikes waterlogging around the tuber.
 
-**Soil prep:** Improve clay with leaf mould/compost and grit.
+**Soil prep:** Improve clay with leaf mould/multipurpose compost and horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Tuber just below the soil surface (2–3cm), flattest side down.
 
@@ -1639,7 +1948,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E19. Tulips (*Tulipa* spp.)
+### E23. Tulips (*Tulipa* spp.)
 
 📷 **Reference photo:** [Tulips — view on Wikipedia](https://en.wikipedia.org/wiki/Tulip)
 
@@ -1647,7 +1956,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, pH 6.0–7.0. Rot readily in wet clay.
 
-**Soil prep:** Compost and 20% grit, plus grit at the base of each hole.
+**Soil prep:** Compost and 20% horticultural grit, plus horticultural grit at the base of each hole. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 20cm (3× bulb height). Plant pointy end up in November.
 
@@ -1659,7 +1968,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E20. Wild Tulip (*Tulipa sylvestris*)
+### E24. Wild Tulip (*Tulipa sylvestris*)
 
 📷 **Reference photo:** [Wild Tulip — view source](https://en.wikipedia.org/wiki/Tulipa_sylvestris)
 
@@ -1667,7 +1976,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Fertile, moisture-retentive soil; pH 6.0–7.5. Unlike most tulips, tolerates damper conditions and some clay.
 
-**Soil prep:** Improve clay with compost; less critical to add heavy grit than for garden hybrid tulips.
+**Soil prep:** Improve clay with multipurpose compost; less critical to add heavy horticultural grit than for garden hybrid tulips. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** 10–15cm deep, pointed end up.
 
@@ -1681,7 +1990,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### E21. Yellow Star-of-Bethlehem (*Gagea lutea*)
+### E25. Yellow Star-of-Bethlehem (*Gagea lutea*)
 
 📷 **Reference photo:** [Gagea — view source](https://en.wikipedia.org/wiki/Gagea_lutea)
 
@@ -1689,7 +1998,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich, base-rich (near-neutral to slightly alkaline) soil; pH 6.5–7.5. Never allow it to dry out during the growing season.
 
-**Soil prep:** Improve clay with compost/leaf mould; avoid heavy grit amendment, since this species prefers more moisture-retentive ground than most bulbs.
+**Soil prep:** Improve clay with multipurpose compost/leaf mould; avoid heavy horticultural grit amendment, since this species prefers more moisture-retentive ground than most bulbs. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** 5–8cm deep, pointed end up.
 
@@ -1713,7 +2022,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich, clay-tolerant. pH 5.5–7.0.
 
-**Soil prep:** Add generous compost. No heavy grit needed.
+**Soil prep:** Add generous multipurpose compost. No heavy horticultural grit needed. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; crown at soil surface.
 
@@ -1725,7 +2034,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F2. Auricula (*Primula auricula*)
+### F2. Astrantia (Masterwort) (*Astrantia major*)
+
+📷 **Reference photo:** [Astrantia — view on Wikipedia](https://en.wikipedia.org/wiki/Astrantia_major)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade; part shade preferred, especially in a hot summer.
+
+**Soil needs:** Moist, fertile, humus-rich soil; pH 5.5–7.5. Tolerates heavy clay well provided it stays reasonably moist and does not bake dry.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost, adding extra organic matter to boost moisture retention. Grit is not usually necessary — this plant prefers reliably moist ground over sharp drainage.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** Light balanced feed in spring; annual compost mulch to retain moisture.
+
+**Companions:** Roses (excellent for underplanting to cover bare lower stems), ferns, hostas — classic cottage and woodland-edge border companions.
+
+**West of Ireland:** Reliable, slug- and snail-proof cottage garden perennial with distinctive pincushion flowerheads surrounded by papery bracts from June to August. Genuinely clay-tolerant given consistent moisture, making it a good choice for the damper parts of a west of Ireland border.
+
+---
+
+### F3. Auricula (*Primula auricula*)
 
 📷 **Reference photo:** [Auricula — view source](https://en.wikipedia.org/wiki/Primula_auricula)
 
@@ -1733,7 +2064,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, humus-rich soil; neutral to slightly alkaline, pH 6.5–7.5.
 
-**Soil prep:** Improve clay generously with grit and compost; best in a raised bed, trough or pot given its need for sharp drainage.
+**Soil prep:** Improve clay generously with horticultural grit and multipurpose compost; best in a raised bed, trough or pot given its need for sharp drainage. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level; do not bury.
 
@@ -1747,7 +2078,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F3. Bearded Iris / Border Iris (*Iris germanica*)
+### F4. Balloon Flower (*Platycodon grandiflorus*)
+
+📷 **Reference photo:** [Balloon Flower — view on Wikipedia](https://en.wikipedia.org/wiki/Platycodon_grandiflorus)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Deep, light, fertile, reliably moist but well-drained soil, slightly acid to neutral; pH 5.6–7.3.
+
+**Soil prep:** Mix clay with multipurpose compost and horticultural grit to lighten it and improve drainage — avoid heavy, undiluted clay, which this plant's fleshy taproot dislikes.
+
+**Planting depth:** Crown at soil level; the fleshy roots resent disturbance, so choose the final position with care and mark it, since Platycodon is very late to emerge in spring.
+
+**Spacing:** 30–60cm between plants.
+
+**Fertiliser:** Balanced slow-release fertiliser once in late spring; otherwise little required.
+
+**Companions:** Astilbe, campanula, heuchera, hosta — classic mid-border companions with similar moisture needs.
+
+**West of Ireland:** Distinctive inflated, balloon-shaped buds open into star-shaped blue, pink or white flowers in mid-late summer. Slow to establish from seed and slow to reappear each spring — be patient and avoid disturbing the roots once settled, as this long-lived perennial improves for years once happy.
+
+---
+
+### F5. Bearded Iris (Border Iris) (*Iris germanica*)
 
 📷 **Reference photo:** [Bearded Iris (Border Iris) — view source](https://en.wikipedia.org/wiki/Iris_germanica)
 
@@ -1755,7 +2108,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, neutral to slightly alkaline soil; pH 6.5–7.5. Rhizomes rot in wet, poorly-drained clay — this is the single biggest cause of failure.
 
-**Soil prep:** Improve clay generously with 30% horticultural grit; raised beds or mounded planting strongly recommended on heavy soil.
+**Soil prep:** Improve clay generously with 30% horticultural grit; raised beds or mounded planting strongly recommended on heavy soil. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Rhizome at or just proud of the soil surface, with the top exposed to sun — do not bury, unlike most other bulbs/rhizomes.
 
@@ -1769,7 +2122,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F4. Blue Gentian (*Gentiana* spp., e.g. *G. acaulis*, *G. sino-ornata*)
+### F6. Blue Gentian (*Gentiana* spp., e.g. *G. acaulis*, *G. sino-ornata*)
 
 📷 **Reference photo:** [Blue Gentian — view source](https://en.wikipedia.org/wiki/Gentiana)
 
@@ -1777,7 +2130,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, humus-rich soil; most garden gentians prefer slightly acid conditions, pH 5.5–6.5.
 
-**Soil prep:** Mix clay with compost and grit; a raised bed or rockery suits most species well.
+**Soil prep:** Mix clay with multipurpose compost and horticultural grit; a raised bed or rockery suits most species well. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -1791,7 +2144,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F5. Clustered Bellflower (*Campanula glomerata*)
+### F7. Border Sedum (Stonecrop) (*Hylotelephium spectabile*, syn. *Sedum spectabile*)
+
+📷 **Reference photo:** [Border Sedum — view on Wikipedia](https://en.wikipedia.org/wiki/Hylotelephium_spectabile)
+
+**Light:** ☀️ Full sun essential for the sturdiest growth; tolerates light shade but becomes lax and floppy.
+
+**Soil needs:** Free-draining soil, preferably alkaline/chalky; pH 6.0–6.5. Will not flower well, and may rot, in deep shade or permanently moist, fertile ground.
+
+**Soil prep:** Mix clay with multipurpose compost and 20–30% horticultural grit for sharp drainage; this succulent-leaved perennial is markedly more drought-tolerant than most border plants and actively dislikes rich, waterlogged conditions.
+
+**Planting depth:** At pot level, same depth as the container.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** None usually needed — rich soil produces lax, floppy growth. Skip feeding altogether on reasonable ground.
+
+**Companions:** Ornamental grasses (e.g. *Stipa tenuissima*), asters, late-flowering perennials — classic late-summer/autumn nectar-rich border companions for butterflies and bees.
+
+**West of Ireland:** Valuable late-season structure and colour (August onward) when much else in the border is fading, with flat, plate-like flowerheads that look good left standing through winter. On heavy Irish clay, raised or gritty ground makes the difference between an upright plant and one that flops and rots.
+
+---
+
+### F8. Clustered Bellflower (*Campanula glomerata*)
 
 📷 **Reference photo:** [Clustered Bellflower — view source](https://en.wikipedia.org/wiki/Campanula_glomerata)
 
@@ -1799,7 +2174,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most well-drained soils including clay, preferring neutral to alkaline; pH 6.5–7.5.
 
-**Soil prep:** Mix clay 50/50 with compost.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. Mix multipurpose compost and a generous proportion of horticultural grit (around a third by volume) into the clay; raised, gritty ground suits it best. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level.
 
@@ -1813,7 +2188,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F6. Columbine (*Aquilegia vulgaris* and hybrids)
+### F9. Columbine (*Aquilegia vulgaris* and hybrids)
+
+**Irish name:** Colaimbín
 
 📷 **Reference photo:** [Aquilegia — view source](https://en.wikipedia.org/wiki/Aquilegia_vulgaris)
 
@@ -1821,7 +2198,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained soil; pH 6.0–7.5. Tolerant of clay if not waterlogged.
 
-**Soil prep:** Mix clay 50/50 with compost.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -1835,7 +2212,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F7. Coral Bells (*Heuchera* spp.)
+### F10. Coral Bells (*Heuchera* spp.)
 
 📷 **Reference photo:** [Coral Bells — view source](https://en.wikipedia.org/wiki/Heuchera)
 
@@ -1843,7 +2220,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained soil, rich in organic matter; pH 6.0–7.0.
 
-**Soil prep:** Mix clay 50/50 with compost and 20% grit for drainage — Heuchera dislikes waterlogging, especially in winter.
+**Soil prep:** Mix clay 50/50 with multipurpose compost and 20% horticultural grit for drainage — Heuchera dislikes waterlogging, especially in winter. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level — do not bury the crown, which can cause rot.
 
@@ -1857,7 +2234,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F8. Cutleaf Coneflower 'Goldball' (*Rudbeckia laciniata* 'Goldball')
+### F11. Cutleaf Coneflower 'Goldball' (*Rudbeckia laciniata* 'Goldball')
 
 📷 **Reference photo:** [Rudbeckia 'Goldball' — view on Wikipedia](https://en.wikipedia.org/wiki/Rudbeckia_laciniata)
 
@@ -1865,7 +2242,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** A good choice for improved clay soils — easy to grow if given full sun or partial shade and a moderately fertile soil that is moist but well-drained. pH 5.5–7.0. Moisture-retentive soil is important — dislikes prolonged dry periods in summer.
 
-**Soil prep:** Add generous compost to clay (50/50). If the soil is very heavy or is not free draining, add lots of well-rotted compost to the area and dig it in well.
+**Soil prep:** Add generous multipurpose compost to clay (50/50). If the soil is very heavy or is not free draining, add lots of well-rotted multipurpose compost to the area and dig it in well. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level. Plant bare-root crowns with buds 2–3cm below soil.
 
@@ -1883,7 +2260,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F9. Daylilies (*Hemerocallis* spp.)
+### F12. Daylilies (*Hemerocallis* spp.)
 
 📷 **Reference photo:** [Daylilies — view source](https://en.wikipedia.org/wiki/Hemerocallis)
 
@@ -1891,7 +2268,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most soils including clay, tolerant of a wide pH range 6.0–7.5. One of the easiest, most clay-tolerant border perennials.
 
-**Soil prep:** Mix clay 50/50 with compost; grit optional, since daylilies are notably tolerant of heavy soil.
+**Soil prep:** Mix clay 50/50 with multipurpose compost; horticultural grit optional, since daylilies are notably tolerant of heavy soil. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level, roots spread out in the hole.
 
@@ -1905,7 +2282,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F10. Delphiniums (*Delphinium* spp.)
+### F13. Delphiniums (*Delphinium* spp.)
 
 📷 **Reference photo:** [Delphiniums — view on Wikipedia](https://en.wikipedia.org/wiki/Delphinium)
 
@@ -1913,7 +2290,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Rich, fertile, well-drained, pH 6.5–7.5.
 
-**Soil prep:** Dig 40–50cm deep; generous compost and 20% grit on heavy clay.
+**Soil prep:** Dig 40–50cm deep; generous multipurpose compost and 20% horticultural grit on heavy clay. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; bare-root buds 2–5cm below soil.
 
@@ -1925,7 +2302,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F11. Edelweiss (*Leontopodium alpinum*)
+### F14. Echinacea (Coneflower) (*Echinacea purpurea*)
+
+📷 **Reference photo:** [Echinacea — view on Wikipedia](https://en.wikipedia.org/wiki/Echinacea_purpurea)
+
+**Light:** ☀️ Full sun essential — at least 6 hours daily; leggy growth and poor flowering in shade.
+
+**Soil needs:** Well-drained soil, neutral to slightly acidic; pH 5.8–7.0. Dislikes heavy, constantly wet clay, which invites fatal root rot.
+
+**Soil prep:** Mix clay generously with multipurpose compost and 20–30% horticultural grit for sharp drainage — this is one of the more drainage-sensitive perennials in the guide, and a raised bed or mound gives noticeably better results than flat clay.
+
+**Planting depth:** Crown level with the soil surface — do not bury the crown.
+
+**Spacing:** 40–60cm between plants, to encourage airflow and reduce fungal disease.
+
+**Fertiliser:** Light application of compost or well-rotted manure in early spring; avoid high-nitrogen feeds. No further fertilising usually needed.
+
+**Companions:** Rudbeckia, ornamental grasses, yarrow, penstemon — classic sunny prairie-style border companions, valuable for pollinators.
+
+**West of Ireland:** A tough, drought-tolerant North American prairie native once established, but winter wet on unmodified Irish clay is a far bigger threat than cold — good drainage is the single most important factor for success here. Leave seedheads standing over winter for birds and garden structure.
+
+---
+
+### F15. Edelweiss (*Leontopodium alpinum*)
 
 📷 **Reference photo:** [Edelweiss — view source](https://en.wikipedia.org/wiki/Leontopodium_alpinum)
 
@@ -1933,7 +2332,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, poor to moderately fertile, alkaline soil; pH 6.5–7.5. Excellent drainage essential.
 
-**Soil prep:** Improve clay heavily with 30–40% grit; best in a raised bed, trough or rockery.
+**Soil prep:** Improve clay heavily with 30–40% horticultural grit; best in a raised bed, trough or rockery. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -1947,7 +2346,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F12. Elephant's Ears (*Bergenia* spp.)
+### F16. Elephant's Ears (*Bergenia* spp.)
 
 📷 **Reference photo:** [Elephant's Ears — view on Wikipedia](https://en.wikipedia.org/wiki/Bergenia)
 
@@ -1955,7 +2354,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Humus-rich, moist but well-drained. Excellent on clay.
 
-**Soil prep:** Add compost. Unfussy.
+**Soil prep:** Add multipurpose compost. Unfussy. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; rhizome just at or slightly below surface.
 
@@ -1967,7 +2366,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F13. Fern-leaf Peony (*Paeonia tenuifolia*)
+### F17. Fern-leaf Peony (*Paeonia tenuifolia*)
 
 📷 **Reference photo:** [Paeonia tenuifolia — view source](https://en.wikipedia.org/wiki/Paeonia_tenuifolia)
 
@@ -1975,7 +2374,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, fertile soil, neutral to slightly alkaline; pH 6.5–7.5. Dislikes waterlogging, more so than common garden peonies.
 
-**Soil prep:** Mix clay with compost and 20–30% grit for extra drainage.
+**Soil prep:** Mix clay with multipurpose compost and 20–30% horticultural grit for extra drainage. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown/eyes no more than 2–3cm below soil level — as with all peonies, planting too deep prevents flowering.
 
@@ -1989,7 +2388,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F14. Foxgloves (*Digitalis purpurea* and perennial species)
+### F18. Forget-me-nots (*Myosotis sylvatica*)
+
+📷 **Reference photo:** [Forget-me-not — view on Wikipedia](https://en.wikipedia.org/wiki/Myosotis_sylvatica)
+
+**Light:** 🌥️ Partial shade preferred; tolerates full sun where soil stays consistently moist.
+
+**Soil needs:** Moist, humus-rich soil; pH 6.0–7.5. Adapts to garden loam or clay-loam if kept sufficiently moist.
+
+**Soil prep:** Mix clay with multipurpose compost, working in extra organic matter to help retain the consistent moisture this woodland-edge plant prefers. Little further amendment is needed.
+
+**Planting depth:** Crown at soil level; sow seed on the surface, since it needs light to germinate.
+
+**Spacing:** 15–20cm between plants.
+
+**Fertiliser:** Little required; a light feed on poor soil.
+
+**Companions:** Tulips, wallflowers, daffodils — the classic underplanting for spring bulbs, providing a soft blue haze beneath taller blooms.
+
+**West of Ireland:** An easy, short-lived biennial (often grown and self-seeding like an annual), spending its first year as a low rosette and flowering the following spring with clouds of tiny sky-blue flowers. Self-seeds prolifically once established — thin seedlings if too dense, and expect it to reappear in new corners of the garden each year.
+
+---
+
+### F19. Foxgloves (*Digitalis purpurea* and perennial species)
+
+**Irish name:** Lus mór
 
 📷 **Reference photo:** [Foxgloves — view on Wikipedia](https://en.wikipedia.org/wiki/Digitalis_purpurea)
 
@@ -1997,7 +2420,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Nutrient-rich, moist, pH 5.5–7.5. Native to Ireland.
 
-**Soil prep:** Add compost. Very adaptable. Self-seeding.
+**Soil prep:** Add multipurpose compost. Very adaptable. Self-seeding. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; seeds sown on surface (need light to germinate).
 
@@ -2009,7 +2432,51 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F15. Globeflower (*Trollius europaeus* / *T. x cultorum*)
+### F20. Geum (Avens) (*Geum* spp.)
+
+📷 **Reference photo:** [Geum — view on Wikipedia](https://en.wikipedia.org/wiki/Geum)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade; afternoon shade helpful in hot spells.
+
+**Soil needs:** Moist but well-drained, fertile soil, tolerant of acid, neutral or alkaline conditions; pH 5.5–7.0.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost, working in extra organic matter to improve moisture retention. Avoid waterlogging over winter, the main cause of losses.
+
+**Planting depth:** Crown at soil level — burying it causes rot.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** Balanced feed not usually needed on reasonable soil; a light general fertiliser in spring on poor ground. Annual compost mulch.
+
+**Companions:** Roses, hardy geraniums, alliums — classic sunny cottage-border companions.
+
+**West of Ireland:** Reliable, easy, rhizomatous perennial with saucer-shaped flowers in oranges, reds, yellows and pinks from late spring into autumn. Divide congested clumps every 3–4 years, discarding the older woody centre. *Geum rivale* forms and their hybrids are especially useful for a damp, part-shaded spot.
+
+---
+
+### F21. Globe Thistle (*Echinops ritro*)
+
+📷 **Reference photo:** [Globe Thistle — view on Wikipedia](https://en.wikipedia.org/wiki/Echinops_ritro)
+
+**Light:** ☀️ Full sun essential; tolerates some part shade but flops and flowers less in shade.
+
+**Soil needs:** Free-draining soil, tolerant of poor/dry ground including clay if drainage is adequate; pH 6.0–7.5.
+
+**Soil prep:** Mix clay with multipurpose compost and 20–30% horticultural grit for sharp drainage; avoid over-rich soil, which causes soft, floppy growth. Of all the plants in this guide, globe thistle is one of the most explicitly noted as "the toughest in heavy soils" among its named cultivars, provided winter wet doesn't sit at the crown.
+
+**Planting depth:** Crown at soil level; deep taproot, so choose the final position with care.
+
+**Spacing:** 45–60cm between plants.
+
+**Fertiliser:** Little to none required — lean soil produces the sturdiest, most compact plants.
+
+**Companions:** Ornamental grasses, echinacea, rudbeckia, sedum — classic prairie-style/gravel garden companions with the same sun and drainage needs.
+
+**West of Ireland:** Architectural, spiky, metallic-blue spherical flowerheads from midsummer to early autumn, exceptionally valuable for bees and other pollinators. Deadhead to control self-seeding, or leave a few heads to dry for winter structure and seed. Drought-tolerant once established and largely ignored by deer and rabbits.
+
+---
+
+### F22. Globeflower (*Trollius europaeus* / *T. x cultorum*)
 
 📷 **Reference photo:** [Trollius — view source](https://en.wikipedia.org/wiki/Trollius_europaeus)
 
@@ -2017,7 +2484,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist to wet, humus-rich soil; pH 5.5–7.0. Unusually for a border perennial, thrives in damp ground and tolerates heavy clay very well.
 
-**Soil prep:** Mix clay with compost; no need for extra drainage — this plant prefers consistently moist soil.
+**Soil prep:** Mix clay with multipurpose compost; no need for extra drainage — this plant prefers consistently moist soil. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -2031,7 +2498,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F16. Hellebore (*Helleborus* spp.)
+### F23. Helenium (Sneezeweed) (*Helenium autumnale*)
+
+📷 **Reference photo:** [Helenium — view on Wikipedia](https://en.wikipedia.org/wiki/Helenium_autumnale)
+
+**Light:** ☀️ Full sun essential for the sturdiest, most floriferous growth; tolerates a little part shade.
+
+**Soil needs:** Fertile, moisture-retentive, humus-rich soil; pH 5.5–7.0. Naturally a plant of damp meadows and streamsides, so tolerates damper ground than many border perennials.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost, adding extra organic matter to help retain moisture through summer. Little further amendment is usually needed on already-moist clay.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 45–60cm between plants; provide support (twiggy sticks or a link stake) for the tall stems.
+
+**Fertiliser:** Balanced fertiliser in spring; annual compost mulch. Divide every 2–3 years to maintain vigour and flowering.
+
+**Companions:** Rudbeckia, echinacea, asters, ornamental grasses — classic late-summer/autumn "hot border" companions, valuable for bees and other pollinators late in the season.
+
+**West of Ireland:** Reliable, easy, and well suited to the consistently moist west of Ireland climate, with masses of daisy-like yellow, orange or red flowers from late summer into autumn, when the disc-florets bend downward as they open. Cut back to encourage bushier, more floriferous growth by pinching stems in late spring.
+
+⚠️ Foliage and seeds are mildly toxic if eaten in quantity, and can be harmful to grazing livestock.
+
+---
+
+### F24. Hellebore (Lenten Rose) (*Helleborus* spp.)
 
 📷 **Reference photo:** [Hellebore — view on Wikipedia](https://en.wikipedia.org/wiki/Helleborus)
 
@@ -2039,7 +2530,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Humus-rich, fertile, moisture-retentive, pH 6.0–8.0. Excellent on clay.
 
-**Soil prep:** Add generous compost. Annual compost or leaf mould mulch.
+**Soil prep:** Add generous multipurpose compost. Annual multipurpose compost or leaf mould mulch. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; crown just at or slightly below soil surface.
 
@@ -2051,7 +2542,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F17. Hosta (*Hosta* spp.)
+### F25. Honesty (*Lunaria annua*)
+
+**Irish name:** Lus na gealaí
+
+📷 **Reference photo:** [Honesty — view on Wikipedia](https://en.wikipedia.org/wiki/Lunaria_annua)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Fertile, moist but well-drained soil, tolerant of a wide pH range; pH 6.0–7.5.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost, working in extra organic matter to help retain moisture. Add horticultural grit only if the site is genuinely waterlogged, since honesty's deep taproot dislikes both drought and standing water.
+
+**Planting depth:** Crown at soil level; the deep taproot resents disturbance, so plant young and choose a permanent spot.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** Little required. Light balanced feed in spring if soil is poor.
+
+**Companions:** Spring bulbs such as tulips, ferns, hostas — classic spring woodland-edge border companions.
+
+**West of Ireland:** A traditional biennial cottage-garden plant grown for its fragrant purple or white spring flowers and, later, its translucent silvery seed pods ("money plant" or "silver dollar"), valued for dried arrangements and winter interest. Sow in early summer for flowers the following spring; self-seeds readily once established.
+
+---
+
+### F26. Hosta (Plantain Lily) (*Hosta* spp.)
 
 📷 **Reference photo:** [Hosta — view on Wikipedia](https://en.wikipedia.org/wiki/Hosta)
 
@@ -2059,7 +2574,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich, fertile. Grows well on clay.
 
-**Soil prep:** Add generous compost.
+**Soil prep:** Add generous multipurpose compost. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; crown just at soil surface.
 
@@ -2071,7 +2586,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F18. Lady's Bedstraw (*Galium verum*)
+### F27. Japanese Anemone (*Anemone × hybrida*)
+
+📷 **Reference photo:** [Japanese Anemone — view on Wikipedia](https://en.wikipedia.org/wiki/Anemone_%C3%97_hybrida)
+
+**Light:** 🌥️ Partial shade to full sun. Excellent in semi-shaded spots.
+
+**Soil needs:** Moist, fertile soil; pH 6.0–7.5. Tolerates clay well.
+
+**Soil prep:** Mix the clay 50/50 with multipurpose compost; this rhizomatous perennial is untroubled by heavy ground once it has settled in.
+
+**Planting depth:** At pot level (crown at soil surface).
+
+**Spacing:** 45–60cm between plants; spreads by rhizome, so allow room or be ready to divide.
+
+**Fertiliser:** Balanced fertiliser in spring and a multipurpose compost mulch. Low-maintenance.
+
+**Companions:** Hostas, astilbe, hellebores (all share moisture and partial-shade requirements).
+
+**West of Ireland:** One of the best clay-tolerant plants on this whole list, and valuable for its late-season colour (August–October) when much else in the border is fading. Can spread — be aware in small borders, and divide congested clumps if it outgrows its space.
+
+---
+
+### F28. Lady's Bedstraw (*Galium verum*)
+
+**Irish name:** Bolach cnis
 
 📷 **Reference photo:** [Lady's Bedstraw — view source](https://en.wikipedia.org/wiki/Galium_verum)
 
@@ -2079,7 +2618,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil, tolerant of poor/dry conditions; pH 6.0–7.5.
 
-**Soil prep:** Minimal — this native wildflower thrives on lean soil; excess compost/fertility encourages weak, floppy growth.
+**Soil prep:** Minimal — this native wildflower thrives on lean soil; excess multipurpose compost/fertility encourages weak, floppy growth. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level.
 
@@ -2093,7 +2632,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F19. Lilyleaf Ladybells (*Adenophora liliifolia*)
+### F29. Lanceleaf Tickseed (*Coreopsis lanceolata*)
+
+📷 **Reference photo:** [Lanceleaf Tickseed — view on Wikipedia](https://en.wikipedia.org/wiki/Coreopsis_lanceolata)
+
+**Light:** ☀️ Full sun essential; will grow but flower poorly in shade.
+
+**Soil needs:** Well-drained soil, tolerant of acid to neutral to slightly alkaline conditions; pH 5.5–7.0. Thrives in poor, sandy or rocky ground and dislikes overly rich, wet soil.
+
+**Soil prep:** Mix clay with multipurpose compost and generous horticultural grit (25–30%) for sharp drainage — avoid heavily enriching the soil, which causes lax, sprawling growth.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** None to very little required — rich fertiliser is counterproductive here, encouraging floppy growth at the expense of flowers.
+
+**Companions:** Yarrow, dianthus, ornamental grasses, low salvias — classic dry, sunny meadow-style border companions.
+
+**West of Ireland:** Bright yellow daisy flowers from late spring through summer, valuable for pollinators; self-seeds freely and can become a nuisance if not deadheaded. Best in a lean, well-drained spot rather than a fertile, wet border, where it tends to sprawl and rot.
+
+---
+
+### F30. Lilyleaf Ladybells (*Adenophora liliifolia*)
 
 📷 **Reference photo:** [Lilyleaf Ladybells — view source](https://en.wikipedia.org/wiki/Adenophora_liliifolia)
 
@@ -2101,7 +2662,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained soil; pH 6.0–7.5.
 
-**Soil prep:** Mix clay 50/50 with compost.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level; resents root disturbance once established (like many bellflower relatives, it has a fleshy taproot), so choose the final position with care.
 
@@ -2115,7 +2676,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F20. Lungworts (*Pulmonaria* spp.)
+### F31. Lungworts (*Pulmonaria* spp.)
 
 📷 **Reference photo:** [Lungworts — view source](https://en.wikipedia.org/wiki/Pulmonaria)
 
@@ -2123,7 +2684,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich soil; pH 6.0–7.5. Tolerates clay well if not waterlogged.
 
-**Soil prep:** Mix clay 50/50 with compost.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -2137,7 +2698,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F21. Lupins (*Lupinus polyphyllus* and hybrids)
+### F32. Lupins (*Lupinus polyphyllus* and hybrids)
 
 📷 **Reference photo:** [Lupins — view source](https://en.wikipedia.org/wiki/Lupinus_polyphyllus)
 
@@ -2145,7 +2706,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, slightly acid soil; pH 5.5–6.5. Dislikes shallow chalk.
 
-**Soil prep:** Mix clay 50/50 with compost; avoid excess lime.
+**Soil prep:** Mix clay 50/50 with multipurpose compost; avoid excess lime. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level; resents root disturbance, so choose the final position with care.
 
@@ -2159,7 +2720,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F22. Monkshood (*Aconitum napellus*)
+### F33. Monkshood (*Aconitum napellus*)
 
 📷 **Reference photo:** [Aconitum / Monkshood — view source](https://en.wikipedia.org/wiki/Aconitum_napellus)
 
@@ -2167,7 +2728,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich soil; pH 6.0–7.5. Tolerates clay well if not waterlogged.
 
-**Soil prep:** Mix clay 50/50 with compost.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level.
 
@@ -2183,7 +2744,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F23. Pasqueflower (*Pulsatilla vulgaris*)
+### F34. Pasqueflower (*Pulsatilla vulgaris*)
 
 📷 **Reference photo:** [Pasqueflower — view on Wikipedia](https://en.wikipedia.org/wiki/Pulsatilla_vulgaris)
 
@@ -2191,7 +2752,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Excellent drainage, pH 6.5–8.0. Hates wet clay. Raised bed or pot essential.
 
-**Soil prep:** 40–50% grit/compost mix in raised bed or container.
+**Soil prep:** 40–50% horticultural grit/multipurpose compost mix in raised bed or container.
 
 **Planting depth:** At pot level. Do not disturb once established.
 
@@ -2203,7 +2764,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F24. Peonies (*Paeonia* spp.)
+### F35. Penstemon (*Penstemon* spp.)
+
+📷 **Reference photo:** [Penstemon — view on Wikipedia](https://en.wikipedia.org/wiki/Penstemon)
+
+**Light:** ☀️ Full sun essential; will not flower well in shade.
+
+**Soil needs:** Free-draining, fertile soil; pH 5.5–7.0. Wet, heavy clay in winter is the main cause of loss, not cold.
+
+**Soil prep:** Mix clay generously with multipurpose compost and 25–30% horticultural grit for sharp drainage; a raised bed or the base of a sheltered, sunny wall gives noticeably better winter survival than open, flat clay.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** General-purpose fertiliser in spring. Mulch with well-rotted compost or manure, kept clear of the crown.
+
+**Companions:** Salvia, echinacea, rudbeckia, lavender, ornamental grasses — classic sunny border companions with the same drainage needs.
+
+**West of Ireland:** Choose thinner-leaved, hardier cultivars for the most reliable results in wet Irish winters. Leave old growth in place over winter as frost protection, cutting back by a third in autumn and hard in spring once new growth appears at the base — cutting back too early or too hard risks losing the plant.
+
+---
+
+### F36. Peonies (*Paeonia* spp.)
 
 📷 **Reference photo:** [Peonies — view on Wikipedia](https://en.wikipedia.org/wiki/Paeonia)
 
@@ -2211,7 +2794,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Spacing:** 90cm between plants
 
-**Soil needs:** Free-draining, fertile, pH 6.5–7.0.
+**Soil needs:** Free-draining, fertile, pH 6.5–7.0. Work in multipurpose compost plus 30–40% horticultural grit for genuinely sharp drainage; a raised bed or mound helps on flat clay. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth (herbaceous):** ⚠️ Eyes MAX 2.5–5cm below soil. Too deep = no flowers. The most commonly made planting mistake.
 
@@ -2223,7 +2806,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F25. Perennial Flax (*Linum perenne*)
+### F37. Perennial Flax (*Linum perenne*)
 
 📷 **Reference photo:** [Linum / Perennial Flax — view source](https://en.wikipedia.org/wiki/Linum_perenne)
 
@@ -2231,7 +2814,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil, tolerant of poor/dry conditions; pH 6.0–7.5. Dislikes winter wet.
 
-**Soil prep:** Improve clay with grit for drainage.
+**Soil prep:** Improve clay with horticultural grit for drainage. Mix the excavated clay 50/50 with multipurpose compost, adding a little horticultural grit if the spot is slow to drain. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -2245,7 +2828,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F26. Pheasant's Eye (*Adonis vernalis* / *A. amurensis*)
+### F38. Pheasant's Eye (*Adonis vernalis* / *A. amurensis*)
 
 📷 **Reference photo:** [Adonis — view source](https://en.wikipedia.org/wiki/Adonis_(plant))
 
@@ -2253,7 +2836,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, humus-rich soil; neutral to slightly alkaline, pH 6.5–7.5.
 
-**Soil prep:** Improve clay with compost and grit for good drainage.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit for good drainage. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -2269,7 +2852,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F27. Pinks (*Dianthus plumarius* and garden hybrids)
+### F39. Pinks (*Dianthus plumarius* and garden hybrids)
 
 📷 **Reference photo:** [Pinks — view on Wikipedia](https://en.wikipedia.org/wiki/Dianthus_plumarius)
 
@@ -2277,7 +2860,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Dianthus grows best in rich, neutral soil on the alkaline side, best pH range 5.8 to 6.2. While the plants perform well in rich soil, most dianthuses are able to adapt to a wide range of soil conditions, including those with high amounts of clay or sand. Well-drained soil and good air circulation are necessary to avoid root rot and fungal diseases.
 
-**Soil prep:** Add compost and 20–25% grit to clay. Good drainage is essential — dianthus rots in waterlogged clay.
+**Soil prep:** Add multipurpose compost and 20–25% horticultural grit to clay. Good drainage is essential — dianthus rots in waterlogged clay. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; plant at the same depth as in the nursery pot. Space 25–35cm apart.
 
@@ -2293,7 +2876,53 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F28. Siberian Statice (*Goniolimon tataricum*)
+### F40. Scabiosa (Pincushion Flower) (*Scabiosa columbaria*)
+
+📷 **Reference photo:** [Scabiosa — view on Wikipedia](https://en.wikipedia.org/wiki/Scabiosa_columbaria)
+
+**Light:** ☀️ Full sun essential, with afternoon shade appreciated in the hottest spells.
+
+**Soil needs:** Well-drained, fertile soil, neutral to slightly alkaline; pH 6.2–7.5. Will not tolerate soggy soil, especially over winter.
+
+**Soil prep:** Mix clay with multipurpose compost and generous horticultural grit (30%+) for sharp drainage; a raised bed on heavy clay substantially improves winter survival.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 30–40cm between plants.
+
+**Fertiliser:** Little required; a balanced feed every month or two during flowering supports the long bloom season, but avoid rich soil, which shortens the plant's life.
+
+**Companions:** Roses, salvias, ornamental grasses — a top-rated pollinator plant, especially valuable for butterflies and bumblebees.
+
+**West of Ireland:** Blooms continuously from late spring into autumn if deadheaded every week or so; divide every 2–3 years to maintain vigour, since plants can be short-lived, particularly where drainage is imperfect.
+
+---
+
+### F41. Sea Holly (*Eryngium* spp.)
+
+📷 **Reference photo:** [Sea Holly — view on Wikipedia](https://en.wikipedia.org/wiki/Eryngium)
+
+**Light:** ☀️ Full sun essential; will not thrive in shade.
+
+**Soil needs:** Very free-draining soil, tolerant of poor, dry conditions; pH 5.0–7.5. Some species (e.g. *Eryngium bourgatii*, *E. planum*) tolerate heavier soil than others if drainage is genuinely sharp; overly fertile or wet soil is unsuitable for all.
+
+**Soil prep:** Mix clay with multipurpose compost and generous horticultural grit (30%+) — this is one of the more drainage-critical plants in the guide, and a raised bed, gravel garden, or the foot of a sheltered, sunny wall gives far better results than open, flat clay.
+
+**Planting depth:** Crown at soil level; long taproot resents disturbance, so choose the final position carefully — sea holly transplants poorly once established.
+
+**Spacing:** 40–90cm between plants depending on species.
+
+**Fertiliser:** None to very little required — rich feeding is actively counterproductive, producing weak growth.
+
+**Companions:** Roses, taller perennials, ornamental grasses — architectural contrast plants for a sunny mixed border or gravel garden.
+
+**West of Ireland:** Sculptural, spiny, metallic-blue or silvery-green thistle-like flowerheads through summer, excellent for cutting and drying, and a strong pollinator plant. Site away from path edges given the sharp spines. Given the region's high rainfall, sharp drainage is the single most important factor for success — this is not a plant for flat, undrained clay.
+
+⚠️ Spiny foliage and bracts can cause minor skin irritation — take care when handling or dividing.
+
+---
+
+### F42. Siberian Statice (*Goniolimon tataricum*)
 
 📷 **Reference photo:** [Siberian Statice — view source](https://en.wikipedia.org/wiki/Goniolimon_tataricum)
 
@@ -2301,7 +2930,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil, tolerant of poor/dry ground; pH 6.0–7.5. Dislikes winter wet.
 
-**Soil prep:** Improve clay with grit for good drainage.
+**Soil prep:** Improve clay with horticultural grit for good drainage. Improve the clay with an equal volume of multipurpose compost, working in horticultural grit if drainage is sluggish. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level; deep taproot, so choose the final position with care.
 
@@ -2315,7 +2944,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F29. Spreading Bellflower (*Campanula patula*)
+### F43. Slender Vervain (*Verbena rigida*)
+
+📷 **Reference photo:** [Slender Vervain — view on Wikipedia](https://en.wikipedia.org/wiki/Verbena_rigida)
+
+**Light:** ☀️ Full sun essential for best flowering; tolerates some part shade.
+
+**Soil needs:** Moist but well-drained soil, tolerant of a wide pH range; pH 6.0–7.2.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost and horticultural grit — this plant dislikes sitting in wet clay, which encourages rot, especially over winter.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 25–35cm between plants; spreads by creeping rhizomes to form drifts.
+
+**Fertiliser:** Little required; light balanced feed in spring on poor soil.
+
+**Companions:** Ornamental grasses, other verbenas (e.g. *V. bonariensis*), sedum — classic gravel garden and wildlife border companions.
+
+**West of Ireland:** Borderline hardy (roughly RHS zone 7) — not fully reliable through a wet west of Ireland winter in open ground. A well-drained, sheltered spot with a dry winter mulch improves the chance of it returning, or treat as an easy, long-flowering annual and replace some plants each year. Long summer-to-autumn flowering season, rich in nectar for bees and butterflies.
+
+---
+
+### F44. Spreading Bellflower (*Campanula patula*)
 
 📷 **Reference photo:** [Spreading Bellflower — view source](https://en.wikipedia.org/wiki/Campanula_patula)
 
@@ -2323,7 +2974,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.5.
 
-**Soil prep:** Mix clay with compost and grit.
+**Soil prep:** Mix clay with multipurpose compost and horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level, or sow seed on the surface in late spring/summer.
 
@@ -2337,7 +2988,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F30. Stocks (*Matthiola incana* / *M. longipetala*)
+### F45. Stocks (*Matthiola incana* / *M. longipetala*)
 
 📷 **Reference photo:** [Stocks — view on Wikipedia](https://en.wikipedia.org/wiki/Matthiola_incana)
 
@@ -2345,7 +2996,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, pH 6.5–7.5. Slightly alkaline preferred.
 
-**Soil prep:** Compost and 20% grit.
+**Soil prep:** Compost and 20% horticultural grit. Improve the clay with an equal volume of multipurpose compost, working in horticultural grit if drainage is sluggish. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; seeds surface-sown.
 
@@ -2357,7 +3008,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F31. Sweet William (*Dianthus barbatus*)
+### F46. Sweet William (*Dianthus barbatus*)
 
 📷 **Reference photo:** [Sweet William — view on Wikipedia](https://en.wikipedia.org/wiki/Dianthus_barbatus)
 
@@ -2365,7 +3016,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Sweet William does best in rich, well-draining soil that's kept moist but not soggy. pH 5.8–6.5. Slightly alkaline preferred. Tolerates clay if drainage improved.
 
-**Soil prep:** Add compost and 20% grit to clay. Good drainage needed.
+**Soil prep:** Add multipurpose compost and 20% horticultural grit to clay. Good drainage needed. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level. Sow seed in spring or summer (biennial variety: sow June–July to flower next year). Space 30cm apart.
 
@@ -2381,7 +3032,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F32. Toadflax (*Linaria vulgaris*)
+### F47. Toadflax (*Linaria vulgaris*)
 
 📷 **Reference photo:** [Toadflax — view source](https://en.wikipedia.org/wiki/Linaria_vulgaris)
 
@@ -2389,7 +3040,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil, tolerant of poor/dry ground; pH 6.0–7.5.
 
-**Soil prep:** Minimal — this native wildflower is unfussy; avoid over-rich soil, which encourages excess soft growth and spread.
+**Soil prep:** Minimal — this native wildflower is unfussy; avoid over-rich soil, which encourages excess soft growth and spread. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level, or sow seed on the surface.
 
@@ -2403,29 +3054,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F33. Vervain (*Verbena officinalis*)
-
-📷 **Reference photo:** [Vervain — view source](https://en.wikipedia.org/wiki/Verbena_officinalis)
-
-**Light:** ☀️ Full sun to 🌤️ partial shade.
-
-**Soil needs:** Well-drained soil; pH 6.0–7.5. Tolerant of poor, dry conditions once established.
-
-**Soil prep:** Improve clay with compost and grit.
-
-**Planting depth:** Crown at soil level.
-
-**Spacing:** 20–30cm between plants
-
-**Fertiliser:** Little required; avoid rich soil, which produces floppy growth.
-
-**Companions:** Lavender, catmint, ornamental grasses — classic gravel-garden and pollinator-border companions.
-
-**West of Ireland:** A native wildflower with wiry, airy stems of tiny lilac flowers through summer, valuable for pollinators, and long used in traditional herbal medicine. Self-seeds gently; best in a sunny, well-drained spot rather than heavy wet clay.
-
----
-
-### F34. Yarrow (*Achillea millefolium*)
+### F48. Yarrow (*Achillea millefolium*)
 
 📷 **Reference photo:** [Yarrow — view on Wikipedia](https://en.wikipedia.org/wiki/Achillea_millefolium)
 
@@ -2433,7 +3062,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Loamy soil is ideal, but yarrow tolerates clay soil if it drains well. Loosen soil 12–15 inches deep and mix in 2–4 inches of compost before planting. Avoid overly rich soil; too much fertility can cause floppy stems. pH 5.5–7.0. Very adaptable — will grow in poor soil.
 
-**Soil prep:** Loosen soil to 30–40cm depth and mix in compost before planting. Do not add heavy nitrogen; this causes floppy stems. On clay, add 15–20% grit to improve drainage.
+**Soil prep:** Loosen soil to 30–40cm depth and mix in multipurpose compost before planting. Do not add heavy nitrogen; this causes floppy stems. On clay, add 15–20% horticultural grit to improve drainage. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; bare-root crowns with buds 2–3cm below soil surface. Space 30–60cm apart.
 
@@ -2451,7 +3080,77 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP G: ANNUAL FLOWERS
 
-### G1. Chinese Pink (*Dianthus chinensis*)
+### G1. Borage (*Borago officinalis*)
+
+**Irish name:** Borráiste gorm
+
+📷 **Reference photo:** [Borage — view on Wikipedia](https://en.wikipedia.org/wiki/Borago_officinalis)
+
+**Light:** ☀️ Full sun essential; tolerates light shade.
+
+**Soil needs:** Most soils including clay, tolerant of poor/dry ground; pH 6.0–7.0.
+
+**Soil prep:** Mix clay with multipurpose compost; avoid over-rich, wet soil, which can encourage mildew and floppy growth. Little special preparation needed — borage is genuinely easy on clay.
+
+**Planting depth:** Sow seed 1cm deep, direct (dislikes transplanting due to its taproot).
+
+**Spacing:** 45–60cm between plants.
+
+**Fertiliser:** None to very little required.
+
+**Companions:** Strawberries, tomatoes, squash, cucumbers — a classic vegetable-garden companion said to improve pollination and deter cabbage worms; avoid planting near potatoes or fennel.
+
+**West of Ireland:** Easy, vigorous hardy annual with edible, cucumber-flavoured blue star-shaped flowers loved by bees; self-seeds prolifically once established, often behaving like a perennial from year to year. Site at the edge of the vegetable bed rather than among small seedlings, since mature plants are large and can shade out neighbours.
+
+---
+
+### G2. Calendula (Pot Marigold) (*Calendula officinalis*)
+
+📷 **Reference photo:** [Calendula — view on Wikipedia](https://en.wikipedia.org/wiki/Calendula_officinalis)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Well-drained, moderately fertile soil, tolerant of poor/dry ground; pH 6.0–7.0.
+
+**Soil prep:** Mix clay with multipurpose compost; avoid over-rich, wet soil, which produces poor growth and floppy plants.
+
+**Planting depth:** Sow seed 1cm deep, direct or in trays, spring through early summer.
+
+**Spacing:** 15–30cm between plants.
+
+**Fertiliser:** Little required; occasional feed if soil is poor.
+
+**Companions:** Brassicas, tomatoes, carrots — classic companion plant said to help deter pests; edible, cheerful petals for salads.
+
+**West of Ireland:** Easy, cheerful hardy annual that self-seeds readily and tolerates the cooler, damper Irish summer well, flowering from early summer into autumn. Deadhead regularly to prolong flowering and reduce self-seeding if not wanted.
+
+---
+
+### G3. California Poppy (*Eschscholzia californica*)
+
+📷 **Reference photo:** [California Poppy — view on Wikipedia](https://en.wikipedia.org/wiki/Eschscholzia_californica)
+
+**Light:** ☀️ Full sun essential — flowers close in shade, cloud and at night.
+
+**Soil needs:** Well-drained soil, tolerant of poor/dry conditions including clay hillsides; pH 5.2–8.3, ideally 6.5–7.5.
+
+**Soil prep:** Mix clay with horticultural grit to improve drainage; avoid over-rich soil, which produces excess foliage at the expense of flowers.
+
+**Planting depth:** Sow seed on the surface or barely covered, spring, direct where it is to flower (dislikes root disturbance from transplanting).
+
+**Spacing:** 15–23cm between plants.
+
+**Fertiliser:** None required — rich soil is actively counterproductive here.
+
+**Companions:** Other drought-tolerant hardy annuals such as cornflower and love-in-a-mist; good in gravel gardens with lavender and rosemary.
+
+**West of Ireland:** Bright orange-yellow, silky, cup-shaped flowers over finely divided blue-green foliage through summer, self-seeding freely. Best suited to a well-drained, sunny spot rather than damp, shaded ground; excellent as a drought-tolerant pot plant on a patio.
+
+⚠️ Foliage can be mildly toxic if ingested in quantity.
+
+---
+
+### G4. Chinese Pink (*Dianthus chinensis*)
 
 📷 **Reference photo:** [Chinese Pink — view source](https://en.wikipedia.org/wiki/Dianthus_chinensis)
 
@@ -2459,7 +3158,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining soil; pH 6.5–7.5. Dislikes waterlogged clay.
 
-**Soil prep:** Improve clay with 30% grit; raised bed or container recommended.
+**Soil prep:** Improve clay with 30% horticultural grit; raised bed or container recommended. Improve the clay with an equal volume of multipurpose compost, working in horticultural grit if drainage is sluggish.
 
 **Planting depth:** At pot level, or sow seed 3mm deep in spring.
 
@@ -2473,7 +3172,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G2. Cornflower (*Centaurea cyanus*)
+### G5. Cornflower (*Centaurea cyanus*)
 
 📷 **Reference photo:** [Cornflower — view source](https://en.wikipedia.org/wiki/Centaurea_cyanus)
 
@@ -2481,7 +3180,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.5. Tolerant of poor soil.
 
-**Soil prep:** Improve clay with compost and grit; avoid over-rich ground, which produces weak, floppy stems.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit; avoid over-rich ground, which produces weak, floppy stems. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Sow seed 1–2cm deep, spring (or autumn for earlier flowers).
 
@@ -2495,7 +3194,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G3. Greater Quaking Grass (*Briza maxima*)
+### G6. Cosmos (*Cosmos bipinnatus*)
+
+📷 **Reference photo:** [Cosmos — view on Wikipedia](https://en.wikipedia.org/wiki/Cosmos_bipinnatus)
+
+**Light:** ☀️ Full sun essential — at least 6 hours daily; will not flower well in shade.
+
+**Soil needs:** Ordinary, moderately fertile, well-drained soil; pH 6.0–7.5. Dislikes soggy summer conditions.
+
+**Soil prep:** Mix clay with multipurpose compost and horticultural grit if the site is slow-draining; avoid rich, heavily fertilised ground, which produces lush foliage at the expense of flowers.
+
+**Planting depth:** Sow seed 5–6mm deep, direct after the last frost, or raise indoors and plant out young plants at pot level.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** Little to none required; avoid high-nitrogen feeds.
+
+**Companions:** Zinnias, dahlias, ornamental grasses — classic cutting-garden companions with a long summer-to-autumn flowering season.
+
+**West of Ireland:** Airy, feathery foliage and abundant saucer-shaped flowers in pink, white, red or orange from summer to the first frosts, excellent for cutting and for attracting bees and butterflies. Deadhead regularly to prolong flowering; taller varieties may need light staking in an exposed, windy spot.
+
+---
+
+### G7. Greater Quaking Grass (*Briza maxima*)
 
 📷 **Reference photo:** [Briza Maxima — view source](https://en.wikipedia.org/wiki/Briza_maxima)
 
@@ -2503,7 +3224,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.5. Tolerant of poor soil.
 
-**Soil prep:** Improve clay with compost and grit.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Sow seed 5mm deep in spring, direct or in trays.
 
@@ -2517,7 +3238,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G4. Lacy Phacelia (*Phacelia tanacetifolia*)
+### G8. Lacy Phacelia (*Phacelia tanacetifolia*)
 
 📷 **Reference photo:** [Phacelia — view source](https://en.wikipedia.org/wiki/Phacelia_tanacetifolia)
 
@@ -2525,7 +3246,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most well-drained soils including clay; pH 6.0–7.5. Very unfussy.
 
-**Soil prep:** Minimal — often used as a green manure/cover crop precisely because it grows so easily on poor or heavy ground.
+**Soil prep:** Minimal — often used as a green manure/cover crop precisely because it grows so easily on poor or heavy ground. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Sow seed 1cm deep, spring through summer for successional flowering.
 
@@ -2539,7 +3260,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G5. Love-in-a-Mist (*Nigella damascena*)
+### G9. Love-in-a-Mist (*Nigella damascena*)
+
+**Irish name:** Nigéal
 
 📷 **Reference photo:** [Love-in-a-Mist — view source](https://en.wikipedia.org/wiki/Nigella_damascena)
 
@@ -2547,7 +3270,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.5.
 
-**Soil prep:** Improve clay with compost and grit.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Sow seed 1cm deep, spring or autumn, direct where it is to flower (dislikes root disturbance from transplanting).
 
@@ -2561,7 +3284,33 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G6. Poppies (*Papaver* spp., e.g. *P. rhoeas*, Shirley poppies)
+### G10. Poached Egg Plant (*Limnanthes douglasii*)
+
+**Irish name:** Cúr léana
+
+📷 **Reference photo:** [Poached Egg Plant — view on Wikipedia](https://en.wikipedia.org/wiki/Limnanthes_douglasii)
+
+**Light:** ☀️ Full sun essential.
+
+**Soil needs:** Any moist but well-drained soil, tolerant of a wide pH range including clay; pH 5.5–7.5.
+
+**Soil prep:** Mix clay with multipurpose compost; this is one of the more clay-tolerant annuals in the guide and needs little special preparation.
+
+**Planting depth:** Sow seed on the surface or barely covered, spring or autumn, direct where it is to flower.
+
+**Spacing:** 10–20cm between plants.
+
+**Fertiliser:** None required.
+
+**Companions:** Vegetable beds (excellent for attracting hoverflies, which prey on aphids), other hardy annuals such as cornflower and love-in-a-mist.
+
+**West of Ireland:** Easy, fast-growing, low spreading hardy annual forming a carpet of cheerful yellow-and-white "poached egg" flowers through summer; self-seeds freely once established, and is a particularly good choice for edging vegetable beds given its value to pollinators and pest-eating insects.
+
+---
+
+### G11. Poppies (*Papaver* spp., e.g. *P. rhoeas*, Shirley poppies)
+
+**Irish name:** Cailleach dhearg
 
 📷 **Reference photo:** [Poppies — view source](https://en.wikipedia.org/wiki/Papaver_rhoeas)
 
@@ -2569,7 +3318,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.5. Tolerant of poor soil.
 
-**Soil prep:** Improve clay with compost and grit; avoid over-rich ground.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit; avoid over-rich ground. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Sow seed on the surface or just barely covered (needs light to germinate), spring or autumn, direct where it is to flower.
 
@@ -2583,7 +3332,55 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G7. Sweet Peas (*Lathyrus odoratus*)
+### G12. Snapdragons (*Antirrhinum majus*)
+
+**Irish name:** Srubh lao
+
+📷 **Reference photo:** [Snapdragon — view on Wikipedia](https://en.wikipedia.org/wiki/Antirrhinum_majus)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade; part shade helps prolong flowering in a hot summer.
+
+**Soil needs:** Well-drained, fertile soil, tolerant of heavy clay and poor ground; pH 6.0–7.0.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost; avoid overly heavy, waterlogged ground, which shortens the plant's life.
+
+**Planting depth:** Sow seed on the surface or barely covered (needs light to germinate), or plant out young plants at pot level after the last frost.
+
+**Spacing:** 20–30cm between plants.
+
+**Fertiliser:** Balanced fertiliser at planting, then every 4–6 weeks through the growing season; avoid excess nitrogen, which favours leaves over flowers.
+
+**Companions:** Wallflowers, sweet William, forget-me-nots — classic cottage-garden and cutting-bed companions.
+
+**West of Ireland:** A short-lived tender perennial usually grown as a cool-season annual or biennial, valued for its tall spikes of "snapping" tubular flowers in almost every colour from spring through autumn. Pinch out growing tips on young plants to encourage bushiness, and deadhead regularly for repeat flowering; in a sheltered west of Ireland garden, plants may survive a mild winter and flower again the following year.
+
+---
+
+### G13. Sweet Alyssum (*Lobularia maritima*)
+
+**Irish name:** Alasam cumhra
+
+📷 **Reference photo:** [Sweet Alyssum — view on Wikipedia](https://en.wikipedia.org/wiki/Lobularia_maritima)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Well-drained soil, tolerant of a wide range including clay and sand; pH 6.0–7.0.
+
+**Soil prep:** Mix clay with multipurpose compost; heavy clay benefits from added horticultural grit, since this coastal Mediterranean species dislikes prolonged waterlogging.
+
+**Planting depth:** Sow seed 1–2mm deep, or barely covered, spring.
+
+**Spacing:** 15–25cm between plants.
+
+**Fertiliser:** Little required; container plants benefit from a light monthly feed.
+
+**Companions:** Roses, snapdragons, carrots and other vegetables — a classic edging plant that attracts pollinators and beneficial insects.
+
+**West of Ireland:** Low, mat-forming, honey-scented annual (occasionally short-lived perennial) ideal for edging beds, paths and containers; tolerates the maritime exposure of west of Ireland coastal gardens well. Self-seeds readily; cut back hard mid-season if flowering declines to encourage a fresh flush.
+
+---
+
+### G14. Sweet Peas (*Lathyrus odoratus*)
 
 📷 **Reference photo:** [Sweet Peas — view source](https://en.wikipedia.org/wiki/Lathyrus_odoratus)
 
@@ -2591,7 +3388,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, fertile soil; pH 6.0–7.5.
 
-**Soil prep:** Dig in plenty of compost — sweet peas are hungrier and thirstier than most annuals. Improve drainage with grit if the site is very wet.
+**Soil prep:** Dig in plenty of multipurpose compost — sweet peas are hungrier and thirstier than most annuals. Improve drainage with horticultural grit if the site is very wet. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Sow seed 2cm deep, spring (or autumn under cover for earlier, stronger plants).
 
@@ -2605,9 +3402,75 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### G15. Zinnia (*Zinnia elegans*)
+
+📷 **Reference photo:** [Zinnia — view on Wikipedia](https://en.wikipedia.org/wiki/Zinnia_elegans)
+
+**Light:** ☀️ Full sun essential — at least 6 hours daily.
+
+**Soil needs:** Fertile, well-drained soil, tolerant of a wide range including clay, loam and sand; pH 5.5–7.5.
+
+**Soil prep:** Mix clay with multipurpose compost, adding horticultural grit if the site is slow to drain. Zinnias are sensitive to cold, wet ground, so a warm, sheltered, free-draining spot gives the best results.
+
+**Planting depth:** Sow seed 5–6mm deep, direct after all risk of frost has passed (zinnias are frost-tender and dislike being planted out too early), or plant out young plants at pot level.
+
+**Spacing:** 20–30cm between plants, to allow good airflow and reduce fungal disease.
+
+**Fertiliser:** Light balanced feed at planting and again as flowering begins.
+
+**Companions:** Cosmos, dahlias, cornflower — classic cutting-garden companions valued for pollinators.
+
+**West of Ireland:** Bright, long-lasting, daisy-like blooms in almost every colour from summer to the first frost. Genuinely tender and slow to establish in a cool, wet start to the season — wait until late spring, after nights have warmed, before planting out, and consider raising plants under cover (a cold frame, polytunnel, or bright windowsill) for a head start given the west of Ireland's often cool, damp early summer. Water at the base rather than overhead to reduce powdery mildew.
+
+---
+
 ## GROUP H: KITCHEN HERBS & VEGETABLES
 
-### H1. Catnip (*Nepeta cataria*)
+### H1. Asparagus (*Asparagus officinalis*)
+
+📷 **Reference photo:** [Asparagus — view on Wikipedia](https://en.wikipedia.org/wiki/Asparagus)
+
+**Light:** ☀️ Full sun essential — at least 6–8 hours daily.
+
+**Soil needs:** Deep, fertile, well-drained soil; pH 6.5–7.5. Dislikes heavy, poorly-drained clay and will develop crown rot if the roots sit wet — good drainage matters more here than for almost any other edible in this guide.
+
+**Soil prep:** Dig a trench 25–35cm deep and 30–45cm wide, working plenty of multipurpose compost or well-rotted manure into the base. On clay, add generous horticultural grit throughout the trench and consider raising the bed 15–20cm above the surrounding ground, since asparagus roots need to establish over 30cm deep and cannot tolerate standing water at that depth.
+
+**Planting depth:** Set one-year-old crowns on a small ridge of soil in the trench base (roots draped over the ridge), 20cm deep initially, then gradually fill in the trench with soil over the first growing season as shoots emerge, without covering the tips.
+
+**Spacing:** 30–45cm between crowns; 90cm–1.5m between rows if growing more than one row.
+
+**Fertiliser:** Balanced fertiliser (high in potassium) in late winter before spears emerge, and again after the harvest season ends, to build up the crown's reserves for next year. Mulch annually with well-rotted compost or manure.
+
+**Companions:** Basil, parsley, tomatoes and calendula are traditional companions; avoid planting near onions or garlic, which can inhibit growth.
+
+**West of Ireland:** A genuine long-term investment — a well-prepared bed can crop for 15–20 years or more, but requires patience: do not harvest at all in the first year after planting, harvest very lightly in year two, and only take a full harvest (6–8 weeks each spring) from year three onward. Choose all-male cultivars where possible (e.g. 'Gijnlim', 'Backlim') — male plants put their energy into spears rather than seed-producing berries, and are more productive and less prone to unwanted self-seeding. Given this region's high rainfall, a raised bed or mound is strongly advised rather than planting directly into flat clay.
+
+---
+
+### H2. Basil (*Ocimum basilicum*)
+
+📷 **Reference photo:** [Basil — view on Wikipedia](https://en.wikipedia.org/wiki/Basil)
+
+**Light:** ☀️ Full sun essential, in a warm, sheltered spot — basil is markedly more heat- and cold-sensitive than most herbs in this guide.
+
+**Soil needs:** Fertile, well-drained soil; pH 6.0–7.5.
+
+**Soil prep:** Mix clay with multipurpose compost; basil is usually best raised in pots or a raised bed on Irish clay, since it is far less tolerant of cool, wet roots than hardier Mediterranean herbs like rosemary or thyme.
+
+**Planting depth:** At pot level, only after all risk of frost has passed and nights have warmed.
+
+**Spacing:** 20–25cm between plants.
+
+**Fertiliser:** Light balanced feed occasionally through the growing season; avoid overfeeding, which dilutes the essential oils responsible for its flavour.
+
+**Companions:** Tomatoes and peppers — a classic companion pairing said to improve the growth and flavour of both.
+
+**West of Ireland:** A genuinely tender annual (or short-lived perennial in frost-free climates) that struggles outdoors in a typically cool, damp Irish summer — best grown in pots on a sheltered, sunny patio or windowsill, or under cover in a greenhouse/polytunnel, rather than direct in open ground. Bring pots indoors, or take cuttings, before the first fresh autumn nights to extend the season. Pinch out flower spikes and regularly harvest leaves from the top to keep plants bushy and productive.
+
+---
+
+### H3. Catnip (*Nepeta cataria*)
 
 📷 **Reference photo:** [Catnip — view source](https://en.wikipedia.org/wiki/Nepeta_cataria)
 
@@ -2615,7 +3478,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained soil; pH 6.0–7.5. Tolerant of poor soil.
 
-**Soil prep:** Improve clay with compost and grit.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level.
 
@@ -2629,13 +3492,107 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H2. Coriander (*Coriandrum sativum*)
+### H4. Chamomile (*Chamaemelum nobile*, Roman; *Matricaria chamomilla*, German)
+
+**Irish name:** Camán meall
+
+📷 **Reference photo:** [Chamomile — view on Wikipedia](https://en.wikipedia.org/wiki/Chamaemelum_nobile)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Well-drained soil, tolerant of a wide range including clay and poor ground; pH 5.6–7.8.
+
+**Soil prep:** Mix clay with multipurpose compost, and horticultural grit if the site is slow-draining, especially for Roman chamomile, whose low, creeping mats dislike sitting wet.
+
+**Planting depth:** Roman chamomile (perennial): crown at soil level, or plant divisions/rooted runners. German chamomile (annual): sow seed on the surface, since it needs light to germinate.
+
+**Spacing:** 20–30cm between plants.
+
+**Fertiliser:** Little required; annual compost mulch for the perennial Roman type.
+
+**Companions:** Brassicas and onions (traditionally said to improve growth and flavour of neighbouring plants), other Mediterranean herbs with similar needs.
+
+**West of Ireland:** Two distinct plants share the name: Roman chamomile (*Chamaemelum nobile*) is a low, mat-forming, evergreen perennial useful for a fragrant lawn or path edging that tolerates light foot traffic; German chamomile (*Matricaria chamomilla*) is an upright annual grown mainly for its apple-scented, tea-making flowers. Both are easy on most west of Ireland soils given reasonable drainage, and both attract pollinators well.
+
+---
+
+### H5. Chives (*Allium schoenoprasum*)
+
+📷 **Reference photo:** [Chives — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_schoenoprasum)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Fertile, moisture-retentive, well-drained soil; pH 6.0–7.0.
+
+**Soil prep:** Mix clay with multipurpose compost; add horticultural grit if grown in heavy clay to improve drainage, as recommended by the RHS for this species.
+
+**Planting depth:** At pot level, or divide established clumps.
+
+**Spacing:** 15–20cm between plants.
+
+**Fertiliser:** Light balanced feed in spring; annual compost mulch.
+
+**Companions:** Carrots, roses, apples (already used as a companion throughout this guide to help deter aphids); good edging plant for a kitchen garden.
+
+**West of Ireland:** One of the easiest, most reliable perennial herbs — snip leaves regularly from spring to autumn to keep fresh growth coming, and divide every 2–3 years to renew vigour. Purple pom-pom flowers in early summer are edible and attractive to pollinators, though harvesting is best from leaves rather than flowering stems for the mildest flavour.
+
+---
+
+### H6. Comfrey (*Symphytum officinale*)
+
+📷 **Reference photo:** [Comfrey — view on Wikipedia](https://en.wikipedia.org/wiki/Symphytum_officinale)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Moderately fertile, moist soil, tolerant of a wide pH range including heavy clay; pH 6.1–7.3.
+
+**Soil prep:** Mix clay with multipurpose compost; comfrey is genuinely unfussy about soil once moisture is adequate, and it will itself improve heavy ground over time as its deep roots break up compaction.
+
+**Planting depth:** Crown/root cutting at soil level, or divisions planted with the crown just below the surface.
+
+**Spacing:** 60–90cm between plants; comfrey forms a substantial clump and can become a nuisance if not given room or contained.
+
+**Fertiliser:** None required — comfrey is itself used to make liquid fertiliser and mulch, thanks to its deep taproot drawing up minerals from far below the surface.
+
+**Companions:** Grown near fruit trees and vegetable beds rather than as an ornamental companion — cut leaves are used as a potassium-rich mulch or steeped in water to make a traditional "comfrey tea" liquid feed for tomatoes and other fruiting crops.
+
+**West of Ireland:** Vigorous and easy on damp Irish clay, but can become invasive if not managed — site away from smaller plants, and consider a sterile cultivar such as Russian comfrey (*Symphytum × uplandicum* 'Bocking 14') if only the mulch/fertiliser use is wanted, as it does not set viable seed.
+
+⚠️ All parts are harmful if eaten repeatedly (contains pyrrolizidine alkaloids, linked to liver damage) — wear gloves when handling, and do not use internally without professional guidance.
+
+---
+
+### H7. Common Sorrel (*Rumex acetosa*)
+
+**Irish name:** Samhadh bó
+
+📷 **Reference photo:** [Common Sorrel — view on Wikipedia](https://en.wikipedia.org/wiki/Rumex_acetosa)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Fertile, moisture-retentive soil, tolerant of a wide pH range including clay and acid ground; pH 5.5–6.8.
+
+**Soil prep:** Mix clay with multipurpose compost; sorrel is genuinely unfussy about soil once there's enough organic matter to encourage leafy growth, and it tolerates clay well.
+
+**Planting depth:** Sow seed 5–6mm deep, or plant divisions at pot level.
+
+**Spacing:** 30–40cm between plants.
+
+**Fertiliser:** Light balanced feed in spring; too rich a soil produces very large but excessively bitter, oxalic-tasting leaves.
+
+**Companions:** Other salad and leaf herbs; do not confuse with the ornamental Wood Sorrel (*Oxalis acetosella*) already in this guide's Shade & Woodland section, which is an unrelated woodland plant.
+
+**West of Ireland:** An easy, low-maintenance perennial leaf herb with a sharp, lemony flavour used in salads, soups and sauces since medieval times, and genuinely happy on Irish clay given reasonable moisture. Harvest leaves regularly to encourage fresh growth and to delay flowering, which makes the leaves tougher and more bitter; divide congested clumps every 3–4 years.
+
+---
+
+### H8. Coriander (*Coriandrum sativum*)
 
 📷 **Reference photo:** [Coriander — view on Wikipedia](https://en.wikipedia.org/wiki/Coriander)
 
 **Light:** 🌤️ Full sun to partial shade. Shade reduces bolting — useful in the cool west of Ireland.
 
-**Soil needs:** Light, well-drained, fertile, pH 6.0–7.0. Annual. Do NOT transplant — sow direct.
+**Soil needs:** Light, well-drained, fertile, pH 6.0–7.0. Annual. Do NOT transplant — sow direct. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** Sow direct 5mm deep. Thin to 15–20cm.
 
@@ -2647,7 +3604,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H3. Cucumbers (*Cucumis sativus*)
+### H9. Cucumbers (*Cucumis sativus*)
 
 📷 **Reference photo:** [Cucumbers — view source](https://en.wikipedia.org/wiki/Cucumber)
 
@@ -2655,7 +3612,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Rich, moisture-retentive but well-drained soil; pH 6.0–7.0.
 
-**Soil prep:** Dig in plenty of well-rotted compost/manure. Raise beds or mound slightly on heavy clay for better drainage and warmth.
+**Soil prep:** Dig in plenty of well-rotted multipurpose compost/manure. Raise beds or mound slightly on heavy clay for better drainage and warmth. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level, after all risk of frost has passed (outdoor "ridge" types) or under cover for greenhouse types.
 
@@ -2669,13 +3626,35 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H4. Dill (*Anethum graveolens*)
+### H10. Culinary Thyme (*Thymus vulgaris*)
+
+📷 **Reference photo:** [Culinary Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_vulgaris)
+
+**Light:** ☀️ Full sun essential.
+
+**Soil needs:** Free-draining soil, alkaline to neutral; pH 6.0–8.0. Thyme dies from wet soil far more often than from cold.
+
+**Soil prep:** Mix clay generously with 30–40% horticultural grit, or grow in a raised bed/container — sharp drainage is essential, since this bushy Mediterranean shrub cannot tolerate standing water at any time of year.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 25–40cm between plants.
+
+**Fertiliser:** Very little required; over-feeding produces lush but less flavourful growth. Trim after flowering to keep bushy and prevent the centre becoming bare and woody.
+
+**Companions:** Rosemary, sage, lavender — classic Mediterranean herb-bed companions with identical sun and drainage needs.
+
+**West of Ireland:** The classic upright culinary thyme used in bouquet garni and everyday cooking, distinct from the low, mat-forming Mother of Thyme and Wild Thyme already in this guide. On west of Ireland clay, container growing or a raised, gritty bed is by far the more reliable option than open ground; plants become woody after 3–4 years and are best replaced.
+
+---
+
+### H11. Dill (*Anethum graveolens*)
 
 📷 **Reference photo:** [Dill — view on Wikipedia](https://en.wikipedia.org/wiki/Dill)
 
 **Light:** ☀️ Full sun. Sheltered from wind (tall and floppy).
 
-**Soil needs:** Moist, medium-to-well-drained, pH 5.5–7.0. Annual. Sow direct.
+**Soil needs:** Moist, medium-to-well-drained, pH 5.5–7.0. Annual. Sow direct. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** Sow direct, cover 3–5mm. Thin to 20–30cm.
 
@@ -2687,7 +3666,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H5. Green Onions (*Allium fistulosum*)
+### H12. Green Onions (Scallions) (*Allium fistulosum*)
 
 📷 **Reference photo:** [Green Onions / Scallions — view source](https://en.wikipedia.org/wiki/Welsh_onion)
 
@@ -2695,7 +3674,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Fertile, well-drained soil; pH 6.0–7.0.
 
-**Soil prep:** Improve clay with compost; light and free-draining is best.
+**Soil prep:** Improve clay with multipurpose compost; light and free-draining is best. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** Sow seed 1cm deep, or plant sets at pot level, spring through summer for successional harvests.
 
@@ -2709,7 +3688,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H6. Lavender (*Lavandula angustifolia*)
+### H13. Lavender (*Lavandula angustifolia*)
 
 📷 **Reference photo:** [Lavender — view source](https://en.wikipedia.org/wiki/Lavandula_angustifolia)
 
@@ -2717,7 +3696,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, poor to moderately fertile, neutral to alkaline soil; pH 6.5–8.0. Excellent drainage is essential — dislikes sitting in wet clay, especially over winter.
 
-**Soil prep:** Mix clay generously with 30%+ horticultural grit, or plant on a raised mound/bed. A layer of grit or pebbles as surface mulch keeps the crown dry.
+**Soil prep:** Mix clay generously with 30%+ horticultural grit, or plant on a raised mound/bed. A layer of horticultural grit or small pebbles as surface mulch keeps the crown dry. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level; do not bury the woody base.
 
@@ -2731,7 +3710,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H7. Lemon Balm (*Melissa officinalis*)
+### H14. Lemon Balm (*Melissa officinalis*)
 
 📷 **Reference photo:** [Melissa / Lemon Balm — view source](https://en.wikipedia.org/wiki/Melissa_officinalis)
 
@@ -2739,7 +3718,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most moist, well-drained soils including clay; pH 6.0–7.5.
 
-**Soil prep:** Mix clay 50/50 with compost.
+**Soil prep:** Mix clay 50/50 with multipurpose compost. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** At pot level.
 
@@ -2753,7 +3732,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H8. Mint (*Mentha* spp.)
+### H15. Mint (*Mentha* spp.)
 
 📷 **Reference photo:** [Mint — view on Wikipedia](https://en.wikipedia.org/wiki/Mentha)
 
@@ -2771,27 +3750,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H9. Mother of Thyme / Creeping Thyme (*Thymus serpyllum*)
-
-📷 **Reference photo:** [Mother of Thyme / Creeping Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_serpyllum)
-
-**Light:** ☀️ Full sun — essential. Requires maximum sunshine and warmth.
-
-**Soil needs:** Well-drained to dry, poor soil, pH 6.0–8.0. Dislikes wet clay. Raised bed or pot essential.
-
-**Soil prep:** 40–50% grit with compost. Small pebbles as surface mulch.
-
-**Planting depth:** At pot level.
-
-**Spacing:** 20–30cm between plants
-
-**Fertiliser:** Very low nutrient requirements — evolved on lean soil. A very light dressing of balanced fertiliser in spring is the maximum needed. Do not feed in summer or autumn. Grit mulch more beneficial than fertiliser.
-
-**Companions:** Rosemary, oregano, lavender, creeping juniper. Grows beautifully between paving stones or on dry walls. Alongside pasqueflower in a raised sunny bed.
-
----
-
-### H10. Nasturtiums (*Tropaeolum majus*)
+### H16. Nasturtiums (*Tropaeolum majus*)
 
 📷 **Reference photo:** [Nasturtiums — view source](https://en.wikipedia.org/wiki/Tropaeolum_majus)
 
@@ -2799,7 +3758,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Poor to moderately fertile, well-drained soil; pH 6.0–7.5. Rich soil produces excess leaves at the expense of flowers.
 
-**Soil prep:** Minimal — nasturtiums thrive on poor soil; avoid heavy feeding or over-improving the ground.
+**Soil prep:** Minimal — nasturtiums thrive on poor soil; avoid heavy feeding or over-improving the ground. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** Sow seed 1–2cm deep, direct after frost risk has passed.
 
@@ -2813,7 +3772,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H11. Oregano / Wild Marjoram (*Origanum vulgare*)
+### H17. Oregano / Wild Marjoram (*Origanum vulgare*)
+
+**Irish name:** Máirtín fiáin
 
 📷 **Reference photo:** [Oregano / Wild Marjoram — view on Wikipedia](https://en.wikipedia.org/wiki/Origanum_vulgare)
 
@@ -2821,7 +3782,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Well-drained, slightly alkaline preferred, pH 6.5–8.0.
 
-**Soil prep:** 30–40% grit to clay/compost mix. Raised beds ideal.
+**Soil prep:** 30–40% horticultural grit to clay/multipurpose compost mix. Raised beds ideal. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level.
 
@@ -2833,7 +3794,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H12. Radish (*Raphanus sativus*)
+### H18. Parsley (*Petroselinum crispum*)
+
+📷 **Reference photo:** [Parsley — view on Wikipedia](https://en.wikipedia.org/wiki/Petroselinum_crispum)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Fertile, moisture-retentive, well-drained soil; pH 6.0–7.0.
+
+**Soil prep:** Mix clay with multipurpose compost; add horticultural grit if the site is slow-draining, since parsley dislikes sitting in waterlogged ground despite needing consistent moisture.
+
+**Planting depth:** Sow seed 1cm deep, direct or in modules — the taproot is delicate and resents transplanting, so sow where it is to grow if possible.
+
+**Spacing:** 20–30cm between plants.
+
+**Fertiliser:** Moderate feeder — balanced liquid feed every few weeks through the growing season. Mulch with compost to retain moisture.
+
+**Companions:** Tomatoes, asparagus, roses — a classic companion herb, and a good edging plant for a kitchen garden.
+
+**West of Ireland:** A biennial usually grown as an annual, sown successionally from mid-spring to late summer for a continuous supply of leaves; slow and sometimes erratic to germinate, so be patient. Harvest outer leaves regularly rather than all at once, and remove flower stalks that appear in the second year to keep leaf production going for longer.
+
+---
+
+### H19. Radish (*Raphanus sativus*)
 
 📷 **Reference photo:** [Radish — view source](https://en.wikipedia.org/wiki/Radish)
 
@@ -2841,7 +3824,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Light, fertile, well-drained soil, free of stones; pH 6.0–7.0.
 
-**Soil prep:** Improve clay with compost and grit for a looser, freer-draining bed — stony or heavy clay produces misshapen roots.
+**Soil prep:** Improve clay with multipurpose compost and horticultural grit for a looser, freer-draining bed — stony or heavy clay produces misshapen roots. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** Sow seed 1cm deep, direct, from spring through late summer for successional harvests.
 
@@ -2855,7 +3838,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H13. Rocket (*Eruca sativa*)
+### H20. Rocket (*Eruca sativa*)
 
 📷 **Reference photo:** [Rocket — view source](https://en.wikipedia.org/wiki/Eruca_vesicaria)
 
@@ -2863,7 +3846,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Fertile, moisture-retentive but well-drained soil; pH 6.0–7.0.
 
-**Soil prep:** Improve clay with compost.
+**Soil prep:** Improve clay with multipurpose compost. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** Sow seed 1cm deep, direct, spring through autumn for successional harvests.
 
@@ -2877,7 +3860,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H14. Rosemary (*Salvia rosmarinus*, syn. *Rosmarinus officinalis*)
+### H21. Rosemary (*Salvia rosmarinus*, syn. *Rosmarinus officinalis*)
 
 📷 **Reference photo:** [Rosemary — view source](https://en.wikipedia.org/wiki/Salvia_rosmarinus)
 
@@ -2885,7 +3868,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Free-draining, poor to moderately fertile soil; pH 6.0–7.5. Excellent drainage is essential — rosemary is Mediterranean in origin and will not tolerate sitting in wet clay, especially over winter.
 
-**Soil prep:** Mix clay generously with 30%+ horticultural grit, or plant on a raised mound/bed. Add a layer of grit or pebbles as surface mulch to keep the crown dry.
+**Soil prep:** Mix clay generously with 30%+ horticultural grit, or plant on a raised mound/bed. Add a layer of horticultural grit or small pebbles as surface mulch to keep the crown dry. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level; do not bury the woody base.
 
@@ -2899,7 +3882,29 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H15. Scurvy Grass (*Cochlearia officinalis*)
+### H22. Sage (*Salvia officinalis*)
+
+📷 **Reference photo:** [Sage — view on Wikipedia](https://en.wikipedia.org/wiki/Salvia_officinalis)
+
+**Light:** ☀️ Full sun essential, in a sheltered spot.
+
+**Soil needs:** Free-draining, moderately fertile soil; pH 5.6–7.8, ideally close to neutral.
+
+**Soil prep:** Mix clay generously with 30%+ horticultural grit, or plant on a raised mound/bed — like rosemary and lavender, sage is Mediterranean in origin and dislikes sitting in wet clay, especially over winter.
+
+**Planting depth:** At pot level; do not bury the woody base.
+
+**Spacing:** 45–60cm between plants.
+
+**Fertiliser:** Very little required — rich soil produces soft, less aromatic growth. Replace plants every 3–4 years as they become woody and less productive.
+
+**Companions:** Rosemary, lavender, thyme — classic Mediterranean herb-bed companions with the same sun/drainage needs; also a traditional companion for cabbages and carrots, said to repel pests.
+
+**West of Ireland:** Along with rosemary and lavender, one of the herbs most at risk on wet west of Ireland clay in winter — a raised bed, gritty mound, or large terracotta container in a sheltered, sunny spot gives far better results than open ground. Trim after flowering to keep compact; avoid cutting into old bare wood, which will not reshoot.
+
+---
+
+### H23. Scurvy Grass (*Cochlearia officinalis*)
 
 📷 **Reference photo:** [Scurvy Grass — view source](https://en.wikipedia.org/wiki/Cochlearia_officinalis)
 
@@ -2907,7 +3912,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained soil, tolerant of salty/coastal conditions; pH 6.5–7.5.
 
-**Soil prep:** Improve clay with compost; naturally grows in fairly poor, gritty or rocky coastal ground, so avoid over-rich soil.
+**Soil prep:** Improve clay with multipurpose compost; naturally grows in fairly poor, gritty or rocky coastal ground, so avoid over-rich soil. Mix multipurpose compost and a generous proportion of horticultural grit (around a third by volume) into the clay; raised, gritty ground suits it best. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles. When sowing, a lighter mix of multipurpose compost with vermiculite holds moisture well and aids germination.
 
 **Planting depth:** At pot level, or sow seed on the surface.
 
@@ -2921,7 +3926,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H16. Zucchini / Courgette (*Cucurbita pepo*)
+### H24. Zucchini (Courgette) (*Cucurbita pepo*)
 
 📷 **Reference photo:** [Zucchini / Courgette — view source](https://en.wikipedia.org/wiki/Cucurbita_pepo)
 
@@ -2929,7 +3934,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Rich, moisture-retentive but well-drained soil; pH 6.0–7.0.
 
-**Soil prep:** Dig in plenty of well-rotted compost/manure into a planting hole or mound — courgettes are hungry, thirsty plants.
+**Soil prep:** Dig in plenty of well-rotted multipurpose compost/manure into a planting hole or mound — courgettes are hungry, thirsty plants. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** At pot level, after all risk of frost has passed.
 
@@ -2945,7 +3950,33 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP I: SHADE & WOODLAND PLANTS
 
-### I1. Common Dog Violet (*Viola riviniana*)
+### I1. Asian Bleeding Heart (*Lamprocapnos spectabilis*, syn. *Dicentra spectabilis*)
+
+📷 **Reference photo:** [Asian Bleeding Heart — view on Wikipedia](https://en.wikipedia.org/wiki/Lamprocapnos_spectabilis)
+
+**Light:** 🌥️ Partial to full shade; flowers best with morning sun and afternoon shade. Will take full sun in a cool, reliably moist spot.
+
+**Soil needs:** Moist, fertile, humus-rich soil, preferably neutral to slightly alkaline; pH 6.0–7.5. Tolerates clay, chalk and loam.
+
+**Soil prep:** Mix the clay 50/50 with multipurpose compost, working in extra leaf mould or compost to hold moisture through the growing season. Good drainage still matters — waterlogged winter ground can rot the crown, so add horticultural grit on the heaviest, poorest-draining clay.
+
+**Planting depth:** Crown at soil level for potted plants; bare-root crowns about 5cm below the surface.
+
+**Spacing:** 45–60cm between plants; forms a substantial clump up to 1m tall and wide without spreading aggressively.
+
+**Fertiliser:** Balanced fertiliser or a multipurpose compost mulch as new growth appears in spring. Avoid disturbing the roots once established — this plant resents being moved.
+
+**Companions:** Ferns, hostas, hellebores, primroses, aquilegia — classic moist woodland-garden and shade-border companions.
+
+**West of Ireland:** The true "Asian bleeding heart" — native to Siberia, northern China, Korea and Japan — with arching sprays of pendant, heart-shaped pink-and-white (or pure white) flowers in late spring. The consistently moist, mild west of Ireland climate suits it very well. Foliage often dies back by midsummer as the plant goes dormant; interplant with ferns or hostas to fill the gap. Long-lived and reliable once settled, but slow to re-establish if divided or moved, so choose its position with care.
+
+⚠️ All parts can cause stomach upset if eaten, and the sap may irritate sensitive skin — wear gloves when handling or dividing.
+
+---
+
+### I2. Common Dog Violet (*Viola riviniana*)
+
+**Irish name:** Fanaigse
 
 📷 **Reference photo:** [Common Dog Violet — view source](https://en.wikipedia.org/wiki/Viola_riviniana)
 
@@ -2953,7 +3984,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Most moist, well-drained soils including clay; pH 5.5–7.0.
 
-**Soil prep:** Minimal — very adaptable native woodland-floor plant.
+**Soil prep:** Minimal — very adaptable native woodland-floor plant. Mix the excavated clay 50/50 with multipurpose compost, adding a little horticultural grit if the spot is slow to drain. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level.
 
@@ -2967,9 +3998,112 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### I2. Irish Native Mosses
+### I3. Cowslip (*Primula veris*)
 
-📷 **Reference photo:** [Irish Native Mosses — view source](https://en.wikipedia.org/wiki/List_of_mosses_of_Great_Britain_and_Ireland)
+**Irish name:** Bainne bó bleachtáin
+
+📷 **Reference photo:** [Cowslip — view on Wikipedia](https://en.wikipedia.org/wiki/Primula_veris)
+
+**Light:** 🌥️ Partial shade preferred; tolerates full sun in the cooler, moister west of Ireland climate.
+
+**Soil needs:** Moist, well-drained soil, tolerant of a wide range including heavy clay and alkaline ground; pH 6.5–7.5.
+
+**Soil prep:** Mix clay with multipurpose compost; this native wildflower tolerates clay well and needs little special preparation.
+
+**Planting depth:** Crown slightly above soil level, to prevent rot.
+
+**Spacing:** 20–30cm between plants; best grown in groups, especially naturalised in grass.
+
+**Fertiliser:** Little required; annual mulch with well-rotted compost or manure.
+
+**Companions:** Primroses, wood anemones, native bluebells — classic native hedge-bank and damp-meadow companions; excellent naturalised at a pond edge or in a wildflower lawn.
+
+**West of Ireland:** A cherished native Irish spring wildflower of hedge banks and meadows, distinct from the common Primrose already in this guide by its stouter stems and clusters of deeper-yellow, fragrant flowers held above the foliage. An important early nectar source for queen bumblebees; let plants self-seed after flowering for a naturalising drift over time.
+
+---
+
+### I4. Dusky Cranesbill (*Geranium phaeum*)
+
+**Irish name:** Crobh odhar
+
+📷 **Reference photo:** [Dusky Cranesbill — view on Wikipedia](https://en.wikipedia.org/wiki/Geranium_phaeum)
+
+**Light:** 🌑 Full shade to ☀️ full sun — genuinely one of the most shade-tolerant border perennials, "especially good in damp shade" per the RHS.
+
+**Soil needs:** Moderately fertile, moist but well-drained soil; most soils tolerated unless waterlogged, pH 6.0–7.5.
+
+**Soil prep:** Mix clay 50/50 with multipurpose compost; a scoop of well-rotted compost in the planting hole is usually sufficient, since this is an unfussy plant on most soils short of standing water.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 40–60cm between plants; can be tall and may need light support on some sites.
+
+**Fertiliser:** Little required; annual compost mulch.
+
+**Companions:** Ferns, hostas, hellebores — classic dry-shade and woodland-garden companions, valuable for its ability to cope with the difficult "dry shade" under trees where little else thrives.
+
+**West of Ireland:** Distinctive nodding, reflexed, near-black maroon flowers with a white centre in late spring, above weed-suppressing, deeply lobed foliage. One of the most useful perennials for a genuinely shaded west of Ireland garden corner; cut back after flowering to encourage fresh foliage and a possible second flush.
+
+---
+
+### I5. Lily of the Valley (*Convallaria majalis*)
+
+📷 **Reference photo:** [Convallaria — view source](https://en.wikipedia.org/wiki/Convallaria_majalis)
+
+**Light:** 🌥️ Partial to full shade.
+
+**Soil needs:** Moist, humus-rich soil; pH 6.0–7.5. Tolerates clay well if not waterlogged.
+
+**Soil prep:** Mix clay with multipurpose compost/leaf mould. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
+
+**Planting depth:** Rhizome ("pip") 2–3cm deep, growing point up, in autumn.
+
+**Spacing:** 15–20cm between plants; ⚠️ toxic, spreads
+
+**Fertiliser:** Light balanced feed in spring. Annual leaf mould mulch.
+
+**Companions:** Ferns, hostas, hellebores — classic shaded woodland-floor groundcover.
+
+**West of Ireland:** Fragrant white bell flowers in late spring, spreading by rhizomes to form good groundcover under trees and shrubs over time — can be vigorous once established, so give it room or a contained bed if a tidy border is wanted.
+
+⚠️ All parts are toxic if ingested.
+
+---
+
+### I6. Native Irish Ferns
+
+**Reference photos:** [Male Fern](https://en.wikipedia.org/wiki/Dryopteris_filix-mas) · [Lady Fern](https://en.wikipedia.org/wiki/Athyrium_filix-femina) · [Broad Buckler Fern](https://en.wikipedia.org/wiki/Dryopteris_dilatata) · [Hard Shield Fern](https://en.wikipedia.org/wiki/Polystichum_aculeatum) · [Polypody](https://en.wikipedia.org/wiki/Polypodium_vulgare) · [Royal Fern](https://en.wikipedia.org/wiki/Osmunda_regalis) · [Deer Fern](https://en.wikipedia.org/wiki/Blechnum_spicant) · [Hart's Tongue Fern](https://en.wikipedia.org/wiki/Asplenium_scolopendrium)
+
+| Fern | Latin Name | Light | Height | Notes |
+|---|---|---|---|---|
+| Male Fern | *Dryopteris filix-mas* | 🌥️–🌑 | 60–100cm | Most robust native; tolerates exposed positions |
+| Lady Fern | *Athyrium filix-femina* | 🌥️ | 60–120cm | Prefers sheltered, moist shade |
+| Broad Buckler Fern | *Dryopteris dilatata* | 🌥️–🌑 | 60–100cm | Glossy dark fronds; excellent in deep shade |
+| Hard Shield Fern | *Polystichum aculeatum* | 🌥️ | 45–60cm | Evergreen; tolerates dry shade & coastal exposure |
+| Polypody | *Polypodium vulgare* | 🌥️ | 15–40cm | Grows on walls and banks; evergreen |
+| Royal Fern | *Osmunda regalis* | ☀️–🌥️ | 1–2m | Loves wet clay and boggy spots; spectacular |
+| Deer Fern | *Blechnum spicant* | 🌥️–🌑 | 30–60cm | Evergreen; needs acidic soil (pH 4.5–6.0) |
+| Hart's Tongue Fern | *Asplenium scolopendrium* | 🌥️–🌑 | 30–60cm | Evergreen; undivided strap-like fronds; tolerates lime/chalk unlike most ferns |
+
+**Soil needs:** Most: moist, humus-rich, acidic to neutral (pH 5.0–7.0). Deer fern: acidic conditions. Hart's Tongue Fern is the exception — it tolerates neutral to alkaline, even chalky/limey soil (pH up to 8.0), unlike the rest of this group.
+
+**Soil prep:** Add generous multipurpose compost. Extra moisture retention for Royal Fern and Lady Fern. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
+
+**Planting depth:** At pot level. Crowns of Dryopteris and Osmunda should sit 7–12cm above soil.
+
+**Spacing:** 30cm–1.5m between plants depending on species — see the smaller reference table above for details on the most garden-common ferns (Male, Royal and Deer Fern).
+
+**Fertiliser:** Very low feeding requirements. Light balanced fertiliser in spring or annual compost top-dressing is sufficient. Do not overfeed. Bark mulch around base to retain moisture.
+
+**Companions:** Hostas, astilbe, hellebores, snowdrops, bluebells. Native ferns under deciduous trees is the ideal naturalistic Irish planting. Japanese maple and bamboo make beautiful structural companions. Foxgloves self-seed among ferns magnificently.
+
+**West of Ireland:** You are in prime fern territory. Royal Fern (*Osmunda regalis*) is spectacular in boggy west of Ireland conditions.
+
+---
+
+### I7. Native Irish Mosses
+
+📷 **Reference photo:** [Native Irish Mosses — view source](https://en.wikipedia.org/wiki/List_of_mosses_of_Great_Britain_and_Ireland)
 
 **Light:** 🌥️ Partial to full shade; most native mosses scorch in strong, direct sun.
 
@@ -2996,61 +4130,36 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### I3. Lily of the Valley (*Convallaria majalis*)
+### I8. Non-Native Ornamental Ferns
 
-📷 **Reference photo:** [Convallaria — view source](https://en.wikipedia.org/wiki/Convallaria_majalis)
-
-**Light:** 🌥️ Partial to full shade.
-
-**Soil needs:** Moist, humus-rich soil; pH 6.0–7.5. Tolerates clay well if not waterlogged.
-
-**Soil prep:** Mix clay with compost/leaf mould.
-
-**Planting depth:** Rhizome ("pip") 2–3cm deep, growing point up, in autumn.
-
-**Spacing:** 15–20cm between plants; ⚠️ toxic, spreads
-
-**Fertiliser:** Light balanced feed in spring. Annual leaf mould mulch.
-
-**Companions:** Ferns, hostas, hellebores — classic shaded woodland-floor groundcover.
-
-**West of Ireland:** Fragrant white bell flowers in late spring, spreading by rhizomes to form good groundcover under trees and shrubs over time — can be vigorous once established, so give it room or a contained bed if a tidy border is wanted.
-
-⚠️ All parts are toxic if ingested.
-
----
-
-### I4. Native Irish Ferns
-
-**Reference photos:** [Male Fern](https://en.wikipedia.org/wiki/Dryopteris_filix-mas) · [Lady Fern](https://en.wikipedia.org/wiki/Athyrium_filix-femina) · [Broad Buckler Fern](https://en.wikipedia.org/wiki/Dryopteris_dilatata) · [Hard Shield Fern](https://en.wikipedia.org/wiki/Polystichum_aculeatum) · [Polypody](https://en.wikipedia.org/wiki/Polypodium_vulgare) · [Royal Fern](https://en.wikipedia.org/wiki/Osmunda_regalis) · [Deer Fern](https://en.wikipedia.org/wiki/Blechnum_spicant)
+**Reference photos:** [Japanese Wood Fern](https://en.wikipedia.org/wiki/Dryopteris_erythrosora) · [Western Sword Fern](https://en.wikipedia.org/wiki/Polystichum_munitum) · [Ostrich Fern](https://en.wikipedia.org/wiki/Matteuccia_struthiopteris) · [Sunset Fern](https://en.wikipedia.org/wiki/Dryopteris)
 
 | Fern | Latin Name | Light | Height | Notes |
 |---|---|---|---|---|
-| Male Fern | *Dryopteris filix-mas* | 🌥️–🌑 | 60–100cm | Most robust native; tolerates exposed positions |
-| Lady Fern | *Athyrium filix-femina* | 🌥️ | 60–120cm | Prefers sheltered, moist shade |
-| Broad Buckler Fern | *Dryopteris dilatata* | 🌥️–🌑 | 60–100cm | Glossy dark fronds; excellent in deep shade |
-| Hard Shield Fern | *Polystichum aculeatum* | 🌥️ | 45–60cm | Evergreen; tolerates dry shade & coastal exposure |
-| Polypody | *Polypodium vulgare* | 🌥️ | 15–40cm | Grows on walls and banks; evergreen |
-| Royal Fern | *Osmunda regalis* | ☀️–🌥️ | 1–2m | Loves wet clay and boggy spots; spectacular |
-| Deer Fern | *Blechnum spicant* | 🌥️–🌑 | 30–60cm | Evergreen; needs acidic soil (pH 4.5–6.0) |
+| Japanese Wood Fern | *Dryopteris erythrosora* | 🌥️–🌑 | 45–60cm | New fronds coppery-red maturing to green; semi-evergreen; acid soil (pH <6.0) |
+| Western Sword Fern | *Polystichum munitum* | 🌥️–🌑 | 60–120cm | Robust evergreen; tolerates clay if moist; protect crown from winter wet |
+| Ostrich Fern | *Matteuccia struthiopteris* | 🌥️–🌑, tolerates sun if kept moist | 1–1.8m | Deciduous, shuttlecock form; spreads by runners; excellent in a bog garden |
+| Sunset Fern | *Dryopteris lepidopoda* | 🌥️–🌑 | 60–75cm | New fronds fiery orange-red maturing to olive-green; semi-evergreen |
 
-**Soil needs:** Most: moist, humus-rich, acidic to neutral (pH 5.0–7.0). Deer fern: acidic conditions.
+**Soil needs:** Most: moist, humus-rich, neutral to acid (pH 5.0–7.0); Japanese Wood Fern prefers more distinctly acid conditions (below pH 6.0). All dislike drying out.
 
-**Soil prep:** Add generous compost. Extra moisture retention for Royal Fern and Lady Fern.
+**Soil prep:** Mix clay with generous multipurpose compost and leaf mould; add ericaceous compost for Japanese Wood Fern specifically. Ostrich Fern tolerates and even benefits from consistently wet ground, so needs no extra drainage. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
-**Planting depth:** At pot level. Crowns of Dryopteris and Osmunda should sit 7–12cm above soil.
+**Planting depth:** At pot level, or crowns/rhizomes just at the soil surface; do not bury crowns.
 
-**Spacing:** 30cm–1.5m between plants depending on species — see the smaller reference table above for details on the most garden-common ferns (Male, Royal and Deer Fern).
+**Spacing:** 45cm–1m between plants depending on species — Western Sword Fern and Ostrich Fern are the largest and need the most room; Ostrich Fern spreads by runners and can form substantial colonies over time.
 
-**Fertiliser:** Very low feeding requirements. Light balanced fertiliser in spring or annual compost top-dressing is sufficient. Do not overfeed. Bark mulch around base to retain moisture.
+**Fertiliser:** Very low feeding requirements. Light balanced fertiliser in spring, or an annual compost/leaf-mould top-dressing, is sufficient for all four. Bark mulch helps retain moisture.
 
-**Companions:** Hostas, astilbe, hellebores, snowdrops, bluebells. Native ferns under deciduous trees is the ideal naturalistic Irish planting. Japanese maple and bamboo make beautiful structural companions. Foxgloves self-seed among ferns magnificently.
+**Companions:** Hostas, astilbe, hellebores, snowdrops, heucheras and tiarellas (especially with the colourful new growth of Japanese Wood Fern and Sunset Fern) — the same shaded woodland-garden companions as the native ferns elsewhere in this guide.
 
-**West of Ireland:** You are in prime fern territory. Royal Fern (*Osmunda regalis*) is spectacular in boggy west of Ireland conditions.
+**West of Ireland:** None of these four is native to Ireland, but all are widely and successfully grown here given the mild, humid Atlantic climate that suits ferns generally so well. Ostrich Fern in particular thrives in the region's damp conditions and is an excellent choice for a bog garden or permanently moist border; its young curled fiddleheads are edible when cooked (never raw), though they should be gathered sparingly and correctly identified.
 
 ---
 
-### I5. Primroses (*Primula vulgaris*)
+### I9. Primroses (*Primula vulgaris*)
+
+**Irish name:** Sabhaircín
 
 📷 **Reference photo:** [Primroses — view source](https://en.wikipedia.org/wiki/Primula_vulgaris)
 
@@ -3058,7 +4167,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich soil; pH 5.5–7.0. Tolerates clay well if not waterlogged.
 
-**Soil prep:** Mix clay with compost/leaf mould.
+**Soil prep:** Mix clay with multipurpose compost/leaf mould. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level.
 
@@ -3072,7 +4181,27 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### I6. Round-Lobed Hepatica (*Hepatica nobilis*)
+### I10. Rough Tree Fern (*Cyathea australis*)
+
+📷 **Reference photo:** [Rough Tree Fern — view on Wikipedia](https://en.wikipedia.org/wiki/Cyathea_australis)
+
+**Light:** 🌥️ Partial shade preferred, though established plants tolerate more sun than most tree ferns provided the roots stay moist; shelter from strong, drying wind is important.
+
+**Soil needs:** Moist but well-drained, humus-rich soil, acid to neutral; pH 5.5–7.0. Tolerant of loam, sand and even clay if drainage is adequate.
+
+**Soil prep:** Mix clay with generous compost/leaf mould and grit; use good-quality mulch and top it up regularly, since this shallow-rooted tree fern responds well to organic feeding at the surface.
+
+**Planting depth:** Trunk at the same depth as previously grown.
+
+**Fertiliser:** Liquid fertiliser monthly during the growing season; well-rotted manure or organic mulch is also beneficial.
+
+**Companions:** Smaller ground ferns, hostas, camellias, rhododendrons, woodland bulbs and mosses — all sharing the same preference for shade, humidity and acidic, humus-rich soil.
+
+**West of Ireland:** One of the hardier and more robust tree ferns available, tolerant of coastal salt-laden winds and capable of withstanding direct sun once its roots are reliably moist — genuinely useful for an exposed but sheltered west of Ireland garden corner. Still benefits from winter protection (wrapping the crown with straw or fleece) in harder frosts, and the trunk should be watered thoroughly and regularly through the growing season, since it is composed of living, moisture-absorbing roots.
+
+---
+
+### I11. Round-Lobed Hepatica (*Hepatica nobilis*)
 
 📷 **Reference photo:** [Round-Lobed Hepatica — view source](https://en.wikipedia.org/wiki/Hepatica_nobilis)
 
@@ -3080,7 +4209,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist but well-drained, humus-rich soil, tolerant of neutral to slightly alkaline; pH 6.0–7.5.
 
-**Soil prep:** Improve clay with leaf mould/compost and a little grit.
+**Soil prep:** Improve clay with leaf mould/multipurpose compost and a little horticultural grit. In a container, use multipurpose compost with 10–20% perlite for extra drainage, over a base layer of small pebbles.
 
 **Planting depth:** Crown at soil level; resents disturbance once established.
 
@@ -3094,7 +4223,53 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### I7. St Patrick's Cabbage (*Saxifraga spathularis*)
+### I12. Silver Fern (*Cyathea dealbata*)
+
+📷 **Reference photo:** [Silver Fern — view on Wikipedia](https://en.wikipedia.org/wiki/Cyathea_dealbata)
+
+**Light:** 🌥️ Partial shade, sheltered from strong wind and harsh direct sun, which can scorch the fronds.
+
+**Soil needs:** Cool, moist but well-drained, humus-rich, acidic soil, free from lime; pH 5.5–6.5.
+
+**Soil prep:** Mix clay with generous compost/leaf mould (40%+) and grit for drainage; in a container, use a peat-free ericaceous or woodland-type compost mix. Incorporate bark or other organic material into the planting site.
+
+**Planting depth:** Trunk (caudex) at the same depth as previously grown, same level as in its container.
+
+**Fertiliser:** Apply a general slow-release fertiliser at planting, then a organic feed (such as blood and bone) every spring. Balanced liquid feed monthly during the growing season for container plants.
+
+**Companions:** Hostas, ferns, hellebores, snowdrops, camellias — classic damp, shaded woodland-garden planting; palms such as Trachycarpus can add complementary vertical structure.
+
+**West of Ireland:** New Zealand's iconic tree fern, named for the striking silver-white undersides of its fronds — famously the emblem of the All Blacks rugby team. Considerably more tender than *Dicksonia antarctica* already in this guide (hardy only to around −6 to −8°C), so this is best grown in a large container that can be brought under cover — an unheated conservatory or frost-free porch — over winter, rather than left in open ground, except in the very mildest sheltered west of Ireland gardens. Water the trunk regularly through the growing season — the fibrous "trunk" is a mass of living roots and must not be allowed to dry out — but avoid watering the crown in winter.
+
+---
+
+### I13. Solomon's Seal (*Polygonatum multiflorum* / *P. × hybridum*)
+
+📷 **Reference photo:** [Solomon's Seal — view on Wikipedia](https://en.wikipedia.org/wiki/Polygonatum_multiflorum)
+
+**Light:** 🌑 Full shade to ☀️ full sun — genuinely adaptable, though it performs best and looks most natural in the dappled shade of a woodland-style planting; dislikes hot, dry summer conditions.
+
+**Soil needs:** Fertile, humus-rich, moist but well-drained soil; tolerant of acid, neutral or alkaline conditions, pH 6.0–7.5.
+
+**Soil prep:** Mix the clay 50/50 with multipurpose compost, with extra leaf mould worked in to build the humus-rich conditions this rhizomatous woodland plant prefers. Little further amendment is needed — this is one of the more forgiving shade perennials on heavy ground.
+
+**Planting depth:** Rhizome about 5cm deep, with the crown at ground level — planting too deep can cause rot, too shallow exposes the roots to drying out.
+
+**Spacing:** 20–30cm between plants; spreads slowly by rhizome to form good-sized colonies over time.
+
+**Fertiliser:** Little required. A light balanced organic feed in early spring before new growth appears is sufficient; a multipurpose compost or leaf-mould mulch each autumn is more valuable than direct feeding.
+
+**Companions:** Ferns, hostas, hellebores, cyclamen, primroses, Solomon's seal's classic woodland-garden companions — plant behind lower groundcover such as wood sorrel or ajuga, which the arching stems can rise above.
+
+**West of Ireland:** A graceful, reliable, long-lived woodland perennial with arching stems of small, nodding, tubular creamy-white flowers in late spring, followed by blue-black berries in autumn. Slow to establish but trouble-free once settled, and well suited to a shaded bank, slope, or under deciduous trees and shrubs. Sawfly larvae can strip the leaves in some seasons — check the undersides of leaves in early summer if this becomes a recurring problem.
+
+⚠️ All parts are harmful if eaten, and berries are toxic to pets — wear gloves when dividing or handling.
+
+---
+
+### I14. St Patrick's Cabbage (*Saxifraga spathularis*)
+
+**Irish name:** Cabáiste mhadra rua
 
 📷 **Reference photo:** [St Patrick's Cabbage — view source](https://en.wikipedia.org/wiki/Saxifraga_spathularis)
 
@@ -3102,7 +4277,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich, acid soil among rocks; pH 5.0–6.0.
 
-**Soil prep:** Mix clay with 30–40% ericaceous compost/leaf mould and some grit — best replicating a humid, rocky woodland or streamside setting.
+**Soil prep:** Mix clay with 30–40% ericaceous compost/leaf mould and some horticultural grit — best replicating a humid, rocky woodland or streamside setting. Grown in a pot, blend ericaceous compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown at soil level; shallow, stoloniferous rooting.
 
@@ -3116,7 +4291,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### I8. Tasmanian Tree Fern (*Dicksonia antarctica*)
+### I15. Tasmanian Tree Fern (*Dicksonia antarctica*)
 
 📷 **Reference photo:** [Dicksonia antarctica (Tasmanian Tree Fern) — view source](https://en.wikipedia.org/wiki/Dicksonia_antarctica)
 
@@ -3124,7 +4299,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich, free-draining, slightly acid soil; pH 5.5–6.5. Needs consistent moisture at the crown and root zone but good drainage — dislikes both drought and waterlogging.
 
-**Soil prep:** Mix clay with generous compost/leaf mould (40%+) and grit. In a container, use a peat-free ericaceous or woodland-type compost mix.
+**Soil prep:** Mix clay with generous multipurpose compost/leaf mould (40%+) and horticultural grit. In a container, use a peat-free ericaceous or woodland-type compost mix.
 
 **Planting depth:** Trunk (caudex) at same depth as previously grown; the fibrous "trunk" is actually a mass of roots and needs to stay moist.
 
@@ -3138,7 +4313,35 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### I9. Wood Sorrel (*Oxalis acetosella*)
+### I16. Wild Garlic (*Allium ursinum*)
+
+**Irish name:** Creamh
+
+📷 **Reference photo:** [Wild Garlic — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_ursinum)
+
+**Light:** 🌑 Partial to full shade; more tolerant of shade than most alliums.
+
+**Soil needs:** Moist, fertile, well-drained soil, slightly acid to neutral; pH 5.5–7.0. Naturally a plant of damp, established woodland.
+
+**Soil prep:** Mix clay with leaf mould or multipurpose compost to mimic the humus-rich woodland floor this plant prefers; add horticultural grit only if the site is genuinely waterlogged.
+
+**Planting depth:** Bulbs about 2.5cm deep, planted in autumn.
+
+**Spacing:** 15–20cm between bulbs; spreads readily by bulbils and self-seeding to form a dense carpet.
+
+**Fertiliser:** None required.
+
+**Companions:** Native bluebells (a classic damp-woodland combination), ferns, primroses — underplant deciduous trees and shrubs for an early-summer woodland floor display.
+
+**West of Ireland:** Native and common throughout Ireland, carpeting damp woodland floors and shady hedge banks with garlic-scented white flowers from April to June before dying back completely by midsummer. Both leaves and flowers are edible (with a milder flavour than bulb garlic) and popular for pesto, but take care with identification, since the leaves can be confused with poisonous Lily of the Valley or Lords-and-Ladies before flowering — if in doubt, crush a leaf and check for the unmistakable garlic smell.
+
+⚠️ Spreads vigorously and can become a nuisance in a small or formal garden — best confined to a naturalistic woodland corner rather than a border, and never introduced into wild areas beyond the garden.
+
+---
+
+### I17. Wood Sorrel (*Oxalis acetosella*)
+
+**Irish name:** Seamsóg
 
 📷 **Reference photo:** [Wood Sorrel — view source](https://en.wikipedia.org/wiki/Oxalis_acetosella)
 
@@ -3146,7 +4349,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, humus-rich, acid to neutral soil; pH 5.0–6.5.
 
-**Soil prep:** Improve clay with leaf mould/compost.
+**Soil prep:** Improve clay with leaf mould/multipurpose compost. Grown in a pot, blend multipurpose compost with perlite (roughly one part in five) and start with small pebbles at the base for drainage.
 
 **Planting depth:** Crown/rhizome at soil level.
 
@@ -3164,13 +4367,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J1. Bog Asphodel (*Narthecium ossifragum*)
 
+**Irish name:** Sciollam na móna
+
 📷 **Reference photo:** [Bog Asphodel — view source](https://en.wikipedia.org/wiki/Narthecium_ossifragum)
 
 **Light:** ☀️ Full sun.
 
 **Soil needs:** Permanently wet, humus-rich, nutrient-poor, acid soil/peat; pH 4.5–6.0.
 
-**Soil prep:** No amendment with compost or fertiliser — this plant is adapted to nutrient-poor bog conditions and rich soil is counterproductive. Best in a boggy, permanently wet corner or the very shallow, saturated margin of a pond.
+**Soil prep:** No amendment with multipurpose compost or fertiliser — this plant is adapted to nutrient-poor bog conditions and rich soil is counterproductive. Best in a boggy, permanently wet corner or the very shallow, saturated margin of a pond. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Planting depth:** Crown/rhizome at soil surface, kept permanently wet.
 
@@ -3194,7 +4399,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Spacing:** 30–40cm apart; spreads as carpet
 
-**Soil needs:** Grow in the damp margin to level with the water surface. Moderately fertile, moist but not deeply submerged. Damp margins, bog gardens, very shallow water.
+**Soil needs:** Grow in the damp margin to level with the water surface. Moderately fertile, moist but not deeply submerged. Damp margins, bog gardens, very shallow water. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Water depth:** Surface moisture to very shallow water (0–5cm at most). Primarily a bog and wet-margin plant.
 
@@ -3208,7 +4413,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J3. Bogbean (*Menyanthes trifoliata*)
+### J3. Bogbean (Buckbean) (*Menyanthes trifoliata*)
+
+**Irish name:** Báchrán
 
 📷 **Reference photo:** [Bogbean — view on Wikipedia](https://en.wikipedia.org/wiki/Menyanthes_trifoliata)
 
@@ -3216,7 +4423,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Spacing:** 60cm between plants; spreads indefinitely without basket
 
-**Soil needs:** Shallow water or boggy mud. Grow in baskets in a large pond in water up to 25cm deep, or grow in muddy pool margins.
+**Soil needs:** Shallow water or boggy mud. Grow in baskets in a large pond in water up to 25cm deep, or grow in muddy pool margins. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Water depth:** Planting depth: up to 20cm (8 inches) deep in water. Alternatively, in boggy soil at the water's edge with consistent moisture.
 
@@ -3232,7 +4439,35 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J4. Marsh Marigold (*Caltha palustris*)
+### J4. Loosestrife (*Lysimachia vulgaris* and *L. punctata*)
+
+**Irish name:** Breallán léana (Breallán dlúth)
+
+📷 **Reference photo:** [Loosestrife — view source](https://en.wikipedia.org/wiki/Lysimachia_vulgaris)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade; part shade helpful in a hot, dry summer.
+
+**Soil needs:** Moist to wet, moisture-retentive soil; pH 6.0–7.5. Tolerates heavy, damp clay very well — one of the most clay-tolerant perennials in this guide.
+
+**Soil prep:** Little needed — both species thrive in damp ground. Mix clay with multipurpose compost only if the site tends to dry out in summer, to help retain moisture.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 30–50cm between plants; both species spread by rhizome and can be vigorous in consistently moist ground, so allow room or plan to divide/contain.
+
+**Fertiliser:** Little required in reasonably fertile damp ground.
+
+**Companions:** Yellow Flag Iris, Meadowsweet, Marsh Marigold — classic pond-margin and damp-border companions already in this guide.
+
+**West of Ireland:** Two closely related, equally easy species for damp ground: *Lysimachia vulgaris* (yellow loosestrife) has a looser, branching habit with flowers held in loose clusters, while *L. punctata* (garden/dotted loosestrife) carries its bright yellow, cup-shaped flowers stacked in tight whorls up the stem. Both flower from late spring into late summer at the water's edge or in a damp border, and both spread with real enthusiasm given the consistently damp west of Ireland climate — a large pot sunk in the border, or regular division every 2–3 years, keeps either in check.
+
+⚠️ Can become a nuisance if not managed — site with room to spread or contain the roots.
+
+---
+
+### J5. Marsh Marigold (*Caltha palustris*)
+
+**Irish name:** Lus buí Bealtaine
 
 📷 **Reference photo:** [Marsh Marigold — view source](https://en.wikipedia.org/wiki/Caltha_palustris)
 
@@ -3240,7 +4475,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Permanently moist to wet soil, or shallow water; pH 6.0–7.5. Tolerates heavy clay very well.
 
-**Soil prep:** Little needed — thrives in the wet margins many other plants struggle with.
+**Soil prep:** Little needed — thrives in the wet margins many other plants struggle with. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Planting depth:** Crown at soil level, in boggy ground or shallow water 0–10cm deep (in an aquatic basket if planted directly in a pond).
 
@@ -3254,7 +4489,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J5. Marsh Orchids (*Dactylorhiza* spp.)
+### J6. Marsh Orchids (*Dactylorhiza* spp.)
 
 📷 **Reference photo:** [Marsh Orchids — view source](https://en.wikipedia.org/wiki/Dactylorhiza)
 
@@ -3262,7 +4497,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Consistently moist, humus-rich soil; slightly acid to neutral (some species tolerate alkaline), pH 6.0–7.0.
 
-**Soil prep:** Improve clay with leafy compost; avoid manure or very rich feeds, which encourage weeds and disrupt the orchid's root/fungal relationship. Never allow the site to dry out, especially in the growing season.
+**Soil prep:** Improve clay with leafy multipurpose compost; avoid manure or very rich feeds, which encourage weeds and disrupt the orchid's root/fungal relationship. Never allow the site to dry out, especially in the growing season. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Planting depth:** Tubers 5–8cm deep, or plant nursery-grown pot plants at pot level.
 
@@ -3276,7 +4511,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J6. Meadowsweet (*Filipendula ulmaria*)
+### J7. Meadowsweet (*Filipendula ulmaria*)
+
+**Irish name:** Airgead luachra
 
 📷 **Reference photo:** [Meadowsweet — view on Wikipedia](https://en.wikipedia.org/wiki/Filipendula_ulmaria)
 
@@ -3284,7 +4521,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Soil needs:** Moist, fertile soil. Meadowsweet prefers a pH level between 5.0 and 6.5. If your soil is heavy or clay-based, amend it with organic matter to improve drainage. Ideal for boggy areas, pond edges, and consistently damp borders.
 
-**Soil prep:** For in-ground planting, dig in generous compost. No grit needed — meadowsweet actually prefers moisture-retentive conditions. For very wet areas, plant directly without amendment.
+**Soil prep:** For in-ground planting, dig in generous multipurpose compost. No horticultural grit needed — meadowsweet actually prefers moisture-retentive conditions. For very wet areas, plant directly without amendment. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Planting depth:** Simply bury the roots up to the crown of the stem in rich soil. Crown at soil level.
 
@@ -3298,7 +4535,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J7. Native Irish White Water Lily (*Nymphaea alba*)
+### J8. Native Irish White Water Lily (*Nymphaea alba*)
 
 📷 **Reference photo:** [Native Irish White Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nymphaea_alba)
 
@@ -3306,7 +4543,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Spacing:** 1.5–2m between plants; large ponds only
 
-**Soil needs:** Aquatic compost in mesh baskets. Loamy, clay-based aquatic soil is ideal. Do not use multipurpose/garden compost (too rich — promotes algae). Cover with lime-free pea gravel.
+**Soil needs:** Aquatic compost in mesh baskets. Loamy, clay-based aquatic soil is ideal. Do not use multipurpose/garden compost (too rich — promotes algae). Cover with lime-free pea gravel. No compost or grit is needed — heavy clay/loam or an aquatic basket without added fertility suits it best; rich composts can cloud pond water.
 
 **Water depth:** Best grown about 1 metre deep, but it can grow in up to 3 metres of water if allowed to adjust very gradually. Start shallower (20–30cm) and lower the basket gradually as the plant grows.
 
@@ -3322,7 +4559,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J8. Yellow Flag Iris (*Iris pseudacorus*)
+### J9. Yellow Flag Iris (*Iris pseudacorus*)
+
+**Irish name:** Feileastram
 
 📷 **Reference photo:** [Yellow Flag Iris — view on Wikipedia](https://en.wikipedia.org/wiki/Iris_pseudacorus)
 
@@ -3348,193 +4587,224 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### J9. Yellow Loosestrife (*Lysimachia vulgaris*)
-
-📷 **Reference photo:** [Yellow Loosestrife — view source](https://en.wikipedia.org/wiki/Lysimachia_vulgaris)
-
-**Light:** ☀️ Full sun to 🌥️ partial shade.
-
-**Soil needs:** Moist to wet soil; pH 6.0–7.5. Tolerates heavy clay very well.
-
-**Soil prep:** Little needed — thrives in damp ground.
-
-**Planting depth:** Crown at soil level.
-
-**Spacing:** 40–50cm between plants; spreads by rhizome
-
-**Fertiliser:** Little required in reasonably fertile damp ground.
-
-**Companions:** Meadowsweet, yellow flag iris, marsh marigold — classic pond-margin/damp border companions.
-
-**West of Ireland:** Tall, upright spikes of bright yellow flowers in summer at the water's edge; spreads by rhizomes to form good-sized clumps in consistently damp ground, so give it room or a contained spot in a smaller pond margin.
-
----
-
 ## COMPLETE REFERENCE TABLE
 
-*(Sorted alphabetically by English name across all groups; ID prefix shows which group each plant belongs to.)*
+*(Sorted alphabetically by English name across all groups; ID prefix shows which group each plant belongs to. Irish and Russian names shown where a verified name was found; — indicates not yet researched.)*
 
 **Light:** ☀️ = full sun | 🌤️ = sun/partial shade | 🌥️ = partial shade preferred | 🌑 = shade tolerant/full shade
 **In Pot?:** ✅ = excellent/recommended | ⚠️ = possible with care | ❌ = not suitable
 **Pot size given where relevant**
 
-| # | English Name | Latin Name | pH | Planting Depth | In Pot? | Light | Key Companions | Spacing |
-|---|---|---|---|---|---|---|---|---|
-| E1 | Acidanthera / Abyssinian Gladiolus | *Gladiolus murielae* | 6.0–7.0 | 10–16cm on bed of sharp sand | ✅ 30cm / 15L+ | ☀️ | Salvias, gladioli, dahlias, ornamental grasses | 15–20cm between corms |
-| F22 | Aconitum (Monkshood) | *Aconitum napellus* | 6.0–7.5 | Crown at soil level | ⚠️ 20–30L container | 🌥️ to ☀️ | Delphiniums, hostas, astilbe | 45–60cm between plants; ⚠️ toxic, wear gloves |
-| F26 | Adonis | *Adonis vernalis* | 6.5–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌥️ | Snowdrops, hellebores | 20–30cm between plants; ⚠️ toxic |
-| E14 | Allium | *Allium* spp. | 6.0–7.5 | 10–15cm deep (2–3× bulb depth) | ✅ 5L+ per bulb cluster | ☀️ | Roses, peonies, irises, ornamental grasses | 10–20cm between bulbs depending on variety |
-| B1 | Apple 'Baya Marisa' (P22) | *Malus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, nasturtiums | 1–1.5m between trees; permanent stake |
-| F6 | Aquilegia (Columbine) | *Aquilegia vulgaris* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Foxgloves, hardy geraniums, roses | 30–45cm between plants; self-seeds freely |
-| F1 | Astilbe | *Astilbe* spp. | 5.5–7.0 | At pot level; crown at surface | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, ferns, hellebores, primulas | 30–45cm between plants |
-| F2 | Auricula | *Primula auricula* | 6.5–7.5 | Crown at soil level | ✅ 3–5L pot/trough | 🌥️ | Saxifrage, sempervivum, other alpines | 15–20cm between plants |
-| A1 | Bamboo (clump-forming) | *Fargesia* / *Chusquea* spp. | 5.5–7.0 | At pot level | ⚠️ Very large tub (100L+) | 🌤️ | Ferns, hostas, astilbe | 1.5–3m from structures; root barrier for running types |
-| F3 | Bearded Iris (Border Iris) | *Iris germanica* | 6.5–7.5 | Rhizome at/just above soil surface | ⚠️ Wide shallow container, 30L+ | ☀️ | Roses, peonies, alliums | 30–45cm between rhizomes; divide every 3–4 yrs |
-| B2 | Blackberries | *Rubus fruticosus* agg. | 5.5–7.0 | At nursery soil mark | ⚠️ 40–50L container against support | ☀️ to 🌤️ | Raspberries, other cane fruit | 2–3m between plants against wires |
-| B3 | Blackcurrant | *Ribes nigrum* | 6.0–7.0 | 5–7cm deeper than nursery mark | ⚠️ 30L+ large pot | 🌤️ | Alliums, garlic, nasturtiums, redcurrant | 1.2–1.5m between plants |
-| F4 | Blue Gentian | *Gentiana* spp. | 5.5–6.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌥️ | Heather, dwarf conifers, saxifrage | 20–30cm between plants |
-| B4 | Blueberry | *Vaccinium corymbosum* | 4.0–5.5 | At pot level | ✅ Essential: 40–60cm / 30–50L+ | 🌤️ | Heather, lingonberry (same ericaceous trough) | 1 plant per pot; 60cm between pots |
-| J1 | Bog Asphodel | *Narthecium ossifragum* | 4.5–6.0 | Crown at soil surface, permanently wet | ⚠️ Bog garden/boggy pot only | ☀️ | Bogbean, bog pimpernel | 20–30cm between plants; needs permanently wet acid soil |
-| J2 | Bog Pimpernel | *Anagallis tenella* | 5.0–6.5 | Crown at soil surface; bog margin to waterline | ✅ Small shallow container at margin | ☀️ | Bogbean, yellow flag iris, water mint | 30–40cm apart; spreads as carpet |
-| J3 | Bogbean / Buckbean | *Menyanthes trifoliata* | 5.0–7.5 | Roots + 5cm stem in soil; 5–25cm water above | ✅ 19–24cm+ aquatic basket | ☀️ | White water lily, yellow flag iris, bog pimpernel | 60cm between plants; spreads indefinitely without basket |
-| A2 | Border Forsythia | *Forsythia × intermedia* | 6.0–8.0 | At pot level | ❌ Too large | 🌤️ | Spring tulips, Vinca, holly backdrop | 1.5m between; 2m from walls |
-| G3 | Briza Maxima (Quaking Grass) | *Briza maxima* | 6.0–7.5 | 5mm deep (seed) | ✅ 5L+ container | ☀️ | Cornflower, poppies, love-in-a-mist | 15–20cm between plants; annual, self-seeds |
-| C9 | Campanula saxifraga | *Campanula saxifraga* | 6.5–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ | Sempervivum, saxifrage, wall pennywort | 15–20cm between plants |
-| H1 | Catnip | *Nepeta cataria* | 6.0–7.5 | At pot level | ✅ 15–20L container | ☀️ to 🌤️ | Brassicas, roses | 30–45cm between plants |
-| A3 | Cherry Blossom 'Kanzan' | *Prunus* 'Kanzan' | 6.0–7.5 | Graft union at/above soil | ⚠️ 100L+ container | ☀️ | Daffodils, forget-me-nots, hostas | 4–5m from trees/structures |
-| G1 | Chinese Pink | *Dianthus chinensis* | 6.5–7.5 | 3mm deep (seed) / at pot level | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist | 15–20cm between plants; grow as annual/biennial |
-| D2 | Clematis (most) | *Clematis* spp. | 6.5–7.5 | 10–15cm DEEPER than pot | ✅ 45cm/40L+ container | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential |
-| D3 | Climbing Honeysuckle | *Lonicera periclymenum* | 5.5–8.0 | At pot level | ⚠️ 30L+ (not ideal, deep roots) | 🌤️ | Climbing roses, clematis; near windows | 1.5m between plants |
-| D4 | Climbing Hydrangea | *Hydrangea anomala* subsp. *petiolaris* | 6.0–7.0 | At pot level | ⚠️ 50L+ (not ideal) | 🌑 to 🌤️ | Ivy, ferns, hostas, shade-tolerant plants | 45cm from wall; 60cm+ between plants |
-| D5 | Climbing Roses | *Rosa* (climbing cvs.) | 6.0–7.0 | Graft union just below soil | ⚠️ 50L+ large container | ☀️ | Clematis (same wall), lavender, geraniums | 45cm from wall; 2–3m between plants |
-| F5 | Clustered Bellflower | *Campanula glomerata* | 6.5–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Roses, peonies, ornamental grasses | 30–40cm between plants; divide every 3–4 yrs |
-| I1 | Common Dog Violet | *Viola riviniana* | 5.5–7.0 | Crown at soil level | ✅ 5L+ container | 🌥️ | Primroses, wood sorrel, ferns | 15–20cm between plants |
-| A4 | Common Hawthorn | *Crataegus monogyna* | 5.5–7.5 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌤️ | Blackthorn, holly, hazel; primroses, bluebells beneath | As hedge: 30–45cm; as tree: 4–6m from structures |
-| I3 | Convallaria (Lily of the Valley) | *Convallaria majalis* | 6.0–7.5 | 2–3cm deep (rhizome) | ✅ 15–20L container | 🌥️ | Ferns, hostas, hellebores | 15–20cm between plants; ⚠️ toxic, spreads |
-| F7 | Coral Bells | *Heuchera* spp. | 6.0–7.0 | Crown at soil level | ✅ 20–30L container | 🌥️ | Hostas, astilbe, ferns, hellebores | 30–45cm between plants |
-| H2 | Coriander | *Coriandrum sativum* | 6.0–7.0 | Sow 5mm deep; do not transplant | ✅ 20cm+ deep / 5L+ | 🌤️ | Parsley, brassicas; away from dill & fennel | 15–20cm between plants |
-| G2 | Cornflower | *Centaurea cyanus* | 6.0–7.5 | 1–2cm deep (seed) | ✅ 5L+ container | ☀️ | Poppies, love-in-a-mist, briza maxima | 20–30cm between plants; annual, self-seeds |
-| B5 | Cranberry | *Vaccinium macrocarpon* | 4.0–5.0 | At pot level | ✅ Essential: 30–45cm / 10–20L | 🌤️ | Heather, lingonberry, blueberry (ericaceous) | 30–45cm in acidic bed |
-| C2 | Creeping / Moss Phlox | *Phlox subulata* | 5.5–7.7 | At pot level; shoots above soil | ✅ 20–30cm / 5–10L + grit | ☀️ | Tulips, daffodils underplanted; thyme, sedum, dianthus | 30–45cm for ground cover |
-| C1 | Creeping Juniper | *Juniperus horizontalis* | 4.5–8.5 | At pot level or slightly raised | ✅ 30–40cm/20L+ | ☀️ (essential) | Heather, sedum, ornamental grasses, thyme | 1–1.5m for ground cover |
-| E5 | Crocus | *Crocus* spp. | 6.0–7.5 | 7–12cm deep; pointed end up | ✅ Excellent: 15–20cm / 3L+ | ☀️ (most) / 🌤️ | Snowdrops, daffodils, muscari, aconites | 8–9cm between corms |
-| E6 | Crown Imperial | *Fritillaria imperialis* | 6.5–8.0 | 20–30cm deep, planted on its side | ⚠️ 40cm / 30L+ deep pot | ☀️ | Tulips, alliums, wallflowers, euphorbia | 25cm between bulbs |
-| H3 | Cucumbers | *Cucumis sativus* | 6.0–7.0 | At pot level (after frost) | ✅ Large 30–40L container with support | ☀️ | Nasturtiums, dill, sweetcorn | 45–60cm between plants |
-| E7 | Daffodil | *Narcissus* spp. | 6.0–7.0 | 15cm (3× bulb height) | ✅ 20–30cm / 5L+ | 🌤️ | Snowdrops, tulips, forget-me-nots, Muscari | 10–15cm between bulbs |
-| F9 | Daylilies | *Hemerocallis* spp. | 6.0–7.5 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Roses, ornamental grasses, yarrow | 45–60cm between plants; divide every 3–4 yrs |
-| I4c | Deer Fern | *Blechnum spicant* | 4.5–6.0 | At pot level | ✅ 30cm / 10L+ | 🌥️ to 🌑 | Lingonberry, heather, foxgloves | 30–45cm between plants |
-| F10 | Delphinium | *Delphinium* spp. | 6.5–7.5 | At pot level; buds 2–5cm below | ⚠️ 40–50cm / 40L+ | ☀️ | Roses, lupins, peonies, alliums | 60–90cm between plants; stake essential |
-| I8 | Dicksonia antarctica (Tree Fern) | *Dicksonia antarctica* | 5.5–6.5 | Trunk at same depth as grown | ✅ Large 50L+ container | 🌥️ to 🌑 | Hostas, ferns, hellebores, snowdrops | 1.5–3m between plants; wrap crown in hard frost |
-| H4 | Dill | *Anethum graveolens* | 5.5–7.0 | Sow 3–5mm deep; do not transplant | ✅ 30cm+ deep / 8L+ | ☀️ | Brassicas, lettuce; away from coriander & fennel | 20–30cm between plants |
-| E8 | Dwarf Iris | *Iris reticulata* | 6.0–7.5 | 8–10cm deep | ✅ 3–5L pot/trough | ☀️ | Snowdrops, crocus, dwarf daffodils | 5–8cm between bulbs |
-| A5 | Dwarf Lily Magnolia | *Magnolia liliiflora* | 5.5–6.5 | At nursery soil mark | ⚠️ 50–80L container | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2–3m between plants/structures |
-| F11 | Edelweiss | *Leontopodium alpinum* | 6.5–7.5 | Crown at soil level | ✅ Trough/rockery, 5L | ☀️ | Sempervivum, saxifrage, other alpines | 15–20cm between plants |
-| F12 | Elephant's Ears | *Bergenia* spp. | 5.5–8.0 | Rhizome at/just below surface | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hostas, hellebores, snowdrops, ferns | 30–60cm between plants |
-| F14 | Foxglove | *Digitalis purpurea* | 5.5–7.5 | At pot level; seeds on surface | ✅ 30cm / 10L+ deep | 🌥️ | Ferns, hostas, roses, alliums; self-seeds | 30–45cm between plants |
-| E9 | Freesia | *Freesia* spp. | 6.0–7.0 | 5–8cm deep | ✅ Best in containers (tender) | ☀️ | Ixia and other tender corms | 5–8cm between corms |
-| E3 | Fritillaria meleagris (Checkered Lily) | *Fritillaria meleagris* | 6.0–7.0 | 10cm deep | ✅ 5L+ container | 🌤️ | Snowdrops, daffodils, damp border/pond-margin planting | 8–10cm between bulbs |
-| A7 | Fuzzy Pride-of-Rochester | *Deutzia scabra* | 6.0–7.5 | At nursery soil mark | ⚠️ Large 80–100L container | ☀️ to 🌤️ | Mock orange, lilac, weigela, spring bulbs | 1.5–2m between plants; grows 1.8–3m tall |
-| E21 | Gagea (Yellow Star-of-Bethlehem) | *Gagea lutea* | 6.5–7.5 | 5–8cm deep | ✅ 5L+ container | 🌥️ | Snowdrops, wood anemones | 5–8cm between bulbs |
-| B6 | Garden Plum | *Prunus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, comfrey, nasturtiums | 3–5m between trees depending on rootstock; permanent stake |
-| B7 | Gooseberry | *Ribes uva-crispa* | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌤️ | Redcurrant, whitecurrant, tansy | 1.5m between plants |
-| H5 | Green Onions (Scallions) | *Allium fistulosum* | 6.0–7.0 | 1cm deep (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, rocket, radish | 5–8cm between plants; sow successionally |
-| D6 | Hardy Grapes | *Vitis vinifera* | 6.0–6.5 | At pot depth; graft above soil | ⚠️ 40L+ container | ☀️ (essential) | Lavender, rosemary, garlic, hyssop | 1.2–1.5m between vines; 20cm from wall |
-| C3 | Heather / Scots Heather | *Calluna vulgaris* | 4.5–6.5 (ideally 5.5) | At pot level | ✅ 20–25cm / 5–10L ericaceous compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants |
-| F16 | Hellebore / Lenten Rose | *Helleborus* spp. | 6.0–8.0 | At pot level; crown at/just below | ✅ 25–35cm / 10L+ | 🌥️ to 🌑 | Snowdrops, cyclamen, pulmonaria, hostas | 45–60cm between plants |
-| A8 | Holly | *Ilex aquifolium* | 4.5–8.0 | At pot level (shallow roots) | ⚠️ 50L+ container | 🌑 to ☀️ | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | 1.5–3m between; slow-growing hedge |
-| B8 | Honeyberry (Kamchatka) | *Lonicera caerulea* var. *kamtschatica* | 4.5–7.5 | At pot level | ⚠️ 50–75L (15–20 gal.) | 🌤️ | Blueberry, lingonberry; needs 2+ varieties | 1–1.5m between plants |
-| D7 | Hops | *Humulus lupulus* | 6.0–8.0 | Rhizome 5–8cm / pot level | ✅ 50L+ large container | 🌤️ | Climbing roses, clematis, ornamental grasses | 1–1.5m between plants |
-| F17 | Hosta / Plantain Lily | *Hosta* spp. | 6.0–8.0 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 30–90cm (variety-dependent) |
-| A17 | Hypericum 'Rowallane' | *Hypericum* 'Rowallane' | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌤️ | Heather, skimmia, roses, late perennials | 1–1.5m between plants |
-| I2 | Irish Native Mosses | *various spp.* | 5.0–6.5 (most) | Surface transplant, not buried | ✅ Shallow tray/log/pot | 🌥️ to 🌑 | Ferns, wood sorrel, primroses | Establish as patches; keep consistently moist |
-| A9 | Irish Yew | *Taxus baccata* 'Fastigiata' | 5.0–8.0 | At pot level | ⚠️ 50L+ container | 🌑 to ☀️ | Holly, peonies, roses (backdrop), hellebores | Column 1m wide eventually; 1m from structures |
-| E10 | Iron Cross (Oxalis) | *Oxalis tetraphylla* 'Iron Cross' | 6.0–7.0 | 5cm deep | ✅ 3–5L container | ☀️ to 🌤️ | Ixia, dwarf dahlias, other summer bulbs | 10–15cm between tubers; lift over winter |
-| D8 | Ivy | *Hedera helix / H. hibernica* | 5.0–8.0 | At pot level | ✅ 20L+ (25–35cm pot) | 🌑 to ☀️ | Virginia creeper, ferns, snowdrops, bluebells | 30–50cm between plants |
-| E4 | Ixia | *Ixia* spp. | 6.0–7.0 | 8–10cm deep | ✅ Best in containers (borderline hardy) | ☀️ | Freesia and other tender corms | 5–8cm between corms |
-| E2b | Japanese / Autumn Anemone | *Anemone × hybrida* | 6.0–7.5 | At pot level | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, astilbe, hellebores | 45–60cm between plants; can spread |
-| A10 | Japanese Camellia | *Camellia japonica* | 5.0–6.5 | At nursery soil mark | ✅ 40–50L ericaceous compost | 🌥️ | Skimmia, hydrangea macrophylla, Japanese maple | 1–1.5m between plants |
-| A11 | Japanese Maple | *Acer palmatum* | 5.5–6.5 | At pot level (shallow) | ✅ 50–80L terracotta/stone | 🌥️ | Hostas, ferns, hellebores, snowdrops | 2–4m from structures; wind shelter essential |
-| A12 | Japanese Skimmia | *Skimmia japonica* | 5.5–6.5 | At nursery soil mark | ✅ 30–40L container | 🌑 to ☀️ | Hellebores, ferns, hostas, Japanese maple | 60–90cm between plants; ♂+♀ within a few metres for berries |
-| F18 | Lady's Bedstraw | *Galium verum* | 6.0–7.5 | Crown at soil level | ✅ 5L+ container | ☀️ | Ox-eye daisy, yarrow, wild grasses | 20–30cm between plants |
-| H6 | Lavender | *Lavandula angustifolia* | 6.5–8.0 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Roses, rosemary, thyme | 30–45cm between plants |
-| A13 | Lewis Mock Orange | *Philadelphus lewisii* | 6.0–7.5 | At nursery soil mark | ⚠️ 50L+ container | ☀️ to 🌤️ | Deutzia, lilac, roses, spring bulbs | 1.5–2m between plants |
-| A14 | Lilac | *Syringa vulgaris* | 6.5–8.0 | At nursery soil mark | ❌ Too large | ☀️ | Roses, alliums, peonies, irises | 1.5m between; 2m from walls |
-| E11 | Lily | *Lilium* spp. | 6.0–7.0 | 15cm (3× bulb height) on grit | ✅ 30–40cm / 15–25L | 🌤️ | Hostas, geraniums, roses, alliums | 15–30cm between bulbs |
-| F19 | Lilyleaf Ladybells | *Adenophora liliifolia* | 6.0–7.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌥️ | Bellflowers, delphiniums, phlox | 30–40cm between plants |
-| B9 | Lingonberry | *Vaccinium vitis-idaea* | 4.2–5.5 | At pot level | ✅ 25–30cm / 10–15L | 🌥️ | Blueberry, heather, cranberry, deer fern | 30cm between plants |
-| F25 | Linum (Perennial Flax) | *Linum perenne* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ | Yarrow, lavender, drought-tolerant perennials | 20–30cm between plants |
-| G5 | Love-in-a-Mist | *Nigella damascena* | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Cornflower, poppies, briza maxima | 20cm between plants; annual, self-seeds freely |
-| F20 | Lungworts | *Pulmonaria* spp. | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | 🌥️ | Hellebores, ferns, hostas | 30–40cm between plants; divide every 3–4 yrs |
-| F21 | Lupins | *Lupinus polyphyllus* | 5.5–6.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌤️ | Delphiniums, roses, foxgloves | 45–60cm between plants |
-| I4a | Male Fern | *Dryopteris filix-mas* | 5.0–7.0 | Crown 7–12cm above soil | ✅ 40–50cm / 30L+ | 🌥️ to 🌑 | Hostas, astilbe, bamboo, snowdrops | 60–90cm between plants |
-| J4 | Marsh Marigold | *Caltha palustris* | 6.0–7.5 | Crown at soil level / shallow water | ✅ Aquatic basket, 3–5L | ☀️ to 🌥️ | Yellow flag iris, bogbean, ferns | 30–40cm between plants |
-| J5 | Marsh Orchids | *Dactylorhiza* spp. | 6.0–7.0 | 5–8cm deep (tuber) / at pot level | ⚠️ Large container, kept constantly moist | ☀️ to 🌥️ | Yellow flag iris, meadowsweet, ragged robin | 15–20cm between plants; buy nursery stock only |
-| E12 | Martagon Lily | *Lilium martagon* | 6.0–7.5 | 15cm deep (3× bulb height) | ✅ Large 20L+ container | 🌥️ | Hostas, ferns, hellebores; light woodland edge | 20–30cm between bulbs |
-| J6 | Meadowsweet | *Filipendula ulmaria* | 5.0–6.5 | Crown at soil level | ⚠️ Large 40–50cm / 30L+ | ☀️ to 🌤️ | Yellow flag iris, bogbean, royal fern, astilbe | 60cm between plants; can self-seed |
-| H7 | Melissa (Lemon Balm) | *Melissa officinalis* | 6.0–7.5 | At pot level | ✅ 15–20L container (to contain spread) | ☀️ to 🌥️ | Brassicas, tomatoes | 30–45cm between plants; spreads readily |
-| H8 | Mint | *Mentha* spp. | 6.0–7.0 | At pot level | ✅ Essential (contains spread): 30cm / 10L+ | 🌤️ | Near brassicas/tomatoes as repellent (in pots) | 60cm if in ground with root barrier |
-| A15 | Mophead / Lacecap Hydrangea | *Hydrangea macrophylla* | 5.0–7.0 (blue 5.0–6.0; pink 6.0–7.0) | At pot level; rootball top slightly raised | ✅ Excellent: 40cm compact / 50–60cm standard | 🌥️ | Astilbe, hostas, ferns, yarrow, heucheras | 90cm–2.4m between (check label for variety size) |
-| H9 | Mother of Thyme | *Thymus serpyllum* | 6.0–8.0 | At pot level | ✅ Terracotta 20cm / 5L+ with grit | ☀️ | Rosemary, oregano, lavender, creeping juniper | 20–30cm between plants |
-| A16 | Mountain Ash (Rowan) | *Sorbus aucuparia* | 5.0–7.0 | At nursery soil mark | ⚠️ 80–100L container | ☀️ to 🌤️ | Holly, hawthorn, ferns, foxgloves, hellebores | 3–5m from structures |
-| H10 | Nasturtiums | *Tropaeolum majus* | 6.0–7.5 | 1–2cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Apples, brassicas, cucumbers (trap crop) | 20–30cm between plants; annual, self-seeds |
-| E13 | Native Bluebells | *Hyacinthoides non-scripta* | 6.0–6.8 | 8cm deep | ✅ 5L+ container | 🌥️ | Ferns, hostas, primroses, wood anemones | 8–10cm between bulbs |
-| J7 | Native White Water Lily | *Nymphaea alba* | 6.5–7.5 (water) | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | ✅ (pond basket essential): 30–40cm+ basket | ☀️ | Yellow flag iris, bogbean, oxygenating plants | 1.5–2m between plants; large ponds only |
-| H11 | Oregano / Wild Marjoram | *Origanum vulgare* | 6.5–8.0 | At pot level | ✅ 25cm / 8L+ | ☀️ | Thyme, rosemary; pollinator attractor for fruit | 30–45cm between plants |
-| F13 | Paeonia tenuifolia (Fern-leaf Peony) | *Paeonia tenuifolia* | 6.5–7.5 | Eyes 2–3cm below soil | ⚠️ 30–40L container | ☀️ | Alliums, bearded iris, catmint | 45–60cm between plants |
-| F23 | Pasqueflower | *Pulsatilla vulgaris* | 6.5–8.0 | At pot level; do not disturb | ✅ Essential on clay: 25–30cm / 10L+ | ☀️ | Dianthus, Eryngium, Achillea, ornamental grasses | 20–30cm between plants |
-| D1 | Passiflora (Blue Passion Flower) | *Passiflora caerulea* | 6.0–7.5 | At nursery soil mark | ⚠️ 40–50L container against support | ☀️ | Climbing roses, clematis, honeysuckle | 2–3m between plants against wall/fence |
-| F24 | Peony (herbaceous) ⚠️ | *Paeonia* spp. | 6.5–7.0 | Eyes MAX 2.5–5cm below soil | ⚠️ 50L+ large tub | ☀️ to 🌤️ | Alliums, irises, salvia, roses, foxgloves | 90cm between plants |
-| C5 | Periwinkle | *Vinca minor / V. major* | 5.5–8.0 | At pot level | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hellebores, snowdrops, ivy; under trees/shrubs | 30–45cm between plants; can spread |
-| E15 | Persian Ranunculus | *Ranunculus asiaticus* | 6.0–7.0 | 5–8cm deep; claws down | ✅ Better in pots: 25–30cm / 10L+ | 🌤️ | Pansies, muscari, spring anemones | 15–20cm between tubers |
-| G4 | Phacelia | *Phacelia tanacetifolia* | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ | Vegetable beds, fruit trees (pollinator support) | 20–30cm between plants; annual, sow successionally |
-| F27 | Pinks | *Dianthus plumarius* (garden pinks) | 5.8–6.5 | At pot level | ✅ 25–35cm / 10L+ | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants |
-| B10 | Pomegranate | *Punica granatum* | 5.5–7.0 | At nursery soil mark | ✅ Large 50L+ container, movable | ☀️ | Passiflora, grapevine on same warm wall | 2–3m against wall; borderline hardy, best in a container |
-| G6 | Poppies | *Papaver rhoeas* | 6.0–7.5 | Surface-sown (seed) | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist, briza maxima | 15–20cm between plants; annual, self-seeds freely |
-| C6 | Prickly Heath | *Gaultheria mucronata* | 4.5–6.0 | At nursery soil mark | ✅ 20–30L ericaceous compost | ☀️ to 🌥️ | Heather, blueberry, lingonberry, dwarf conifers | 45–60cm between plants; ♂+♀ for berries |
-| I5 | Primroses | *Primula vulgaris* | 5.5–7.0 | Crown at soil level | ✅ 10–15L container | 🌥️ | Bluebells, wood anemones, violets, ferns | 20–25cm between plants |
-| H12 | Radish | *Raphanus sativus* | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, lettuce, green onions | 2–3cm between plants; sow successionally |
-| B11 | Raspberry | *Rubus idaeus* | 5.8–6.5 | Crown 5–7cm below soil | ❌ | 🌤️ | Garlic, marigolds, tansy; away from potatoes | 45–60cm between canes; 1.8m between rows |
-| B12 | Redcurrant | *Ribes rubrum* | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌥️ (north fence ok) | Gooseberry, whitecurrant | 1.5m between plants |
-| C7 | Reindeer Lichen | *Cladonia rangiferina* | 4.0–5.5 | Surface only, not buried | ⚠️ Shallow tray/rockery | ☀️ to 🌥️ | Heather, sempervivum, open heath planting | Establishes slowly; avoid disturbance |
-| B13 | Rhubarb | *Rheum × hybridum* | 6.0–7.0 | Buds 1–2cm below soil | ⚠️ 50cm / 50L+ deep pot | 🌤️ | Beans, peas nearby; away from fennel | 90cm between crowns |
-| H13 | Rocket | *Eruca sativa* | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌥️ | Radish, green onions, lettuce | 15–20cm between plants; sow successionally |
-| H14 | Rosemary | *Salvia rosmarinus* | 6.0–7.5 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Brassicas, carrots, beans, thyme, lavender | 45–60cm between plants |
-| I6 | Round-Lobed Hepatica | *Hepatica nobilis* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ | Snowdrops, hellebores, wood anemones | 15–20cm between plants |
-| I4b | Royal Fern | *Osmunda regalis* | 4.5–6.5 | Crown slightly above soil | ❌ Too large | ☀️ to 🌥️ | Hostas, iris, marginal aquatics, bamboo | 1–1.5m between plants |
-| F8 | Rudbeckia 'Goldball' | *Rudbeckia laciniata* 'Goldball' | 5.5–7.0 | At pot level | ⚠️ 40–50cm / 40L+ (very tall — better in ground) | ☀️ | Helenium, echinacea, salvias, ornamental grasses, asters | 60–90cm between; divide every 2–3 yrs |
-| C8 | Saxifrage | *Saxifraga* spp. | 6.0–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ to 🌥️ | Sempervivum, campanula saxifraga, dwarf bulbs | 15–20cm between plants |
-| H15 | Scurvy Grass | *Cochlearia officinalis* | 6.5–7.5 | At pot level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌥️ | Sea kale, coastal edible plants | 15–20cm between plants |
-| C4 | Sempervivum | *Sempervivum* spp. | 6.0–7.5 | At pot level | ✅ Shallow pot/trough, 3–5L | ☀️ | Saxifrage, wall pennywort, thyme, sedum | 10–15cm between rosettes |
-| B14 | Serviceberry | *Amelanchier lamarckii* | 5.5–7.0 | At nursery soil mark | ⚠️ 50–80L container | ☀️ to 🌤️ | Hellebores, snowdrops, ferns, Japanese maple | 2–4m between plants/structures |
-| F28 | Siberian Statice | *Goniolimon tataricum* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ | Ornamental grasses, achillea, sedum | 30–40cm between plants |
-| E16 | Snowdrop | *Galanthus nivalis* | 5.5–7.0 | 10cm (dry) / at growing depth (green) | ✅ 20–25cm / 5L+ | 🌥️ to 🌑 | Hellebores, aconites, early narcissus, cyclamen coum | 8–10cm between bulbs |
-| E17 | Snowflake (Summer) | *Leucojum aestivum* | 5.5–7.0 | 8–10cm deep; in autumn | ✅ 30–40cm / 15L+ | 🌤️ | Daffodils, snowdrops, hellebores; pond edges | 8–10cm between bulbs |
-| A6 | Sorbaria sorbifolia | *Sorbaria sorbifolia* | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌥️ | Hydrangea, deutzia; good bank stabiliser | 1–1.5m between plants; spreads by suckers |
-| F29 | Spreading Bellflower | *Campanula patula* | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 10–15L container | ☀️ to 🌥️ | Ox-eye daisy, wild grasses | 20–30cm between plants; biennial/short-lived |
-| E2a | Spring Anemone | *Anemone blanda / A. nemorosa* | 5.5–7.0 | 5–8cm deep | ✅ 20–25cm / 5L+ | 🌥️ | Snowdrops, bluebells, foxgloves | 10cm between corms |
-| E18 | Spring Sowbread (Cyclamen) | *Cyclamen coum* | 6.0–7.5 | 2–3cm deep, flat side down | ✅ 3–5L container | 🌥️ | Snowdrops, winter aconite, hellebores | 10–15cm between tubers |
-| I7 | St Patrick's Cabbage | *Saxifraga spathularis* | 5.0–6.0 | Crown at soil level | ✅ 10–15L container/rockery | 🌥️ to 🌑 | Ferns, native mosses, shaded rockery plants | 15–20cm between plants |
-| A18 | Star Magnolia | *Magnolia stellata* | 5.0–6.5 | At pot level; no deeper | ✅ 80–100L stone/terracotta | 🌤️ | Snowdrops, daffodils, hellebores, hardy geraniums | 2.5m spread; shelter from N/E winds |
-| F30 | Stocks | *Matthiola incana / M. longipetala* | 6.5–7.5 | At pot level; seeds on surface | ✅ 25–30cm / 10L+ | 🌤️ | Wallflowers, sweet William, pansies | 20–30cm between plants |
-| B15 | Strawberry | *Fragaria × ananassa* | 5.5–6.8 | Crown exactly at soil level | ✅ 30–35cm / 15–20L per plant | ☀️ | Borage, garlic, chives, marigolds | 30–45cm between plants |
-| B16 | Sweet Cherry 'Sylvia' | *Prunus avium* 'Sylvia' | 6.0–7.0 (well-drained) | ~12cm / graft union at soil level | ✅ Large patio pot | ☀️ to 🌤️ | Chives, garlic | 1m spacing; self-fertile |
-| G7 | Sweet Peas | *Lathyrus odoratus* | 6.0–7.5 | 2cm deep (seed) | ✅ Large 20L+ container with support | ☀️ | Climbing roses, clematis; vegetable garden | 15–20cm between plants against support |
-| F31 | Sweet William | *Dianthus barbatus* | 5.8–6.5 | At pot level | ✅ 25–30cm / 10L+ | ☀️ | Pinks, stocks, foxgloves, wallflowers, roses | 30cm between plants |
-| F32 | Toadflax | *Linaria vulgaris* | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌤️ | Ox-eye daisy, yarrow, wildflower meadow | 20–30cm between plants; spreads readily |
-| F15 | Trollius (Globeflower) | *Trollius europaeus* | 5.5–7.0 | Crown at soil level | ✅ 20–30L container, keep moist | ☀️ to 🌥️ | Astilbe, hosta, candelabra primulas | 30–40cm between plants |
-| E19 | Tulip | *Tulipa* spp. | 6.0–7.0 | 20cm (3× bulb height) | ✅ Excellent: 25–30cm / 10L+ | ☀️ | Forget-me-nots, daffodils, alliums, wallflowers | 10–15cm between bulbs |
-| F33 | Vervain | *Verbena officinalis* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌤️ | Lavender, catmint, ornamental grasses | 20–30cm between plants |
-| D9 | Vicia (Tufted Vetch) | *Vicia cracca* | 6.0–7.5 | 1–2cm (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Grasses, wildflower meadow species, hedgerow shrubs | 20–30cm between plants; scrambles via tendrils |
-| D10 | Virginia Creeper | *Parthenocissus quinquefolia* | 5.5–7.5 | At pot level | ✅ 30–40L container | 🌤️ | Ivy (same wall), late clematis | 1.5–3m between plants |
-| C10 | Wall Pennywort | *Umbilicus rupestris* | 6.0–7.5 | At pot level / wall crevice | ✅ Small pot or wall crevice | 🌥️ | Ivy, ferns, sempervivum, saxifrage | 15–20cm between plants |
-| E20 | Wild Tulip | *Tulipa sylvestris* | 6.0–7.5 | 10–15cm deep | ✅ 5L+ container | 🌤️ to ☀️ | Daffodils, other naturalising bulbs | 10–15cm between bulbs |
-| D11 | Wisteria | *Wisteria sinensis / floribunda* | 6.0–7.0 | At pot level; graft above soil | ⚠️ 45cm/60L+ container | ☀️ | Climbing roses (same wall), alliums, irises | 45cm from wall; 3m between plants |
-| I9 | Wood Sorrel | *Oxalis acetosella* | 5.0–6.5 | Crown at soil level | ✅ 5L+ container | 🌑 to 🌥️ | Ferns, native mosses, primroses | 10–15cm between plants |
-| B17 | Woodland Strawberry | *Fragaria vesca* | 5.5–7.0 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Ferns, hostas, primroses | 25–30cm between plants; spreads by runners |
-| F34 | Yarrow | *Achillea millefolium* | 5.5–7.0 | At pot level; bare-root buds 2–3cm below | ✅ 30cm / 10L+ | ☀️ | Roses, salvia, echinacea, hydrangea, ornamental grasses | 30–60cm between plants; divide every 2–3 yrs |
-| J8 | Yellow Flag Iris | *Iris pseudacorus* | 5.5–8.0 | Crown at soil level; 0–20cm water above | ✅ 19–24cm aquatic basket | ☀️ | White water lily, bogbean, bog pimpernel | 30–60cm between plants; divide every 2–3 yrs |
-| J9 | Yellow Loosestrife | *Lysimachia vulgaris* | 6.0–7.5 | Crown at soil level | ✅ 20L+ container, keep moist | ☀️ to 🌥️ | Meadowsweet, yellow flag iris, marsh marigold | 40–50cm between plants; spreads by rhizome |
-| H16 | Zucchini (Courgette) | *Cucurbita pepo* | 6.0–7.0 | At pot level (after frost) | ✅ Large 30–40L container | ☀️ | Nasturtiums, sweetcorn, beans | 60–90cm between plants |
+| # | English Name | Latin Name | Irish Name | Russian Name | pH | Planting Depth | In Pot? | Light | Key Companions | Spacing |
+|---|---|---|---|---|---|---|---|---|---|---|
+| E1 | Acidanthera (Abyssinian Gladiolus) | *Gladiolus murielae* | — | — | 6.0–7.0 | 10–16cm on bed of sharp sand | ✅ 30cm / 15L+ | ☀️ | Salvias, gladioli, dahlias, ornamental grasses | 15–20cm between corms |
+| E2 | African Lily | *Agapanthus africanus* | — | — | 5.5–6.5 | Rhizome just below soil / at pot level | ✅ Large 40–50L container, movable | ☀️ | Ornamental grasses, rudbeckias | 40–60cm between plants; tender, overwinter under cover |
+| B1 | Apple Tree 'Baya Marisa' (P22 Rootstock) | *Malus domestica* | — | — | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, nasturtiums | 1–1.5m between trees; permanent stake |
+| I1 | Asian Bleeding Heart | *Lamprocapnos spectabilis* | — | — | 6.0–7.5 | Crown at/just below soil level | ✅ 30–40L container | 🌥️ | Ferns, hostas, hellebores, primroses | 45–60cm between plants; dislikes disturbance |
+| H1 | Asparagus | *Asparagus officinalis* | — | — | 6.5–7.5 | Crowns 20cm deep, ridged in trench | ⚠️ Very large 50L+ container, raised bed better | ☀️ | Basil, parsley, tomatoes, calendula | 30–45cm between crowns; 90cm–1.5m between rows |
+| F1 | Astilbe | *Astilbe* spp. | — | — | 5.5–7.0 | At pot level; crown at surface | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, ferns, hellebores, primulas | 30–45cm between plants |
+| F2 | Astrantia (Masterwort) | *Astrantia major* | — | — | 5.5–7.5 | Crown at soil level | ✅ 20–25L container | ☀️ to 🌥️ | Roses, ferns, hostas | 30–45cm between plants |
+| F3 | Auricula | *Primula auricula* | — | — | 6.5–7.5 | Crown at soil level | ✅ 3–5L pot/trough | 🌥️ | Saxifrage, sempervivum, other alpines | 15–20cm between plants |
+| F4 | Balloon Flower | *Platycodon grandiflorus* | — | — | 5.6–7.3 | Crown at soil level | ✅ 20–25L container | ☀️ to 🌥️ | Astilbe, campanula, heuchera, hosta | 30–60cm between plants; dislikes disturbance |
+| A1 | Bamboo | *Fargesia* / *Chusquea* spp. | — | — | 5.5–7.0 | At pot level | ⚠️ Very large tub (100L+) | 🌤️ | Ferns, hostas, astilbe | 1.5–3m from structures; root barrier for running types |
+| H2 | Basil | *Ocimum basilicum* | — | — | 6.0–7.5 | At pot level (after frost) | ✅ 10–15L container, best under cover | ☀️ | Tomatoes, peppers | 20–25cm between plants; tender, grow sheltered |
+| F5 | Bearded Iris (Border Iris) | *Iris germanica* | — | — | 6.5–7.5 | Rhizome at/just above soil surface | ⚠️ Wide shallow container, 30L+ | ☀️ | Roses, peonies, alliums | 30–45cm between rhizomes; divide every 3–4 yrs |
+| B2 | Blackberries | *Rubus fruticosus* agg. | — | — | 5.5–7.0 | At nursery soil mark | ⚠️ 40–50L container against support | ☀️ to 🌤️ | Raspberries, other cane fruit | 2–3m between plants against wires |
+| B3 | Blackcurrant | *Ribes nigrum* | — | — | 6.0–7.0 | 5–7cm deeper than nursery mark | ⚠️ 30L+ large pot | 🌤️ | Alliums, garlic, nasturtiums, redcurrant | 1.2–1.5m between plants |
+| F6 | Blue Gentian | *Gentiana* spp. | — | — | 5.5–6.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌥️ | Heather, dwarf conifers, saxifrage | 20–30cm between plants |
+| D1 | Blue Passion Flower | *Passiflora caerulea* | — | — | 6.0–7.5 | At nursery soil mark | ⚠️ 40–50L container against support | ☀️ | Climbing roses, clematis, honeysuckle | 2–3m between plants against wall/fence |
+| B4 | Blueberry | *Vaccinium corymbosum* | — | — | 4.0–5.5 | At pot level | ✅ Essential: 40–60cm / 30–50L+ | 🌤️ | Heather, lingonberry (same ericaceous trough) | 1 plant per pot; 60cm between pots |
+| J1 | Bog Asphodel | *Narthecium ossifragum* | Sciollam na móna | — | 4.5–6.0 | Crown at soil surface, permanently wet | ⚠️ Bog garden/boggy pot only | ☀️ | Bogbean, bog pimpernel | 20–30cm between plants; needs permanently wet acid soil |
+| J2 | Bog Pimpernel | *Anagallis tenella* | — | — | 5.0–6.5 | Crown at soil surface; bog margin to waterline | ✅ Small shallow container at margin | ☀️ | Bogbean, yellow flag iris, water mint | 30–40cm apart; spreads as carpet |
+| J3 | Bogbean (Buckbean) | *Menyanthes trifoliata* | Báchrán | — | 5.0–7.5 | Roots + 5cm stem in soil; 5–25cm water above | ✅ 19–24cm+ aquatic basket | ☀️ | White water lily, yellow flag iris, bog pimpernel | 60cm between plants; spreads indefinitely without basket |
+| G1 | Borage | *Borago officinalis* | Borráiste gorm | — | 6.0–7.0 | 1cm deep (seed) | ✅ 20–30L container | ☀️ | Strawberries, tomatoes, squash, cucumbers | 45–60cm between plants; annual, self-seeds freely |
+| A2 | Border Forsythia | *Forsythia × intermedia* | — | — | 6.0–8.0 | At pot level | ❌ Too large | 🌤️ | Spring tulips, Vinca, holly backdrop | 1.5m between; 2m from walls |
+| F7 | Border Sedum (Stonecrop) | *Hylotelephium spectabile* | — | — | 6.0–6.5 | At pot level | ✅ 15–20L container | ☀️ | Ornamental grasses, asters, late perennials | 30–45cm between plants |
+| G2 | Calendula (Pot Marigold) | *Calendula officinalis* | — | — | 6.0–7.0 | 1cm deep (seed) | ✅ 10–15L container | ☀️ to 🌤️ | Brassicas, tomatoes, carrots | 15–30cm between plants; annual, self-seeds |
+| G3 | California Poppy | *Eschscholzia californica* | — | — | 6.5–7.5 | Surface-sown (seed) | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist, lavender | 15–23cm between plants; annual, self-seeds |
+| E3 | Camassia | *Camassia* spp. | — | — | 6.0–7.0 | 10–15cm deep | ⚠️ Large 20L+ container (short-term only) | ☀️ to 🌥️ | Solomon's Seal, Asian Bleeding Heart, later perennials | 15–20cm between bulbs; dislikes disturbance |
+| C1 | Carpathian Bellflower | *Campanula carpatica* | — | — | 6.0–7.0 | At pot level | ✅ 15–20L container | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 25–35cm between plants |
+| H3 | Catnip | *Nepeta cataria* | — | — | 6.0–7.5 | At pot level | ✅ 15–20L container | ☀️ to 🌤️ | Brassicas, roses | 30–45cm between plants |
+| H4 | Chamomile | *Chamaemelum nobile* / *Matricaria chamomilla* | Camán meall | — | 5.6–7.8 | Crown at soil level (Roman) / surface-sown (German) | ✅ 10–15L container | ☀️ to 🌥️ | Brassicas, onions, other Mediterranean herbs | 20–30cm between plants |
+| E4 | Checkered Lily (Snake's Head Fritillary) | *Fritillaria meleagris* | — | — | 6.0–7.0 | 10cm deep | ✅ 5L+ container | 🌤️ | Snowdrops, daffodils, damp border/pond-margin planting | 8–10cm between bulbs |
+| A3 | Cherry Blossom 'Kanzan' | *Prunus* 'Kanzan' | — | — | 6.0–7.5 | Graft union at/above soil | ⚠️ 100L+ container | ☀️ | Daffodils, forget-me-nots, hostas | 4–5m from trees/structures |
+| G4 | Chinese Pink | *Dianthus chinensis* | — | — | 6.5–7.5 | 3mm deep (seed) / at pot level | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist | 15–20cm between plants; grow as annual/biennial |
+| H5 | Chives | *Allium schoenoprasum* | — | — | 6.0–7.0 | At pot level / divide clumps | ✅ 10–15L container | ☀️ to 🌤️ | Carrots, roses, apples | 15–20cm between plants; divide every 2–3 yrs |
+| D2 | Clematis | *Clematis* spp. | — | — | 6.5–7.5 | 10–15cm DEEPER than pot | ✅ 45cm/40L+ container | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential |
+| D3 | Climbing Honeysuckle | *Lonicera periclymenum* | Féithleann | — | 5.5–8.0 | At pot level | ⚠️ 30L+ (not ideal, deep roots) | 🌤️ | Climbing roses, clematis; near windows | 1.5m between plants |
+| D4 | Climbing Hydrangea | *Hydrangea anomala* subsp. *petiolaris* | — | — | 6.0–7.0 | At pot level | ⚠️ 50L+ (not ideal) | 🌑 to 🌤️ | Ivy, ferns, hostas, shade-tolerant plants | 45cm from wall; 60cm+ between plants |
+| D5 | Climbing Roses | *Rosa* (climbing cvs.) | — | Плетистая роза | 6.0–7.0 | Graft union just below soil | ⚠️ 50L+ large container | ☀️ | Clematis (same wall), lavender, geraniums | 45cm from wall; 2–3m between plants |
+| F8 | Clustered Bellflower | *Campanula glomerata* | — | — | 6.5–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Roses, peonies, ornamental grasses | 30–40cm between plants; divide every 3–4 yrs |
+| F9 | Columbine | *Aquilegia vulgaris* | Colaimbín | — | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Foxgloves, hardy geraniums, roses | 30–45cm between plants; self-seeds freely |
+| H6 | Comfrey | *Symphytum officinale* | — | — | 6.1–7.3 | Crown at/just below soil level | ⚠️ 30L+ container (vigorous) | ☀️ to 🌥️ | Fruit trees, vegetable beds (as mulch/liquid feed) | 60–90cm between plants; can be invasive |
+| I2 | Common Dog Violet | *Viola riviniana* | Fanaigse | — | 5.5–7.0 | Crown at soil level | ✅ 5L+ container | 🌥️ | Primroses, wood sorrel, ferns | 15–20cm between plants |
+| A4 | Common Hawthorn | *Crataegus monogyna* | Sceach Gheal | Боярышник однопестичный | 5.5–7.5 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌤️ | Blackthorn, holly, hazel; primroses, bluebells beneath | As hedge: 30–45cm; as tree: 4–6m from structures |
+| H7 | Common Sorrel | *Rumex acetosa* | Samhadh bó | — | 5.5–6.8 | 5–6mm deep (seed) / at pot level | ✅ 15–20L container | ☀️ to 🌥️ | Other salad/leaf herbs | 30–40cm between plants; divide every 3–4 yrs |
+| F10 | Coral Bells | *Heuchera* spp. | — | — | 6.0–7.0 | Crown at soil level | ✅ 20–30L container | 🌥️ | Hostas, astilbe, ferns, hellebores | 30–45cm between plants |
+| H8 | Coriander | *Coriandrum sativum* | — | — | 6.0–7.0 | Sow 5mm deep; do not transplant | ✅ 20cm+ deep / 5L+ | 🌤️ | Parsley, brassicas; away from dill & fennel | 15–20cm between plants |
+| E5 | Corn Lily | *Ixia* spp. | — | — | 6.0–7.0 | 8–10cm deep | ✅ Best in containers (borderline hardy) | ☀️ | Freesia and other tender corms | 5–8cm between corms |
+| G5 | Cornflower | *Centaurea cyanus* | — | — | 6.0–7.5 | 1–2cm deep (seed) | ✅ 5L+ container | ☀️ | Poppies, love-in-a-mist, briza maxima | 20–30cm between plants; annual, self-seeds |
+| G6 | Cosmos | *Cosmos bipinnatus* | — | — | 6.0–7.5 | 5–6mm deep (seed) / at pot level | ✅ 15–20L container | ☀️ | Zinnias, dahlias, ornamental grasses | 30–45cm between plants |
+| I3 | Cowslip | *Primula veris* | Bainne bó bleachtáin | — | 6.5–7.5 | Crown just above soil level | ✅ 10–15L container | 🌥️ | Primroses, wood anemones, native bluebells | 20–30cm between plants |
+| B5 | Cranberry | *Vaccinium macrocarpon* | — | — | 4.0–5.0 | At pot level | ✅ Essential: 30–45cm / 10–20L | 🌤️ | Heather, lingonberry, blueberry (ericaceous) | 30–45cm in acidic bed |
+| C2 | Creeping Juniper | *Juniperus horizontalis* | — | — | 4.5–8.5 | At pot level or slightly raised | ✅ 30–40cm/20L+ | ☀️ (essential) | Heather, sedum, ornamental grasses, thyme | 1–1.5m for ground cover |
+| C3 | Creeping Phlox (Moss Phlox) | *Phlox subulata* | — | — | 5.5–7.7 | At pot level; shoots above soil | ✅ 20–30cm / 5–10L + grit | ☀️ | Tulips, daffodils underplanted; thyme, sedum, dianthus | 30–45cm for ground cover |
+| E6 | Crocus | *Crocus* spp. | — | — | 6.0–7.5 | 7–12cm deep; pointed end up | ✅ Excellent: 15–20cm / 3L+ | ☀️ (most) / 🌤️ | Snowdrops, daffodils, muscari, aconites | 8–9cm between corms |
+| E7 | Crown Imperial | *Fritillaria imperialis* | — | — | 6.5–8.0 | 20–30cm deep, planted on its side | ⚠️ 40cm / 30L+ deep pot | ☀️ | Tulips, alliums, wallflowers, euphorbia | 25cm between bulbs |
+| H9 | Cucumbers | *Cucumis sativus* | — | — | 6.0–7.0 | At pot level (after frost) | ✅ Large 30–40L container with support | ☀️ | Nasturtiums, dill, sweetcorn | 45–60cm between plants |
+| H10 | Culinary Thyme | *Thymus vulgaris* | — | — | 6.0–8.0 | At pot level | ✅ Terracotta 15–20L, with grit | ☀️ | Rosemary, sage, lavender | 25–40cm between plants; replace every 3–4 yrs |
+| F11 | Cutleaf Coneflower 'Goldball' | *Rudbeckia laciniata* 'Goldball' | — | — | 5.5–7.0 | At pot level | ⚠️ 40–50cm / 40L+ (very tall — better in ground) | ☀️ | Helenium, echinacea, salvias, ornamental grasses, asters | 60–90cm between; divide every 2–3 yrs |
+| E8 | Daffodils | *Narcissus* spp. | — | — | 6.0–7.0 | 15cm (3× bulb height) | ✅ 20–30cm / 5L+ | 🌤️ | Snowdrops, tulips, forget-me-nots, Muscari | 10–15cm between bulbs |
+| F12 | Daylilies | *Hemerocallis* spp. | — | — | 6.0–7.5 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Roses, ornamental grasses, yarrow | 45–60cm between plants; divide every 3–4 yrs |
+| I6c | Deer Fern | *Blechnum spicant* | — | — | 4.5–6.0 | At pot level | ✅ 30cm / 10L+ | 🌥️ to 🌑 | Lingonberry, heather, foxgloves | 30–45cm between plants |
+| F13 | Delphiniums | *Delphinium* spp. | — | — | 6.5–7.5 | At pot level; buds 2–5cm below | ⚠️ 40–50cm / 40L+ | ☀️ | Roses, lupins, peonies, alliums | 60–90cm between plants; stake essential |
+| H11 | Dill | *Anethum graveolens* | — | — | 5.5–7.0 | Sow 3–5mm deep; do not transplant | ✅ 30cm+ deep / 8L+ | ☀️ | Brassicas, lettuce; away from coriander & fennel | 20–30cm between plants |
+| I4 | Dusky Cranesbill | *Geranium phaeum* | Crobh odhar | — | 6.0–7.5 | Crown at soil level | ✅ 20–25L container | 🌑 to ☀️ | Ferns, hostas, hellebores | 40–60cm between plants |
+| E9 | Dwarf Iris | *Iris reticulata* | — | — | 6.0–7.5 | 8–10cm deep | ✅ 3–5L pot/trough | ☀️ | Snowdrops, crocus, dwarf daffodils | 5–8cm between bulbs |
+| A5 | Dwarf Lily Magnolia | *Magnolia liliiflora* | — | — | 5.5–6.5 | At nursery soil mark | ⚠️ 50–80L container | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2–3m between plants/structures |
+| F14 | Echinacea (Coneflower) | *Echinacea purpurea* | — | — | 5.8–7.0 | Crown at soil level | ✅ 20–30L container | ☀️ | Rudbeckia, ornamental grasses, yarrow, penstemon | 40–60cm between plants; needs sharp drainage |
+| F15 | Edelweiss | *Leontopodium alpinum* | — | — | 6.5–7.5 | Crown at soil level | ✅ Trough/rockery, 5L | ☀️ | Sempervivum, saxifrage, other alpines | 15–20cm between plants |
+| F16 | Elephant's Ears | *Bergenia* spp. | — | — | 5.5–8.0 | Rhizome at/just below surface | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hostas, hellebores, snowdrops, ferns | 30–60cm between plants |
+| A6 | False Spiraea | *Sorbaria sorbifolia* | — | — | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌥️ | Hydrangea, deutzia; good bank stabiliser | 1–1.5m between plants; spreads by suckers |
+| F17 | Fern-leaf Peony | *Paeonia tenuifolia* | — | — | 6.5–7.5 | Eyes 2–3cm below soil | ⚠️ 30–40L container | ☀️ | Alliums, bearded iris, catmint | 45–60cm between plants |
+| F18 | Forget-me-nots | *Myosotis sylvatica* | — | — | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 10–15L container | 🌥️ | Tulips, wallflowers, daffodils | 15–20cm between plants; biennial, self-seeds freely |
+| F19 | Foxgloves | *Digitalis purpurea* | Lus mór | — | 5.5–7.5 | At pot level; seeds on surface | ✅ 30cm / 10L+ deep | 🌥️ | Ferns, hostas, roses, alliums; self-seeds | 30–45cm between plants |
+| E10 | Freesia | *Freesia* spp. | — | — | 6.0–7.0 | 5–8cm deep | ✅ Best in containers (tender) | ☀️ | Ixia and other tender corms | 5–8cm between corms |
+| A7 | Fuzzy Pride-of-Rochester | *Deutzia scabra* | — | — | 6.0–7.5 | At nursery soil mark | ⚠️ Large 80–100L container | ☀️ to 🌤️ | Mock orange, lilac, weigela, spring bulbs | 1.5–2m between plants; grows 1.8–3m tall |
+| B6 | Garden Plum | *Prunus domestica* | — | — | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, comfrey, nasturtiums | 3–5m between trees depending on rootstock; permanent stake |
+| F20 | Geum (Avens) | *Geum* spp. | — | — | 5.5–7.0 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Roses, hardy geraniums, alliums | 30–45cm between plants; divide every 3–4 yrs |
+| F21 | Globe Thistle | *Echinops ritro* | — | — | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ | Ornamental grasses, echinacea, rudbeckia, sedum | 45–60cm between plants |
+| F22 | Globeflower | *Trollius europaeus* | — | — | 5.5–7.0 | Crown at soil level | ✅ 20–30L container, keep moist | ☀️ to 🌥️ | Astilbe, hosta, candelabra primulas | 30–40cm between plants |
+| B7 | Gooseberry | *Ribes uva-crispa* | — | — | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌤️ | Redcurrant, whitecurrant, tansy | 1.5m between plants |
+| E11 | Grape Hyacinth | *Muscari* spp. | — | — | 6.0–7.5 | 7–10cm deep | ✅ 5L+ container | ☀️ to 🌤️ | Tulips, daffodils, crocus | 5–8cm between bulbs; spreads readily |
+| G7 | Greater Quaking Grass | *Briza maxima* | — | — | 6.0–7.5 | 5mm deep (seed) | ✅ 5L+ container | ☀️ | Cornflower, poppies, love-in-a-mist | 15–20cm between plants; annual, self-seeds |
+| H12 | Green Onions (Scallions) | *Allium fistulosum* | — | — | 6.0–7.0 | 1cm deep (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, rocket, radish | 5–8cm between plants; sow successionally |
+| B8 | Green Strawberry | *Fragaria viridis* | — | — | 5.5–7.5 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Woodland Strawberry, ferns, low herbs | 25–30cm between plants; spreads by runners |
+| D6 | Hardy Grapes | *Vitis vinifera* | — | — | 6.0–6.5 | At pot depth; graft above soil | ⚠️ 40L+ container | ☀️ (essential) | Lavender, rosemary, garlic, hyssop | 1.2–1.5m between vines; 20cm from wall |
+| I6d | Hart's Tongue Fern | *Asplenium scolopendrium* | — | — | 6.5–8.0 | At pot level | ✅ 20–25cm / 10L+ | 🌥️ to 🌑 | Ferns, hostas, hellebores, snowdrops | 20–30cm between plants |
+| C4 | Heather (Scots Heather) | *Calluna vulgaris* | Fraoch mór | — | 4.5–6.5 (ideally 5.5) | At pot level | ✅ 20–25cm / 5–10L ericaceous compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants |
+| F23 | Helenium (Sneezeweed) | *Helenium autumnale* | — | — | 5.5–7.0 | Crown at soil level | ✅ 20–25L container | ☀️ | Rudbeckia, echinacea, asters, ornamental grasses | 45–60cm between plants; divide every 2–3 yrs |
+| F24 | Hellebore (Lenten Rose) | *Helleborus* spp. | — | — | 6.0–8.0 | At pot level; crown at/just below | ✅ 25–35cm / 10L+ | 🌥️ to 🌑 | Snowdrops, cyclamen, pulmonaria, hostas | 45–60cm between plants |
+| A8 | Holly | *Ilex aquifolium* | Cuileann | Падуб остролистный | 4.5–8.0 | At pot level (shallow roots) | ⚠️ 50L+ container | 🌑 to ☀️ | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | 1.5–3m between; slow-growing hedge |
+| F25 | Honesty | *Lunaria annua* | Lus na gealaí | — | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Tulips, ferns, hostas | 30–45cm between plants; biennial, self-seeds |
+| B9 | Honeyberry (Kamchatka) | *Lonicera caerulea* var. *kamtschatica* | — | — | 4.5–7.5 | At pot level | ⚠️ 50–75L (15–20 gal.) | 🌤️ | Blueberry, lingonberry; needs 2+ varieties | 1–1.5m between plants |
+| D7 | Hops | *Humulus lupulus* | — | — | 6.0–8.0 | Rhizome 5–8cm / pot level | ✅ 50L+ large container | 🌤️ | Climbing roses, clematis, ornamental grasses | 1–1.5m between plants |
+| F26 | Hosta (Plantain Lily) | *Hosta* spp. | — | — | 6.0–8.0 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 30–90cm (variety-dependent) |
+| C5 | Houseleek | *Sempervivum* spp. | — | — | 6.0–7.5 | At pot level | ✅ Shallow pot/trough, 3–5L | ☀️ | Saxifrage, wall pennywort, thyme, sedum | 10–15cm between rosettes |
+| A9 | Irish Yew | *Taxus baccata* 'Fastigiata' | Iúr | — | 5.0–8.0 | At pot level | ⚠️ 50L+ container | 🌑 to ☀️ | Holly, peonies, roses (backdrop), hellebores | Column 1m wide eventually; 1m from structures |
+| E12 | Iron Cross | *Oxalis tetraphylla* 'Iron Cross' | — | — | 6.0–7.0 | 5cm deep | ✅ 3–5L container | ☀️ to 🌤️ | Ixia, dwarf dahlias, other summer bulbs | 10–15cm between tubers; lift over winter |
+| D8 | Ivy | *Hedera helix / H. hibernica* | Eidhneán | — | 5.0–8.0 | At pot level | ✅ 20L+ (25–35cm pot) | 🌑 to ☀️ | Virginia creeper, ferns, snowdrops, bluebells | 30–50cm between plants |
+| F27 | Japanese Anemone | *Anemone × hybrida* | — | — | 6.0–7.5 | At pot level | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, astilbe, hellebores | 45–60cm between plants; can spread |
+| A10 | Japanese Camellia | *Camellia japonica* | — | — | 5.0–6.5 | At nursery soil mark | ✅ 40–50L ericaceous compost | 🌥️ | Skimmia, hydrangea macrophylla, Japanese maple | 1–1.5m between plants |
+| A11 | Japanese Maple | *Acer palmatum* | — | — | 5.5–6.5 | At pot level (shallow) | ✅ 50–80L terracotta/stone | 🌥️ | Hostas, ferns, hellebores, snowdrops | 2–4m from structures; wind shelter essential |
+| A12 | Japanese Skimmia | *Skimmia japonica* | — | — | 5.5–6.5 | At nursery soil mark | ✅ 30–40L container | 🌑 to ☀️ | Hellebores, ferns, hostas, Japanese maple | 60–90cm between plants; ♂+♀ within a few metres for berries |
+| I8a | Japanese Wood Fern | *Dryopteris erythrosora* | — | — | 5.0–6.0 | At pot level | ✅ 20–30L container | 🌥️ to 🌑 | Hostas, heuchera, hellebores | 45–60cm between plants |
+| G8 | Lacy Phacelia | *Phacelia tanacetifolia* | — | — | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ | Vegetable beds, fruit trees (pollinator support) | 20–30cm between plants; annual, sow successionally |
+| F28 | Lady's Bedstraw | *Galium verum* | Bolach cnis | — | 6.0–7.5 | Crown at soil level | ✅ 5L+ container | ☀️ | Ox-eye daisy, yarrow, wild grasses | 20–30cm between plants |
+| F29 | Lanceleaf Tickseed | *Coreopsis lanceolata* | — | — | 5.5–7.0 | Crown at soil level | ✅ 15–20L container | ☀️ | Yarrow, dianthus, ornamental grasses | 30–45cm between plants; self-seeds freely |
+| H13 | Lavender | *Lavandula angustifolia* | — | — | 6.5–8.0 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Roses, rosemary, thyme | 30–45cm between plants |
+| H14 | Lemon Balm | *Melissa officinalis* | — | — | 6.0–7.5 | At pot level | ✅ 15–20L container (to contain spread) | ☀️ to 🌥️ | Brassicas, tomatoes | 30–45cm between plants; spreads readily |
+| A13 | Lewis Mock Orange | *Philadelphus lewisii* | — | — | 6.0–7.5 | At nursery soil mark | ⚠️ 50L+ container | ☀️ to 🌤️ | Deutzia, lilac, roses, spring bulbs | 1.5–2m between plants |
+| A14 | Lilac | *Syringa vulgaris* | — | — | 6.5–8.0 | At nursery soil mark | ❌ Too large | ☀️ | Roses, alliums, peonies, irises | 1.5m between; 2m from walls |
+| E13 | Lilies | *Lilium* spp. | — | — | 6.0–7.0 | 15cm (3× bulb height) on grit | ✅ 30–40cm / 15–25L | 🌤️ | Hostas, geraniums, roses, alliums | 15–30cm between bulbs |
+| I5 | Lily of the Valley | *Convallaria majalis* | — | — | 6.0–7.5 | 2–3cm deep (rhizome) | ✅ 15–20L container | 🌥️ | Ferns, hostas, hellebores | 15–20cm between plants; ⚠️ toxic, spreads |
+| F30 | Lilyleaf Ladybells | *Adenophora liliifolia* | — | — | 6.0–7.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌥️ | Bellflowers, delphiniums, phlox | 30–40cm between plants |
+| B10 | Lingonberry | *Vaccinium vitis-idaea* | — | — | 4.2–5.5 | At pot level | ✅ 25–30cm / 10–15L | 🌥️ | Blueberry, heather, cranberry, deer fern | 30cm between plants |
+| J4 | Loosestrife | *Lysimachia vulgaris* / *L. punctata* | Breallán léana (Breallán dlúth) | — | 6.0–7.5 | Crown at soil level | ✅ 20L+ container (to contain spread) | ☀️ to 🌥️ | Yellow Flag Iris, Meadowsweet, Marsh Marigold | 30–50cm between plants; spreads vigorously |
+| G9 | Love-in-a-Mist | *Nigella damascena* | Nigéal | — | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Cornflower, poppies, briza maxima | 20cm between plants; annual, self-seeds freely |
+| F31 | Lungworts | *Pulmonaria* spp. | — | — | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | 🌥️ | Hellebores, ferns, hostas | 30–40cm between plants; divide every 3–4 yrs |
+| F32 | Lupins | *Lupinus polyphyllus* | — | — | 5.5–6.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌤️ | Delphiniums, roses, foxgloves | 45–60cm between plants |
+| I6a | Male Fern | *Dryopteris filix-mas* | — | — | 5.0–7.0 | Crown 7–12cm above soil | ✅ 40–50cm / 30L+ | 🌥️ to 🌑 | Hostas, astilbe, bamboo, snowdrops | 60–90cm between plants |
+| J5 | Marsh Marigold | *Caltha palustris* | Lus buí Bealtaine | — | 6.0–7.5 | Crown at soil level / shallow water | ✅ Aquatic basket, 3–5L | ☀️ to 🌥️ | Yellow flag iris, bogbean, ferns | 30–40cm between plants |
+| J6 | Marsh Orchids | *Dactylorhiza* spp. | — | — | 6.0–7.0 | 5–8cm deep (tuber) / at pot level | ⚠️ Large container, kept constantly moist | ☀️ to 🌥️ | Yellow flag iris, meadowsweet, ragged robin | 15–20cm between plants; buy nursery stock only |
+| E14 | Martagon Lily | *Lilium martagon* | — | — | 6.0–7.5 | 15cm deep (3× bulb height) | ✅ Large 20L+ container | 🌥️ | Hostas, ferns, hellebores; light woodland edge | 20–30cm between bulbs |
+| J7 | Meadowsweet | *Filipendula ulmaria* | Airgead luachra | — | 5.0–6.5 | Crown at soil level | ⚠️ Large 40–50cm / 30L+ | ☀️ to 🌤️ | Yellow flag iris, bogbean, royal fern, astilbe | 60cm between plants; can self-seed |
+| H15 | Mint | *Mentha* spp. | — | — | 6.0–7.0 | At pot level | ✅ Essential (contains spread): 30cm / 10L+ | 🌤️ | Near brassicas/tomatoes as repellent (in pots) | 60cm if in ground with root barrier |
+| F33 | Monkshood | *Aconitum napellus* | — | — | 6.0–7.5 | Crown at soil level | ⚠️ 20–30L container | 🌥️ to ☀️ | Delphiniums, hostas, astilbe | 45–60cm between plants; ⚠️ toxic, wear gloves |
+| A15 | Mophead / Lacecap Hydrangea | *Hydrangea macrophylla* | — | — | 5.0–7.0 (blue 5.0–6.0; pink 6.0–7.0) | At pot level; rootball top slightly raised | ✅ Excellent: 40cm compact / 50–60cm standard | 🌥️ | Astilbe, hostas, ferns, yarrow, heucheras | 90cm–2.4m between (check label for variety size) |
+| B11 | Morello Cherry | *Prunus cerasus* 'Morello' | — | — | 6.0–7.0 | At nursery soil mark | ✅ Large 45–50cm pot, loam-based compost | 🌥️ | Chives, garlic, spring bulbs | 3.5–4m free-standing; or fan-trained on any wall aspect |
+| C6 | Mother of Thyme (Creeping Thyme) | *Thymus serpyllum* | — | — | 6.0–8.0 | At pot level | ✅ Terracotta 20cm / 5L+ with grit | ☀️ | Rosemary, oregano, lavender, creeping juniper | 20–30cm between plants |
+| A16 | Mountain Ash (Rowan) | *Sorbus aucuparia* | Caorthann | — | 5.0–7.0 | At nursery soil mark | ⚠️ 80–100L container | ☀️ to 🌤️ | Holly, hawthorn, ferns, foxgloves, hellebores | 3–5m from structures |
+| H16 | Nasturtiums | *Tropaeolum majus* | — | — | 6.0–7.5 | 1–2cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Apples, brassicas, cucumbers (trap crop) | 20–30cm between plants; annual, self-seeds |
+| E15 | Native Bluebells | *Hyacinthoides non-scripta* | Coinnle corra | — | 6.0–6.8 | 8cm deep | ✅ 5L+ container | 🌥️ | Ferns, hostas, primroses, wood anemones | 8–10cm between bulbs |
+| I7 | Native Irish Mosses | *various spp.* | — | — | 5.0–6.5 (most) | Surface transplant, not buried | ✅ Shallow tray/log/pot | 🌥️ to 🌑 | Ferns, wood sorrel, primroses | Establish as patches; keep consistently moist |
+| J8 | Native Irish White Water Lily | *Nymphaea alba* | — | — | 6.5–7.5 (water) | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | ✅ (pond basket essential): 30–40cm+ basket | ☀️ | Yellow flag iris, bogbean, oxygenating plants | 1.5–2m between plants; large ponds only |
+| H17 | Oregano / Wild Marjoram | *Origanum vulgare* | Máirtín fiáin | — | 6.5–8.0 | At pot level | ✅ 25cm / 8L+ | ☀️ | Thyme, rosemary; pollinator attractor for fruit | 30–45cm between plants |
+| E16 | Ornamental Onion | *Allium* spp. | — | — | 6.0–7.5 | 10–20cm deep (2–3× bulb depth) | ✅ 5L+ container; large types 20–30L | ☀️ | Roses, peonies, irises, delphiniums, ornamental grasses | 10–30cm between bulbs depending on variety |
+| I8c | Ostrich Fern | *Matteuccia struthiopteris* | — | — | 5.0–7.0 | Crown at soil surface | ⚠️ Large 30L+ container, keep very moist | 🌥️ to 🌑 | Bog-garden and damp-border companions | 45–90cm between plants; spreads by runners |
+| H18 | Parsley | *Petroselinum crispum* | — | — | 6.0–7.0 | 1cm deep (seed) | ✅ 10–15L container | ☀️ to 🌤️ | Tomatoes, asparagus, roses | 20–30cm between plants; sow successionally |
+| F34 | Pasqueflower | *Pulsatilla vulgaris* | — | — | 6.5–8.0 | At pot level; do not disturb | ✅ Essential on clay: 25–30cm / 10L+ | ☀️ | Dianthus, Eryngium, Achillea, ornamental grasses | 20–30cm between plants |
+| F35 | Penstemon | *Penstemon* spp. | — | — | 5.5–7.0 | Crown at soil level | ✅ 20–30L container | ☀️ | Salvia, echinacea, rudbeckia, lavender | 30–45cm between plants |
+| F36 | Peonies | *Paeonia* spp. | — | — | 6.5–7.0 | Eyes MAX 2.5–5cm below soil | ⚠️ 50L+ large tub | ☀️ to 🌤️ | Alliums, irises, salvia, roses, foxgloves | 90cm between plants |
+| F37 | Perennial Flax | *Linum perenne* | — | — | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ | Yarrow, lavender, drought-tolerant perennials | 20–30cm between plants |
+| C7 | Periwinkle | *Vinca minor / V. major* | Fincín mór | — | 5.5–8.0 | At pot level | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hellebores, snowdrops, ivy; under trees/shrubs | 30–45cm between plants; can spread |
+| F38 | Pheasant's Eye | *Adonis vernalis* | — | — | 6.5–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌥️ | Snowdrops, hellebores | 20–30cm between plants; ⚠️ toxic |
+| F39 | Pinks | *Dianthus plumarius* (garden pinks) | — | — | 5.8–6.5 | At pot level | ✅ 25–35cm / 10L+ | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants |
+| G10 | Poached Egg Plant | *Limnanthes douglasii* | Cúr léana | — | 5.5–7.5 | Surface-sown (seed) | ✅ 5L+ container | ☀️ | Vegetable beds, cornflower, love-in-a-mist | 10–20cm between plants; annual, self-seeds |
+| B12 | Pomegranate | *Punica granatum* | — | — | 5.5–7.0 | At nursery soil mark | ✅ Large 50L+ container, movable | ☀️ | Passiflora, grapevine on same warm wall | 2–3m against wall; borderline hardy, best in a container |
+| G11 | Poppies | *Papaver rhoeas* | Cailleach dhearg | — | 6.0–7.5 | Surface-sown (seed) | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist, briza maxima | 15–20cm between plants; annual, self-seeds freely |
+| C8 | Prickly Heath | *Gaultheria mucronata* | Fraoch deilgneach | — | 4.5–6.0 | At nursery soil mark | ✅ 20–30L ericaceous compost | ☀️ to 🌥️ | Heather, blueberry, lingonberry, dwarf conifers | 45–60cm between plants; ♂+♀ for berries |
+| I9 | Primroses | *Primula vulgaris* | Sabhaircín | — | 5.5–7.0 | Crown at soil level | ✅ 10–15L container | 🌥️ | Bluebells, wood anemones, violets, ferns | 20–25cm between plants |
+| H19 | Radish | *Raphanus sativus* | — | — | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, lettuce, green onions | 2–3cm between plants; sow successionally |
+| E17 | Ranunculus | *Ranunculus asiaticus* | — | — | 6.0–7.0 | 5–8cm deep; claws down | ✅ Better in pots: 25–30cm / 10L+ | 🌤️ | Pansies, muscari, spring anemones | 15–20cm between tubers |
+| B13 | Raspberry | *Rubus idaeus* | — | — | 5.8–6.5 | Crown 5–7cm below soil | ❌ | 🌤️ | Garlic, marigolds, tansy; away from potatoes | 45–60cm between canes; 1.8m between rows |
+| B14 | Redcurrant | *Ribes rubrum* | — | — | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌥️ (north fence ok) | Gooseberry, whitecurrant | 1.5m between plants |
+| C9 | Reindeer Lichen | *Cladonia rangiferina* | — | — | 4.0–5.5 | Surface only, not buried | ⚠️ Shallow tray/rockery | ☀️ to 🌥️ | Heather, sempervivum, open heath planting | Establishes slowly; avoid disturbance |
+| B15 | Rhubarb | *Rheum × hybridum* | — | — | 6.0–7.0 | Buds 1–2cm below soil | ⚠️ 50cm / 50L+ deep pot | 🌤️ | Beans, peas nearby; away from fennel | 90cm between crowns |
+| H20 | Rocket | *Eruca sativa* | — | — | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌥️ | Radish, green onions, lettuce | 15–20cm between plants; sow successionally |
+| H21 | Rosemary | *Salvia rosmarinus* | — | — | 6.0–7.5 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Brassicas, carrots, beans, thyme, lavender | 45–60cm between plants |
+| I10 | Rough Tree Fern | *Cyathea australis* | — | — | 5.5–7.0 | Trunk at same depth as grown | ✅ Large 50L+ container | 🌥️ | Hostas, camellias, rhododendrons, mosses | 1.5–3m between plants; wrap crown in hard frost |
+| I11 | Round-Lobed Hepatica | *Hepatica nobilis* | — | — | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ | Snowdrops, hellebores, wood anemones | 15–20cm between plants |
+| I6b | Royal Fern | *Osmunda regalis* | — | — | 4.5–6.5 | Crown slightly above soil | ❌ Too large | ☀️ to 🌥️ | Hostas, iris, marginal aquatics, bamboo | 1–1.5m between plants |
+| H22 | Sage | *Salvia officinalis* | — | — | 5.6–7.8 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Rosemary, lavender, thyme, cabbages, carrots | 45–60cm between plants |
+| C10 | Saxifrage | *Saxifraga* spp. | Mórán | — | 5.5–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ to 🌥️ | Sempervivum, campanula saxifraga, dwarf bulbs | 15–25cm between plants |
+| F40 | Scabiosa (Pincushion Flower) | *Scabiosa columbaria* | — | — | 6.2–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ | Roses, salvias, ornamental grasses | 30–40cm between plants; divide every 2–3 yrs |
+| H23 | Scurvy Grass | *Cochlearia officinalis* | — | — | 6.5–7.5 | At pot level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌥️ | Sea kale, coastal edible plants | 15–20cm between plants |
+| B16 | Sea Buckthorn | *Hippophae rhamnoides* | Draighean mara | — | 5.5–8.0 | At nursery soil mark | ⚠️ Large 50–80L container | ☀️ | Other coastal shrubs; windbreak planting | 1.5–2m between plants; ♂+♀ for berries |
+| F41 | Sea Holly | *Eryngium* spp. | — | — | 5.0–7.5 | Crown at soil level | ⚠️ Large 20–30L container, sharp drainage | ☀️ | Roses, ornamental grasses, taller perennials | 40–90cm between plants; dislikes disturbance |
+| B17 | Serviceberry | *Amelanchier lamarckii* | — | — | 5.5–7.0 | At nursery soil mark | ⚠️ 50–80L container | ☀️ to 🌤️ | Hellebores, snowdrops, ferns, Japanese maple | 2–4m between plants/structures |
+| A17 | Shrub Roses | *Rosa* spp. | Rós | Роза | 5.5–7.0 | Bud union at/just below soil level | ⚠️ Large 40–50L container | ☀️ | Alliums, catmint, hardy geraniums, lavender | 75cm–1m between plants |
+| E18 | Siberian Squill | *Scilla siberica* | — | — | 6.0–7.0 | 7–10cm deep | ✅ 5L+ container | ☀️ to 🌥️ | Snowdrops, crocus, dwarf daffodils, chionodoxa | 8–10cm between bulbs |
+| F42 | Siberian Statice | *Goniolimon tataricum* | — | — | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ | Ornamental grasses, achillea, sedum | 30–40cm between plants |
+| I12 | Silver Fern | *Cyathea dealbata* | — | — | 5.5–6.5 | Trunk at same depth as grown | ✅ Large 50L+ container, movable | 🌥️ | Hostas, ferns, hellebores, camellias | 1.5–3m between plants; tender, overwinter under cover |
+| F43 | Slender Vervain | *Verbena rigida* | — | — | 6.0–7.2 | At pot level | ✅ 15–20L container | ☀️ | Ornamental grasses, other verbenas, sedum | 25–35cm between plants; borderline hardy, mulch for winter |
+| G12 | Snapdragons | *Antirrhinum majus* | Srubh lao | — | 6.0–7.0 | Surface-sown (seed) / at pot level | ✅ 10–15L container | ☀️ to 🌤️ | Wallflowers, sweet William, forget-me-nots | 20–30cm between plants |
+| E19 | Snowdrops | *Galanthus nivalis* | Plúirín sneachta | — | 5.5–7.0 | 10cm (dry) / at growing depth (green) | ✅ 20–25cm / 5L+ | 🌥️ to 🌑 | Hellebores, aconites, early narcissus, cyclamen coum | 8–10cm between bulbs |
+| E20 | Snowflake (Summer) | *Leucojum aestivum* | — | — | 5.5–7.0 | 8–10cm deep; in autumn | ✅ 30–40cm / 15L+ | 🌤️ | Daffodils, snowdrops, hellebores; pond edges | 8–10cm between bulbs |
+| I13 | Solomon's Seal | *Polygonatum multiflorum* | — | — | 6.0–7.5 | Rhizome 5cm deep | ✅ 20–30L container | 🌑 to ☀️ | Ferns, hostas, hellebores, cyclamen, primroses | 20–30cm between plants; spreads slowly |
+| F44 | Spreading Bellflower | *Campanula patula* | — | — | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 10–15L container | ☀️ to 🌥️ | Ox-eye daisy, wild grasses | 20–30cm between plants; biennial/short-lived |
+| E21 | Spring Anemone | *Anemone blanda* / *A. nemorosa* | — | — | 5.5–7.0 | 5–8cm deep | ✅ 20–25cm / 5L+ | 🌥️ | Snowdrops, bluebells, foxgloves | 10cm between corms |
+| E22 | Spring Sowbread | *Cyclamen coum* | — | — | 6.0–7.5 | 2–3cm deep, flat side down | ✅ 3–5L container | 🌥️ | Snowdrops, winter aconite, hellebores | 10–15cm between tubers |
+| A18 | St John's Wort 'Rowallane' | *Hypericum* 'Rowallane' | — | — | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌤️ | Heather, skimmia, roses, late perennials | 1–1.5m between plants |
+| I14 | St Patrick's Cabbage | *Saxifraga spathularis* | Cabáiste mhadra rua | — | 5.0–6.0 | Crown at soil level | ✅ 10–15L container/rockery | 🌥️ to 🌑 | Ferns, native mosses, shaded rockery plants | 15–20cm between plants |
+| A19 | Star Magnolia | *Magnolia stellata* | — | — | 5.0–6.5 | At pot level; no deeper | ✅ 80–100L stone/terracotta | 🌤️ | Snowdrops, daffodils, hellebores, hardy geraniums | 2.5m spread; shelter from N/E winds |
+| F45 | Stocks | *Matthiola incana / M. longipetala* | — | — | 6.5–7.5 | At pot level; seeds on surface | ✅ 25–30cm / 10L+ | 🌤️ | Wallflowers, sweet William, pansies | 20–30cm between plants |
+| B18 | Strawberry | *Fragaria × ananassa* | — | — | 5.5–6.8 | Crown exactly at soil level | ✅ 30–35cm / 15–20L per plant | ☀️ | Borage, garlic, chives, marigolds | 30–45cm between plants |
+| I8d | Sunset Fern | *Dryopteris lepidopoda* | — | — | 5.5–7.0 | At pot level | ✅ 20–25L container | 🌥️ to 🌑 | Heuchera, tiarella, hostas | 45–60cm between plants |
+| G13 | Sweet Alyssum | *Lobularia maritima* | Alasam cumhra | — | 6.0–7.0 | 1–2mm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Roses, snapdragons, vegetable-bed edging | 15–25cm between plants; annual, self-seeds |
+| B19 | Sweet Cherry 'Sylvia' | *Prunus avium* 'Sylvia' | — | — | 6.0–7.0 (well-drained) | ~12cm / graft union at soil level | ✅ Large patio pot | ☀️ to 🌤️ | Chives, garlic | 1m spacing; self-fertile |
+| G14 | Sweet Peas | *Lathyrus odoratus* | — | — | 6.0–7.5 | 2cm deep (seed) | ✅ Large 20L+ container with support | ☀️ | Climbing roses, clematis; vegetable garden | 15–20cm between plants against support |
+| F46 | Sweet William | *Dianthus barbatus* | — | — | 5.8–6.5 | At pot level | ✅ 25–30cm / 10L+ | ☀️ | Pinks, stocks, foxgloves, wallflowers, roses | 30cm between plants |
+| A20 | Tarentum Myrtle | *Myrtus communis* subsp. *tarentina* | — | — | 6.0–7.5 | At nursery soil mark | ✅ 30–40L container | ☀️ to 🌤️ | Lavender, rosemary, Mediterranean shrubs | 1–1.5m between plants; needs sheltered spot |
+| I15 | Tasmanian Tree Fern | *Dicksonia antarctica* | — | — | 5.5–6.5 | Trunk at same depth as grown | ✅ Large 50L+ container | 🌥️ to 🌑 | Hostas, ferns, hellebores, snowdrops | 1.5–3m between plants; wrap crown in hard frost |
+| F47 | Toadflax | *Linaria vulgaris* | — | — | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌤️ | Ox-eye daisy, yarrow, wildflower meadow | 20–30cm between plants; spreads readily |
+| C11 | Trailing Rock Bellflower | *Campanula saxifraga* | — | — | 6.5–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ | Sempervivum, saxifrage, wall pennywort | 15–20cm between plants |
+| D9 | Tufted Vetch | *Vicia cracca* | Peasair na luch | — | 6.0–7.5 | 1–2cm (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Grasses, wildflower meadow species, hedgerow shrubs | 20–30cm between plants; scrambles via tendrils |
+| E23 | Tulips | *Tulipa* spp. | — | — | 6.0–7.0 | 20cm (3× bulb height) | ✅ Excellent: 25–30cm / 10L+ | ☀️ | Forget-me-nots, daffodils, alliums, wallflowers | 10–15cm between bulbs |
+| D10 | Virginia Creeper | *Parthenocissus quinquefolia* | — | — | 5.5–7.5 | At pot level | ✅ 30–40L container | 🌤️ | Ivy (same wall), late clematis | 1.5–3m between plants |
+| C12 | Wall Pennywort | *Umbilicus rupestris* | — | — | 6.0–7.5 | At pot level / wall crevice | ✅ Small pot or wall crevice | 🌥️ | Ivy, ferns, sempervivum, saxifrage | 15–20cm between plants |
+| I8b | Western Sword Fern | *Polystichum munitum* | — | — | 5.0–7.0 | At pot level | ✅ 30–40L container | 🌥️ to 🌑 | Hostas, astilbe, snowdrops | 60cm–1m between plants |
+| I16 | Wild Garlic | *Allium ursinum* | Creamh | — | 5.5–7.0 | 2.5cm deep | ✅ 10–15L container (to contain spread) | 🌑 | Native bluebells, ferns, primroses | 15–20cm between bulbs; spreads vigorously |
+| C13 | Wild Thyme | *Thymus polytrichus* | — | — | 6.5–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ | Sempervivum, saxifrage, wall pennywort | 20–30cm between plants; spreads by runners |
+| E24 | Wild Tulip | *Tulipa sylvestris* | — | — | 6.0–7.5 | 10–15cm deep | ✅ 5L+ container | 🌤️ to ☀️ | Daffodils, other naturalising bulbs | 10–15cm between bulbs |
+| D11 | Wisteria | *Wisteria sinensis / floribunda* | — | — | 6.0–7.0 | At pot level; graft above soil | ⚠️ 45cm/60L+ container | ☀️ | Climbing roses (same wall), alliums, irises | 45cm from wall; 3m between plants |
+| I17 | Wood Sorrel | *Oxalis acetosella* | Seamsóg | — | 5.0–6.5 | Crown at soil level | ✅ 5L+ container | 🌑 to 🌥️ | Ferns, native mosses, primroses | 10–15cm between plants |
+| B20 | Woodland Strawberry | *Fragaria vesca* | Sú talún fiáin | — | 5.5–7.0 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Ferns, hostas, primroses | 25–30cm between plants; spreads by runners |
+| F48 | Yarrow | *Achillea millefolium* | — | — | 5.5–7.0 | At pot level; bare-root buds 2–3cm below | ✅ 30cm / 10L+ | ☀️ | Roses, salvia, echinacea, hydrangea, ornamental grasses | 30–60cm between plants; divide every 2–3 yrs |
+| J9 | Yellow Flag Iris | *Iris pseudacorus* | Feileastram | — | 5.5–8.0 | Crown at soil level; 0–20cm water above | ✅ 19–24cm aquatic basket | ☀️ | White water lily, bogbean, bog pimpernel | 30–60cm between plants; divide every 2–3 yrs |
+| E25 | Yellow Star-of-Bethlehem | *Gagea lutea* | — | — | 6.5–7.5 | 5–8cm deep | ✅ 5L+ container | 🌥️ | Snowdrops, wood anemones | 5–8cm between bulbs |
+| G15 | Zinnia | *Zinnia elegans* | — | — | 5.5–7.5 | 5–6mm deep (seed) / at pot level | ✅ 15–20L container | ☀️ | Cosmos, dahlias, cornflower | 20–30cm between plants |
+| H24 | Zucchini (Courgette) | *Cucurbita pepo* | — | — | 6.0–7.0 | At pot level (after frost) | ✅ Large 30–40L container | ☀️ | Nasturtiums, sweetcorn, beans | 60–90cm between plants |
 
 ---
 
