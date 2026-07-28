@@ -41,6 +41,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A21. Bald Cypress (*Taxodium distichum*)
 
+**Russian name:** Таксодиум двурядный
+
 📷 **Reference photo:** [Bald Cypress — view on Wikipedia](https://en.wikipedia.org/wiki/Taxodium_distichum)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -63,6 +65,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A1. Bamboo (clump-forming: *Fargesia* spp., *Chusquea* spp.)
 
+**Russian name:** Бамбук
+
 📷 **Reference photo:** [Bamboo — view on Wikipedia](https://en.wikipedia.org/wiki/Fargesia)
 
 **Light:** 🌤️ Full sun to partial shade. Fargesia prefers some afternoon shade.
@@ -82,6 +86,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A2. Border Forsythia (*Forsythia × intermedia*)
+
+**Russian name:** Форзиция средняя
 
 📷 **Reference photo:** [Border Forsythia — view on Wikipedia](https://en.wikipedia.org/wiki/Forsythia_%C3%97_intermedia)
 
@@ -103,6 +109,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A3. Cherry Blossom 'Kanzan' (*Prunus* 'Kanzan')
 
+**Russian name:** Вишня мелкопильчатая 'Канзан'
+
 📷 **Reference photo:** [Cherry Blossom 'Kanzan' — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_serrulata)
 
 **Light:** ☀️ Full sun. Avoid frost pockets — late frosts damage April blossom.
@@ -121,7 +129,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A22. Cider Gum (*Eucalyptus gunnii*)
+### A22. Cider Gum (Eucalyptus) (*Eucalyptus gunnii*)
+
+**Russian name:** Эвкалипт Ганна
 
 📷 **Reference photo:** [Eucalyptus gunnii — view on Wikipedia](https://en.wikipedia.org/wiki/Eucalyptus_gunnii)
 
@@ -145,9 +155,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A4. Common Hawthorn (*Crataegus monogyna*)
 
-**Irish name:** Sceach Gheal
-
-**Russian name:** Боярышник однопестичный
+**Irish / Russian name:** Sceach Gheal · Боярышник однопестичный
 
 📷 **Reference photo:** [Common Hawthorn — view source](https://en.wikipedia.org/wiki/Crataegus_monogyna)
 
@@ -171,6 +179,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A5. Dwarf Lily Magnolia (*Magnolia liliiflora*, e.g. 'Nigra')
 
+**Russian name:** Магнолия лилиецветная
+
 📷 **Reference photo:** [Dwarf Lily Magnolia — view source](https://en.wikipedia.org/wiki/Magnolia_liliiflora)
 
 **Light:** ☀️ Full sun to 🌤️ part shade. Protect from early morning sun, which can damage frosted buds after a cold night.
@@ -192,6 +202,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A6. False Spiraea (*Sorbaria sorbifolia*)
+
+**Russian name:** Рябинник рябинолистный
 
 📷 **Reference photo:** [Sorbaria sorbifolia — view source](https://en.wikipedia.org/wiki/Sorbaria_sorbifolia)
 
@@ -215,6 +227,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A7. Fuzzy Pride-of-Rochester (*Deutzia scabra*)
 
+**Russian name:** Дейция шершавая
+
 📷 **Reference photo:** [Fuzzy Pride-of-Rochester — view source](https://en.wikipedia.org/wiki/Deutzia_scabra)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade. Flowers best and stays more compact in full sun; needs a sheltered spot out of the coldest wind.
@@ -236,6 +250,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A23. Golden Mimosa (*Acacia baileyana*)
+
+**Russian name:** Акация Бейли
 
 📷 **Reference photo:** [Acacia baileyana — view on Wikipedia](https://en.wikipedia.org/wiki/Acacia_baileyana)
 
@@ -259,9 +275,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A8. Holly (*Ilex aquifolium*)
 
-**Irish name:** Cuileann
-
-**Russian name:** Падуб остролистный
+**Irish / Russian name:** Cuileann · Падуб остролистный
 
 📷 **Reference photo:** [Holly — view on Wikipedia](https://en.wikipedia.org/wiki/Ilex_aquifolium)
 
@@ -285,7 +299,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A9. Irish Yew (*Taxus baccata* 'Fastigiata')
 
-**Irish name:** Iúr
+**Irish / Russian name:** Iúr · Тис ягодный
 
 📷 **Reference photo:** [Irish Yew — view on Wikipedia](https://en.wikipedia.org/wiki/Taxus_baccata)
 
@@ -309,6 +323,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A10. Japanese Camellia (*Camellia japonica*)
 
+**Russian name:** Камелия японская
+
 📷 **Reference photo:** [Japanese Camellia — view source](https://en.wikipedia.org/wiki/Camellia_japonica)
 
 **Light:** 🌥️ Partial shade preferred, sheltered from early morning sun (which can damage frosted buds) and cold wind.
@@ -331,6 +347,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A11. Japanese Maple (*Acer palmatum*)
 
+**Russian name:** Клён дланевидный
+
 📷 **Reference photo:** [Japanese Maple — view on Wikipedia](https://en.wikipedia.org/wiki/Acer_palmatum)
 
 **Light:** 🌥️ Partial shade preferred. Morning sun with afternoon shade is ideal. Variegated and dissectum types especially wind-sensitive. Avoid open exposed positions.
@@ -352,6 +370,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A12. Japanese Skimmia (*Skimmia japonica*)
+
+**Russian name:** Скиммия японская
 
 📷 **Reference photo:** [Japanese Skimmia — view source](https://en.wikipedia.org/wiki/Skimmia_japonica)
 
@@ -377,6 +397,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A13. Lewis Mock Orange (*Philadelphus lewisii*)
 
+**Russian name:** Чубушник Льюиса
+
 📷 **Reference photo:** [Lewis Mock Orange — view source](https://en.wikipedia.org/wiki/Philadelphus_lewisii)
 
 **Light:** ☀️ Full sun to 🌤️ part shade. Best flowering and fragrance in full sun.
@@ -399,6 +421,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A14. Lilac (*Syringa vulgaris*)
 
+**Irish / Russian name:** Craobh liathchorcra · Сирень обыкновенная
+
 📷 **Reference photo:** [Lilac — view on Wikipedia](https://en.wikipedia.org/wiki/Syringa_vulgaris)
 
 **Light:** ☀️ Full sun — needs at least 6 hours to flower well.
@@ -418,6 +442,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A15. Mophead / Lacecap Hydrangea (*Hydrangea macrophylla*)
+
+**Russian name:** Гортензия крупнолистная
 
 📷 **Reference photo:** [Hydrangea macrophylla — view on Wikipedia](https://en.wikipedia.org/wiki/Hydrangea_macrophylla)
 
@@ -445,7 +471,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A16. Mountain Ash (Rowan) (*Sorbus aucuparia*)
 
-**Irish name:** Caorthann
+**Irish / Russian name:** Caorthann · Рябина обыкновенная
 
 📷 **Reference photo:** [Mountain Ash / Rowan — view source](https://en.wikipedia.org/wiki/Sorbus_aucuparia)
 
@@ -469,9 +495,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A17. Shrub Roses (*Rosa*, shrub and old-fashioned cultivars)
 
-**Irish name:** Rós
-
-**Russian name:** Роза
+**Irish / Russian name:** Rós · Роза
 
 📷 **Reference photo:** [Shrub Roses — view on Wikipedia](https://en.wikipedia.org/wiki/Garden_roses)
 
@@ -495,6 +519,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A18. St John's Wort 'Rowallane' (*Hypericum* 'Rowallane')
 
+**Russian name:** Зверобой
+
 📷 **Reference photo:** [Hypericum 'Rowallane' — view source](https://en.wikipedia.org/wiki/Hypericum)
 
 **Light:** ☀️ Full sun to 🌤️ part shade. Flowers best in full sun.
@@ -517,6 +543,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A19. Star Magnolia (*Magnolia stellata*)
 
+**Russian name:** Магнолия звёздчатая
+
 📷 **Reference photo:** [Star Magnolia — view on Wikipedia](https://en.wikipedia.org/wiki/Magnolia_stellata)
 
 **Light:** 🌤️ Full sun to partial shade. Morning sun, sheltered position. Blooms in March–April — susceptible to late frost damage.
@@ -536,6 +564,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A20. Tarentum Myrtle (*Myrtus communis* subsp. *tarentina*)
+
+**Russian name:** Мирт тарентский
 
 📷 **Reference photo:** [Tarentum Myrtle — view on Wikipedia](https://en.wikipedia.org/wiki/Myrtus_communis)
 
@@ -561,6 +591,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B1. Apple Tree 'Baya Marisa' (P22 Rootstock) (*Malus domestica*)
 
+**Irish / Russian name:** Crann úll · Яблоня домашняя
+
 📷 **Reference photo:** [Apple Tree 'Baya Marisa' on P22 Rootstock — view on Wikipedia](https://en.wikipedia.org/wiki/Malus_domestica)
 
 **About P22:** A Polish rootstock (M.9 × Common Antonovka cross). Ultimate height 2–3m; width 100–125cm at maturity; fruits September–October. Requires permanent staking for life. Good resistance to root rots (a key advantage on Irish clay). Harvest September–October (per gardens4you.ie listing).
@@ -585,6 +617,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B2. Blackberries (*Rubus fruticosus* agg.)
 
+**Irish / Russian name:** Sméara dubha · Ежевика кустистая
+
 📷 **Reference photo:** [Blackberries — view source](https://en.wikipedia.org/wiki/Blackberry)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade for best fruiting.
@@ -607,6 +641,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B3. Blackcurrant (*Ribes nigrum*)
 
+**Irish / Russian name:** Cuiríní dubha · Смородина чёрная
+
 📷 **Reference photo:** [Blackcurrant — view on Wikipedia](https://en.wikipedia.org/wiki/Blackcurrant)
 
 **Light:** 🌤️ Full sun to partial shade — tolerates shade better than other currants.
@@ -624,6 +660,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B4. Blueberry (*Vaccinium corymbosum*)
+
+**Russian name:** Голубика высокорослая
 
 📷 **Reference photo:** [Blueberry — view on Wikipedia](https://en.wikipedia.org/wiki/Vaccinium_corymbosum)
 
@@ -644,6 +682,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B5. Cranberry (*Vaccinium macrocarpon*)
+
+**Russian name:** Клюква крупноплодная
 
 📷 **Reference photo:** [Cranberry — view on Wikipedia](https://en.wikipedia.org/wiki/Vaccinium_macrocarpon)
 
@@ -667,6 +707,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B6. Garden Plum (*Prunus domestica*)
 
+**Irish / Russian name:** Crann plumaí · Слива домашняя
+
 📷 **Reference photo:** [Garden Plum — view source](https://en.wikipedia.org/wiki/Plum)
 
 **Light:** ☀️ Full sun essential for best fruiting — at least 6 hours daily, sheltered from wind.
@@ -689,6 +731,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B7. Gooseberry (*Ribes uva-crispa*)
 
+**Irish / Russian name:** Spíonán · Крыжовник обыкновенный
+
 📷 **Reference photo:** [Gooseberry — view on Wikipedia](https://en.wikipedia.org/wiki/Gooseberry)
 
 **Light:** 🌤️ Full sun to partial shade. Tolerates semi-shade better than most fruit.
@@ -706,6 +750,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B8. Green Strawberry (*Fragaria viridis*)
+
+**Russian name:** Клубника луговая (клубника степная, клубника лесная, земляника зелёная)
 
 📷 **Reference photo:** [Green Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Fragaria_viridis)
 
@@ -729,6 +775,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B9. Honeyberry (Kamchatka) (*Lonicera caerulea* var. *kamtschatica*)
 
+**Russian name:** Жимолость камчатская
+
 📷 **Reference photo:** [Honeyberry — Kamchatka — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_caerulea)
 
 **Light:** 🌤️ Full sun to partial shade. Fruits better in full sun.
@@ -748,6 +796,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B10. Lingonberry (*Vaccinium vitis-idaea*)
+
+**Russian name:** Брусника обыкновенная
 
 📷 **Reference photo:** [Lingonberry — view on Wikipedia](https://en.wikipedia.org/wiki/Lingonberry)
 
@@ -771,6 +821,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B11. Morello Cherry (*Prunus cerasus* 'Morello')
 
+**Irish / Russian name:** Crann silíní searbha · Вишня обыкновенная
+
 📷 **Reference photo:** [Morello Cherry — view on Wikipedia](https://en.wikipedia.org/wiki/Morello_cherry)
 
 **Light:** 🌤️ Full sun to partial shade — unusually for a fruit tree, Morello crops well even on a north-facing wall or shaded spot, making it one of the most useful fruit trees for a less sunny corner of an Irish garden.
@@ -792,6 +844,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B12. Pomegranate (*Punica granatum*)
+
+**Russian name:** Гранат обыкновенный
 
 📷 **Reference photo:** [Pomegranate — view source](https://en.wikipedia.org/wiki/Pomegranate)
 
@@ -815,6 +869,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B13. Raspberry (*Rubus idaeus*)
 
+**Irish / Russian name:** Sú craobh · Малина обыкновенная
+
 📷 **Reference photo:** [Raspberry — view on Wikipedia](https://en.wikipedia.org/wiki/Raspberry)
 
 **Light:** 🌤️ Full sun to partial shade. Better fruiting in full sun.
@@ -833,6 +889,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B14. Redcurrant (*Ribes rubrum*)
 
+**Irish / Russian name:** Cuirín dearg · Смородина красная
+
 📷 **Reference photo:** [Redcurrant — view on Wikipedia](https://en.wikipedia.org/wiki/Redcurrant)
 
 **Light:** 🌥️ Full sun to partial shade. One of the most shade-tolerant fruiting plants — good for north-facing fences trained as a fan.
@@ -850,6 +908,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B15. Rhubarb (*Rheum × hybridum*)
+
+**Irish / Russian name:** Biabhóg · Ревень
 
 📷 **Reference photo:** [Rhubarb — view on Wikipedia](https://en.wikipedia.org/wiki/Rhubarb)
 
@@ -871,7 +931,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B16. Sea Buckthorn (*Hippophae rhamnoides*)
 
-**Irish name:** Draighean mara
+**Irish / Russian name:** Draighean mara · Облепиха крушиновидная
 
 📷 **Reference photo:** [Sea Buckthorn — view on Wikipedia](https://en.wikipedia.org/wiki/Hippophae_rhamnoides)
 
@@ -897,6 +957,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B17. Serviceberry (*Amelanchier lamarckii*)
 
+**Russian name:** Ирга Ламарка
+
 📷 **Reference photo:** [Serviceberry — view source](https://en.wikipedia.org/wiki/Amelanchier_lamarckii)
 
 **Light:** ☀️ Full sun to 🌤️ part shade. Best autumn colour in full sun.
@@ -919,6 +981,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B18. Strawberry (*Fragaria × ananassa*)
 
+**Irish / Russian name:** Sú talún · Клубника садовая (земляника ананасная)
+
 📷 **Reference photo:** [Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Strawberry)
 
 **Light:** ☀️ Full sun essential for maximum fruiting.
@@ -938,6 +1002,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B19. Sweet Cherry 'Sylvia' (*Prunus avium* 'Sylvia')
+
+**Irish / Russian name:** Silín fiáin · Черешня
 
 📷 **Reference photo:** [Sweet Cherry 'Sylvia' — view source](https://www.gardens4you.ie/cherry-tree-sylvia-prunus-avium-a07192.html)
 
@@ -965,7 +1031,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B20. Woodland Strawberry (*Fragaria vesca*)
 
-**Irish name:** Sú talún fiáin
+**Irish / Russian name:** Sú talún fiáin · Земляника лесная
 
 📷 **Reference photo:** [Woodland Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Fragaria_vesca)
 
@@ -991,6 +1057,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C1. Carpathian Bellflower (*Campanula carpatica*)
 
+**Russian name:** Колокольчик карпатский
+
 📷 **Reference photo:** [Carpathian Bellflower — view on Wikipedia](https://en.wikipedia.org/wiki/Campanula_carpatica)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade, especially in the heat of late summer.
@@ -1013,6 +1081,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C2. Creeping Juniper (*Juniperus horizontalis*)
 
+**Russian name:** Можжевельник распростёртый
+
 📷 **Reference photo:** [Creeping Juniper — view on Wikipedia](https://en.wikipedia.org/wiki/Juniperus_horizontalis)
 
 **Light:** ☀️ Full sun essential — cannot grow in shade.
@@ -1034,6 +1104,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C3. Creeping Phlox (Moss Phlox) (*Phlox subulata*)
+
+**Russian name:** Флокс шиловидный
 
 📷 **Reference photo:** [Phlox subulata — view on Wikipedia](https://en.wikipedia.org/wiki/Phlox_subulata)
 
@@ -1059,7 +1131,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C4. Heather (Scots Heather) (*Calluna vulgaris*)
 
-**Irish name:** Fraoch mór
+**Irish / Russian name:** Fraoch mór · Вереск обыкновенный
 
 📷 **Reference photo:** [Heather — view on Wikipedia](https://en.wikipedia.org/wiki/Calluna_vulgaris)
 
@@ -1085,6 +1157,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C5. Houseleek (*Sempervivum* spp.)
 
+**Irish / Russian name:** Lus an tóiteáin · Молодило
+
 📷 **Reference photo:** [Sempervivum — view source](https://en.wikipedia.org/wiki/Sempervivum)
 
 **Light:** ☀️ Full sun.
@@ -1107,6 +1181,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C6. Mother of Thyme (Creeping Thyme) (*Thymus serpyllum*)
 
+**Russian name:** Тимьян ползучий
+
 📷 **Reference photo:** [Mother of Thyme / Creeping Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_serpyllum)
 
 **Light:** ☀️ Full sun — essential. Requires maximum sunshine and warmth.
@@ -1127,7 +1203,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C7. Periwinkle (*Vinca minor* and *V. major*)
 
-**Irish name:** Fincín mór
+**Irish / Russian name:** Fincín mór · Барвинок малый
 
 📷 **Reference photo:** [Periwinkle — view on Wikipedia](https://en.wikipedia.org/wiki/Vinca_minor)
 
@@ -1155,7 +1231,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C8. Prickly Heath (*Gaultheria mucronata*)
 
-**Irish name:** Fraoch deilgneach
+**Irish / Russian name:** Fraoch deilgneach · Гаультерия остроконечная
 
 📷 **Reference photo:** [Prickly Heath — view source](https://en.wikipedia.org/wiki/Gaultheria_mucronata)
 
@@ -1179,6 +1255,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C9. Reindeer Lichen (*Cladonia rangiferina*)
 
+**Russian name:** Кладония оленья
+
 📷 **Reference photo:** [Reindeer Lichen — view source](https://en.wikipedia.org/wiki/Cladonia_rangiferina)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -1201,7 +1279,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C10. Saxifrage (*Saxifraga* spp., including Mossy Saxifrage *S.* × *arendsii*)
 
-**Irish name:** Mórán
+**Irish / Russian name:** Mórán · Камнеломка
 
 📷 **Reference photo:** [Saxifrage — view source](https://en.wikipedia.org/wiki/Saxifraga)
 
@@ -1225,6 +1303,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C11. Trailing Rock Bellflower (*Campanula saxifraga*)
 
+**Russian name:** Колокольчик камнеломка
+
 📷 **Reference photo:** [Campanula saxifraga — view source](https://en.wikipedia.org/wiki/Campanula)
 
 **Light:** ☀️ Full sun.
@@ -1247,6 +1327,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C12. Wall Pennywort (*Umbilicus rupestris*)
 
+**Irish / Russian name:** Lus na pingine · Умбиликус
+
 📷 **Reference photo:** [Wall Pennywort — view source](https://en.wikipedia.org/wiki/Umbilicus_rupestris)
 
 **Light:** 🌥️ Partial to full shade; tolerates some sun.
@@ -1268,6 +1350,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C13. Wild Thyme (*Thymus polytrichus*)
+
+**Irish / Russian name:** Tím chreige · Тимьян дикий
 
 📷 **Reference photo:** [Wild Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_polytrichus)
 
@@ -1293,6 +1377,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D1. Blue Passion Flower (*Passiflora caerulea*)
 
+**Irish / Russian name:** Lus na páise · Страстоцвет голубой
+
 📷 **Reference photo:** [Passiflora (Blue Passion Flower) — view source](https://en.wikipedia.org/wiki/Passiflora_caerulea)
 
 **Light:** ☀️ Full sun, sheltered from cold wind — a south- or west-facing wall is ideal.
@@ -1315,6 +1401,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D2. Clematis (*Clematis* spp.)
 
+**Irish / Russian name:** Gabhrán · Клематис
+
 📷 **Reference photo:** [Clematis — view on Wikipedia](https://en.wikipedia.org/wiki/Clematis)
 
 **Light:** 🌤️ Roots prefer shade (cover with stone or tile), stems flower best in sun or dappled light. Evergreen types prefer sheltered, sunny, south-facing wall.
@@ -1335,7 +1423,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D3. Climbing Honeysuckle (*Lonicera periclymenum*)
 
-**Irish name:** Féithleann
+**Irish / Russian name:** Féithleann · Жимолость вьющаяся
 
 📷 **Reference photo:** [Climbing Honeysuckle — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_periclymenum)
 
@@ -1356,6 +1444,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### D4. Climbing Hydrangea (*Hydrangea anomala* subsp. *petiolaris*)
+
+**Russian name:** Гортензия черешковая
 
 📷 **Reference photo:** [Climbing Hydrangea — view on Wikipedia](https://en.wikipedia.org/wiki/Hydrangea_petiolaris)
 
@@ -1401,6 +1491,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D6. Hardy Grapes (*Vitis vinifera*)
 
+**Irish / Russian name:** Fíonchaora · Виноград культурный
+
 📷 **Reference photo:** [Hardy Grapes — view on Wikipedia](https://en.wikipedia.org/wiki/Vitis_vinifera)
 
 **Light:** ☀️ Full sun — south-facing wall essential. Without maximum sun, fruit will not ripen.
@@ -1420,6 +1512,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### D7. Hops (*Humulus lupulus*)
+
+**Irish / Russian name:** Lus an leanna · Хмель обыкновенный
 
 📷 **Reference photo:** [Hops — view on Wikipedia](https://en.wikipedia.org/wiki/Humulus_lupulus)
 
@@ -1441,7 +1535,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D8. Ivy (*Hedera helix* / *H. hibernica* — native Irish ivy)
 
-**Irish name:** Eidhneán
+**Irish / Russian name:** Eidhneán · Плющ обыкновенный
 
 📷 **Reference photo:** [Ivy — view on Wikipedia](https://en.wikipedia.org/wiki/Hedera_helix)
 
@@ -1463,7 +1557,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D9. Tufted Vetch (*Vicia cracca*)
 
-**Irish name:** Peasair na luch
+**Irish / Russian name:** Peasair na luch · Горошек мышиный
 
 📷 **Reference photo:** [Vicia — view source](https://en.wikipedia.org/wiki/Vicia_cracca)
 
@@ -1487,6 +1581,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### D10. Virginia Creeper (*Parthenocissus quinquefolia*)
 
+**Russian name:** Виноград девичий пятилисточковый
+
 📷 **Reference photo:** [Virginia Creeper — view on Wikipedia](https://en.wikipedia.org/wiki/Parthenocissus_quinquefolia)
 
 **Light:** 🌤️ Full sun to partial shade. Autumn colour more vivid in sunnier positions.
@@ -1506,6 +1602,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### D11. Wisteria (*Wisteria sinensis* / *W. floribunda*)
+
+**Russian name:** Глициния китайская
 
 📷 **Reference photo:** [Wisteria — view on Wikipedia](https://en.wikipedia.org/wiki/Wisteria)
 
@@ -1529,6 +1627,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E1. Acidanthera (Abyssinian Gladiolus) (*Gladiolus murielae*)
 
+**Russian name:** Шпажник Мюриэл
+
 📷 **Reference photo:** [Acidanthera — view on Wikipedia](https://en.wikipedia.org/wiki/Gladiolus_murielae)
 
 **Light:** ☀️ Full sun — essential. Plant in the warmest, sunniest spot available.
@@ -1546,6 +1646,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E2. African Lily (*Agapanthus africanus*)
+
+**Russian name:** Агапантус африканский
 
 📷 **Reference photo:** [African Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Agapanthus_africanus)
 
@@ -1569,6 +1671,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E3. Camassia (*Camassia* spp.)
 
+**Russian name:** Камассия
+
 📷 **Reference photo:** [Camassia — view on Wikipedia](https://en.wikipedia.org/wiki/Camassia)
 
 **Light:** ☀️ Full sun to 🌥️ light/partial shade.
@@ -1590,6 +1694,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E4. Checkered Lily (Snake's Head Fritillary) (*Fritillaria meleagris*)
+
+**Russian name:** Рябчик шахматный
 
 📷 **Reference photo:** [Fritillaria meleagris (Checkered / Snake's Head Lily) — view source](https://en.wikipedia.org/wiki/Fritillaria_meleagris)
 
@@ -1613,6 +1719,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E5. Corn Lily (*Ixia* spp.)
 
+**Russian name:** Иксия
+
 📷 **Reference photo:** [Ixia — view source](https://en.wikipedia.org/wiki/Ixia_(plant))
 
 **Light:** ☀️ Full sun.
@@ -1634,6 +1742,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E6. Crocus (*Crocus* spp.)
+
+**Russian name:** Крокус
 
 📷 **Reference photo:** [Crocus — view on Wikipedia](https://en.wikipedia.org/wiki/Crocus)
 
@@ -1659,6 +1769,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E7. Crown Imperial (*Fritillaria imperialis*)
 
+**Russian name:** Рябчик императорский
+
 📷 **Reference photo:** [Fritillaria imperialis — view on Wikipedia](https://en.wikipedia.org/wiki/Fritillaria_imperialis)
 
 **Light:** ☀️ Full sun — warm, open position essential.
@@ -1681,6 +1793,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E8. Daffodils (*Narcissus* spp.)
 
+**Irish / Russian name:** Lus an chromchinn · Нарцисс
+
 📷 **Reference photo:** [Daffodils — view on Wikipedia](https://en.wikipedia.org/wiki/Narcissus_(plant))
 
 **Light:** 🌤️ Full sun to partial shade. Naturalise under deciduous trees.
@@ -1698,6 +1812,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E9. Dwarf Iris (*Iris reticulata*)
+
+**Russian name:** Ирис сетчатый
 
 📷 **Reference photo:** [Dwarf Iris — view source](https://en.wikipedia.org/wiki/Iris_reticulata)
 
@@ -1721,6 +1837,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E10. Freesia (*Freesia* spp.)
 
+**Russian name:** Фрезия
+
 📷 **Reference photo:** [Freesia — view source](https://en.wikipedia.org/wiki/Freesia)
 
 **Light:** ☀️ Full sun.
@@ -1742,6 +1860,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E11. Grape Hyacinth (*Muscari* spp.)
+
+**Russian name:** Мышиный гиацинт (мускари)
 
 📷 **Reference photo:** [Grape Hyacinth — view on Wikipedia](https://en.wikipedia.org/wiki/Muscari)
 
@@ -1767,6 +1887,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E12. Iron Cross (*Oxalis tetraphylla* 'Iron Cross')
 
+**Russian name:** Кислица
+
 📷 **Reference photo:** [Iron Cross — view source](https://en.wikipedia.org/wiki/Oxalis_tetraphylla)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -1789,6 +1911,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E13. Lilies (*Lilium* spp.)
 
+**Russian name:** Лилия
+
 📷 **Reference photo:** [Lilies — view on Wikipedia](https://en.wikipedia.org/wiki/Lilium)
 
 **Light:** 🌤️ Full sun to partial shade. Most prefer heads in sun, roots shaded by low plants.
@@ -1808,6 +1932,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E14. Martagon Lily (*Lilium martagon*)
+
+**Russian name:** Лилия кудреватая
 
 📷 **Reference photo:** [Martagon Lily — view source](https://en.wikipedia.org/wiki/Lilium_martagon)
 
@@ -1831,7 +1957,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E15. Native Bluebells (*Hyacinthoides non-scripta*)
 
-**Irish name:** Coinnle corra
+**Irish / Russian name:** Coinnle corra · Гиацинтоидес неописанный
 
 📷 **Reference photo:** [Native Bluebells — view on Wikipedia](https://en.wikipedia.org/wiki/Hyacinthoides_non-scripta)
 
@@ -1857,6 +1983,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E16. Ornamental Onion (*Allium* spp., including Giant Allium *A. giganteum*)
 
+**Russian name:** Лук
+
 📷 **Reference photo:** [Allium — view source](https://en.wikipedia.org/wiki/Allium)
 
 **Light:** ☀️ Full sun.
@@ -1879,6 +2007,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E17. Ranunculus (*Ranunculus asiaticus*)
 
+**Russian name:** Лютик азиатский
+
 📷 **Reference photo:** [Ranunculus — view on Wikipedia](https://en.wikipedia.org/wiki/Ranunculus_asiaticus)
 
 **Light:** 🌤️ Full sun to partial shade.
@@ -1900,6 +2030,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E18. Siberian Squill (*Scilla siberica*)
+
+**Russian name:** Пролеска сибирская
 
 📷 **Reference photo:** [Siberian Squill — view on Wikipedia](https://en.wikipedia.org/wiki/Scilla_siberica)
 
@@ -1925,7 +2057,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E19. Snowdrops (*Galanthus nivalis*)
 
-**Irish name:** Plúirín sneachta
+**Irish / Russian name:** Plúirín sneachta · Подснежник белоснежный
 
 📷 **Reference photo:** [Snowdrops — view on Wikipedia](https://en.wikipedia.org/wiki/Galanthus_nivalis)
 
@@ -1945,6 +2077,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E20. Snowflake (Summer) (*Leucojum aestivum* — Summer Snowflake; *L. vernum* — Spring Snowflake)
+
+**Irish / Russian name:** Plúirín samhraidh · Белоцветник летний
 
 📷 **Reference photo:** [Snowflake — view on Wikipedia](https://en.wikipedia.org/wiki/Leucojum_aestivum)
 
@@ -1972,6 +2106,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E21. Spring Anemone (*Anemone blanda* / *A. nemorosa*)
 
+**Irish / Russian name:** Lus na gaoithe · Ветреница нежная
+
 📷 **Reference photo:** [Spring Anemone — view on Wikipedia](https://en.wikipedia.org/wiki/Anemone_blanda)
 
 **Light:** 🌥️ Partial shade (woodland conditions). *A. nemorosa* is native Irish.
@@ -1993,6 +2129,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E22. Spring Sowbread (*Cyclamen coum*)
+
+**Russian name:** Цикламен косский (дряква косская)
 
 📷 **Reference photo:** [Spring Sowbread — view source](https://en.wikipedia.org/wiki/Cyclamen_coum)
 
@@ -2016,6 +2154,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### E23. Tulips (*Tulipa* spp.)
 
+**Irish / Russian name:** Tiúilip · Тюльпан
+
 📷 **Reference photo:** [Tulips — view on Wikipedia](https://en.wikipedia.org/wiki/Tulip)
 
 **Light:** ☀️ Full sun — essential.
@@ -2035,6 +2175,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E24. Wild Tulip (*Tulipa sylvestris*)
+
+**Russian name:** Тюльпан лесной
 
 📷 **Reference photo:** [Wild Tulip — view source](https://en.wikipedia.org/wiki/Tulipa_sylvestris)
 
@@ -2057,6 +2199,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### E25. Yellow Star-of-Bethlehem (*Gagea lutea*)
+
+**Russian name:** Гусиный лук жёлтый
 
 📷 **Reference photo:** [Gagea — view source](https://en.wikipedia.org/wiki/Gagea_lutea)
 
@@ -2082,6 +2226,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F1. Astilbe (*Astilbe* spp.)
 
+**Russian name:** Астильба
+
 📷 **Reference photo:** [Astilbe — view on Wikipedia](https://en.wikipedia.org/wiki/Astilbe)
 
 **Light:** 🌥️ Partial shade to full sun if soil stays moist. Best in partial shade — avoids leaf scorch. Excellent beside ponds or in moisture-rich borders.
@@ -2101,6 +2247,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F3. Auricula (*Primula auricula*)
+
+**Irish / Russian name:** Lus na mbanríon · Первоцвет ушковый
 
 📷 **Reference photo:** [Auricula — view source](https://en.wikipedia.org/wiki/Primula_auricula)
 
@@ -2124,6 +2272,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F20. Avens (*Geum* spp.)
 
+**Russian name:** Гравилат
+
 📷 **Reference photo:** [Geum — view on Wikipedia](https://en.wikipedia.org/wiki/Geum)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade; afternoon shade helpful in hot spells.
@@ -2145,6 +2295,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F4. Balloon Flower (*Platycodon grandiflorus*)
+
+**Russian name:** Ширококолокольчик крупноцветковый
 
 📷 **Reference photo:** [Balloon Flower — view on Wikipedia](https://en.wikipedia.org/wiki/Platycodon_grandiflorus)
 
@@ -2168,6 +2320,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F5. Bearded Iris (Border Iris) (*Iris germanica*)
 
+**Russian name:** Ирис германский
+
 📷 **Reference photo:** [Bearded Iris (Border Iris) — view source](https://en.wikipedia.org/wiki/Iris_germanica)
 
 **Light:** ☀️ Full sun essential for good flowering — at least 6 hours daily.
@@ -2189,6 +2343,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F6. Blue Gentian (*Gentiana* spp., e.g. *G. acaulis*, *G. sino-ornata*)
+
+**Russian name:** Горечавка
 
 📷 **Reference photo:** [Blue Gentian — view source](https://en.wikipedia.org/wiki/Gentiana)
 
@@ -2212,6 +2368,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F7. Border Sedum (Stonecrop) (*Hylotelephium spectabile*, syn. *Sedum spectabile*)
 
+**Russian name:** Очитник видный
+
 📷 **Reference photo:** [Border Sedum — view on Wikipedia](https://en.wikipedia.org/wiki/Hylotelephium_spectabile)
 
 **Light:** ☀️ Full sun essential for the sturdiest growth; tolerates light shade but becomes lax and floppy.
@@ -2233,6 +2391,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F8. Clustered Bellflower (*Campanula glomerata*)
+
+**Russian name:** Колокольчик сборный
 
 📷 **Reference photo:** [Clustered Bellflower — view source](https://en.wikipedia.org/wiki/Campanula_glomerata)
 
@@ -2256,7 +2416,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F9. Columbine (*Aquilegia vulgaris* and hybrids)
 
-**Irish name:** Colaimbín
+**Irish / Russian name:** Colaimbín · Водосбор обыкновенный (аквилегия)
 
 📷 **Reference photo:** [Aquilegia — view source](https://en.wikipedia.org/wiki/Aquilegia_vulgaris)
 
@@ -2280,6 +2440,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F14. Coneflower (*Echinacea purpurea*)
 
+**Russian name:** Эхинацея пурпурная
+
 📷 **Reference photo:** [Echinacea — view on Wikipedia](https://en.wikipedia.org/wiki/Echinacea_purpurea)
 
 **Light:** ☀️ Full sun essential — at least 6 hours daily; leggy growth and poor flowering in shade.
@@ -2302,6 +2464,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F10. Coral Bells (*Heuchera* spp.)
 
+**Russian name:** Гейхера
+
 📷 **Reference photo:** [Coral Bells — view source](https://en.wikipedia.org/wiki/Heuchera)
 
 **Light:** 🌥️ Partial shade preferred; purple/dark-leaved varieties tolerate more sun, green/lime varieties prefer more shade.
@@ -2323,6 +2487,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F11. Cutleaf Coneflower 'Goldball' (*Rudbeckia laciniata* 'Goldball')
+
+**Russian name:** Рудбекия рассечённая
 
 📷 **Reference photo:** [Rudbeckia 'Goldball' — view on Wikipedia](https://en.wikipedia.org/wiki/Rudbeckia_laciniata)
 
@@ -2350,6 +2516,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F12. Daylilies (*Hemerocallis* spp.)
 
+**Russian name:** Лилейник
+
 📷 **Reference photo:** [Daylilies — view source](https://en.wikipedia.org/wiki/Hemerocallis)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -2372,6 +2540,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F13. Delphiniums (*Delphinium* spp.)
 
+**Russian name:** Живокость (дельфиниум)
+
 📷 **Reference photo:** [Delphiniums — view on Wikipedia](https://en.wikipedia.org/wiki/Delphinium)
 
 **Light:** ☀️ Full sun — 6+ hours. Wind shelter equally essential.
@@ -2391,6 +2561,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F15. Edelweiss (*Leontopodium alpinum*)
+
+**Russian name:** Эдельвейс альпийский
 
 📷 **Reference photo:** [Edelweiss — view source](https://en.wikipedia.org/wiki/Leontopodium_alpinum)
 
@@ -2414,6 +2586,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F16. Elephant's Ears (*Bergenia* spp.)
 
+**Russian name:** Бадан
+
 📷 **Reference photo:** [Elephant's Ears — view on Wikipedia](https://en.wikipedia.org/wiki/Bergenia)
 
 **Light:** 🌑 Full shade to ☀️ full sun. Leaves colour best in open, exposed positions.
@@ -2433,6 +2607,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F17. Fern-leaf Peony (*Paeonia tenuifolia*)
+
+**Irish / Russian name:** Piaine · Пион узколистный
 
 📷 **Reference photo:** [Paeonia tenuifolia — view source](https://en.wikipedia.org/wiki/Paeonia_tenuifolia)
 
@@ -2456,6 +2632,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F18. Forget-me-nots (*Myosotis sylvatica*)
 
+**Irish / Russian name:** Lus míonla · Незабудка лесная
+
 📷 **Reference photo:** [Forget-me-not — view on Wikipedia](https://en.wikipedia.org/wiki/Myosotis_sylvatica)
 
 **Light:** 🌥️ Partial shade preferred; tolerates full sun where soil stays consistently moist.
@@ -2478,7 +2656,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F19. Foxgloves (*Digitalis purpurea* and perennial species)
 
-**Irish name:** Lus mór
+**Irish / Russian name:** Lus mór · Наперстянка пурпурная
 
 📷 **Reference photo:** [Foxgloves — view on Wikipedia](https://en.wikipedia.org/wiki/Digitalis_purpurea)
 
@@ -2499,6 +2677,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F21. Globe Thistle (*Echinops ritro*)
+
+**Russian name:** Мордовник обыкновенный
 
 📷 **Reference photo:** [Globe Thistle — view on Wikipedia](https://en.wikipedia.org/wiki/Echinops_ritro)
 
@@ -2522,6 +2702,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F22. Globeflower (*Trollius europaeus* / *T. x cultorum*)
 
+**Russian name:** Купальница европейская
+
 📷 **Reference photo:** [Trollius — view source](https://en.wikipedia.org/wiki/Trollius_europaeus)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -2544,6 +2726,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F24. Hellebore (Lenten Rose) (*Helleborus* spp.)
 
+**Russian name:** Морозник
+
 📷 **Reference photo:** [Hellebore — view on Wikipedia](https://en.wikipedia.org/wiki/Helleborus)
 
 **Light:** 🌥️ to 🌑 Partial to full shade. Ideal under deciduous trees or shrubs. Avoid full sun which scorches leaves.
@@ -2564,7 +2748,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F25. Honesty (*Lunaria annua*)
 
-**Irish name:** Lus na gealaí
+**Irish / Russian name:** Lus na gealaí · Лунник однолетний
 
 📷 **Reference photo:** [Honesty — view on Wikipedia](https://en.wikipedia.org/wiki/Lunaria_annua)
 
@@ -2588,6 +2772,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F27. Japanese Anemone (*Anemone × hybrida*)
 
+**Russian name:** Ветреница гибридная
+
 📷 **Reference photo:** [Japanese Anemone — view on Wikipedia](https://en.wikipedia.org/wiki/Anemone_%C3%97_hybrida)
 
 **Light:** 🌥️ Partial shade to full sun. Excellent in semi-shaded spots.
@@ -2610,7 +2796,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F28. Lady's Bedstraw (*Galium verum*)
 
-**Irish name:** Bolach cnis
+**Irish / Russian name:** Bolach cnis · Подмаренник настоящий
 
 📷 **Reference photo:** [Lady's Bedstraw — view source](https://en.wikipedia.org/wiki/Galium_verum)
 
@@ -2634,6 +2820,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F29. Lanceleaf Tickseed (*Coreopsis lanceolata*)
 
+**Russian name:** Кореопсис ланцетовидный
+
 📷 **Reference photo:** [Lanceleaf Tickseed — view on Wikipedia](https://en.wikipedia.org/wiki/Coreopsis_lanceolata)
 
 **Light:** ☀️ Full sun essential; will grow but flower poorly in shade.
@@ -2655,6 +2843,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F30. Lilyleaf Ladybells (*Adenophora liliifolia*)
+
+**Russian name:** Бубенчик лилиелистный (колокольчик лилиелистный)
 
 📷 **Reference photo:** [Lilyleaf Ladybells — view source](https://en.wikipedia.org/wiki/Adenophora_liliifolia)
 
@@ -2678,6 +2868,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F31. Lungworts (*Pulmonaria* spp.)
 
+**Russian name:** Медуница
+
 📷 **Reference photo:** [Lungworts — view source](https://en.wikipedia.org/wiki/Pulmonaria)
 
 **Light:** 🌥️ Partial to full shade.
@@ -2699,6 +2891,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F32. Lupins (*Lupinus polyphyllus* and hybrids)
+
+**Russian name:** Люпин многолистный
 
 📷 **Reference photo:** [Lupins — view source](https://en.wikipedia.org/wiki/Lupinus_polyphyllus)
 
@@ -2722,6 +2916,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F2. Masterwort (*Astrantia major*)
 
+**Russian name:** Астранция крупная
+
 📷 **Reference photo:** [Astrantia — view on Wikipedia](https://en.wikipedia.org/wiki/Astrantia_major)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade; part shade preferred, especially in a hot summer.
@@ -2743,6 +2939,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F33. Monkshood (*Aconitum napellus*)
+
+**Russian name:** Борец клобучковый (аконит)
 
 📷 **Reference photo:** [Aconitum / Monkshood — view source](https://en.wikipedia.org/wiki/Aconitum_napellus)
 
@@ -2768,6 +2966,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F34. Pasqueflower (*Pulsatilla vulgaris*)
 
+**Russian name:** Прострел обыкновенный
+
 📷 **Reference photo:** [Pasqueflower — view on Wikipedia](https://en.wikipedia.org/wiki/Pulsatilla_vulgaris)
 
 **Light:** ☀️ Full sun — essential. Hates shade.
@@ -2787,6 +2987,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F35. Penstemon (*Penstemon* spp.)
+
+**Russian name:** Пенстемон
 
 📷 **Reference photo:** [Penstemon — view on Wikipedia](https://en.wikipedia.org/wiki/Penstemon)
 
@@ -2810,6 +3012,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F36. Peonies (*Paeonia* spp.)
 
+**Russian name:** Пион
+
 📷 **Reference photo:** [Peonies — view on Wikipedia](https://en.wikipedia.org/wiki/Paeonia)
 
 **Light:** ☀️ to 🌤️ Full sun to partial shade. At least 4–6 hours for good flowering.
@@ -2829,6 +3033,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F37. Perennial Flax (*Linum perenne*)
+
+**Russian name:** Лён многолетний
 
 📷 **Reference photo:** [Linum / Perennial Flax — view source](https://en.wikipedia.org/wiki/Linum_perenne)
 
@@ -2851,6 +3057,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F38. Pheasant's Eye (*Adonis vernalis* / *A. amurensis*)
+
+**Russian name:** Адонис весенний
 
 📷 **Reference photo:** [Adonis — view source](https://en.wikipedia.org/wiki/Adonis_(plant))
 
@@ -2876,6 +3084,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F40. Pincushion Flower (*Scabiosa columbaria*)
 
+**Russian name:** Скабиоза голубиная
+
 📷 **Reference photo:** [Scabiosa — view on Wikipedia](https://en.wikipedia.org/wiki/Scabiosa_columbaria)
 
 **Light:** ☀️ Full sun essential, with afternoon shade appreciated in the hottest spells.
@@ -2897,6 +3107,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F39. Pinks (*Dianthus plumarius* and garden hybrids)
+
+**Russian name:** Гвоздика перистая
 
 📷 **Reference photo:** [Pinks — view on Wikipedia](https://en.wikipedia.org/wiki/Dianthus_plumarius)
 
@@ -2922,6 +3134,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F26. Plantain Lily (*Hosta* spp.)
 
+**Russian name:** Хоста
+
 📷 **Reference photo:** [Hosta — view on Wikipedia](https://en.wikipedia.org/wiki/Hosta)
 
 **Light:** 🌥️ to 🌑 Partial to full shade. Golden types tolerate more sun; blue-leaved varieties need more shade. Avoid full sun which scorches leaves.
@@ -2941,6 +3155,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F41. Sea Holly (*Eryngium* spp.)
+
+**Irish / Russian name:** Cuilleann trá · Синеголовник
 
 📷 **Reference photo:** [Sea Holly — view on Wikipedia](https://en.wikipedia.org/wiki/Eryngium)
 
@@ -2966,6 +3182,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F42. Siberian Statice (*Goniolimon tataricum*)
 
+**Russian name:** Кермек татарский
+
 📷 **Reference photo:** [Siberian Statice — view source](https://en.wikipedia.org/wiki/Goniolimon_tataricum)
 
 **Light:** ☀️ Full sun.
@@ -2988,6 +3206,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F43. Slender Vervain (*Verbena rigida*)
 
+**Russian name:** Вербена жёсткая
+
 📷 **Reference photo:** [Slender Vervain — view on Wikipedia](https://en.wikipedia.org/wiki/Verbena_rigida)
 
 **Light:** ☀️ Full sun essential for best flowering; tolerates some part shade.
@@ -3009,6 +3229,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F23. Sneezeweed (*Helenium autumnale*)
+
+**Russian name:** Гелениум осенний
 
 📷 **Reference photo:** [Helenium — view on Wikipedia](https://en.wikipedia.org/wiki/Helenium_autumnale)
 
@@ -3034,6 +3256,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F49. Sneezewort (*Achillea ptarmica* 'The Pearl')
 
+**Irish / Russian name:** Lus corráin · Тысячелистник птармика
+
 📷 **Reference photo:** [Achillea ptarmica — view on Wikipedia](https://en.wikipedia.org/wiki/Achillea_ptarmica)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -3055,6 +3279,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F44. Spreading Bellflower (*Campanula patula*)
+
+**Russian name:** Колокольчик раскидистый
 
 📷 **Reference photo:** [Spreading Bellflower — view source](https://en.wikipedia.org/wiki/Campanula_patula)
 
@@ -3078,6 +3304,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F45. Stocks (*Matthiola incana* / *M. longipetala*)
 
+**Russian name:** Левкой седой
+
 📷 **Reference photo:** [Stocks — view on Wikipedia](https://en.wikipedia.org/wiki/Matthiola_incana)
 
 **Light:** 🌤️ Full sun to partial shade. Best fragrance in the evening in a sheltered spot.
@@ -3097,6 +3325,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F46. Sweet William (*Dianthus barbatus*)
+
+**Russian name:** Гвоздика турецкая (гвоздика бородатая)
 
 📷 **Reference photo:** [Sweet William — view on Wikipedia](https://en.wikipedia.org/wiki/Dianthus_barbatus)
 
@@ -3122,6 +3352,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F47. Toadflax (*Linaria vulgaris*)
 
+**Russian name:** Льнянка обыкновенная
+
 📷 **Reference photo:** [Toadflax — view source](https://en.wikipedia.org/wiki/Linaria_vulgaris)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -3143,6 +3375,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F48. Yarrow (*Achillea millefolium*)
+
+**Irish / Russian name:** Athair thalún · Тысячелистник обыкновенный
 
 📷 **Reference photo:** [Yarrow — view on Wikipedia](https://en.wikipedia.org/wiki/Achillea_millefolium)
 
@@ -3170,7 +3404,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G1. Borage (*Borago officinalis*)
 
-**Irish name:** Borráiste gorm
+**Irish / Russian name:** Borráiste gorm · Бурачник лекарственный
 
 📷 **Reference photo:** [Borage — view on Wikipedia](https://en.wikipedia.org/wiki/Borago_officinalis)
 
@@ -3194,6 +3428,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G17. Bush Slipperwort 'Sunshine' (*Calceolaria integrifolia* 'Sunshine')
 
+**Russian name:** Кальцеолярия
+
 📷 **Reference photo:** [Calceolaria integrifolia — view on Wikipedia](https://en.wikipedia.org/wiki/Calceolaria_integrifolia)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade; needs a sheltered, frost-free spot out of cold wind.
@@ -3215,6 +3451,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G3. California Poppy (*Eschscholzia californica*)
+
+**Russian name:** Эшшольция калифорнийская
 
 📷 **Reference photo:** [California Poppy — view on Wikipedia](https://en.wikipedia.org/wiki/Eschscholzia_californica)
 
@@ -3240,6 +3478,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G4. Chinese Pink (*Dianthus chinensis*)
 
+**Russian name:** Гвоздика китайская
+
 📷 **Reference photo:** [Chinese Pink — view source](https://en.wikipedia.org/wiki/Dianthus_chinensis)
 
 **Light:** ☀️ Full sun.
@@ -3261,6 +3501,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G18. Cockscomb (*Celosia argentea*, Cristata & Plumosa Groups)
+
+**Russian name:** Целозия серебристая
 
 📷 **Reference photo:** [Celosia — view on Wikipedia](https://en.wikipedia.org/wiki/Celosia)
 
@@ -3284,6 +3526,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G5. Cornflower (*Centaurea cyanus*)
 
+**Russian name:** Василёк синий
+
 📷 **Reference photo:** [Cornflower — view source](https://en.wikipedia.org/wiki/Centaurea_cyanus)
 
 **Light:** ☀️ Full sun.
@@ -3305,6 +3549,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G6. Cosmos (*Cosmos bipinnatus*)
+
+**Russian name:** Космея дваждыперистая
 
 📷 **Reference photo:** [Cosmos — view on Wikipedia](https://en.wikipedia.org/wiki/Cosmos_bipinnatus)
 
@@ -3328,6 +3574,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G19. Drumstick Flower (*Craspedia globosa*)
 
+**Russian name:** Краспедия шаровидная
+
 📷 **Reference photo:** [Craspedia — view on Wikipedia](https://en.wikipedia.org/wiki/Craspedia)
 
 **Light:** ☀️ Full sun.
@@ -3349,6 +3597,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G20. Globe Amaranth (*Gomphrena globosa*)
+
+**Russian name:** Гомфрена шаровидная
 
 📷 **Reference photo:** [Gomphrena globosa — view on Wikipedia](https://en.wikipedia.org/wiki/Gomphrena_globosa)
 
@@ -3372,6 +3622,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G7. Greater Quaking Grass (*Briza maxima*)
 
+**Russian name:** Трясунка большая
+
 📷 **Reference photo:** [Briza Maxima — view source](https://en.wikipedia.org/wiki/Briza_maxima)
 
 **Light:** ☀️ Full sun.
@@ -3393,6 +3645,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G8. Lacy Phacelia (*Phacelia tanacetifolia*)
+
+**Russian name:** Фацелия пижмолистная
 
 📷 **Reference photo:** [Phacelia — view source](https://en.wikipedia.org/wiki/Phacelia_tanacetifolia)
 
@@ -3416,7 +3670,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G9. Love-in-a-Mist (*Nigella damascena*)
 
-**Irish name:** Nigéal
+**Irish / Russian name:** Nigéal · Чернушка дамасская (девица в зелени, нигелла)
 
 📷 **Reference photo:** [Love-in-a-Mist — view source](https://en.wikipedia.org/wiki/Nigella_damascena)
 
@@ -3440,6 +3694,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G21. Mealycup Sage 'Blue Bedder' (*Salvia farinacea* 'Blue Bedder')
 
+**Russian name:** Шалфей мучнистый
+
 📷 **Reference photo:** [Salvia farinacea — view on Wikipedia](https://en.wikipedia.org/wiki/Salvia_farinacea)
 
 **Light:** ☀️ Full sun; becomes leggy in shade.
@@ -3462,7 +3718,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G10. Poached Egg Plant (*Limnanthes douglasii*)
 
-**Irish name:** Cúr léana
+**Irish / Russian name:** Cúr léana · Лимнантес Дугласа
 
 📷 **Reference photo:** [Poached Egg Plant — view on Wikipedia](https://en.wikipedia.org/wiki/Limnanthes_douglasii)
 
@@ -3486,7 +3742,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G11. Poppies (*Papaver* spp., e.g. *P. rhoeas*, Shirley poppies)
 
-**Irish name:** Cailleach dhearg
+**Irish / Russian name:** Cailleach dhearg · Мак самосейка
 
 📷 **Reference photo:** [Poppies — view source](https://en.wikipedia.org/wiki/Papaver_rhoeas)
 
@@ -3510,6 +3766,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G2. Pot Marigold (*Calendula officinalis*)
 
+**Russian name:** Календула лекарственная
+
 📷 **Reference photo:** [Calendula — view on Wikipedia](https://en.wikipedia.org/wiki/Calendula_officinalis)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -3532,7 +3790,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G12. Snapdragons (*Antirrhinum majus*)
 
-**Irish name:** Srubh lao
+**Irish / Russian name:** Srubh lao · Львиный зев
 
 📷 **Reference photo:** [Snapdragon — view on Wikipedia](https://en.wikipedia.org/wiki/Antirrhinum_majus)
 
@@ -3556,6 +3814,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G22. Statice (*Limonium sinuatum*)
 
+**Russian name:** Кермек выемчатый
+
 📷 **Reference photo:** [Limonium sinuatum — view on Wikipedia](https://en.wikipedia.org/wiki/Limonium_sinuatum)
 
 **Light:** ☀️ Full sun.
@@ -3577,6 +3837,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G23. Strawflower (*Xerochrysum bracteatum*)
+
+**Russian name:** Бессмертник прицветниковый
 
 📷 **Reference photo:** [Xerochrysum bracteatum — view on Wikipedia](https://en.wikipedia.org/wiki/Xerochrysum_bracteatum)
 
@@ -3600,7 +3862,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G13. Sweet Alyssum (*Lobularia maritima*)
 
-**Irish name:** Alasam cumhra
+**Irish / Russian name:** Alasam cumhra · Лобулярия приморская (алиссум морской)
 
 📷 **Reference photo:** [Sweet Alyssum — view on Wikipedia](https://en.wikipedia.org/wiki/Lobularia_maritima)
 
@@ -3624,6 +3886,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G14. Sweet Peas (*Lathyrus odoratus*)
 
+**Russian name:** Душистый горошек
+
 📷 **Reference photo:** [Sweet Peas — view source](https://en.wikipedia.org/wiki/Lathyrus_odoratus)
 
 **Light:** ☀️ Full sun.
@@ -3646,6 +3910,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G16. Winged Everlasting (*Ammobium alatum*)
 
+**Russian name:** Аммобиум крылатый
+
 📷 **Reference photo:** [Ammobium alatum — view on Wikipedia](https://en.wikipedia.org/wiki/Ammobium_alatum)
 
 **Light:** ☀️ Full sun.
@@ -3667,6 +3933,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G15. Zinnia (*Zinnia elegans*)
+
+**Russian name:** Цинния изящная
 
 📷 **Reference photo:** [Zinnia — view on Wikipedia](https://en.wikipedia.org/wiki/Zinnia_elegans)
 
@@ -3692,6 +3960,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H1. Asparagus (*Asparagus officinalis*)
 
+**Irish / Russian name:** Asparagas · Спаржа лекарственная
+
 📷 **Reference photo:** [Asparagus — view on Wikipedia](https://en.wikipedia.org/wiki/Asparagus)
 
 **Light:** ☀️ Full sun essential — at least 6–8 hours daily.
@@ -3713,6 +3983,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H2. Basil (*Ocimum basilicum*)
+
+**Irish / Russian name:** Basal · Базилик душистый
 
 📷 **Reference photo:** [Basil — view on Wikipedia](https://en.wikipedia.org/wiki/Basil)
 
@@ -3736,6 +4008,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H3. Catnip (*Nepeta cataria*)
 
+**Russian name:** Котовник кошачий
+
 📷 **Reference photo:** [Catnip — view source](https://en.wikipedia.org/wiki/Nepeta_cataria)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -3758,7 +4032,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H4. Chamomile (*Chamaemelum nobile*, Roman; *Matricaria chamomilla*, German)
 
-**Irish name:** Camán meall
+**Irish / Russian name:** Camán meall · Ромашка римская
 
 📷 **Reference photo:** [Chamomile — view on Wikipedia](https://en.wikipedia.org/wiki/Chamaemelum_nobile)
 
@@ -3782,6 +4056,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H5. Chives (*Allium schoenoprasum*)
 
+**Irish / Russian name:** Síobhas · Лук скорода
+
 📷 **Reference photo:** [Chives — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_schoenoprasum)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -3803,6 +4079,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H6. Comfrey (*Symphytum officinale*)
+
+**Irish / Russian name:** Compar · Окопник лекарственный
 
 📷 **Reference photo:** [Comfrey — view on Wikipedia](https://en.wikipedia.org/wiki/Symphytum_officinale)
 
@@ -3828,7 +4106,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H7. Common Sorrel (*Rumex acetosa*)
 
-**Irish name:** Samhadh bó
+**Irish / Russian name:** Samhadh bó · Щавель кислый
 
 📷 **Reference photo:** [Common Sorrel — view on Wikipedia](https://en.wikipedia.org/wiki/Rumex_acetosa)
 
@@ -3852,6 +4130,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H8. Coriander (*Coriandrum sativum*)
 
+**Irish / Russian name:** Lus an choire · Кинза (кориандр посевной)
+
 📷 **Reference photo:** [Coriander — view on Wikipedia](https://en.wikipedia.org/wiki/Coriander)
 
 **Light:** 🌤️ Full sun to partial shade. Shade reduces bolting — useful in the cool west of Ireland.
@@ -3869,6 +4149,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H9. Cucumbers (*Cucumis sativus*)
+
+**Irish / Russian name:** Cúcamar · Огурец посевной
 
 📷 **Reference photo:** [Cucumbers — view source](https://en.wikipedia.org/wiki/Cucumber)
 
@@ -3892,6 +4174,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H10. Culinary Thyme (*Thymus vulgaris*)
 
+**Irish / Russian name:** Tím · Тимьян обыкновенный
+
 📷 **Reference photo:** [Culinary Thyme — view on Wikipedia](https://en.wikipedia.org/wiki/Thymus_vulgaris)
 
 **Light:** ☀️ Full sun essential.
@@ -3914,6 +4198,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H11. Dill (*Anethum graveolens*)
 
+**Irish / Russian name:** Lus mín · Укроп пахучий
+
 📷 **Reference photo:** [Dill — view on Wikipedia](https://en.wikipedia.org/wiki/Dill)
 
 **Light:** ☀️ Full sun. Sheltered from wind (tall and floppy).
@@ -3931,6 +4217,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H12. Green Onions (Scallions) (*Allium fistulosum*)
+
+**Irish / Russian name:** Scailliún · Лук-батун
 
 📷 **Reference photo:** [Green Onions / Scallions — view source](https://en.wikipedia.org/wiki/Welsh_onion)
 
@@ -3954,6 +4242,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H13. Lavender (*Lavandula angustifolia*)
 
+**Irish / Russian name:** Labhandar · Лаванда узколистная
+
 📷 **Reference photo:** [Lavender — view source](https://en.wikipedia.org/wiki/Lavandula_angustifolia)
 
 **Light:** ☀️ Full sun essential — at least 6 hours daily.
@@ -3975,6 +4265,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H14. Lemon Balm (*Melissa officinalis*)
+
+**Irish / Russian name:** Lus na meala · Мелисса лекарственная
 
 📷 **Reference photo:** [Melissa / Lemon Balm — view source](https://en.wikipedia.org/wiki/Melissa_officinalis)
 
@@ -3998,6 +4290,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H15. Mint (*Mentha* spp.)
 
+**Irish / Russian name:** Miontas · Мята
+
 📷 **Reference photo:** [Mint — view on Wikipedia](https://en.wikipedia.org/wiki/Mentha)
 
 **Light:** 🌤️ Full sun to partial shade. More aromatic in sun; more leaves in shade.
@@ -4015,6 +4309,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H16. Nasturtiums (*Tropaeolum majus*)
+
+**Irish / Russian name:** Gleorán · Настурция большая
 
 📷 **Reference photo:** [Nasturtiums — view source](https://en.wikipedia.org/wiki/Tropaeolum_majus)
 
@@ -4038,7 +4334,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H17. Oregano (Wild Marjoram) (*Origanum vulgare*)
 
-**Irish name:** Máirtín fiáin
+**Irish / Russian name:** Máirtín fiáin · Душица обыкновенная
 
 📷 **Reference photo:** [Oregano (Wild Marjoram) — view on Wikipedia](https://en.wikipedia.org/wiki/Origanum_vulgare)
 
@@ -4059,6 +4355,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H18. Parsley (*Petroselinum crispum*)
+
+**Irish / Russian name:** Peirsil · Петрушка кудрявая
 
 📷 **Reference photo:** [Parsley — view on Wikipedia](https://en.wikipedia.org/wiki/Petroselinum_crispum)
 
@@ -4082,6 +4380,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H19. Radish (*Raphanus sativus*)
 
+**Irish / Russian name:** Raidis · Редис
+
 📷 **Reference photo:** [Radish — view source](https://en.wikipedia.org/wiki/Radish)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -4103,6 +4403,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H20. Rocket (*Eruca sativa*)
+
+**Irish / Russian name:** Ruachán · Руккола (гусеничник посевной, индау посевной)
 
 📷 **Reference photo:** [Rocket — view source](https://en.wikipedia.org/wiki/Eruca_vesicaria)
 
@@ -4126,6 +4428,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H21. Rosemary (*Salvia rosmarinus*, syn. *Rosmarinus officinalis*)
 
+**Irish / Russian name:** Marós · Розмарин лекарственный
+
 📷 **Reference photo:** [Rosemary — view source](https://en.wikipedia.org/wiki/Salvia_rosmarinus)
 
 **Light:** ☀️ Full sun essential — at least 6 hours daily. Poor, leggy growth and reduced flavour in shade.
@@ -4147,6 +4451,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H22. Sage (*Salvia officinalis*)
+
+**Irish / Russian name:** Sáiste · Шалфей лекарственный
 
 📷 **Reference photo:** [Sage — view on Wikipedia](https://en.wikipedia.org/wiki/Salvia_officinalis)
 
@@ -4170,6 +4476,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H23. Scurvy Grass (*Cochlearia officinalis*)
 
+**Irish / Russian name:** Biolar trá · Ложечница лекарственная
+
 📷 **Reference photo:** [Scurvy Grass — view source](https://en.wikipedia.org/wiki/Cochlearia_officinalis)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -4191,6 +4499,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H24. Zucchini (Courgette) (*Cucurbita pepo var. cylindrica, var. giraumontia*)
+
+**Irish / Russian name:** Cúirséad · Кабачок (Цуккини)
 
 📷 **Reference photo:** [Zucchini / Courgette — view source](https://en.wikipedia.org/wiki/Cucurbita_pepo)
 
@@ -4216,6 +4526,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I1. Asian Bleeding Heart (*Lamprocapnos spectabilis*, syn. *Dicentra spectabilis*)
 
+**Russian name:** Дицентра великолепная
+
 📷 **Reference photo:** [Asian Bleeding Heart — view on Wikipedia](https://en.wikipedia.org/wiki/Lamprocapnos_spectabilis)
 
 **Light:** 🌥️ Partial to full shade; flowers best with morning sun and afternoon shade. Will take full sun in a cool, reliably moist spot.
@@ -4240,7 +4552,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I2. Common Dog Violet (*Viola riviniana*)
 
-**Irish name:** Fanaigse
+**Irish / Russian name:** Fanaigse · Фиалка Ривинуса
 
 📷 **Reference photo:** [Common Dog Violet — view source](https://en.wikipedia.org/wiki/Viola_riviniana)
 
@@ -4264,7 +4576,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I3. Cowslip (*Primula veris*)
 
-**Irish name:** Bainne bó bleachtáin
+**Irish / Russian name:** Bainne bó bleachtáin · Первоцвет весенний
 
 📷 **Reference photo:** [Cowslip — view on Wikipedia](https://en.wikipedia.org/wiki/Primula_veris)
 
@@ -4288,7 +4600,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I4. Dusky Cranesbill (*Geranium phaeum*)
 
-**Irish name:** Crobh odhar
+**Irish / Russian name:** Crobh odhar · Герань тёмно-бурая
 
 📷 **Reference photo:** [Dusky Cranesbill — view on Wikipedia](https://en.wikipedia.org/wiki/Geranium_phaeum)
 
@@ -4311,6 +4623,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### I5. Lily of the Valley (*Convallaria majalis*)
+
+**Russian name:** Ландыш майский
 
 📷 **Reference photo:** [Convallaria — view source](https://en.wikipedia.org/wiki/Convallaria_majalis)
 
@@ -4366,6 +4680,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### I7. Native Irish Mosses
+
+**Russian name:** Мхи
 
 📷 **Reference photo:** [Native Irish Mosses — view source](https://en.wikipedia.org/wiki/List_of_mosses_of_Great_Britain_and_Ireland)
 
@@ -4423,7 +4739,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I9. Primroses (*Primula vulgaris*)
 
-**Irish name:** Sabhaircín
+**Irish / Russian name:** Sabhaircín · Первоцвет обыкновенный
 
 📷 **Reference photo:** [Primroses — view source](https://en.wikipedia.org/wiki/Primula_vulgaris)
 
@@ -4447,6 +4763,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I10. Rough Tree Fern (*Cyathea australis*)
 
+**Russian name:** Циатея южная
+
 📷 **Reference photo:** [Rough Tree Fern — view on Wikipedia](https://en.wikipedia.org/wiki/Cyathea_australis)
 
 **Light:** 🌥️ Partial shade preferred, though established plants tolerate more sun than most tree ferns provided the roots stay moist; shelter from strong, drying wind is important.
@@ -4466,6 +4784,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### I11. Round-Lobed Hepatica (*Hepatica nobilis*)
+
+**Russian name:** Печёночница благородная
 
 📷 **Reference photo:** [Round-Lobed Hepatica — view source](https://en.wikipedia.org/wiki/Hepatica_nobilis)
 
@@ -4489,6 +4809,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I12. Silver Fern (*Cyathea dealbata*)
 
+**Russian name:** Циатея серебристая
+
 📷 **Reference photo:** [Silver Fern — view on Wikipedia](https://en.wikipedia.org/wiki/Cyathea_dealbata)
 
 **Light:** 🌥️ Partial shade, sheltered from strong wind and harsh direct sun, which can scorch the fronds.
@@ -4508,6 +4830,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### I13. Solomon's Seal (*Polygonatum multiflorum* / *P. × hybridum*)
+
+**Russian name:** Купена многоцветковая
 
 📷 **Reference photo:** [Solomon's Seal — view on Wikipedia](https://en.wikipedia.org/wiki/Polygonatum_multiflorum)
 
@@ -4533,7 +4857,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I14. St Patrick's Cabbage (*Saxifraga spathularis*)
 
-**Irish name:** Cabáiste mhadra rua
+**Irish / Russian name:** Cabáiste mhadra rua · Камнеломка лопатчатая
 
 📷 **Reference photo:** [St Patrick's Cabbage — view source](https://en.wikipedia.org/wiki/Saxifraga_spathularis)
 
@@ -4557,6 +4881,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I15. Tasmanian Tree Fern (*Dicksonia antarctica*)
 
+**Russian name:** Диксония антарктическая
+
 📷 **Reference photo:** [Dicksonia antarctica (Tasmanian Tree Fern) — view source](https://en.wikipedia.org/wiki/Dicksonia_antarctica)
 
 **Light:** 🌥️ Partial to full shade; shelter from direct hot sun and, importantly, from cold drying winds.
@@ -4579,7 +4905,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I16. Wild Garlic (*Allium ursinum*)
 
-**Irish name:** Creamh
+**Irish / Russian name:** Creamh · Лук медвежий
 
 📷 **Reference photo:** [Wild Garlic — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_ursinum)
 
@@ -4605,7 +4931,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### I17. Wood Sorrel (*Oxalis acetosella*)
 
-**Irish name:** Seamsóg
+**Irish / Russian name:** Seamsóg · Кислица обыкновенная
 
 📷 **Reference photo:** [Wood Sorrel — view source](https://en.wikipedia.org/wiki/Oxalis_acetosella)
 
@@ -4631,7 +4957,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J1. Bog Asphodel (*Narthecium ossifragum*)
 
-**Irish name:** Sciollam na móna
+**Irish / Russian name:** Sciollam na móna · Нартециум костоломный
 
 📷 **Reference photo:** [Bog Asphodel — view source](https://en.wikipedia.org/wiki/Narthecium_ossifragum)
 
@@ -4657,6 +4983,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J2. Bog Pimpernel (*Anagallis tenella*)
 
+**Irish / Russian name:** Falcaire corraigh · Анагаллис нежный
+
 📷 **Reference photo:** [Bog Pimpernel — view on Wikipedia](https://en.wikipedia.org/wiki/Anagallis_tenella)
 
 **Light:** ☀️ Full sun.
@@ -4679,7 +5007,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J3. Bogbean (Buckbean) (*Menyanthes trifoliata*)
 
-**Irish name:** Báchrán
+**Irish / Russian name:** Báchrán · Вахта трёхлистная
 
 📷 **Reference photo:** [Bogbean — view on Wikipedia](https://en.wikipedia.org/wiki/Menyanthes_trifoliata)
 
@@ -4705,6 +5033,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J10. Egyptian Papyrus (*Cyperus papyrus*)
 
+**Russian name:** Сыть папирусная
+
 📷 **Reference photo:** [Cyperus papyrus — view on Wikipedia](https://en.wikipedia.org/wiki/Cyperus_papyrus)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -4727,7 +5057,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J4. Loosestrife (*Lysimachia vulgaris* and *L. punctata*)
 
-**Irish name:** Breallán léana (Breallán dlúth)
+**Irish / Russian name:** Breallán léana (Breallán dlúth) · Вербейник обыкновенный
 
 📷 **Reference photo:** [Loosestrife — view source](https://en.wikipedia.org/wiki/Lysimachia_vulgaris)
 
@@ -4753,7 +5083,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J5. Marsh Marigold (*Caltha palustris*)
 
-**Irish name:** Lus buí Bealtaine
+**Irish / Russian name:** Lus buí Bealtaine · Калужница болотная
 
 📷 **Reference photo:** [Marsh Marigold — view source](https://en.wikipedia.org/wiki/Caltha_palustris)
 
@@ -4777,6 +5107,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J6. Marsh Orchids (*Dactylorhiza* spp.)
 
+**Russian name:** Пальчатокоренник
+
 📷 **Reference photo:** [Marsh Orchids — view source](https://en.wikipedia.org/wiki/Dactylorhiza)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade, provided the soil stays consistently moist.
@@ -4799,7 +5131,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J7. Meadowsweet (*Filipendula ulmaria*)
 
-**Irish name:** Airgead luachra
+**Irish / Russian name:** Airgead luachra · Лабазник вязолистный
 
 📷 **Reference photo:** [Meadowsweet — view on Wikipedia](https://en.wikipedia.org/wiki/Filipendula_ulmaria)
 
@@ -4822,6 +5154,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### J8. Native Irish White Water Lily (*Nymphaea alba*)
+
+**Irish / Russian name:** Bacán bán · Кувшинка белая
 
 📷 **Reference photo:** [Native Irish White Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nymphaea_alba)
 
@@ -4847,6 +5181,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J11. Umbrella Grass (*Cyperus alternifolius*)
 
+**Russian name:** Сыть очерёднолистная
+
 📷 **Reference photo:** [Cyperus alternifolius — view on Wikipedia](https://en.wikipedia.org/wiki/Cyperus_alternifolius)
 
 **Light:** ☀️ Full sun to 🌥️ light shade.
@@ -4869,7 +5205,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### J9. Yellow Flag Iris (*Iris pseudacorus*)
 
-**Irish name:** Feileastram
+**Irish / Russian name:** Feileastram · Ирис аировидный
 
 📷 **Reference photo:** [Yellow Flag Iris — view on Wikipedia](https://en.wikipedia.org/wiki/Iris_pseudacorus)
 
@@ -4939,7 +5275,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | A3 | Cherry Blossom 'Kanzan' | *Prunus* 'Kanzan' | ☀️ | 6.0–7.5 | Graft union at/above soil | 4–5m from trees/structures | ⚠️ 100L+ container | Good, flowering branches | Daffodils, forget-me-nots, hostas | Вишня мелкопильчатая 'Канзан' | — |
 | G4 | Chinese Pink | *Dianthus chinensis* | ☀️ | 6.5–7.5 | 3mm deep (seed) / at pot level | 15–20cm between plants; grow as annual/biennial | ✅ 5L+ container | Good | Cornflower, love-in-a-mist | Гвоздика китайская | — |
 | H5 | Chives | *Allium schoenoprasum* | ☀️ to 🌤️ | 6.0–7.0 | At pot level / divide clumps | 15–20cm between plants; divide every 2–3 yrs | ✅ 10–15L container | Good, flowerheads | Carrots, roses, apples | Лук скорода | Síobhas |
-| A22 | Cider Gum | *Eucalyptus gunnii* | ☀️ | 5.5–7.0 | At pot level | 2–4m between plants if coppiced annually; more if left as a tree | ✅ 40–60L container | Good, dries well | Ornamental grasses, hardy geraniums | Эвкалипт Ганна | — |
+| A22 | Cider Gum (Eucalyptus) | *Eucalyptus gunnii* | ☀️ | 5.5–7.0 | At pot level | 2–4m between plants if coppiced annually; more if left as a tree | ✅ 40–60L container | Good, dries well | Ornamental grasses, hardy geraniums | Эвкалипт Ганна | — |
 | D2 | Clematis | *Clematis* spp. | 🌤️ (roots shaded) | 6.5–7.5 | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | ✅ 45cm/40L+ container | Good, short vase life | Climbing roses, other clematis | Клематис | Gabhrán |
 | D3 | Climbing Honeysuckle | *Lonicera periclymenum* | 🌤️ | 5.5–8.0 | At pot level | 1.5m between plants | ⚠️ 30L+ (not ideal, deep roots) | Good, short vase life | Climbing roses, clematis; near windows | Жимолость вьющаяся | Féithleann |
 | D4 | Climbing Hydrangea | *Hydrangea anomala* subsp. *petiolaris* | 🌑 to 🌤️ | 6.0–7.0 | At pot level | 45cm from wall; 60cm+ between plants | ⚠️ 50L+ (not ideal) | Good, dries well | Ivy, ferns, hostas, shade-tolerant plants | Гортензия черешковая | — |
