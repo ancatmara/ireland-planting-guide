@@ -71,7 +71,7 @@
   .reset-btn{background:none;border:1px solid var(--rule);border-radius:5px;padding:0.35rem 0.75rem;font-size:0.78rem;color:var(--slate);cursor:pointer;font-family:'Inter',sans-serif;transition:background 0.15s;}
   .reset-btn:hover{background:var(--mist);}
   .row-count{font-size:0.78rem;color:var(--sage);margin-left:auto;}
-  .table-wrap{overflow-x:auto;border-radius:8px;box-shadow:0 2px 12px var(--shadow);}
+  .table-wrap{overflow-x:auto;border-radius:8px;box-shadow:0 2px 12px var(--shadow);touch-action:pan-x;}
   table.ref{width:100%;border-collapse:collapse;font-size:0.78rem;background:var(--white);min-width:1350px;}
   table.ref thead th{background:var(--moss);color:var(--white);padding:0.6rem 0.75rem;text-align:left;font-weight:600;font-size:0.72rem;letter-spacing:0.04em;white-space:nowrap;}
   table.ref thead th:first-child{border-radius:8px 0 0 0;}
@@ -1476,6 +1476,23 @@ function togglePlant(btn){
 }
 
 buildTable();
+
+(function(){
+  const wrap = document.querySelector('.table-wrap');
+  if(!wrap) return;
+  wrap.addEventListener('wheel', function(e){
+    // let native horizontal gestures (trackpad, shift+wheel) pass through untouched
+    if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) return;
+    const maxScroll = wrap.scrollWidth - wrap.clientWidth;
+    if (maxScroll <= 0) return;
+    const atStart = wrap.scrollLeft <= 0;
+    const atEnd = wrap.scrollLeft >= maxScroll - 1;
+    // at either edge, let the page scroll vertically as normal
+    if ((e.deltaY > 0 && atEnd) || (e.deltaY < 0 && atStart)) return;
+    e.preventDefault();
+    wrap.scrollLeft += e.deltaY;
+  }, {passive:false});
+})();
 </script>
 </body>
 </html>
