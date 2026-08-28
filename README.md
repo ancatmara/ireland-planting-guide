@@ -898,7 +898,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP C: GROUNDCOVER & CREEPING PLANTS
 
-### C10. Bellflowers, Rockery (*Campanula* spp.)
+### C10. Bellflowers (Rockery) (*Campanula* spp.)
 
 📷 **Reference photos:** [Campanula saxifraga](https://en.wikipedia.org/wiki/Campanula) · [Carpathian Bellflower](https://en.wikipedia.org/wiki/Campanula_carpatica)
 
@@ -995,7 +995,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C1. Junipers, Creeping (*Juniperus* spp.)
+### C1. Junipers (Creeping) (*Juniperus* spp.)
 
 📷 **Reference photos:** [Creeping Juniper](https://en.wikipedia.org/wiki/Juniperus_horizontalis) · [Juniperus communis](https://en.wikipedia.org/wiki/Juniperus_communis)
 
@@ -1116,7 +1116,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C13. Thyme, Creeping (*Thymus* spp.)
+### C13. Thyme (Creeping) (*Thymus* spp.)
 
 📷 **Reference photos:** [Thymus serpyllum](https://en.wikipedia.org/wiki/Thymus_serpyllum) · [Thymus polytrichus](https://en.wikipedia.org/wiki/Thymus_polytrichus)
 
@@ -1971,7 +1971,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F5. Bellflowers, Border (*Campanula* spp.)
+### F5. Bellflowers (Border) (*Campanula* spp.)
 
 📷 **Reference photos:** [Clustered Bellflower](https://en.wikipedia.org/wiki/Campanula_glomerata) · [Spreading Bellflower](https://en.wikipedia.org/wiki/Campanula_patula) · [Peach-leaved Bellflower](https://en.wikipedia.org/wiki/Campanula_persicifolia)
 
