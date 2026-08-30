@@ -42,6 +42,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A2. Cornflower (*Centaurea cyanus*)
 
+**Russian:** Василёк синий
+
 📷 **Reference photo:** [Cornflower — view source](https://en.wikipedia.org/wiki/Centaurea_cyanus)
 
 **Light:** ☀️ Full sun.
@@ -63,6 +65,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A3. Greater Quaking Grass (*Briza maxima*)
+
+**Russian:** Трясунка большая
 
 📷 **Reference photo:** [Briza Maxima — view source](https://en.wikipedia.org/wiki/Briza_maxima)
 
@@ -86,6 +90,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A4. Lacy Phacelia (*Phacelia tanacetifolia*)
 
+**Russian:** Фацелия пижмолистная
+
 📷 **Reference photo:** [Phacelia — view source](https://en.wikipedia.org/wiki/Phacelia_tanacetifolia)
 
 **Light:** ☀️ Full sun.
@@ -107,6 +113,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A5. Love-in-a-Mist (*Nigella damascena*)
+
+**Irish / Russian:** Nigéal · Чернушка дамасская (девица в зелени, нигелла)
 
 📷 **Reference photo:** [Love-in-a-Mist — view source](https://en.wikipedia.org/wiki/Nigella_damascena)
 
@@ -130,6 +138,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### A6. Poppies (*Papaver* spp., e.g. *P. rhoeas*, Shirley poppies)
 
+**Irish / Russian:** Cailleach dhearg · Мак самосейка
+
 📷 **Reference photo:** [Poppies — view source](https://en.wikipedia.org/wiki/Papaver_rhoeas)
 
 **Light:** ☀️ Full sun.
@@ -151,6 +161,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### A7. Sweet Peas (*Lathyrus odoratus*)
+
+**Russian:** Душистый горошек
 
 📷 **Reference photo:** [Sweet Peas — view source](https://en.wikipedia.org/wiki/Lathyrus_odoratus)
 
@@ -176,6 +188,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B1. Acidanthera (*Gladiolus murielae*)
 
+**Russian:** Шпажник Мюриэл
+
 📷 **Reference photo:** [Acidanthera — view on Wikipedia](https://en.wikipedia.org/wiki/Gladiolus_murielae)
 
 **Light:** ☀️ Full sun — essential. Plant in the warmest, sunniest spot available.
@@ -193,6 +207,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B2. Anemone (spring: *A. blanda*, *A. nemorosa*; Japanese/autumn: *A. × hybrida*)
+
+**Irish / Russian:** Lus na gaoithe · Ветреница нежная
 
 📷 **Reference photo:** [Anemone — view on Wikipedia](https://en.wikipedia.org/wiki/Anemone_blanda)
 
@@ -244,6 +260,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B4. Corn Lily (*Ixia* spp.)
 
+**Russian:** Иксия
+
 📷 **Reference photo:** [Ixia — view source](https://en.wikipedia.org/wiki/Ixia_(plant))
 
 **Light:** ☀️ Full sun.
@@ -265,6 +283,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B5. Crocus (*Crocus* spp.)
+
+**Russian:** Крокус
 
 📷 **Reference photo:** [Crocus — view on Wikipedia](https://en.wikipedia.org/wiki/Crocus)
 
@@ -290,6 +310,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B7. Daffodils (*Narcissus* spp.)
 
+**Irish / Russian:** Lus an chromchinn · Нарцисс
+
 📷 **Reference photo:** [Daffodils — view on Wikipedia](https://en.wikipedia.org/wiki/Narcissus_(plant))
 
 **Light:** 🌤️ Full sun to partial shade. Naturalise under deciduous trees.
@@ -307,6 +329,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B8. Dwarf Iris (*Iris reticulata*)
+
+**Russian:** Ирис сетчатый
 
 📷 **Reference photo:** [Dwarf Iris — view source](https://en.wikipedia.org/wiki/Iris_reticulata)
 
@@ -330,6 +354,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B10. Freesia (*Freesia* spp.)
 
+**Russian:** Фрезия
+
 📷 **Reference photo:** [Freesia — view source](https://en.wikipedia.org/wiki/Freesia)
 
 **Light:** ☀️ Full sun.
@@ -351,6 +377,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B12. Iron Cross (*Oxalis tetraphylla* 'Iron Cross')
+
+**Russian:** Кислица
 
 📷 **Reference photo:** [Iron Cross — view source](https://en.wikipedia.org/wiki/Oxalis_tetraphylla)
 
@@ -374,6 +402,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B13. Lilies (*Lilium* spp.)
 
+**Russian:** Лилия
+
 📷 **Reference photo:** [Lilies — view on Wikipedia](https://en.wikipedia.org/wiki/Lilium)
 
 **Light:** 🌤️ Full sun to partial shade. Most prefer heads in sun, roots shaded by low plants.
@@ -393,6 +423,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B14. Martagon Lily (*Lilium martagon*)
+
+**Russian:** Лилия кудреватая
 
 📷 **Reference photo:** [Martagon Lily — view source](https://en.wikipedia.org/wiki/Lilium_martagon)
 
@@ -415,6 +447,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B15. Native Bluebells (*Hyacinthoides non-scripta*)
+
+**Irish / Russian:** Coinnle corra · Гиацинтоидес неописанный
 
 📷 **Reference photo:** [Native Bluebells — view on Wikipedia](https://en.wikipedia.org/wiki/Hyacinthoides_non-scripta)
 
@@ -471,6 +505,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B18. Ranunculus (*Ranunculus asiaticus*)
 
+**Russian:** Лютик азиатский
+
 📷 **Reference photo:** [Ranunculus — view on Wikipedia](https://en.wikipedia.org/wiki/Ranunculus_asiaticus)
 
 **Light:** 🌤️ Full sun to partial shade.
@@ -493,6 +529,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B19. Snowdrops (*Galanthus nivalis*)
 
+**Irish / Russian:** Plúirín sneachta · Подснежник белоснежный
+
 📷 **Reference photo:** [Snowdrops — view on Wikipedia](https://en.wikipedia.org/wiki/Galanthus_nivalis)
 
 **Light:** 🌥️ to 🌑 Partial to full shade. Under deciduous trees is ideal — winter/spring light before canopy forms.
@@ -511,6 +549,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B20. Snowflake (*Leucojum aestivum* — Summer Snowflake; *L. vernum* — Spring Snowflake)
+
+**Irish / Russian:** Plúirín samhraidh · Белоцветник летний
 
 📷 **Reference photo:** [Snowflake — view on Wikipedia](https://en.wikipedia.org/wiki/Leucojum_aestivum)
 
@@ -537,6 +577,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### B21. Spring Sowbread (*Cyclamen coum*)
+
+**Russian:** Цикламен косский (дряква косская)
 
 📷 **Reference photo:** [Spring Sowbread — view source](https://en.wikipedia.org/wiki/Cyclamen_coum)
 
@@ -589,6 +631,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### B26. Yellow Star-of-Bethlehem (*Gagea lutea*)
 
+**Russian:** Гусиный лук жёлтый
+
 📷 **Reference photo:** [Gagea — view source](https://en.wikipedia.org/wiki/Gagea_lutea)
 
 **Light:** 🌥️ Partial shade to sun; naturally a woodland-floor plant, flowering before the canopy closes.
@@ -613,6 +657,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C1. Blue Passion Flower (*Passiflora caerulea*)
 
+**Irish / Russian:** Lus na páise · Страстоцвет голубой
+
 📷 **Reference photo:** [Passiflora (Blue Passion Flower) — view source](https://en.wikipedia.org/wiki/Passiflora_caerulea)
 
 **Light:** ☀️ Full sun, sheltered from cold wind — a south- or west-facing wall is ideal.
@@ -634,6 +680,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C2. Clematis (*Clematis* spp.)
+
+**Irish / Russian:** Gabhrán · Клематис
 
 📷 **Reference photo:** [Clematis — view on Wikipedia](https://en.wikipedia.org/wiki/Clematis)
 
@@ -666,6 +714,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C3. Climbing Honeysuckle (*Lonicera periclymenum*)
 
+**Irish / Russian:** Féithleann · Жимолость вьющаяся
+
 📷 **Reference photo:** [Climbing Honeysuckle — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_periclymenum)
 
 **Light:** 🌤️ Full sun to partial shade. Woodland-edge habit: roots shaded, stems growing into light.
@@ -685,6 +735,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C4. Climbing Hydrangea (*Hydrangea anomala* subsp. *petiolaris*)
+
+**Russian:** Гортензия черешковая
 
 📷 **Reference photo:** [Climbing Hydrangea — view on Wikipedia](https://en.wikipedia.org/wiki/Hydrangea_petiolaris)
 
@@ -708,6 +760,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C5. Climbing Roses (*Rosa*, climbing cultivars)
 
+**Russian:** Плетистая роза
+
 📷 **Reference photo:** [Climbing Roses — view on Wikipedia](https://en.wikipedia.org/wiki/Climbing_rose)
 
 **Light:** ☀️ Full sun preferred — at least 6 hours.
@@ -727,6 +781,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C6. Hardy Grapes (*Vitis vinifera*)
+
+**Irish / Russian:** Fíonchaora · Виноград культурный
 
 📷 **Reference photo:** [Hardy Grapes — view on Wikipedia](https://en.wikipedia.org/wiki/Vitis_vinifera)
 
@@ -756,6 +812,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C7. Hops (*Humulus lupulus*)
 
+**Irish / Russian:** Lus an leanna · Хмель обыкновенный
+
 📷 **Reference photo:** [Hops — view on Wikipedia](https://en.wikipedia.org/wiki/Humulus_lupulus)
 
 **Light:** 🌤️ Full sun to partial shade. Full sun produces more vigorous growth and larger cones.
@@ -775,6 +833,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C8. Ivy (*Hedera helix* / *H. hibernica* — native Irish ivy)
+
+**Irish / Russian:** Eidhneán · Плющ обыкновенный
 
 📷 **Reference photo:** [Ivy — view on Wikipedia](https://en.wikipedia.org/wiki/Hedera_helix)
 
@@ -822,6 +882,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C10. Tufted Vetch (*Vicia cracca*)
 
+**Irish / Russian:** Peasair na luch · Горошек мышиный
+
 📷 **Reference photo:** [Vicia — view source](https://en.wikipedia.org/wiki/Vicia_cracca)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -844,6 +906,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### C11. Virginia Creeper (*Parthenocissus quinquefolia*)
 
+**Russian:** Виноград девичий пятилисточковый
+
 📷 **Reference photo:** [Virginia Creeper — view on Wikipedia](https://en.wikipedia.org/wiki/Parthenocissus_quinquefolia)
 
 **Light:** 🌤️ Full sun to partial shade. Autumn colour more vivid in sunnier positions.
@@ -863,6 +927,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### C12. Wisteria (*Wisteria sinensis* / *W. floribunda*)
+
+**Russian:** Глициния китайская
 
 📷 **Reference photo:** [Wisteria — view on Wikipedia](https://en.wikipedia.org/wiki/Wisteria)
 
@@ -910,6 +976,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F2. Blackberries (*Rubus fruticosus* agg.)
 
+**Irish / Russian:** Sméara dubha · Ежевика кустистая
+
 📷 **Reference photo:** [Blackberries — view source](https://en.wikipedia.org/wiki/Blackberry)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade for best fruiting.
@@ -932,6 +1000,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F3. Blackcurrant (*Ribes nigrum*)
 
+**Irish / Russian:** Cuiríní dubha · Смородина чёрная
+
 📷 **Reference photo:** [Blackcurrant — view on Wikipedia](https://en.wikipedia.org/wiki/Blackcurrant)
 
 **Light:** 🌤️ Full sun to partial shade — tolerates shade better than other currants.
@@ -949,6 +1019,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F4. Blueberry (*Vaccinium corymbosum*)
+
+**Russian:** Голубика высокорослая
 
 📷 **Reference photo:** [Blueberry — view on Wikipedia](https://en.wikipedia.org/wiki/Vaccinium_corymbosum)
 
@@ -998,6 +1070,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F6. Cranberry (*Vaccinium macrocarpon*)
 
+**Russian:** Клюква крупноплодная
+
 📷 **Reference photo:** [Cranberry — view on Wikipedia](https://en.wikipedia.org/wiki/Vaccinium_macrocarpon)
 
 **Light:** 🌤️ Full sun to partial shade. Best fruiting in full sun.
@@ -1019,6 +1093,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F7. Garden Plum (*Prunus domestica*)
+
+**Irish / Russian:** Crann plumaí · Слива домашняя
 
 📷 **Reference photo:** [Garden Plum — view source](https://en.wikipedia.org/wiki/Plum)
 
@@ -1042,6 +1118,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F8. Gooseberry (*Ribes uva-crispa*)
 
+**Irish / Russian:** Spíonán · Крыжовник обыкновенный
+
 📷 **Reference photo:** [Gooseberry — view on Wikipedia](https://en.wikipedia.org/wiki/Gooseberry)
 
 **Light:** 🌤️ Full sun to partial shade. Tolerates semi-shade better than most fruit.
@@ -1059,6 +1137,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F9. Honeyberry (*Lonicera caerulea* var. *kamtschatica*)
+
+**Russian:** Жимолость камчатская
 
 📷 **Reference photo:** [Honeyberry — Kamchatka — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_caerulea)
 
@@ -1079,6 +1159,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F10. Lingonberry (*Vaccinium vitis-idaea*)
+
+**Russian:** Брусника обыкновенная
 
 📷 **Reference photo:** [Lingonberry — view on Wikipedia](https://en.wikipedia.org/wiki/Lingonberry)
 
@@ -1130,6 +1212,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F12. Pomegranate (*Punica granatum*)
 
+**Russian:** Гранат обыкновенный
+
 📷 **Reference photo:** [Pomegranate — view source](https://en.wikipedia.org/wiki/Pomegranate)
 
 **Light:** ☀️ Full sun essential, against a warm, sheltered south- or west-facing wall.
@@ -1151,6 +1235,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F13. Raspberry (*Rubus idaeus*)
+
+**Irish / Russian:** Sú craobh · Малина обыкновенная
 
 📷 **Reference photo:** [Raspberry — view on Wikipedia](https://en.wikipedia.org/wiki/Raspberry)
 
@@ -1190,6 +1276,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F14. Redcurrant (*Ribes rubrum*)
 
+**Irish / Russian:** Cuirín dearg · Смородина красная
+
 📷 **Reference photo:** [Redcurrant — view on Wikipedia](https://en.wikipedia.org/wiki/Redcurrant)
 
 **Light:** 🌥️ Full sun to partial shade. One of the most shade-tolerant fruiting plants — good for north-facing fences trained as a fan.
@@ -1207,6 +1295,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F15. Rhubarb (*Rheum × hybridum*)
+
+**Irish / Russian:** Biabhóg · Ревень
 
 📷 **Reference photo:** [Rhubarb — view on Wikipedia](https://en.wikipedia.org/wiki/Rhubarb)
 
@@ -1227,6 +1317,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F16. Serviceberry (*Amelanchier lamarckii*)
+
+**Russian:** Ирга Ламарка
 
 📷 **Reference photo:** [Serviceberry — view source](https://en.wikipedia.org/wiki/Amelanchier_lamarckii)
 
@@ -1249,6 +1341,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F17. Strawberry (*Fragaria × ananassa*)
+
+**Irish / Russian:** Sú talún · Клубника садовая (земляника ананасная)
 
 📷 **Reference photo:** [Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Strawberry)
 
@@ -1278,6 +1372,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### F18. Sweet Cherry 'Sylvia' (*Prunus avium* 'Sylvia')
 
+**Irish / Russian:** Silín fiáin · Черешня
+
 📷 **Reference photo:** [Sweet Cherry 'Sylvia' — view source](https://www.gardens4you.ie/cherry-tree-sylvia-prunus-avium-a07192.html)
 
 **About 'Sylvia':** A compact, self-fertile sweet cherry suitable for patios and smaller gardens. Mature height approximately 125–150cm with a spread of 30–40cm, making it one of the most compact cherries available — well suited to container growing (source: gardens4you.ie).
@@ -1303,6 +1399,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### F19. Woodland Strawberry (*Fragaria vesca*)
+
+**Irish / Russian:** Sú talún fiáin · Земляника лесная
 
 📷 **Reference photo:** [Woodland Strawberry — view on Wikipedia](https://en.wikipedia.org/wiki/Fragaria_vesca)
 
@@ -1355,6 +1453,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G2. Creeping Phlox / Moss Phlox (*Phlox subulata*)
+
+**Russian:** Флокс шиловидный
 
 📷 **Reference photo:** [Phlox subulata — view on Wikipedia](https://en.wikipedia.org/wiki/Phlox_subulata)
 
@@ -1412,6 +1512,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G4. Houseleek (*Sempervivum* spp.)
 
+**Irish / Russian:** Lus an tóiteáin · Молодило
+
 📷 **Reference photo:** [Sempervivum — view source](https://en.wikipedia.org/wiki/Sempervivum)
 
 **Light:** ☀️ Full sun.
@@ -1463,6 +1565,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G6. Periwinkle (*Vinca minor* and *V. major*)
 
+**Irish / Russian:** Fincín mór · Барвинок малый
+
 📷 **Reference photo:** [Periwinkle — view on Wikipedia](https://en.wikipedia.org/wiki/Vinca_minor)
 
 **Light:** 🌑 Full shade to ☀️ full sun. Grow in any but very dry soil, in full sun (for best flowering) to partial shade.
@@ -1489,6 +1593,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G7. Prickly Heath (*Gaultheria mucronata*)
 
+**Irish / Russian:** Fraoch deilgneach · Гаультерия остроконечная
+
 📷 **Reference photo:** [Prickly Heath — view source](https://en.wikipedia.org/wiki/Gaultheria_mucronata)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -1510,6 +1616,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G8. Reindeer Lichen (*Cladonia rangiferina*)
+
+**Russian:** Кладония оленья
 
 📷 **Reference photo:** [Reindeer Lichen — view source](https://en.wikipedia.org/wiki/Cladonia_rangiferina)
 
@@ -1533,6 +1641,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G9. Saxifrage (*Saxifraga* spp., alpine/rockery types)
 
+**Irish / Russian:** Mórán · Камнеломка
+
 📷 **Reference photo:** [Saxifrage — view source](https://en.wikipedia.org/wiki/Saxifraga)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade, depending on species.
@@ -1554,6 +1664,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### G13. Thyme (Creeping) (*Thymus* spp.)
+
+**Irish / Russian:** Tím · Тимьян обыкновенный
 
 📷 **Reference photos:** [Thymus serpyllum](https://en.wikipedia.org/wiki/Thymus_serpyllum) · [Thymus polytrichus](https://en.wikipedia.org/wiki/Thymus_polytrichus)
 
@@ -1582,6 +1694,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### G11. Wall Pennywort (*Umbilicus rupestris*)
 
+**Irish / Russian:** Lus na pingine · Умбиликус
+
 📷 **Reference photo:** [Wall Pennywort — view source](https://en.wikipedia.org/wiki/Umbilicus_rupestris)
 
 **Light:** 🌥️ Partial to full shade; tolerates some sun.
@@ -1606,6 +1720,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H1. Catnip (*Nepeta cataria*)
 
+**Russian:** Котовник кошачий
+
 📷 **Reference photo:** [Catnip — view source](https://en.wikipedia.org/wiki/Nepeta_cataria)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -1628,6 +1744,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H2. Coriander (*Coriandrum sativum*)
 
+**Irish / Russian:** Lus an choire · Кинза (кориандр посевной)
+
 📷 **Reference photo:** [Coriander — view on Wikipedia](https://en.wikipedia.org/wiki/Coriander)
 
 **Light:** 🌤️ Full sun to partial shade. Shade reduces bolting — useful in the cool west of Ireland.
@@ -1645,6 +1763,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H3. Cucumbers (*Cucumis sativus*)
+
+**Irish / Russian:** Cúcamar · Огурец посевной
 
 📷 **Reference photo:** [Cucumbers — view source](https://en.wikipedia.org/wiki/Cucumber)
 
@@ -1668,6 +1788,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H4. Dill (*Anethum graveolens*)
 
+**Irish / Russian:** Lus mín · Укроп пахучий
+
 📷 **Reference photo:** [Dill — view on Wikipedia](https://en.wikipedia.org/wiki/Dill)
 
 **Light:** ☀️ Full sun. Sheltered from wind (tall and floppy).
@@ -1685,6 +1807,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H5. Green Onions (*Allium fistulosum*)
+
+**Irish / Russian:** Scailliún · Лук-батун
 
 📷 **Reference photo:** [Green Onions / Scallions — view source](https://en.wikipedia.org/wiki/Welsh_onion)
 
@@ -1708,6 +1832,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H6. Lavender (*Lavandula angustifolia*)
 
+**Irish / Russian:** Labhandar · Лаванда узколистная
+
 📷 **Reference photo:** [Lavender — view source](https://en.wikipedia.org/wiki/Lavandula_angustifolia)
 
 **Light:** ☀️ Full sun essential — at least 6 hours daily.
@@ -1729,6 +1855,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H7. Lemon Balm (*Melissa officinalis*)
+
+**Irish / Russian:** Lus na meala · Мелисса лекарственная
 
 📷 **Reference photo:** [Melissa / Lemon Balm — view source](https://en.wikipedia.org/wiki/Melissa_officinalis)
 
@@ -1752,6 +1880,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H8. Mint (*Mentha* spp.)
 
+**Irish / Russian:** Miontas · Мята
+
 📷 **Reference photo:** [Mint — view on Wikipedia](https://en.wikipedia.org/wiki/Mentha)
 
 **Light:** 🌤️ Full sun to partial shade. More aromatic in sun; more leaves in shade.
@@ -1769,6 +1899,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H10. Nasturtiums (*Tropaeolum majus*)
+
+**Irish / Russian:** Gleorán · Настурция большая
 
 📷 **Reference photo:** [Nasturtiums — view source](https://en.wikipedia.org/wiki/Tropaeolum_majus)
 
@@ -1792,6 +1924,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H11. Oregano / Wild Marjoram (*Origanum vulgare*)
 
+**Irish / Russian:** Máirtín fiáin · Душица обыкновенная
+
 📷 **Reference photo:** [Oregano / Wild Marjoram — view on Wikipedia](https://en.wikipedia.org/wiki/Origanum_vulgare)
 
 **Light:** ☀️ Full sun — open, sunny position for best aroma and flavour.
@@ -1811,6 +1945,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H12. Radish (*Raphanus sativus*)
+
+**Irish / Russian:** Raidis · Редис
 
 📷 **Reference photo:** [Radish — view source](https://en.wikipedia.org/wiki/Radish)
 
@@ -1834,6 +1970,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H13. Rocket (*Eruca sativa*)
 
+**Irish / Russian:** Ruachán · Руккола (гусеничник посевной, индау посевной)
+
 📷 **Reference photo:** [Rocket — view source](https://en.wikipedia.org/wiki/Eruca_vesicaria)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade (some shade helps prevent premature bolting in summer heat).
@@ -1855,6 +1993,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H14. Rosemary (*Salvia rosmarinus*, syn. *Rosmarinus officinalis*)
+
+**Irish / Russian:** Marós · Розмарин лекарственный
 
 📷 **Reference photo:** [Rosemary — view source](https://en.wikipedia.org/wiki/Salvia_rosmarinus)
 
@@ -1878,6 +2018,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### H15. Scurvy Grass (*Cochlearia officinalis*)
 
+**Irish / Russian:** Biolar trá · Ложечница лекарственная
+
 📷 **Reference photo:** [Scurvy Grass — view source](https://en.wikipedia.org/wiki/Cochlearia_officinalis)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -1899,6 +2041,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### H16. Zucchini / Courgette (*Cucurbita pepo*)
+
+**Irish / Russian:** Cúirséad · Кабачок (Цуккини)
 
 📷 **Reference photo:** [Zucchini / Courgette — view source](https://en.wikipedia.org/wiki/Cucurbita_pepo)
 
@@ -1924,6 +2068,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P1. Astilbe (*Astilbe* spp.)
 
+**Russian:** Астильба
+
 📷 **Reference photo:** [Astilbe — view on Wikipedia](https://en.wikipedia.org/wiki/Astilbe)
 
 **Light:** 🌥️ Partial shade to full sun if soil stays moist. Best in partial shade — avoids leaf scorch. Excellent beside ponds or in moisture-rich borders.
@@ -1943,6 +2089,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P2. Auricula (*Primula auricula*)
+
+**Irish / Russian:** Lus na mbanríon · Первоцвет ушковый
 
 📷 **Reference photo:** [Auricula — view source](https://en.wikipedia.org/wiki/Primula_auricula)
 
@@ -1998,6 +2146,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P4. Blue Gentian (*Gentiana* spp., e.g. *G. acaulis*, *G. sino-ornata*)
 
+**Russian:** Горечавка
+
 📷 **Reference photo:** [Blue Gentian — view source](https://en.wikipedia.org/wiki/Gentiana)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade, depending on species.
@@ -2048,6 +2198,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P6. Columbine (*Aquilegia vulgaris* and hybrids)
 
+**Irish / Russian:** Colaimbín · Водосбор обыкновенный (аквилегия)
+
 📷 **Reference photo:** [Aquilegia — view source](https://en.wikipedia.org/wiki/Aquilegia_vulgaris)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -2070,6 +2222,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P7. Coral Bells (*Heuchera* spp.)
 
+**Russian:** Гейхера
+
 📷 **Reference photo:** [Coral Bells — view source](https://en.wikipedia.org/wiki/Heuchera)
 
 **Light:** 🌥️ Partial shade preferred; purple/dark-leaved varieties tolerate more sun, green/lime varieties prefer more shade.
@@ -2091,6 +2245,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P8. Cutleaf Coneflower 'Goldball' (*Rudbeckia laciniata* 'Goldball')
+
+**Russian:** Рудбекия рассечённая
 
 📷 **Reference photo:** [Rudbeckia 'Goldball' — view on Wikipedia](https://en.wikipedia.org/wiki/Rudbeckia_laciniata)
 
@@ -2118,6 +2274,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P9. Daylilies (*Hemerocallis* spp.)
 
+**Russian:** Лилейник
+
 📷 **Reference photo:** [Daylilies — view source](https://en.wikipedia.org/wiki/Hemerocallis)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -2140,6 +2298,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P10. Delphiniums (*Delphinium* spp.)
 
+**Russian:** Живокость (дельфиниум)
+
 📷 **Reference photo:** [Delphiniums — view on Wikipedia](https://en.wikipedia.org/wiki/Delphinium)
 
 **Light:** ☀️ Full sun — 6+ hours. Wind shelter equally essential.
@@ -2159,6 +2319,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P11. Edelweiss (*Leontopodium alpinum*)
+
+**Russian:** Эдельвейс альпийский
 
 📷 **Reference photo:** [Edelweiss — view source](https://en.wikipedia.org/wiki/Leontopodium_alpinum)
 
@@ -2182,6 +2344,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P12. Elephant's Ears (*Bergenia* spp.)
 
+**Russian:** Бадан
+
 📷 **Reference photo:** [Elephant's Ears — view on Wikipedia](https://en.wikipedia.org/wiki/Bergenia)
 
 **Light:** 🌑 Full shade to ☀️ full sun. Leaves colour best in open, exposed positions.
@@ -2201,6 +2365,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P13. Fern-leaf Peony (*Paeonia tenuifolia*)
+
+**Irish / Russian:** Piaine · Пион узколистный
 
 📷 **Reference photo:** [Paeonia tenuifolia — view source](https://en.wikipedia.org/wiki/Paeonia_tenuifolia)
 
@@ -2224,6 +2390,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P14. Foxgloves (*Digitalis purpurea* and perennial species)
 
+**Irish / Russian:** Lus mór · Наперстянка пурпурная
+
 📷 **Reference photo:** [Foxgloves — view on Wikipedia](https://en.wikipedia.org/wiki/Digitalis_purpurea)
 
 **Light:** 🌥️ Partial shade to full sun if soil stays moist.
@@ -2243,6 +2411,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P15. Globeflower (*Trollius europaeus* / *T. x cultorum*)
+
+**Russian:** Купальница европейская
 
 📷 **Reference photo:** [Trollius — view source](https://en.wikipedia.org/wiki/Trollius_europaeus)
 
@@ -2266,6 +2436,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P16. Hellebore (*Helleborus* spp.)
 
+**Russian:** Морозник
+
 📷 **Reference photo:** [Hellebore — view on Wikipedia](https://en.wikipedia.org/wiki/Helleborus)
 
 **Light:** 🌥️ to 🌑 Partial to full shade. Ideal under deciduous trees or shrubs. Avoid full sun which scorches leaves.
@@ -2286,6 +2458,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P17. Hosta (*Hosta* spp.)
 
+**Russian:** Хоста
+
 📷 **Reference photo:** [Hosta — view on Wikipedia](https://en.wikipedia.org/wiki/Hosta)
 
 **Light:** 🌥️ to 🌑 Partial to full shade. Golden types tolerate more sun; blue-leaved varieties need more shade. Avoid full sun which scorches leaves.
@@ -2305,6 +2479,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P18. Lady's Bedstraw (*Galium verum*)
+
+**Irish / Russian:** Bolach cnis · Подмаренник настоящий
 
 📷 **Reference photo:** [Lady's Bedstraw — view source](https://en.wikipedia.org/wiki/Galium_verum)
 
@@ -2328,6 +2504,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P19. Lilyleaf Ladybells (*Adenophora liliifolia*)
 
+**Russian:** Бубенчик лилиелистный (колокольчик лилиелистный)
+
 📷 **Reference photo:** [Lilyleaf Ladybells — view source](https://en.wikipedia.org/wiki/Adenophora_liliifolia)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
@@ -2349,6 +2527,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P20. Lungworts (*Pulmonaria* spp.)
+
+**Russian:** Медуница
 
 📷 **Reference photo:** [Lungworts — view source](https://en.wikipedia.org/wiki/Pulmonaria)
 
@@ -2372,6 +2552,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P21. Lupins (*Lupinus polyphyllus* and hybrids)
 
+**Russian:** Люпин многолистный
+
 📷 **Reference photo:** [Lupins — view source](https://en.wikipedia.org/wiki/Lupinus_polyphyllus)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -2393,6 +2575,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P22. Monkshood (*Aconitum napellus*)
+
+**Russian:** Борец клобучковый (аконит)
 
 📷 **Reference photo:** [Aconitum / Monkshood — view source](https://en.wikipedia.org/wiki/Aconitum_napellus)
 
@@ -2418,6 +2602,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P23. Pasqueflower (*Pulsatilla vulgaris*)
 
+**Russian:** Прострел обыкновенный
+
 📷 **Reference photo:** [Pasqueflower — view on Wikipedia](https://en.wikipedia.org/wiki/Pulsatilla_vulgaris)
 
 **Light:** ☀️ Full sun — essential. Hates shade.
@@ -2438,6 +2624,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P24. Peonies (*Paeonia* spp.)
 
+**Russian:** Пион
+
 📷 **Reference photo:** [Peonies — view on Wikipedia](https://en.wikipedia.org/wiki/Paeonia)
 
 **Light:** ☀️ to 🌤️ Full sun to partial shade. At least 4–6 hours for good flowering.
@@ -2457,6 +2645,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P25. Perennial Flax (*Linum perenne*)
+
+**Russian:** Лён многолетний
 
 📷 **Reference photo:** [Linum / Perennial Flax — view source](https://en.wikipedia.org/wiki/Linum_perenne)
 
@@ -2479,6 +2669,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P26. Pheasant's Eye (*Adonis vernalis* / *A. amurensis*)
+
+**Russian:** Адонис весенний
 
 📷 **Reference photo:** [Adonis — view source](https://en.wikipedia.org/wiki/Adonis_(plant))
 
@@ -2534,6 +2726,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P28. Siberian Statice (*Goniolimon tataricum*)
 
+**Russian:** Кермек татарский
+
 📷 **Reference photo:** [Siberian Statice — view source](https://en.wikipedia.org/wiki/Goniolimon_tataricum)
 
 **Light:** ☀️ Full sun.
@@ -2556,6 +2750,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P30. Stocks (*Matthiola incana* / *M. longipetala*)
 
+**Russian:** Левкой седой
+
 📷 **Reference photo:** [Stocks — view on Wikipedia](https://en.wikipedia.org/wiki/Matthiola_incana)
 
 **Light:** 🌤️ Full sun to partial shade. Best fragrance in the evening in a sheltered spot.
@@ -2575,6 +2771,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P32. Toadflax (*Linaria vulgaris*)
+
+**Russian:** Льнянка обыкновенная
 
 📷 **Reference photo:** [Toadflax — view source](https://en.wikipedia.org/wiki/Linaria_vulgaris)
 
@@ -2598,6 +2796,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P33. Vervain (*Verbena officinalis*)
 
+**Russian:** Вербена жёсткая
+
 📷 **Reference photo:** [Vervain — view source](https://en.wikipedia.org/wiki/Verbena_officinalis)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -2619,6 +2819,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### P34. Yarrow (*Achillea millefolium*)
+
+**Irish / Russian:** Athair thalún · Тысячелистник обыкновенный
 
 📷 **Reference photo:** [Yarrow — view on Wikipedia](https://en.wikipedia.org/wiki/Achillea_millefolium)
 
@@ -2645,6 +2847,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ## GROUP S: SHADE & WOODLAND PLANTS
 
 ### S1. Common Dog Violet (*Viola riviniana*)
+
+**Irish / Russian:** Fanaigse · Фиалка Ривинуса
 
 📷 **Reference photo:** [Common Dog Violet — view source](https://en.wikipedia.org/wiki/Viola_riviniana)
 
@@ -2696,6 +2900,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### S3. Lily of the Valley (*Convallaria majalis*)
+
+**Russian:** Ландыш майский
 
 📷 **Reference photo:** [Convallaria — view source](https://en.wikipedia.org/wiki/Convallaria_majalis)
 
@@ -2760,6 +2966,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### S5. Primroses (*Primula vulgaris*)
 
+**Irish / Russian:** Sabhaircín · Первоцвет обыкновенный
+
 📷 **Reference photo:** [Primroses — view source](https://en.wikipedia.org/wiki/Primula_vulgaris)
 
 **Light:** 🌥️ Partial shade; tolerates more sun in the cooler, moister west of Ireland climate than in drier regions.
@@ -2781,6 +2989,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### S6. Round-Lobed Hepatica (*Hepatica nobilis*)
+
+**Russian:** Печёночница благородная
 
 📷 **Reference photo:** [Round-Lobed Hepatica — view source](https://en.wikipedia.org/wiki/Hepatica_nobilis)
 
@@ -2804,6 +3014,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### S7. St Patrick's Cabbage (*Saxifraga spathularis*)
 
+**Irish / Russian:** Cabáiste mhadra rua · Камнеломка лопатчатая
+
 📷 **Reference photo:** [St Patrick's Cabbage — view source](https://en.wikipedia.org/wiki/Saxifraga_spathularis)
 
 **Light:** 🌥️ Partial shade to full shade; also tolerates exposed, unshaded mountain sites in its native range.
@@ -2826,6 +3038,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### S8. Tasmanian Tree Fern (*Dicksonia antarctica*)
 
+**Russian:** Диксония антарктическая
+
 📷 **Reference photo:** [Dicksonia antarctica (Tasmanian Tree Fern) — view source](https://en.wikipedia.org/wiki/Dicksonia_antarctica)
 
 **Light:** 🌥️ Partial to full shade; shelter from direct hot sun and, importantly, from cold drying winds.
@@ -2847,6 +3061,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### S9. Wood Sorrel (*Oxalis acetosella*)
+
+**Irish / Russian:** Seamsóg · Кислица обыкновенная
 
 📷 **Reference photo:** [Wood Sorrel — view source](https://en.wikipedia.org/wiki/Oxalis_acetosella)
 
@@ -2872,6 +3088,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T1. Bamboo (clump-forming: *Fargesia* spp., *Chusquea* spp.)
 
+**Russian:** Бамбук
+
 📷 **Reference photo:** [Bamboo — view on Wikipedia](https://en.wikipedia.org/wiki/Fargesia)
 
 **Light:** 🌤️ Full sun to partial shade. Fargesia prefers some afternoon shade.
@@ -2891,6 +3109,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T2. Border Forsythia (*Forsythia × intermedia*)
+
+**Russian:** Форзиция средняя
 
 📷 **Reference photo:** [Border Forsythia — view on Wikipedia](https://en.wikipedia.org/wiki/Forsythia_%G3%97_intermedia)
 
@@ -2912,6 +3132,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T3. Cherry Blossom 'Kanzan' (*Prunus* 'Kanzan')
 
+**Russian:** Вишня мелкопильчатая 'Канзан'
+
 📷 **Reference photo:** [Cherry Blossom 'Kanzan' — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_serrulata)
 
 **Light:** ☀️ Full sun. Avoid frost pockets — late frosts damage April blossom.
@@ -2931,6 +3153,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T4. Common Hawthorn (*Crataegus monogyna*)
+
+**Irish / Russian:** Sceach Gheal · Боярышник однопестичный
 
 📷 **Reference photo:** [Common Hawthorn — view source](https://en.wikipedia.org/wiki/Crataegus_monogyna)
 
@@ -2953,6 +3177,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T5. Dwarf Lily Magnolia (*Magnolia liliiflora*, e.g. 'Nigra')
+
+**Russian:** Магнолия лилиецветная
 
 📷 **Reference photo:** [Dwarf Lily Magnolia — view source](https://en.wikipedia.org/wiki/Magnolia_liliiflora)
 
@@ -3020,6 +3246,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T8. Fuzzy Pride-of-Rochester (*Deutzia scabra*)
 
+**Russian:** Дейция шершавая
+
 📷 **Reference photo:** [Fuzzy Pride-of-Rochester — view source](https://en.wikipedia.org/wiki/Deutzia_scabra)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade. Flowers best and stays more compact in full sun; needs a sheltered spot out of the coldest wind.
@@ -3041,6 +3269,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T9. Holly (*Ilex aquifolium*)
+
+**Irish / Russian:** Cuileann · Падуб остролистный
 
 📷 **Reference photo:** [Holly — view on Wikipedia](https://en.wikipedia.org/wiki/Ilex_aquifolium)
 
@@ -3064,6 +3294,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T10. Irish Yew (*Taxus baccata* 'Fastigiata')
 
+**Irish / Russian:** Iúr · Тис ягодный
+
 📷 **Reference photo:** [Irish Yew — view on Wikipedia](https://en.wikipedia.org/wiki/Taxus_baccata)
 
 **Light:** 🌑 Full shade to ☀️ full sun. Narrow column; produces more compact form in full sun. Discovered as natural mutation in Co. Fermanagh in the 18th century — all Irish yews worldwide descend from that one tree.
@@ -3085,6 +3317,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T11. Japanese Camellia (*Camellia japonica*)
+
+**Russian:** Камелия японская
 
 📷 **Reference photo:** [Japanese Camellia — view source](https://en.wikipedia.org/wiki/Camellia_japonica)
 
@@ -3132,6 +3366,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T12. Japanese Maple (*Acer palmatum*)
 
+**Russian:** Клён дланевидный
+
 📷 **Reference photo:** [Japanese Maple — view on Wikipedia](https://en.wikipedia.org/wiki/Acer_palmatum)
 
 **Light:** 🌥️ Partial shade preferred. Morning sun with afternoon shade is ideal. Variegated and dissectum types especially wind-sensitive. Avoid open exposed positions.
@@ -3153,6 +3389,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T13. Japanese Skimmia (*Skimmia japonica*)
+
+**Russian:** Скиммия японская
 
 📷 **Reference photo:** [Japanese Skimmia — view source](https://en.wikipedia.org/wiki/Skimmia_japonica)
 
@@ -3178,6 +3416,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T14. Lewis Mock Orange (*Philadelphus lewisii*)
 
+**Russian:** Чубушник Льюиса
+
 📷 **Reference photo:** [Lewis Mock Orange — view source](https://en.wikipedia.org/wiki/Philadelphus_lewisii)
 
 **Light:** ☀️ Full sun to 🌤️ part shade. Best flowering and fragrance in full sun.
@@ -3200,6 +3440,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T15. Lilac (*Syringa vulgaris*)
 
+**Irish / Russian:** Craobh liathchorcra · Сирень обыкновенная
+
 📷 **Reference photo:** [Lilac — view on Wikipedia](https://en.wikipedia.org/wiki/Syringa_vulgaris)
 
 **Light:** ☀️ Full sun — needs at least 6 hours to flower well.
@@ -3219,6 +3461,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T16. Mophead / Lacecap Hydrangea (*Hydrangea macrophylla*)
+
+**Russian:** Гортензия крупнолистная
 
 📷 **Reference photo:** [Hydrangea macrophylla — view on Wikipedia](https://en.wikipedia.org/wiki/Hydrangea_macrophylla)
 
@@ -3246,6 +3490,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T17. Mountain Ash / Rowan (*Sorbus aucuparia*)
 
+**Irish / Russian:** Caorthann · Рябина обыкновенная
+
 📷 **Reference photo:** [Mountain Ash / Rowan — view source](https://en.wikipedia.org/wiki/Sorbus_aucuparia)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade.
@@ -3267,6 +3513,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### T18. St John's Wort 'Rowallane' (*Hypericum* 'Rowallane')
+
+**Russian:** Зверобой
 
 📷 **Reference photo:** [Hypericum 'Rowallane' — view source](https://en.wikipedia.org/wiki/Hypericum)
 
@@ -3290,6 +3538,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### T19. Star Magnolia (*Magnolia stellata*)
 
+**Russian:** Магнолия звёздчатая
+
 📷 **Reference photo:** [Star Magnolia — view on Wikipedia](https://en.wikipedia.org/wiki/Magnolia_stellata)
 
 **Light:** 🌤️ Full sun to partial shade. Morning sun, sheltered position. Blooms in March–April — susceptible to late frost damage.
@@ -3310,7 +3560,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP W: POND & WATER PLANTS
 
+### W10. Arrowhead (*Sagittaria sagittifolia*)
+
+📷 **Reference photo:** [Arrowhead — view on Wikipedia](https://en.wikipedia.org/wiki/Sagittaria_sagittifolia)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Deep mud or aquatic compost in a basket; pH 6.0–7.5. Native to Ireland and Britain — the only native *Sagittaria* here (the name "Sagittaria vulgaris" sometimes used for this plant is not a recognised scientific name; *S. sagittifolia*, Common/Old World Arrowhead, is correct).
+
+**Soil prep:** Use aquatic compost in a planting basket, or plant directly into pond-bottom mud.
+
+**Planting depth:** Crown at soil surface; grows in up to 20cm of still or slow-moving water over the mud.
+
+**Spacing:** 30–45cm between plants; spreads by bulbils (small bulb-like offsets) which can be collected and replanted.
+
+**Fertiliser:** Aquatic fertiliser tablets pushed into the basket compost at the start of the growing season.
+
+**Companions:** Yellow flag iris, bogbean, flowering rush and other native marginal pond plants.
+
+**West of Ireland:** A true Irish and British native, with distinctive arrow-shaped emergent leaves above water and ribbon-like submerged leaves below. White, three-petalled flowers with purple centres appear June–September. Reverts to a dormant bulb-like tuber each autumn and regrows the following spring — perfect for a naturalistic native pond margin.
+
+---
+
 ### W1. Bog Asphodel (*Narthecium ossifragum*)
+
+**Irish / Russian:** Sciollam na móna · Нартециум костоломный
 
 📷 **Reference photo:** [Bog Asphodel — view source](https://en.wikipedia.org/wiki/Narthecium_ossifragum)
 
@@ -3336,6 +3610,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### W2. Bog Pimpernel (*Anagallis tenella*)
 
+**Irish / Russian:** Falcaire corraigh · Анагаллис нежный
+
 📷 **Reference photo:** [Bog Pimpernel — view on Wikipedia](https://en.wikipedia.org/wiki/Anagallis_tenella)
 
 **Light:** ☀️ Full sun.
@@ -3357,6 +3633,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ### W3. Bogbean (*Menyanthes trifoliata*)
+
+**Irish / Russian:** Báchrán · Вахта трёхлистная
 
 📷 **Reference photo:** [Bogbean — view on Wikipedia](https://en.wikipedia.org/wiki/Menyanthes_trifoliata)
 
@@ -3380,7 +3658,213 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### W11. Common Butterwort (*Pinguicula vulgaris*)
+
+📷 **Reference photo:** [Common Butterwort — view on Wikipedia](https://en.wikipedia.org/wiki/Pinguicula_vulgaris)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Permanently wet, acidic, nutrient-poor bog or fen conditions; pH 4.5–6.0. Native to Irish and British bogs, fens, wet heaths and moors.
+
+**Soil prep:** A boggy container or dedicated bog garden bed with acidic, nutrient-poor substrate (a mix of sphagnum moss, peat-free ericaceous compost and sharp sand works well) — do not add fertiliser, which harms carnivorous plants.
+
+**Planting depth:** Crown at soil surface, kept permanently moist to wet.
+
+**Spacing:** 10–15cm between plants.
+
+**Fertiliser:** None — this is a carnivorous plant that obtains nutrients from trapped insects via sticky glandular leaves; added fertiliser damages it.
+
+**Companions:** Round-leaved sundew, bog asphodel and other native bog-garden plants with the same acidic, nutrient-poor requirements.
+
+**West of Ireland:** A charming native carnivorous plant with ground-hugging, star-shaped, yellow-green sticky leaf rosettes that trap and digest small insects, and single purple, funnel-shaped flowers on short stems in late spring/early summer. Overwinters as a dormant resting bud. Best suited to a dedicated boggy or acidic container rather than a conventional pond margin.
+
+---
+
+### W21. Common Water Crowfoot (*Ranunculus aquatilis*)
+
+📷 **Reference photo:** [Common Water Crowfoot — view on Wikipedia](https://en.wikipedia.org/wiki/Ranunculus_aquatilis)
+
+**Light:** ☀️ Full sun.
+
+**Soil needs:** Muddy pool margins or submerged in still or slow/fast-moving fresh water; pH 6.0–7.5.
+
+**Soil prep:** Aquatic compost in a basket, or root directly into pond-bottom mud.
+
+**Planting depth:** Grows in muddy pool margins or fully submerged in water 15–60cm deep.
+
+**Spacing:** 30–45cm between plants; also suitable for a wildlife stream or slow-moving water feature.
+
+**Fertiliser:** None required — a good, undemanding native oxygenator.
+
+**Companions:** Hornwort, water lilies and other oxygenating/floating pond plants.
+
+**Warnings ⚠️:** Sap is a skin irritant and harmful if eaten — wear gloves when handling, like other buttercup-family plants.
+
+**West of Ireland:** A dainty native oxygenator with two distinct leaf forms — thread-like submerged leaves and rounder floating leaves — and masses of small white, yellow-centred flowers held just above the water in May. Good in both still ponds and slow-moving streams; a valuable, easy native addition to any wildlife pond.
+
+---
+
+### W12. Flowering Rush (*Butomus umbellatus*)
+
+📷 **Reference photo:** [Flowering Rush — view on Wikipedia](https://en.wikipedia.org/wiki/Butomus_umbellatus)
+
+**Light:** ☀️ Full sun.
+
+**Soil needs:** Fertile mud at pond margins; pH 6.0–7.5.
+
+**Soil prep:** Aquatic compost in a planting basket, or directly into fertile pond-margin mud.
+
+**Planting depth:** Crown at soil surface; grows in up to 25cm of water at the margin.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** Aquatic fertiliser tablets at the start of the growing season.
+
+**Companions:** Yellow flag iris, arrowhead, bogbean and other native or near-native marginal plants.
+
+**West of Ireland:** An elegant marginal with narrow, upright, rush-like leaves and umbels of fragrant, star-shaped pink flowers held on tall stems well above the water in summer. Not a true rush despite the name (it's the only member of its own family, Butomaceae). Reliably hardy and well suited to the mild, moist west of Ireland climate.
+
+---
+
+### W13. Fringed Water Lily (*Nymphoides peltata*)
+
+📷 **Reference photo:** [Fringed Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nymphoides_peltata)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Aquatic compost in a basket; pH 6.0–7.5.
+
+**Soil prep:** Aquatic compost in a planting basket.
+
+**Planting depth:** Crown at basket surface; 15–90cm of water above, tolerant of a wide depth range.
+
+**Spacing:** 40–60cm between plants; a vigorous spreader.
+
+**Fertiliser:** Aquatic fertiliser tablets at the start of the growing season.
+
+**Companions:** Water lilies, hornwort and other floating/deep-water pond plants.
+
+**Warnings ⚠️:** Despite its dainty appearance, this plant spreads vigorously by surface runners and is listed as an invasive non-native species in Northern Ireland, where it is an offence to plant or cause it to grow in the wild. It is not native to Ireland and has since naturalised and become a nuisance in some waterways here. Keep it strictly contained in a basket, trim regularly, and never allow cuttings or plants to reach open watercourses.
+
+**West of Ireland:** Small, waterlily-like rounded leaves (much smaller than a true *Nymphaea*) and bright yellow, fringed-petalled flowers held just above the surface in summer — useful for a smaller pond where a full-sized water lily would be too vigorous, provided it is kept firmly contained.
+
+---
+
+### W14. Frogbit (*Hydrocharis morsus-ranae*)
+
+📷 **Reference photo:** [Frogbit — view on Wikipedia](https://en.wikipedia.org/wiki/Hydrocharis_morsus-ranae)
+
+**Light:** ☀️ Full sun.
+
+**Soil needs:** None required — a free-floating plant with roots hanging in the water rather than anchored in soil. Prefers still, neutral to alkaline water.
+
+**Soil prep:** None — simply float on the water surface.
+
+**Planting depth:** Floats freely on the surface; water must be deep enough that the bottom does not freeze solid in winter, since the plant overwinters as small resting buds (turions) that sink to the bottom.
+
+**Spacing:** Spreads freely by runners to cover the surface; thin out excess growth as needed.
+
+**Fertiliser:** None required — takes up nutrients directly from the water.
+
+**Companions:** Water soldier, native water lilies and other floating-leaved plants; helps shade the water and reduce algae.
+
+**West of Ireland:** A dainty native-range floating plant with small, glossy, heart-shaped leaves and tiny three-petalled white flowers in summer — a good, well-behaved native-range alternative to non-native floating plants like water hyacinth (see note under that entry). Good for softening the pond surface in a small to medium pond without the vigour of larger floating-leaved plants.
+
+---
+
+### W15. Greater Bladderwort (*Utricularia vulgaris*)
+
+📷 **Reference photo:** [Greater Bladderwort — view on Wikipedia](https://en.wikipedia.org/wiki/Utricularia_vulgaris)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** None — a rootless, free-floating submerged aquatic. Prefers still or slow-moving, still, nutrient-poor to moderate fresh water.
+
+**Soil prep:** None required — floats freely just below the surface.
+
+**Planting depth:** Fully submerged, typically in still, reasonably deep water; rises to the surface to flower.
+
+**Spacing:** Allow to spread loosely through the water; thin congested growth if it becomes too dense.
+
+**Fertiliser:** None — this carnivorous plant catches tiny aquatic invertebrates using small bladder-like traps on its feathery, finely divided leaves.
+
+**Companions:** Native oxygenators and floating plants such as frogbit and hornwort.
+
+**West of Ireland:** A fascinating native carnivorous aquatic found in ponds, ditches and slow streams throughout Ireland, with attractive spikes of yellow, snapdragon-like flowers held above the water in summer. Entirely rootless and free-floating, it needs no planting at all — simply introduce it to the pond. A great talking-point plant for a wildlife pond.
+
+---
+
+### W16. Hornwort (*Ceratophyllum demersum*)
+
+📷 **Reference photo:** [Hornwort — view on Wikipedia](https://en.wikipedia.org/wiki/Ceratophyllum_demersum)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** None required — a rootless, free-floating or loosely anchored submerged oxygenator, suitable for a wide range of water chemistry.
+
+**Soil prep:** None — simply place in the pond; it takes up nutrients directly from the water rather than through roots.
+
+**Planting depth:** Fully submerged; suitable for deep water.
+
+**Spacing:** Introduce a bunch or two per square metre of pond surface; thin out if it becomes congested.
+
+**Fertiliser:** None required — a very effective oxygenator that actually helps remove excess nutrients from the water, reducing algae.
+
+**Companions:** Water lilies, frogbit and other pond plants; an excellent shelter plant for fish fry and pond invertebrates.
+
+**West of Ireland:** One of the best all-round oxygenating plants for an Irish pond — fast-growing, hardy, and easy, with dark green, bristly, whorled foliage. Forms overwintering buds (turions) that sink to the pond floor in autumn and regrow the following spring. A great, low-fuss choice for keeping pond water clear and healthy.
+
+---
+
+### W17. Lotus (*Nelumbo* spp.)
+
+📷 **Reference photo:** [Lotus — view on Wikipedia](https://en.wikipedia.org/wiki/Nelumbo)
+
+**Light:** ☀️ Full sun essential — the more warmth and sun the better.
+
+**Soil needs:** Heavy clay loam enriched with well-rotted manure or compost, in a large container rather than open pond soil — never use standard potting compost, which floats.
+
+**Soil prep:** Fill a large container (minimum 60cm across for a proper display) with heavy loam-based aquatic soil. A dedicated container within the pond, rather than open ground, lets the water around the lotus warm up faster — the main limiting factor for lotus in Ireland.
+
+**Planting depth:** Plant the brittle tuber horizontally just under the soil surface, handling it very carefully at the growing tips. Start in shallow water (around 5–15cm above the soil) and increase gradually to 30–60cm as growth proceeds; smaller/dwarf "bowl lotus" cultivars need only 15–22cm.
+
+**Spacing:** One tuber per container; the roots can travel widely if planted directly in open pond soil, so containment is strongly recommended.
+
+**Fertiliser:** Aquatic fertiliser tablets or slow-release pond tabs pushed into the soil every few weeks through the growing season, following the product's application rate.
+
+**Companions:** Best grown alone in its own container rather than mixed with other marginals, given its vigorous spreading roots if not contained.
+
+**Pot/container:** ✅ Essential, not optional, in this climate — a large container acts as a self-contained mini-pond that warms faster than the main pond. In cold areas, lower the container to the deepest part of the pond for winter, or move it to a frost-free space, keeping the rhizome just moist.
+
+**West of Ireland:** Genuinely winter-hardy (the rhizome survives cold, even to RHS H7 for *N. nucifera*), but flowering is unreliable here — the real obstacle is the west of Ireland's lack of sustained summer heat rather than winter cold, since lotus need several months of warm water (around 20°C+) to flower well. *Nelumbo lutea* (American yellow lotus) and compact "bowl lotus" cultivars are the more realistic choices for a cooler climate, and even then, treat flowering as a bonus rather than a certainty — the bold, rounded leaves held above the water are attractive in their own right even without bloom.
+
+---
+
+### W18. Mare's Tail (*Hippuris vulgaris*)
+
+📷 **Reference photo:** [Mare's Tail — view on Wikipedia](https://en.wikipedia.org/wiki/Hippuris_vulgaris)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Shallow water or permanently wet mud; prefers non-acidic (neutral to alkaline) water, pH 6.5–7.5.
+
+**Soil prep:** Aquatic compost in a basket, or plant directly into pond-margin mud.
+
+**Planting depth:** Crown at soil surface; grows in shallow water or wet mud at the margin, with foliage held upright above the surface.
+
+**Spacing:** 20–30cm between plants; spreads by creeping rhizomes and can be vigorous in favourable conditions — contain in a basket in a small pond.
+
+**Fertiliser:** Aquatic fertiliser tablets at the start of the growing season.
+
+**Companions:** Water mint, water forget-me-not and other native marginal plants.
+
+**West of Ireland:** A distinctive native marginal with upright, bottle-brush-like stems of narrow leaves in whorls, resembling a miniature conifer or horsetail (though unrelated to true horsetails). Fully hardy and easy in the mild, moist Irish climate; keep contained in a basket in smaller ponds, as it can spread readily.
+
+---
+
 ### W4. Marsh Marigold (*Caltha palustris*)
+
+**Irish / Russian:** Lus buí Bealtaine · Калужница болотная
 
 📷 **Reference photo:** [Marsh Marigold — view source](https://en.wikipedia.org/wiki/Caltha_palustris)
 
@@ -3404,6 +3888,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### W5. Marsh Orchids (*Dactylorhiza* spp.)
 
+**Russian:** Пальчатокоренник
+
 📷 **Reference photo:** [Marsh Orchids — view source](https://en.wikipedia.org/wiki/Dactylorhiza)
 
 **Light:** ☀️ Full sun to 🌥️ partial shade, provided the soil stays consistently moist.
@@ -3426,6 +3912,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### W6. Meadowsweet (*Filipendula ulmaria*)
 
+**Irish / Russian:** Airgead luachra · Лабазник вязолистный
+
 📷 **Reference photo:** [Meadowsweet — view on Wikipedia](https://en.wikipedia.org/wiki/Filipendula_ulmaria)
 
 **Light:** ☀️ Full sun to 🌤️ partial shade. Does best in a humus-rich moist well-drained soil in semi-shade or in full sun if the soil is kept moist throughout the growing season. It does not tolerate dry or acid soils; however, it does grow well in heavy clay soils.
@@ -3446,31 +3934,219 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W7. Native Irish White Water Lily (*Nymphaea alba*)
+### W19. Ragged Robin (*Lychnis flos-cuculi*, syn. *Silene flos-cuculi*)
 
-📷 **Reference photo:** [Native Irish White Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nymphaea_alba)
+📷 **Reference photo:** [Ragged Robin — view on Wikipedia](https://en.wikipedia.org/wiki/Silene_flos-cuculi)
 
-**Light:** ☀️ Full sun essential — needs maximum sunshine for flowers to open. Plant in the sunniest spot in the pond.
+**Light:** ☀️ Full sun to 🌤️ partial shade.
 
-**Spacing:** 1.5–2m between plants; large ponds only
+**Soil needs:** Moist, moderately fertile soil; pH 6.0–7.5. A damp-meadow and pond-margin native, not for standing water.
 
-**Soil needs:** Aquatic compost in mesh baskets. Loamy, clay-based aquatic soil is ideal. Do not use multipurpose/garden compost (too rich — promotes algae). Cover with lime-free pea gravel.
+**Soil prep:** Improve clay with compost if very heavy; otherwise minimal preparation needed given its native tolerance of damp Irish ground.
 
-**Water depth:** Best grown about 1 metre deep, but it can grow in up to 3 metres of water if allowed to adjust very gradually. Start shallower (20–30cm) and lower the basket gradually as the plant grows.
+**Planting depth:** Crown at soil level, or surface-sow seed in March/April.
 
-**Basket size:** Recommend a planting basket of at least 22cm across initially; pot up to 30–40cm+ basket as the plant grows. *N. alba* is vigorous — suitable for large ponds and lakes only. Not suitable for small garden ponds.
+**Spacing:** 30–45cm between plants.
 
-**Planting:** Plant the rhizome level with the top of the aquatic compost. Top with lime-free pea gravel. Place basket in pond at shallow depth first; gradually lower to final depth as leaves grow.
+**Fertiliser:** Little required; enrich the planting hole with organic matter at planting.
 
-**Fertiliser:** Feed during the growing season with a proprietary aquatic fertiliser at the manufacturer's recommended rate. Use only aquatic fertiliser tablets pushed into the compost — never loose fertiliser into pond water (causes algae bloom). Feed at the start of each growing season.
+**Companions:** Meadowsweet, yellow flag iris and marsh orchids in a damp meadow or pond-margin planting.
 
-**Companions:** Nymphaea alba is Ireland's only true native water lily. Ideal with Irish natives: Yellow Flag Iris, Bogbean, Bog Pimpernel and meadowsweet at the margins. Water lily pads provide vital shade for fish and wildlife, and reduce algae. Plant oxygenating plants (hornwort, water crowfoot) in the same pond to maintain water quality.
+**West of Ireland:** A pretty native perennial wildflower of damp meadows and pond margins, with slender stems bearing star-shaped, deeply fringed rose-pink flowers in late spring and early summer. Easy and reliable in the moist Irish climate; deadhead to prolong flowering and cut back after flowering to keep tidy.
 
-**West of Ireland:** The moist, mild Atlantic climate is ideal for water lilies. Do not plant near a pump or fountain — water lilies require still water and must not have water splashed onto their floating leaves. Keep leaves dry.
+---
+
+### W20. Round-leaved Sundew (*Drosera rotundifolia*)
+
+📷 **Reference photo:** [Round-leaved Sundew — view on Wikipedia](https://en.wikipedia.org/wiki/Drosera_rotundifolia)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Permanently wet, acidic, nutrient-poor bog conditions — typically grows directly in living sphagnum moss; pH 4.0–5.5.
+
+**Soil prep:** A boggy container or bed with a mix of sphagnum moss, peat-free ericaceous compost and sharp sand, kept permanently saturated with rainwater (not tap water, which is too alkaline/mineral-rich for this plant).
+
+**Planting depth:** Crown at soil surface, kept permanently wet.
+
+**Spacing:** 10–15cm between plants.
+
+**Fertiliser:** None — a carnivorous plant that traps small insects on sticky, glandular, reddish, round leaves arranged in a basal rosette; added fertiliser harms it.
+
+**Companions:** Common butterwort, bog asphodel and other native acid-bog plants.
+
+**West of Ireland:** One of Ireland's most widespread native carnivorous plants, found almost anywhere sphagnum moss grows on Irish bogs. Small white flowers appear on a thin stem above the leaf rosette in summer. Best suited to a dedicated boggy, acidic container rather than a conventional pond, and an excellent addition to a native bog garden.
+
+---
+
+### W22. Water Forget-me-not (*Myosotis scorpioides*)
+
+📷 **Reference photo:** [Water Forget-me-not — view on Wikipedia](https://en.wikipedia.org/wiki/Myosotis_scorpioides)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Wet soil at pool margins or in shallow water; pH 6.0–7.5.
+
+**Soil prep:** Aquatic compost in a basket, or plant directly into wet margin soil.
+
+**Planting depth:** Crown at soil surface, in wet soil or water no deeper than 10cm.
+
+**Spacing:** 15–30cm between plants; expands gradually by creeping rhizomes without being invasive.
+
+**Fertiliser:** Little required — an easy, low-maintenance native/near-native marginal.
+
+**Companions:** Yellow flag iris, marsh marigold, bogbean and other pond-margin plants; a classic combination for disguising the edge of a pond liner.
+
+**West of Ireland:** Reliably perennial (unlike border forget-me-nots, which are usually biennial), with sprays of sky-blue, yellow-eyed flowers held above shiny green foliage from May to July. Excellent for wildlife — bees and hoverflies visit the flowers, and newts use the leaves to wrap their eggs. Ideal for softening the pond edge in a naturalistic Irish pond.
+
+---
+
+### W7. Water Lilies (*Nymphaea* spp.)
+
+📷 **Reference photos:** [Nymphaea alba](https://en.wikipedia.org/wiki/Nymphaea_alba) · [Nymphaea candida](https://en.wikipedia.org/wiki/Nymphaea_candida) · [Hardy hybrid water lilies](https://en.wikipedia.org/wiki/Nymphaea)
+
+| Species | Latin name | Height | Flowering | Planting depth | Notes |
+|---|---|---|---|---|---|
+| Native White Water Lily | *N. alba* | Leaves float; flowers just above surface | Summer | Start 20–30cm, lower gradually to 90–150cm | Ireland's only true native water lily; vigorous — large ponds/lakes only, not for small garden ponds |
+| Bohemian/Shining Water Lily | *N. candida* | Leaves float; flowers just above surface | June–August | 20–50cm (RHS: start 15–25cm, lower gradually to 50–60cm) | Small hardy species lily with white, yellow-stamened flowers; ideal for small ponds, tubs and half-barrels |
+| Hardy hybrid water lilies | *N.* × *hybrida* and other garden hybrids | Leaves float; flowers just above surface | Summer–early autumn | 15–90cm+ depending on cultivar vigour | The many popular garden-bred hardy hybrids (white, pink, yellow, red); choose a cultivar matched to your pond's depth and size |
+
+**Light:** ☀️ Full sun essential for all — needs maximum sunshine for flowers to open. Plant in the sunniest spot in the pond.
+
+**Soil needs:** Aquatic compost in mesh baskets for all. Loamy, clay-based aquatic soil is ideal. Do not use multipurpose/garden compost (too rich — promotes algae). Cover with lime-free pea gravel.
+
+**Water depth:** *N. alba*: best grown about 1 metre deep, but can grow in up to 3 metres if allowed to adjust very gradually; start shallower (20–30cm) and lower gradually. *N. candida*: much shallower, 20–50cm once established — ideal for small ponds and even large tubs. Hardy hybrids: depth depends entirely on the cultivar's vigour, from compact varieties suited to 15–30cm to vigorous types wanting 60–90cm or more — check the specific cultivar's label.
+
+**Basket size:** *N. alba*: at least 22cm across initially, potting up to 30–40cm+ as it grows — suitable for large ponds and lakes only. *N. candida*: a small 2L basket is often sufficient given its modest size. Hardy hybrids: size the basket to the cultivar, typically 20–40cm.
+
+**Planting:** Plant the rhizome level with the top of the aquatic compost for all. Top with lime-free pea gravel. Place the basket in the pond at a shallow depth first, then lower gradually to final depth as leaves grow.
+
+**Fertiliser:** Feed during the growing season with a proprietary aquatic fertiliser at the manufacturer's recommended rate for all species. Use only aquatic fertiliser tablets pushed into the compost — never loose fertiliser into pond water (causes algae bloom). Feed at the start of each growing season.
+
+**Companions:** *N. alba* is Ireland's only true native water lily and pairs beautifully with Irish natives: Yellow Flag Iris, Bogbean, Bog Pimpernel and Meadowsweet at the margins. All water lily pads provide vital shade for fish and wildlife and reduce algae. Plant oxygenating plants (Hornwort, Common Water Crowfoot) in the same pond to maintain water quality.
+
+**West of Ireland:** The moist, mild Atlantic climate is ideal for water lilies generally. Do not plant near a pump or fountain — water lilies require still water and must not have water splashed onto their floating leaves. For a small west of Ireland garden pond, *N. candida* or a compact hardy hybrid is a far more realistic choice than the vigorous native *N. alba*, which really needs a large pond or lake to do itself justice.
+
+---
+
+### W23. Water Mint (*Mentha aquatica*)
+
+**Irish / Russian:** Miontas · Мята
+
+📷 **Reference photo:** [Water Mint — view on Wikipedia](https://en.wikipedia.org/wiki/Mentha_aquatica)
+
+**Light:** ☀️ Full sun to encourage flowering.
+
+**Soil needs:** Muddy pool margins or shallow water; pH 6.0–7.5.
+
+**Soil prep:** Aquatic compost in a basket, or plant directly into pond-margin mud.
+
+**Planting depth:** Crown at soil surface; grows in baskets in up to 25cm of water, or in wet margin soil.
+
+**Spacing:** 30–45cm between plants.
+
+**Fertiliser:** Little required — vigorous once established.
+
+**Companions:** Bog pimpernel, yellow flag iris and other pond-margin plants.
+
+**Warnings ⚠️:** Has the potential to become a nuisance if not kept in check — contain in a basket in smaller ponds and divide/thin regularly.
+
+**West of Ireland:** A native aromatic marginal with whorls of small lilac-pink flowers in summer, much loved by pollinators, and highly attractive to bees. Fully hardy and thrives in the mild, moist Irish climate — the challenge here is restraining its vigour rather than keeping it alive.
+
+---
+
+### W24. Water Soldier (*Stratiotes aloides*)
+
+📷 **Reference photo:** [Water Soldier — view on Wikipedia](https://en.wikipedia.org/wiki/Stratiotes_aloides)
+
+**Light:** ☀️ Full sun.
+
+**Soil needs:** None required — a free-floating submerged/floating perennial.
+
+**Soil prep:** None — simply introduce to the pond.
+
+**Planting depth:** Floats just below the surface in summer, rising to flower, then sinks to the bottom to overwinter; needs water deep enough not to freeze solid.
+
+**Spacing:** Allow to spread; thin out congested rosettes, as it can become a nuisance in a small pool.
+
+**Fertiliser:** None required.
+
+**Companions:** Frogbit, native water lilies and other floating plants.
+
+**West of Ireland:** A striking native-range plant with rosettes of stiff, sharp-edged, pineapple-like leaves and white, three-petalled summer flowers, historically common in the wet ditches and ponds of East Anglia and still found in similar habitats elsewhere. Provides good shelter and egg-laying sites for pond wildlife such as damselflies. Can spread vigorously in a small pool, so monitor and thin as needed.
+
+---
+
+### W25. Water Violet (*Hottonia palustris*)
+
+📷 **Reference photo:** [Water Violet — view on Wikipedia](https://en.wikipedia.org/wiki/Hottonia_palustris)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** None required for the submerged form — a rootless-appearing submerged oxygenator that also produces emergent flower spikes; tolerant of most fresh water.
+
+**Soil prep:** None — introduce directly to the pond; do not move or replant in summer, as it establishes best when left undisturbed.
+
+**Planting depth:** Mostly submerged, with feathery foliage below the water and flower spikes emerging above in late spring/summer.
+
+**Spacing:** Allow to spread loosely through the water.
+
+**Fertiliser:** None required.
+
+**Companions:** Hornwort, common water crowfoot and other native oxygenators.
+
+**West of Ireland:** Despite the common name it is not a true violet, but a relative of the primrose family, with finely divided, fern-like submerged foliage and pale lilac flower spikes held above the water in late spring and early summer. A good native-range oxygenator for an Irish wildlife pond — plant in spring or autumn and leave undisturbed through summer for best results.
+
+---
+
+### W26. Watershield (*Brasenia schreberi*)
+
+📷 **Reference photo:** [Watershield — view on Wikipedia](https://en.wikipedia.org/wiki/Brasenia)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Aquatic soil in a basket, similar to a water lily; prefers clear, still fresh water.
+
+**Soil prep:** Aquatic compost in a planting basket.
+
+**Planting depth:** Floating leaves on long stalks from a rhizome rooted in mud; suitable for water broadly similar in depth to a small water lily.
+
+**Spacing:** Allow room to spread; it colonises by rhizomes over time.
+
+**Fertiliser:** Aquatic fertiliser tablets during the growing season, as for water lilies.
+
+**Companions:** Water lilies and other floating-leaved plants, which it naturally grows alongside in the wild.
+
+⚠️ **A note on this entry:** Unlike the other plants in this guide, Watershield is not commonly available from Irish or UK nurseries and there is little documented experience of growing it in Irish garden ponds specifically. It is included here at your request, but the growing notes above are based on its general biology and North American/Asian wild-pond habitats rather than proven Irish cultivation, so treat them as a starting point rather than a guarantee.
+
+**West of Ireland:** A curious floating-leaved perennial with small oval leaves resembling miniature water lily pads (but without the characteristic split), reddish-purple beneath, and small, inconspicuous maroon flowers in summer. If you do manage to source it, it is best treated as an experimental addition to a mature, well-established pond alongside true water lilies.
+
+---
+
+### W27. Willow Moss (*Fontinalis antipyretica*)
+
+📷 **Reference photo:** [Willow Moss — view on Wikipedia](https://en.wikipedia.org/wiki/Fontinalis_antipyretica)
+
+**Light:** 🌥️ Partial shade to ☀️ full sun.
+
+**Soil needs:** None required — an aquatic moss best attached to a submerged stone or piece of wood rather than planted in soil.
+
+**Soil prep:** Tie or wedge a clump onto a stone or log and submerge; the moss will attach itself naturally over time.
+
+**Planting depth:** Fully submerged; also suitable for a stream or moving-water feature.
+
+**Spacing:** Space attached stones/clumps as desired; spreads slowly to cover the surface it is attached to.
+
+**Fertiliser:** None required.
+
+**Companions:** Hornwort, common water crowfoot and other native oxygenators in a wildlife pond or stream feature.
+
+**West of Ireland:** A native aquatic moss forming dark green, feathery submerged mats on stones, logs or the sides of streams and ponds. Excellent for a naturalistic wildlife pond or a garden stream feature, providing shelter for invertebrates and helping oxygenate the water. Thrives in the consistently damp, mild Irish climate.
 
 ---
 
 ### W9. Yellow Loosestrife (*Lysimachia vulgaris*)
+
+**Irish / Russian:** Breallán léana (Breallán dlúth) · Вербейник обыкновенный
 
 📷 **Reference photo:** [Yellow Loosestrife — view source](https://en.wikipedia.org/wiki/Lysimachia_vulgaris)
 
@@ -3492,6 +4168,28 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### W28. Yellow Water Lily (*Nuphar lutea*)
+
+📷 **Reference photo:** [Yellow Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nuphar_lutea)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Aquatic compost in a basket; tolerates still or slow-moving water.
+
+**Soil prep:** Aquatic compost in a large planting basket — this is a big, vigorous plant, not suited to small garden ponds.
+
+**Planting depth:** Crown at basket surface; 45–150cm of water above, and can spread into much deeper water (2–5m) over time.
+
+**Spacing:** 1–2m ultimate spread; large ponds and lakes only.
+
+**Fertiliser:** Aquatic fertiliser tablets at the start of the growing season.
+
+**Companions:** Native white water lily, bogbean and other deep-water/marginal natives, though give it plenty of room given its vigour.
+
+**West of Ireland:** A robust native plant useful where water is too deep, too shaded or too disturbed (e.g. by moving water) for a true water lily to thrive, with rounded floating leaves and rather small, ball-shaped yellow flowers held just above the surface in summer. Not for a small garden pond — this is a plant for a large, naturalistic pond or lake margin.
+
+---
+
 ## COMPLETE REFERENCE TABLE
 
 *(Sorted alphabetically by English name across all groups; ID prefix shows which group each plant belongs to.)*
@@ -3509,6 +4207,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | B30 | Allium 'Nigrum' | *Allium multibulbosum* 'Nigrum' (*A. nigrum*) | 6.0–7.5 | 15cm deep (2–3× bulb depth); autumn | ✅ Large 5L+ container | ☀️ | Roses, peonies, ornamental grasses | 20–25cm between bulbs |
 | F1 | Apple 'Baya Marisa' (P22) | *Malus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, nasturtiums | 1–1.5m between trees; permanent stake |
 | P6 | Aquilegia (Columbine) | *Aquilegia vulgaris* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Foxgloves, hardy geraniums, roses | 30–45cm between plants; self-seeds freely |
+| W10 | Arrowhead | *Sagittaria sagittifolia* | 6.0–7.5 | Crown at soil surface; up to 20cm water above | ✅ Aquatic basket or pond-bottom mud | ☀️ to 🌤️ | Yellow flag iris, bogbean, flowering rush | 30–45cm between plants |
 | P1 | Astilbe | *Astilbe* spp. | 5.5–7.0 | At pot level; crown at surface | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, ferns, hellebores, primulas | 30–45cm between plants |
 | P2 | Auricula | *Primula auricula* | 6.5–7.5 | Crown at soil level | ✅ 3–5L pot/trough | 🌥️ | Saxifrage, sempervivum, other alpines | 15–20cm between plants |
 | T1 | Bamboo (clump-forming) | *Fargesia* / *Chusquea* spp. | 5.5–7.0 | At pot level | ⚠️ Very large tub (100L+) | 🌤️ | Ferns, hostas, astilbe | 1.5–3m from structures; root barrier for running types |
@@ -3521,6 +4220,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | W1 | Bog Asphodel | *Narthecium ossifragum* | 4.5–6.0 | Crown at soil surface, permanently wet | ⚠️ Bog garden/boggy pot only | ☀️ | Bogbean, bog pimpernel | 20–30cm between plants; needs permanently wet acid soil |
 | W2 | Bog Pimpernel | *Anagallis tenella* | 5.0–6.5 | Crown at soil surface; bog margin to waterline | ✅ Small shallow container at margin | ☀️ | Bogbean, yellow flag iris, water mint | 30–40cm apart; spreads as carpet |
 | W3 | Bogbean / Buckbean | *Menyanthes trifoliata* | 5.0–7.5 | Roots + 5cm stem in soil; 5–25cm water above | ✅ 19–24cm+ aquatic basket | ☀️ | White water lily, yellow flag iris, bog pimpernel | 60cm between plants; spreads indefinitely without basket |
+| W29 | Bohemian Water Lily | *Nymphaea candida* | 6.5–7.5 (water) | Crown just below basket surface; 20–50cm water above | ✅ Small 2L basket; ideal for tubs | ☀️ | Bogbean, yellow flag iris, oxygenating plants | 50cm spread; ideal for small ponds |
 | T2 | Border Forsythia | *Forsythia × intermedia* | 6.0–8.0 | At pot level | ❌ Too large | 🌤️ | Spring tulips, Vinca, holly backdrop | 1.5m between; 2m from walls |
 | A3 | Briza Maxima (Quaking Grass) | *Briza maxima* | 6.0–7.5 | 5mm deep (seed) | ✅ 5L+ container | ☀️ | Cornflower, poppies, love-in-a-mist | 15–20cm between plants; annual, self-seeds |
 | G10 | Campanula saxifraga | *Campanula saxifraga* | 6.5–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ | Sempervivum, saxifrage, wall pennywort | 15–20cm between plants |
@@ -3535,9 +4235,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | C4 | Climbing Hydrangea | *Hydrangea anomala* subsp. *petiolaris* | 6.0–7.0 | At pot level | ⚠️ 50L+ (not ideal) | 🌑 to 🌤️ | Ivy, ferns, hostas, shade-tolerant plants | 45cm from wall; 60cm+ between plants |
 | C5 | Climbing Roses | *Rosa* (climbing cvs.) | 6.0–7.0 | Graft union just below soil | ⚠️ 50L+ large container | ☀️ | Clematis (same wall), lavender, geraniums | 45cm from wall; 2–3m between plants |
 | P5 | Clustered Bellflower | *Campanula glomerata* | 6.5–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Roses, peonies, ornamental grasses | 30–40cm between plants; divide every 3–4 yrs |
+| W11 | Common Butterwort | *Pinguicula vulgaris* | 4.5–6.0 | Crown at soil surface, permanently wet | ✅ Boggy container | ☀️ to 🌤️ | Round-leaved sundew, bog asphodel | 10–15cm between plants |
 | S1 | Common Dog Violet | *Viola riviniana* | 5.5–7.0 | Crown at soil level | ✅ 5L+ container | 🌥️ | Primroses, wood sorrel, ferns | 15–20cm between plants |
 | T4 | Common Hawthorn | *Crataegus monogyna* | 5.5–7.5 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌤️ | Blackthorn, holly, hazel; primroses, bluebells beneath | As hedge: 30–45cm; as tree: 4–6m from structures |
 | G3 | Common Heather / Ling | *Calluna vulgaris* (syn. *Erica vulgaris*) | 4.5–6.5 (ideally 5.5) | At pot level | ✅ 20–25cm / 5–10L ericaceous compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants |
+| W21 | Common Water Crowfoot | *Ranunculus aquatilis* | 6.0–7.5 | Muddy margins or submerged, 15–60cm deep | ✅ Aquatic basket or pond-bottom mud | ☀️ | Hornwort, water lilies | 30–45cm between plants |
 | S3 | Convallaria (Lily of the Valley) | *Convallaria majalis* | 6.0–7.5 | 2–3cm deep (rhizome) | ✅ 15–20L container | 🌥️ | Ferns, hostas, hellebores | 15–20cm between plants; ⚠️ toxic, spreads |
 | P7 | Coral Bells | *Heuchera* spp. | 6.0–7.0 | Crown at soil level | ✅ 20–30L container | 🌥️ | Hostas, astilbe, ferns, hellebores | 30–45cm between plants |
 | H2 | Coriander | *Coriandrum sativum* | 6.0–7.0 | Sow 5mm deep; do not transplant | ✅ 20cm+ deep / 5L+ | 🌤️ | Parsley, brassicas; away from dill & fennel | 15–20cm between plants |
@@ -3560,24 +4262,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | T6 | Dwarf Mountain Pine | *Pinus mugo* var. *mugo* | 5.0–7.5 | At pot level | ⚠️ Large gritty container | ☀️ | Heather, dwarf junipers, sempervivum | 1.5–2m between plants |
 | P11 | Edelweiss | *Leontopodium alpinum* | 6.5–7.5 | Crown at soil level | ✅ Trough/rockery, 5L | ☀️ | Sempervivum, saxifrage, other alpines | 15–20cm between plants |
 | P12 | Elephant's Ears | *Bergenia* spp. | 5.5–8.0 | Rhizome at/just below surface | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hostas, hellebores, snowdrops, ferns | 30–60cm between plants |
-| P14 | Foxglove | *Digitalis purpurea* | 5.5–7.5 | At pot level; seeds on surface | ✅ 30cm / 10L+ deep | 🌥️ | Ferns, hostas, roses, alliums; self-seeds | 30–45cm between plants |
+| W12 | Flowering Rush | *Butomus umbellatus* | 6.0–7.5 | Crown at soil surface; up to 25cm water above | ✅ Aquatic basket | ☀️ | Yellow flag iris, arrowhead, bogbean | 30–45cm between plants |
 | S4d | Fortune's Holly Fern (var. clivicola) | *Cyrtomium fortunei* var. *clivicola* | 6.0–8.0 | At pot level; crown at/just below surface | ✅ 30–40cm / 15L+ | 🌥️ to 🌑 | Hostas, hellebores, snowdrops; tolerates dry shade | 45–60cm between plants |
 | B9 | Fox's Grape Fritillary | *Fritillaria uva-vulpis* | 6.0–7.5 | 10cm deep; autumn | ✅ Raised bed/trough/pot | ☀️ to 🌤️ | Other species fritillarias, dwarf iris, crocus | 8–10cm between bulbs |
+| P14 | Foxglove | *Digitalis purpurea* | 5.5–7.5 | At pot level; seeds on surface | ✅ 30cm / 10L+ deep | 🌥️ | Ferns, hostas, roses, alliums; self-seeds | 30–45cm between plants |
 | B10 | Freesia | *Freesia* spp. | 6.0–7.0 | 5–8cm deep; spring, lift & store | ✅ Best in containers (tender) | ☀️ | Ixia and other tender corms | 5–8cm between corms |
+| W13 | Fringed Water Lily | *Nymphoides peltata* | 6.0–7.5 (water) | Crown at basket surface; 15–90cm water above | ✅ Aquatic basket essential | ☀️ to 🌤️ | Water lilies, hornwort | 40–60cm between plants; ⚠️ vigorous, keep contained |
 | B3 | Fritillaria meleagris (Checkered Lily) | *Fritillaria meleagris* | 6.0–7.0 | 10cm deep; autumn | ✅ 5L+ container | 🌤️ | Snowdrops, daffodils, damp border/pond-margin planting | 8–10cm between bulbs |
 | B11 | Fritillaria michailovskyi | *Fritillaria michailovskyi* | 6.0–7.5 | 8–10cm deep; autumn | ✅ Trough/raised bed/pot | ☀️ | Dwarf iris, crocus, other alpine bulbs | 8–10cm between bulbs |
+| W14 | Frogbit | *Hydrocharis morsus-ranae* | 7.0–8.0 (water) | Floats freely on surface | ✅ No planting needed; free-floating | ☀️ | Water soldier, native water lilies | Spreads freely by runners; thin as needed |
 | T8 | Fuzzy Pride-of-Rochester | *Deutzia scabra* | 6.0–7.5 | At nursery soil mark | ⚠️ Large 80–100L container | ☀️ to 🌤️ | Mock orange, lilac, weigela, spring bulbs | 1.5–2m between plants; grows 1.8–3m tall |
 | B26 | Gagea (Yellow Star-of-Bethlehem) | *Gagea lutea* | 6.5–7.5 | 5–8cm deep; autumn | ✅ 5L+ container | 🌥️ | Snowdrops, wood anemones | 5–8cm between bulbs |
+| P27 | Garden Pink | *Dianthus plumarius* (garden pinks) | 5.8–6.5 | At pot level | ✅ 25–35cm / 10L+ | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants |
 | F7 | Garden Plum | *Prunus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, comfrey, nasturtiums | 3–5m between trees depending on rootstock; permanent stake |
 | B27 | Giant Onion | *Allium giganteum* | 6.0–7.5 | 20cm deep (2–3× bulb depth); autumn | ✅ Large 5L+ container | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs |
 | B28 | Golden Garlic | *Allium moly* | 6.0–7.5 | 8–10cm deep; autumn | ✅ 3–5L container | ☀️ | Dwarf iris, crocus, other rockery bulbs | 10–15cm between bulbs |
 | F8 | Gooseberry | *Ribes uva-crispa* | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌤️ | Redcurrant, whitecurrant, tansy | 1.5m between plants |
+| W15 | Greater Bladderwort | *Utricularia vulgaris* | 6.0–7.5 (water) | Fully submerged, free-floating | ✅ No planting needed; free-floating | ☀️ to 🌤️ | Frogbit, hornwort | Allow to spread loosely; thin if congested |
 | H5 | Green Onions (Scallions) | *Allium fistulosum* | 6.0–7.0 | 1cm deep (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, rocket, radish | 5–8cm between plants; sow successionally |
 | C6 | Hardy Grapes | *Vitis vinifera* | 6.0–6.5 | At pot depth; graft above soil | ⚠️ 40L+ container | ☀️ (essential) | Lavender, rosemary, garlic, hyssop | 1.2–1.5m between vines; 20cm from wall |
+| W30 | Hardy Hybrid Water Lily | *Nymphaea* × *hybrida* | 6.5–7.5 (water) | Crown at basket surface; 15–90cm+ water above depending on cultivar | ✅ Basket sized to cultivar, 20–40cm | ☀️ | Bogbean, yellow flag iris, oxygenating plants | Spread depends on cultivar; check label |
 | P16 | Hellebore / Lenten Rose | *Helleborus* spp. | 6.0–8.0 | At pot level; crown at/just below | ✅ 25–35cm / 10L+ | 🌥️ to 🌑 | Snowdrops, cyclamen, pulmonaria, hostas | 45–60cm between plants |
 | T9 | Holly | *Ilex aquifolium* | 4.5–8.0 | At pot level (shallow roots) | ⚠️ 50L+ container | 🌑 to ☀️ | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | 1.5–3m between; slow-growing hedge |
 | F9 | Honeyberry (Kamchatka) | *Lonicera caerulea* var. *kamtschatica* | 4.5–7.5 | At pot level | ⚠️ 50–75L (15–20 gal.) | 🌤️ | Blueberry, lingonberry; needs 2+ varieties | 1–1.5m between plants |
 | C7 | Hops | *Humulus lupulus* | 6.0–8.0 | Rhizome 5–8cm / pot level | ✅ 50L+ large container | 🌤️ | Climbing roses, clematis, ornamental grasses | 1–1.5m between plants |
+| W16 | Hornwort | *Ceratophyllum demersum* | 6.0–8.0 (water) | Fully submerged, free-floating | ✅ No planting needed; free-floating | ☀️ to 🌥️ | Water lilies, frogbit | Introduce 1–2 bunches per m² of pond surface |
 | P17 | Hosta / Plantain Lily | *Hosta* spp. | 6.0–8.0 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 30–90cm (variety-dependent) |
 | T18 | Hypericum 'Rowallane' | *Hypericum* 'Rowallane' | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌤️ | Heather, skimmia, roses, late perennials | 1–1.5m between plants |
 | G18 | Irish Heath | *Erica erigena* | 5.5–7.5 | At pot level | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 45–60cm between plants |
@@ -3602,12 +4311,14 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | P19 | Lilyleaf Ladybells | *Adenophora liliifolia* | 6.0–7.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌥️ | Bellflowers, delphiniums, phlox | 30–40cm between plants |
 | F10 | Lingonberry | *Vaccinium vitis-idaea* | 4.2–5.5 | At pot level | ✅ 25–30cm / 10–15L | 🌥️ | Blueberry, heather, cranberry, deer fern | 30cm between plants |
 | P25 | Linum (Perennial Flax) | *Linum perenne* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ | Yarrow, lavender, drought-tolerant perennials | 20–30cm between plants |
+| W17 | Lotus | *Nelumbo* spp. | 6.0–7.0 (water) | Tuber horizontal, just under soil; 5–60cm water above | ✅ Essential: large container acting as mini-pond | ☀️ | Best grown alone in own container | One tuber per large container |
 | A5 | Love-in-a-Mist | *Nigella damascena* | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Cornflower, poppies, briza maxima | 20cm between plants; annual, self-seeds freely |
 | P20 | Lungworts | *Pulmonaria* spp. | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | 🌥️ | Hellebores, ferns, hostas | 30–40cm between plants; divide every 3–4 yrs |
 | P21 | Lupins | *Lupinus polyphyllus* | 5.5–6.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌤️ | Delphiniums, roses, foxgloves | 45–60cm between plants |
 | P40 | Maiden Pink | *Dianthus deltoides* | 6.0–7.5 | At pot level | ✅ 15–20cm / 5L+ | ☀️ | Phlox subulata, sempervivum, saxifrage | 20–30cm between plants |
-| S4a | Male Fern | *Dryopteris filix-mas* | 5.0–7.0 | Crown 7–12cm above soil | ✅ 40–50cm / 30L+ | 🌥️ to 🌑 | Hostas, astilbe, bamboo, snowdrops | 60–90cm between plants |
 | S4f | Maidenhair Fern (Himalayan) | *Adiantum venustum* | 5.5–7.0 | At pot level | ✅ 25–30cm / 10–15L | 🌥️ to 🌑 | Hostas, hellebores, primroses, other woodland ferns | 20–30cm between plants |
+| S4a | Male Fern | *Dryopteris filix-mas* | 5.0–7.0 | Crown 7–12cm above soil | ✅ 40–50cm / 30L+ | 🌥️ to 🌑 | Hostas, astilbe, bamboo, snowdrops | 60–90cm between plants |
+| W18 | Mare's Tail | *Hippuris vulgaris* | 6.5–7.5 | Crown at soil surface; shallow water/wet mud | ✅ Aquatic basket | ☀️ to 🌤️ | Water mint, water forget-me-not | 20–30cm between plants |
 | W4 | Marsh Marigold | *Caltha palustris* | 6.0–7.5 | Crown at soil level / shallow water | ✅ Aquatic basket, 3–5L | ☀️ to 🌥️ | Yellow flag iris, bogbean, ferns | 30–40cm between plants |
 | W5 | Marsh Orchids | *Dactylorhiza* spp. | 6.0–7.0 | 5–8cm deep (tuber) / at pot level | ⚠️ Large container, kept constantly moist | ☀️ to 🌥️ | Yellow flag iris, meadowsweet, ragged robin | 15–20cm between plants; buy nursery stock only |
 | B14 | Martagon Lily | *Lilium martagon* | 6.0–7.5 | 15cm deep (3× bulb height); autumn/spring | ✅ Large 20L+ container | 🌥️ | Hostas, ferns, hellebores; light woodland edge | 20–30cm between bulbs |
@@ -3632,7 +4343,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | B17 | Persian Fritillary | *Fritillaria persica* | 6.5–8.0 | 15–20cm deep, on its side; autumn | ⚠️ Large gritty container | ☀️ | Tulips, alliums, euphorbia | 20–25cm between bulbs |
 | B18 | Persian Ranunculus | *Ranunculus asiaticus* | 6.0–7.0 | 5–8cm deep; claws down; spring, lift & store | ✅ Better in pots: 25–30cm / 10L+ | 🌤️ | Pansies, muscari, spring anemones | 15–20cm between tubers |
 | A4 | Phacelia | *Phacelia tanacetifolia* | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ | Vegetable beds, fruit trees (pollinator support) | 20–30cm between plants; annual, sow successionally |
-| P27 | Garden Pink | *Dianthus plumarius* (garden pinks) | 5.8–6.5 | At pot level | ✅ 25–35cm / 10L+ | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants |
 | F11 | Plum Tree 'Aprimira' | *Prunus domestica* 'Aprimira' | 6.0–7.0 | Top of rootball just below surface | ✅ 25cm+ pot, standard form | ☀️ | Chives, garlic | 1–1.5m from structures; self-fertile |
 | F12 | Pomegranate | *Punica granatum* | 5.5–7.0 | At nursery soil mark | ✅ Large 50L+ container, movable | ☀️ | Passiflora, grapevine on same warm wall | 2–3m against wall; borderline hardy, best in a container |
 | A6 | Poppies | *Papaver rhoeas* | 6.0–7.5 | Surface-sown (seed) | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist, briza maxima | 15–20cm between plants; annual, self-seeds freely |
@@ -3640,12 +4350,14 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S5 | Primroses | *Primula vulgaris* | 5.5–7.0 | Crown at soil level | ✅ 10–15L container | 🌥️ | Bluebells, wood anemones, violets, ferns | 20–25cm between plants |
 | B31 | Purple-flowered Onion | *Allium atropurpureum* | 6.0–7.5 | 20cm deep (2–3× bulb depth); autumn | ✅ Large 5L+ container | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs |
 | H12 | Radish | *Raphanus sativus* | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, lettuce, green onions | 2–3cm between plants; sow successionally |
+| W19 | Ragged Robin | *Lychnis flos-cuculi* | 6.0–7.5 | Crown at soil level; damp meadow, not standing water | ✅ 10–15L container | ☀️ to 🌤️ | Meadowsweet, yellow flag iris, marsh orchids | 30–45cm between plants |
 | F13 | Raspberry | *Rubus idaeus* | 5.8–6.5 | Crown 5–7cm below soil | ❌ | 🌤️ | Garlic, marigolds, tansy; away from potatoes | 45–60cm between canes; 1.8m between rows |
 | F14 | Redcurrant | *Ribes rubrum* | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌥️ (north fence ok) | Gooseberry, whitecurrant | 1.5m between plants |
 | G8 | Reindeer Lichen | *Cladonia rangiferina* | 4.0–5.5 | Surface only, not buried | ⚠️ Shallow tray/rockery | ☀️ to 🌥️ | Heather, sempervivum, open heath planting | Establishes slowly; avoid disturbance |
 | F15 | Rhubarb | *Rheum × hybridum* | 6.0–7.0 | Buds 1–2cm below soil | ⚠️ 50cm / 50L+ deep pot | 🌤️ | Beans, peas nearby; away from fennel | 90cm between crowns |
 | H13 | Rocket | *Eruca sativa* | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌥️ | Radish, green onions, lettuce | 15–20cm between plants; sow successionally |
 | H14 | Rosemary | *Salvia rosmarinus* | 6.0–7.5 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Brassicas, carrots, beans, thyme, lavender | 45–60cm between plants |
+| W20 | Round-leaved Sundew | *Drosera rotundifolia* | 4.0–5.5 | Crown at soil surface, permanently wet | ✅ Boggy container | ☀️ to 🌤️ | Common butterwort, bog asphodel | 10–15cm between plants |
 | S6 | Round-Lobed Hepatica | *Hepatica nobilis* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ | Snowdrops, hellebores, wood anemones | 15–20cm between plants |
 | S4b | Royal Fern | *Osmunda regalis* | 4.5–6.5 | Crown slightly above soil | ❌ Too large | ☀️ to 🌥️ | Hostas, iris, marginal aquatics, bamboo | 1–1.5m between plants |
 | P8 | Rudbeckia 'Goldball' | *Rudbeckia laciniata* 'Goldball' | 5.5–7.0 | At pot level | ⚠️ 40–50cm / 40L+ (very tall — better in ground) | ☀️ | Helenium, echinacea, salvias, ornamental grasses, asters | 60–90cm between; divide every 2–3 yrs |
@@ -3653,6 +4365,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | H15 | Scurvy Grass | *Cochlearia officinalis* | 6.5–7.5 | At pot level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌥️ | Sea kale, coastal edible plants | 15–20cm between plants |
 | G4 | Sempervivum | *Sempervivum* spp. | 6.0–7.5 | At pot level | ✅ Shallow pot/trough, 3–5L | ☀️ | Saxifrage, wall pennywort, thyme, sedum | 10–15cm between rosettes |
 | F16 | Serviceberry | *Amelanchier lamarckii* | 5.5–7.0 | At nursery soil mark | ⚠️ 50–80L container | ☀️ to 🌤️ | Hellebores, snowdrops, ferns, Japanese maple | 2–4m between plants/structures |
+| P35 | Siberian Iris | *Iris sibirica* | 5.8–7.0 | Rhizome at/just below surface (2–3cm max) | ✅ 35–40cm / 15–20L | ☀️ to 🌤️ | Astilbe, hostas, yellow flag iris, daylilies, royal fern | 30–45cm between plants; divide every 3–5 yrs |
 | P28 | Siberian Statice | *Goniolimon tataricum* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ | Ornamental grasses, achillea, sedum | 30–40cm between plants |
 | B19 | Snowdrop | *Galanthus nivalis* | 5.5–7.0 | 10cm dry (autumn) / at growing depth in the green (spring) | ✅ 20–25cm / 5L+ | 🌥️ to 🌑 | Hellebores, aconites, early narcissus, cyclamen coum | 8–10cm between bulbs |
 | B20 | Snowflake (Summer) | *Leucojum aestivum* | 5.5–7.0 | 8–10cm deep; autumn | ✅ 30–40cm / 15L+ | 🌤️ | Daffodils, snowdrops, hellebores; pond edges | 8–10cm between bulbs |
@@ -3676,17 +4389,23 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | C10 | Vicia (Tufted Vetch) | *Vicia cracca* | 6.0–7.5 | 1–2cm (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Grasses, wildflower meadow species, hedgerow shrubs | 20–30cm between plants; scrambles via tendrils |
 | C11 | Virginia Creeper | *Parthenocissus quinquefolia* | 5.5–7.5 | At pot level | ✅ 30–40L container | 🌤️ | Ivy (same wall), late clematis | 1.5–3m between plants |
 | G11 | Wall Pennywort | *Umbilicus rupestris* | 6.0–7.5 | At pot level / wall crevice | ✅ Small pot or wall crevice | 🌥️ | Ivy, ferns, sempervivum, saxifrage | 15–20cm between plants |
+| W22 | Water Forget-me-not | *Myosotis scorpioides* | 6.0–7.5 | Crown at soil surface; up to 10cm water above | ✅ Aquatic basket | ☀️ to 🌤️ | Yellow flag iris, marsh marigold, bogbean | 15–30cm between plants |
+| W23 | Water Mint | *Mentha aquatica* | 6.0–7.5 | Crown at soil surface; up to 25cm water above | ✅ Aquatic basket | ☀️ | Bog pimpernel, yellow flag iris | 30–45cm between plants; ⚠️ vigorous |
+| W24 | Water Soldier | *Stratiotes aloides* | 6.0–7.5 (water) | Floats just below surface, sinks in winter | ✅ No planting needed; free-floating | ☀️ | Frogbit, native water lilies | Allow to spread; thin if congested |
+| W25 | Water Violet | *Hottonia palustris* | 6.0–7.5 (water) | Mostly submerged; do not disturb in summer | ✅ No planting needed; free-floating | ☀️ to 🌤️ | Hornwort, common water crowfoot | Allow to spread loosely |
+| W26 | Watershield | *Brasenia schreberi* | 6.0–7.5 (water, estimated) | Rhizome in mud; floating leaves | ⚠️ Aquatic basket; limited Irish availability | ☀️ to 🌤️ | Water lilies | Allow room to spread |
 | B24 | Whittall's Tulip | *Tulipa orphanidea* | 6.0–7.5 | 10–15cm deep; autumn | ✅ Raised bed/pot | ☀️ | Crocus, grape hyacinth, other species tulips | 8–10cm between bulbs |
 | G14 | Wild Thyme | *Thymus polytrichus* | 6.5–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ | Sempervivum, saxifrage, wall pennywort | 20–30cm between plants; spreads by runners |
 | B25 | Wild Tulip | *Tulipa sylvestris* | 6.0–7.5 | 10–15cm deep; autumn | ✅ 5L+ container | 🌤️ to ☀️ | Daffodils, other naturalising bulbs | 10–15cm between bulbs |
+| W27 | Willow Moss | *Fontinalis antipyretica* | 6.0–7.5 (water) | Attach to submerged stone/wood | ✅ No soil needed; attach to stone | 🌥️ to ☀️ | Hornwort, common water crowfoot | Space stones/clumps as desired |
 | G17 | Winter Heath | *Erica carnea* | 5.5–7.5 | At pot level | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants |
 | C12 | Wisteria | *Wisteria sinensis / floribunda* | 6.0–7.0 | At pot level; graft above soil | ⚠️ 45cm/60L+ container | ☀️ | Climbing roses (same wall), alliums, irises | 45cm from wall; 3m between plants |
 | S9 | Wood Sorrel | *Oxalis acetosella* | 5.0–6.5 | Crown at soil level | ✅ 5L+ container | 🌑 to 🌥️ | Ferns, native mosses, primroses | 10–15cm between plants |
 | F19 | Woodland Strawberry | *Fragaria vesca* | 5.5–7.0 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Ferns, hostas, primroses | 25–30cm between plants; spreads by runners |
 | P34 | Yarrow | *Achillea millefolium* | 5.5–7.0 | At pot level; bare-root buds 2–3cm below | ✅ 30cm / 10L+ | ☀️ | Roses, salvia, echinacea, hydrangea, ornamental grasses | 30–60cm between plants; divide every 2–3 yrs |
-| P35 | Siberian Iris | *Iris sibirica* | 5.8–7.0 | Rhizome at/just below surface (2–3cm max) | ✅ 35–40cm / 15–20L | ☀️ to 🌤️ | Astilbe, hostas, yellow flag iris, daylilies, royal fern | 30–45cm between plants; divide every 3–5 yrs |
 | P36 | Yellow Flag Iris | *Iris pseudacorus* | 5.5–8.0 | Crown at soil level; 0–20cm water above | ✅ 19–24cm aquatic basket | ☀️ | White water lily, bogbean, bog pimpernel | 30–60cm between plants; divide every 2–3 yrs |
 | W9 | Yellow Loosestrife | *Lysimachia vulgaris* | 6.0–7.5 | Crown at soil level | ✅ 20L+ container, keep moist | ☀️ to 🌥️ | Meadowsweet, yellow flag iris, marsh marigold | 40–50cm between plants; spreads by rhizome |
+| W28 | Yellow Water Lily | *Nuphar lutea* | 6.5–7.5 (water) | Crown at basket surface; 45–150cm+ water above | ⚠️ Large ponds/lakes only, not for small pots | ☀️ to 🌤️ | Native white water lily, bogbean | 1–2m ultimate spread |
 | H16 | Zucchini (Courgette) | *Cucurbita pepo* | 6.0–7.0 | At pot level (after frost) | ✅ Large 30–40L container | ☀️ | Nasturtiums, sweetcorn, beans | 60–90cm between plants |
 
 ---
