@@ -805,6 +805,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### C16. Common Jasmine (*Jasminum officinale*)
+
+📷 **Reference photo:** [Jasminum officinale — view on Wikipedia](https://en.wikipedia.org/wiki/Jasminum_officinale)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade, ideally against a warm, sheltered wall.
+
+**Soil needs:** Fertile, moist but well-drained soil; pH 6.0–7.5.
+
+**Soil prep:** Mix clay 50/50 with compost and 20% grit; provide a sturdy trellis or wires for its twining stems.
+
+**Planting depth:** At nursery soil mark, 30–45cm out from the wall or fence base.
+
+**Spacing:** 2–3m between plants against a wall or pergola.
+
+**Fertiliser:** Balanced fertiliser in spring; high-potash liquid feed through summer to encourage flowering.
+
+**Companions:** Climbing roses, clematis and honeysuckle on the same wall or pergola for a long season of scent and colour.
+
+**Pruning:** Prune immediately after flowering, thinning out crowded and dead growth; flowers on the current year's growth, so avoid hard pruning in late winter/spring, which removes the coming season's flowers.
+
+**West of Ireland:** A vigorous, twining deciduous-to-semi-evergreen climber grown above all for its powerfully fragrant white summer flowers, beloved for training over an archway, pergola or seating area where its scent can be appreciated. Fully hardy in the mild, moist west of Ireland climate, though a sheltered spot gives the healthiest growth and the best flowering.
+
+---
+
 ### C6. Hardy Grapes (*Vitis vinifera*)
 
 ***Irish / Russian:*** *Fíonchaora · Виноград культурный*
@@ -879,30 +903,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C16. Jasminum officinale (Common/Summer Jasmine)
-
-📷 **Reference photo:** [Jasminum officinale — view on Wikipedia](https://en.wikipedia.org/wiki/Jasminum_officinale)
-
-**Light:** ☀️ Full sun to 🌤️ partial shade, ideally against a warm, sheltered wall.
-
-**Soil needs:** Fertile, moist but well-drained soil; pH 6.0–7.5.
-
-**Soil prep:** Mix clay 50/50 with compost and 20% grit; provide a sturdy trellis or wires for its twining stems.
-
-**Planting depth:** At nursery soil mark, 30–45cm out from the wall or fence base.
-
-**Spacing:** 2–3m between plants against a wall or pergola.
-
-**Fertiliser:** Balanced fertiliser in spring; high-potash liquid feed through summer to encourage flowering.
-
-**Companions:** Climbing roses, clematis and honeysuckle on the same wall or pergola for a long season of scent and colour.
-
-**Pruning:** Prune immediately after flowering, thinning out crowded and dead growth; flowers on the current year's growth, so avoid hard pruning in late winter/spring, which removes the coming season's flowers.
-
-**West of Ireland:** A vigorous, twining deciduous-to-semi-evergreen climber grown above all for its powerfully fragrant white summer flowers, beloved for training over an archway, pergola or seating area where its scent can be appreciated. Fully hardy in the mild, moist west of Ireland climate, though a sheltered spot gives the healthiest growth and the best flowering.
-
----
-
 ### C9. Kiwi (*Actinidia deliciosa* 'Jenny')
 
 📷 **Reference photo:** [Kiwi — view source](https://en.wikipedia.org/wiki/Actinidia_deliciosa)
@@ -929,7 +929,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C17. Muehlenbeckia complexa (Wire Vine)
+### C17. Necklace Vine (Maidenhair Vine) (*Muehlenbeckia complexa*)
 
 📷 **Reference photo:** [Muehlenbeckia complexa — view on Wikipedia](https://en.wikipedia.org/wiki/Muehlenbeckia_complexa)
 
@@ -1054,27 +1054,78 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP F: FRUIT TREES & SHRUBS
 
-### F1. Apple Tree 'Baya Marisa' on P22 Rootstock (*Malus domestica*)
+### F22. Almond (*Prunus dulcis*)
 
-📷 **Reference photo:** [Apple Tree 'Baya Marisa' on P22 Rootstock — view on Wikipedia](https://en.wikipedia.org/wiki/Malus_domestica)
+📷 **Reference photo:** [Prunus dulcis — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_dulcis)
 
-**About P22:** A Polish rootstock (M.9 × Common Antonovka cross). Ultimate height 2–3m; width 100–125cm at maturity; fruits September–October. Requires permanent staking for life. Good resistance to root rots (a key advantage on Irish clay). Harvest September–October (per gardens4you.ie listing).
+**Light:** ☀️ Full sun essential, in the warmest, most sheltered spot available.
+
+**Soil needs:** Well-drained, fertile soil; pH 6.0–7.5. Dislikes waterlogging.
+
+**Soil prep:** Dig a hole twice the rootball width. Mix clay 50/50 with compost and 20–30% grit for drainage.
+
+**Planting depth:** At nursery soil mark; graft union above soil level.
+
+**Spacing:** 4–6m between plants if free-standing; fan-trained against a wall needs 4–5m of wall space.
+
+**Fertiliser:** Balanced fruit tree fertiliser each February; potash-rich feed as nuts develop.
+
+**Companions:** Chives and garlic nearby to deter aphids; spring bulbs beneath, timed with the very early blossom.
+
+**Pruning:** Prune in summer only, to reduce the risk of silver leaf and bacterial canker common to Prunus species.
+
+**Warnings ⚠️:** Flowers extremely early (often February), so blossom is highly vulnerable to frost damage — this is the single biggest obstacle to a reliable nut crop in a cool climate.
+
+**West of Ireland:** Grown more for its beautiful very early pink-white blossom than for a reliable nut harvest in this climate — most self-fertile ornamental almonds flower before pollinating insects are reliably active, and the region's damp, cool spring rarely gives the sustained summer warmth almonds need to ripen a worthwhile crop of nuts. Best treated as a beautiful, hardy flowering tree in a warm, sheltered, south-facing spot, with any nuts a welcome bonus rather than the main reason to grow it. Self-fertile cultivars remove the need for a pollination partner, but a sheltered site is essential regardless.
+
+---
+
+### F1. Apple (*Malus domestica*)
+
+📷 **Reference photo:** [Malus domestica — view on Wikipedia](https://en.wikipedia.org/wiki/Malus_domestica)
+
+**Popular garden varieties — UK/Ireland:**
+
+| Variety | Season | Notes |
+|---|---|---|
+| 'Baya Marisa' | September–October | Compact, disease-resistant modern variety bred specifically for pots and small gardens; usually sold on P22 rootstock |
+| Cox's Orange Pippin | October | The classic English dessert apple; complex, aromatic flavour; needs a warm, sheltered site and a pollination partner |
+| 'Granny Smith' | Late season | Crisp, tart, green-skinned; needs a long, warm growing season to ripen fully, so cropping is less reliable in a cool Irish summer than the varieties above |
+
+**Popular garden varieties — Russia:**
+
+| Variety | Season | Notes |
+|---|---|---|
+| White Transparent (Белый налив, Bely/Beliy Naliv) | Mid–late summer | One of the most famous and widely grown Russian apples; very early ripening, extremely hardy, sharp/tart flavour best suited to cooking; also grown across Poland and the Baltic states |
+| Antonovka (Антоновка) | Autumn/keeper | "The people's apple" — Russia's classic dacha-garden variety; strongly acidic, aromatic; exceptionally cold-hardy and long-storing; also widely used as a cold-hardy seedling rootstock |
+| Grushovka Moskovskaya (Грушовка московская) | Mid-summer | An old, very early-ripening Russian variety, sweet-sour flavour, extremely frost-tolerant (to about -30°C); needs a pollination partner |
+
+**Apple rootstocks:**
+
+| Rootstock | Vigour | Approx. height | Notes |
+|---|---|---|---|
+| M27 | Extremely dwarfing | 1.2–1.8m | For a container or the very smallest garden; needs permanent staking and good soil |
+| M9 | Dwarfing | 1.8–2.4m | The most popular rootstock for a garden bush tree; needs permanent staking |
+| P22 | Very dwarfing | 1.2–1.8m | Polish rootstock (M.9 × Common Antonovka cross); good winter hardiness and good resistance to root rots, a real advantage on wet Irish clay; needs permanent staking for life |
+| M26 | Dwarfing | 2.4–3m | A popular choice for a slightly larger bush; usually needs staking for its first years |
+| MM106 | Semi-vigorous | 3–4m | A good general-purpose choice for a free-standing garden tree; does not usually need permanent staking once established |
+| M25 | Vigorous | Over 4.5m | For a full-sized standard tree; not suitable for a small garden |
 
 **Light:** ☀️ Full sun essential — at least 6 hours daily.
 
-**Soil needs:** Well-drained, moderately fertile, pH 6.0–7.0. Good root rot resistance on wet clay.
+**Soil needs:** Well-drained, moderately fertile soil; pH 6.0–7.0.
 
 **Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with multipurpose compost over a broad area. Keep a 60cm weed-free circle around the base permanently.
 
 **Planting depth:** Graft union (bulge near stem base) at or just above soil level. Plant to the nursery soil mark.
 
-**Spacing:** 1–1.5m between trees; permanent stake
+**Spacing:** Depends entirely on rootstock — see table above.
 
 **Fertiliser:** Balanced fruit tree fertiliser (Growmore or specialist fruit feed) each February. Liquid high-potash feed (tomato feed) fortnightly from late spring to midsummer. Do not feed after July. Bonemeal in the planting hole at planting.
 
-**Companions:** Chives and garlic deter aphids (P22 is susceptible to woolly apple aphid). Nasturtiums attract beneficial insects. Plant two or more apple varieties for cross-pollination.
+**Companions:** Chives and garlic deter aphids (dwarfing rootstocks like P22 are particularly susceptible to woolly apple aphid). Nasturtiums attract beneficial insects. Most apples need a compatible pollination partner flowering at the same time — plant two or more varieties, or rely on neighbouring gardens/wild crab apple, for a reliable crop.
 
-**West of Ireland:** Permanent staking essential against Atlantic winds.
+**West of Ireland:** Permanent staking is essential on any of the dwarfing rootstocks (M27, M9, P22, M26) given Atlantic winds. 'Baya Marisa' on P22 is a good, compact, disease-resistant choice for a small garden or large pot; Cox's Orange Pippin rewards a warm, sheltered spot with real flavour but is fussier about site than the others; the Russian varieties (White Transparent, Antonovka, Grushovka Moskovskaya) are all exceptionally cold-hardy and were bred for climates considerably harsher than Ireland's, so they generally thrive here with no special protection needed, though most need a pollination partner. 'Granny Smith' is the least reliable cropper of the group in a cool Irish summer, since it evolved for a warmer climate with a longer ripening season.
 
 ---
 
@@ -1128,6 +1179,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 📷 **Reference photo:** [Blueberry — view on Wikipedia](https://en.wikipedia.org/wiki/Vaccinium_corymbosum)
 
+**Popular garden varieties:**
+
+| Variety | Season | Notes |
+|---|---|---|
+| 'Bluecrop' | Mid-season | The world's most widely planted blueberry; large, sweet, powder-blue berries; very hardy; reliable all-rounder |
+| 'Duke' | Early | RHS-listed; flowers late (avoiding frost) but ripens early; firm, tangy-sweet berries |
+| 'Patriot' | Early | RHS AGM; large, sweet, firm berries; vigorous and hardy, with good tolerance of less-than-ideal soil |
+| 'Sunshine Blue' | Mid-season | Compact (to about 1m), semi-evergreen; the most reliably self-fertile variety if only growing one bush; ideal for a container |
+
 **Light:** 🌤️ Full sun to partial shade. More berries in full sun.
 
 **Soil needs:** Ericaceous, pH 4.0–5.5. Use ericaceous compost only. Rainwater preferred for watering.
@@ -1140,35 +1200,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Fertiliser:** Use only ericaceous liquid fertiliser fortnightly April–August. Top-dress with fresh ericaceous compost in spring. Sulphur chips to maintain acidity over time.
 
-**Companions:** Heather, lingonberry, cranberry, other Vaccinium. Dedicated ericaceous bed with rhododendrons and azaleas if naturally acidic area.
-
----
-
-### F5. Cherry 'Athos' (*Prunus avium* 'Athos')
-
-📷 **Reference photo:** [Cherry — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_avium)
-
-**About 'Athos':** A patio cherry bush bred over some 60 years of crossbreeding, and unusual in that it grows on its own roots rather than being grafted onto rootstock. Self-pollinating, so a single plant is enough for fruit. Produces many medium-sized, very dark red, sweet cherries, harvested June–July depending on the season. Very winter-hardy and not particularly disease-prone. Bears fruit within two to four years of planting. In a pot it stays compact (roughly 100–150cm); in open ground it reaches around 200–250cm (source: schramas.com).
-
-**Light:** ☀️ Full sun essential — at least 6 hours daily.
-
-**Soil needs:** Well-drained, sandy soil with a pH of 5.5–7.5 is ideal for cherries generally; 'Athos' is not fussy but dislikes waterlogging.
-
-**Soil prep:** Dig wider and deeper than the root system. Mix excavated clay 50/50 with multipurpose compost and 20–30% horticultural grit for drainage. In a pot, use a container at least 30–40cm in diameter with good drainage holes, filled with a free-draining multipurpose compost mix.
-
-**Planting depth:** At the same depth as in its nursery pot; plant in spring or autumn once frost risk is low. Since 'Athos' grows on its own roots rather than a graft, there is no graft union to keep above soil level.
-
-**Spacing:** 1–1.5m if planted in the open ground; a single plant is fine in a large pot on a patio.
-
-**Fertiliser:** Balanced fruit tree fertiliser (Growmore or specialist fruit feed) in early spring, with a further feed after harvest. Avoid feeding late in the season, to let the wood ripen before winter.
-
-**Companions:** Chives and garlic nearby help deter aphids. Keep a weed-free, mulched area around the base.
-
-**Pruning:** Prune in summer, ideally straight after harvest, to reduce the risk of silver leaf disease common to Prunus species.
-
-**Pot/container:** ✅ Bred specifically as the first cherry bush suited to pot culture as well as open ground — one of the more compact, patio-friendly cherry options in this guide. ⚠️ Protect the ripening fruit from birds with netting.
-
-**West of Ireland:** Self-pollinating and genuinely compact, 'Athos' suits smaller west of Ireland gardens and patios where a full-sized cherry tree would not fit. Its stated winter-hardiness (source: schramas.com) fits comfortably within the general cold-tolerance of sweet cherries (*Prunus avium*), which tolerate the mild, wet west of Ireland winters well provided drainage is adequate; the main local risk, as with other cherries, is losing blossom to a late spring frost, so a sheltered spot away from frost pockets gives the most reliable cropping.
+**Companions:** Heather, lingonberry, cranberry, other Vaccinium. Dedicated ericaceous bed with rhododendrons and azaleas if naturally acidic area. Most varieties are only partially self-fertile — planting two different varieties nearby significantly improves berry size and yield, even though a single bush of 'Sunshine Blue' will crop well alone.
 
 ---
 
@@ -1196,6 +1228,40 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### F23. Fig (*Ficus carica*)
+
+📷 **Reference photo:** [Ficus carica — view on Wikipedia](https://en.wikipedia.org/wiki/Ficus_carica)
+
+**Popular hardy varieties:**
+
+| Variety | Notes |
+|---|---|
+| 'Brown Turkey' | RHS AGM; the most popular and reliable variety for outdoor UK/Ireland growing; large, sweet, red-fleshed fruit; hardy to about -10°C |
+| 'Brunswick' | Very hardy, suited to cooler areas; large fruit, pink-yellow flesh, ripens a little earlier than 'Brown Turkey' |
+| 'White Marseilles' | Compact, self-fertile; pale, very sweet fruit |
+
+**Light:** ☀️ Full sun essential, ideally against a warm, south- or west-facing wall.
+
+**Soil needs:** Free-draining soil; pH 6.0–7.5. Figs actually crop best when their roots are restricted — overly rich, deep soil produces lush leaves at the expense of fruit.
+
+**Soil prep:** If planting in the ground, restrict the roots using paving slabs or a buried bottomless container, packed with rubble at the base — this is essential for reliable fruiting, not optional. In a pot, use a loam-based compost such as John Innes No. 3 with added grit.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 3–4m if free-standing in the ground with roots restricted; large containers (35–45cm diameter) suit patio growing well.
+
+**Fertiliser:** Weekly liquid tomato feed once the fruit has formed; annual mulch.
+
+**Companions:** Best given its own space, since it casts fairly dense shade once mature.
+
+**Pruning:** Prune in late winter/early spring to shape, and pinch out growing tips in early summer to encourage the embryonic fruit that will overwinter and ripen the following year.
+
+**Pot/container:** ✅ Figs grow very well in a large pot, which naturally restricts the roots and encourages fruiting — often the easiest way to grow a productive fig in a cooler climate.
+
+**West of Ireland:** In a temperate climate like Ireland's, figs typically produce two flushes of embryonic fruit a year: the young "embryo" figs that form in late summer survive winter on the bare branches and ripen the following year, while a second flush that forms in spring rarely has time to ripen outdoors and is best removed at the end of the season if larger than a pea. A warm, sheltered wall out of the worst of the Atlantic wind and rain gives the best results; all three varieties above are reliably hardy and self-fertile, needing no pollination partner (indeed no pollinating wasp, unlike wild figs).
+
+---
+
 ### F7. Garden Plum (*Prunus domestica*)
 
 ***Irish / Russian:*** *Crann plumaí · Слива домашняя*
@@ -1216,7 +1282,9 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Chives and garlic to deter aphids. Comfrey or nasturtiums nearby to attract beneficial insects. Many plums (though not all) need a compatible pollination partner flowering at the same time — check the variety before buying.
 
-**West of Ireland:** Permanent staking recommended against Atlantic winds, especially on dwarfing rootstocks. Choose a sheltered, sunny spot away from frost pockets — plum blossoms early and late frosts can damage the crop.
+**Popular hardy cultivars:** 'Victoria' — RHS AGM, self-fertile, the best-known English plum, dual-purpose (eating and cooking), late August–early September, though can crop unreliably some years. 'Czar' — RHS AGM, self-fertile, compact and very reliable, a traditional culinary plum that will even fruit on a north-facing wall, early August. 'Opal' — RHS AGM, self-fertile, early dessert plum with good flavour, very easy to grow, early August.
+
+**West of Ireland:** Permanent staking recommended against Atlantic winds, especially on dwarfing rootstocks. Choose a sheltered, sunny spot away from frost pockets — plum blossoms early and late frosts can damage the crop. 'Czar' is a particularly good choice for a cooler, more exposed west of Ireland garden given its reliability and tolerance of less-than-ideal conditions.
 
 ---
 
@@ -1240,11 +1308,42 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### F24. Hazelnut (*Corylus avellana*)
+
+📷 **Reference photo:** [Corylus avellana — view on Wikipedia](https://en.wikipedia.org/wiki/Corylus_avellana)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Any well-drained soil, including clay and chalk; pH 6.0–7.5. Very adaptable.
+
+**Soil prep:** Minimal — one of the easiest, most tolerant fruiting plants of clay in this guide.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 4–5m between plants for a full-sized bush, or 2m if grown as a managed, regularly coppiced hedge.
+
+**Fertiliser:** Little needed once established; a balanced feed in spring for young plants.
+
+**Companions:** Native Irish hedgerow species (blackthorn, hawthorn) if grown as informal hedging; primroses and bluebells beneath.
+
+**Pruning:** Traditionally pruned in late winter ("brutting" — snapping over long sideshoots in late summer improves nut set); can be coppiced or kept as an open-centred bush.
+
+**West of Ireland:** A native Irish tree/large shrub, found wild in hedgerows throughout the country, producing edible nuts in autumn. Fully hardy and thoroughly at home in the mild, moist Atlantic climate. Wind-pollinated by catkins in late winter, so plant at least two bushes (or rely on wild hazel nearby) for a reliable nut crop, since a single isolated bush often crops poorly. Squirrels are usually quicker than gardeners at harvesting the nuts.
+
+---
+
 ### F9. Honeyberry (*Lonicera caerulea* var. *kamtschatica*)
 
 ***Russian:*** *Жимолость камчатская*
 
 📷 **Reference photo:** [Honeyberry — Kamchatka — view on Wikipedia](https://en.wikipedia.org/wiki/Lonicera_caerulea)
+
+**Popular garden varieties:**
+
+| Variety | Taste | Height | Notes |
+|---|---|---|---|
+| 'Altaj' | Sweet-sour, aromatic, honey-like | 1.5–2m | From southern Siberia; extremely cold-hardy (to -40°C); thornless, compact habit; produces more aromatic fruit than many varieties |
+| 'Larisa' | Fresh, sweet | 1.5–1.8m | Elongated berries rich in vitamins B and C; self-pollinating but crops better with a second variety nearby |
 
 **Light:** 🌤️ Full sun to partial shade. Fruits better in full sun.
 
@@ -1258,7 +1357,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Fertiliser:** Balanced fertiliser in early spring. Annual compost mulch. Liquid balanced feed monthly during flowering and fruiting can improve yields.
 
-**Companions:** Blueberry, lingonberry in adjacent beds. Pollinator-attracting flowers nearby (important for early February–April flowers). Needs 2+ varieties: e.g. 'Borealis' and 'Tundra'.
+**Companions:** Blueberry, lingonberry in adjacent beds. Pollinator-attracting flowers nearby (important for early February–April flowers). Needs 2+ varieties: e.g. 'Borealis' and 'Tundra', or 'Altaj' and 'Larisa'.
 
 ---
 
@@ -1286,9 +1385,41 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F20. Peach 'Melred' (*Prunus persica* 'Melred')
+### F25. Olive (*Olea europaea*)
+
+📷 **Reference photo:** [Olea europaea — view on Wikipedia](https://en.wikipedia.org/wiki/Olive)
+
+**Light:** ☀️ Full sun essential, in the warmest, most sheltered spot available.
+
+**Soil needs:** Very free-draining soil, tolerant of poor, dry, alkaline ground; pH 6.0–8.5. Hates waterlogging above all else.
+
+**Soil prep:** Improve clay heavily with 40–50% horticultural grit, or grow in a large container of free-draining, loam-based compost — strongly preferable to open ground on Irish clay.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 2–3m between plants if grown in open ground in a mild area; more commonly grown singly as a container specimen.
+
+**Fertiliser:** Balanced fertiliser in spring; avoid feeding late in the season.
+
+**Companions:** Lavender, rosemary and other Mediterranean plants sharing its need for sun and sharp drainage.
+
+**Pot/container:** ✅ Strongly recommended in this climate — growing in a large container allows the plant to be moved to a sheltered spot, porch or unheated glasshouse during the coldest, wettest spells of winter, which it tolerates far better than being left out in waterlogged ground.
+
+**West of Ireland:** Borderline hardy (RHS H4, roughly to -5°C, though damage typically comes from wet cold rather than dry cold) — reliably surviving outdoors only in the very mildest, most sheltered coastal west of Ireland gardens, and even then rarely ripening a useful crop of fruit given the lack of sustained summer heat. Best treated as a handsome, silvery-leaved evergreen container specimen for its foliage and gnarled form, with any olives a curiosity rather than a realistic harvest. Winter wet, far more than winter cold, is what usually kills an olive in this climate — sharp drainage is essential.
+
+---
+
+### F20. Peach (*Prunus persica*)
 
 📷 **Reference photo:** [Prunus persica — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_persica)
+
+**Popular varieties for Ireland/UK:**
+
+| Variety | Season | Notes |
+|---|---|---|
+| 'Peregrine' | Mid-August | RHS AGM; one of the most reliable croppers for a cooler climate thanks to later flowering; white flesh, excellent flavour |
+| 'Rochester' | Mid-August | RHS AGM; yellow flesh, reasonable flavour; large, juicy fruit; later flowering gives some frost protection |
+| 'Melred' | Early August | Self-fertile; compact (~2m), well suited to a large container; double deep pink-red ornamental blossom as well as fruit |
 
 **Light:** ☀️ Full sun essential, in a warm, sheltered spot such as against a south-facing wall.
 
@@ -1306,9 +1437,48 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Pruning:** Prune only in summer (never winter) to reduce the risk of silver leaf disease.
 
-**Pot/container:** ✅ Compact, reaching only around 2m — well suited to a large container on a patio, in addition to open ground.
+**Pot/container:** ✅ 'Melred' in particular stays compact, reaching only around 2m — well suited to a large container on a patio, in addition to open ground.
 
-**West of Ireland:** Self-fertile, so a single tree crops without a pollination partner. Bears vivid double deep pink-red blossom in March–April (protect from late frosts with horticultural fleece) followed by medium-sized, sweet peaches ripening in early August. Best grown fan-trained against a warm, sheltered wall in the cooler west of Ireland climate, which helps ripen both blossom and fruit and offers some protection from wind and rain.
+**West of Ireland:** All three varieties above are self-fertile, so a single tree crops without a pollination partner. Blossom appears March–April (protect from late frosts with horticultural fleece) followed by fruit ripening from early to mid-August depending on variety. Best grown fan-trained against a warm, sheltered wall in the cooler west of Ireland climate, which helps ripen both blossom and fruit and offers some protection from wind and rain. 'Peregrine' and 'Rochester', both later-flowering, are the more reliable choices for a genuinely cool, exposed site; 'Melred' suits a smaller garden or patio.
+
+---
+
+### F26. Pear (*Pyrus communis*)
+
+📷 **Reference photo:** [Pyrus communis — view on Wikipedia](https://en.wikipedia.org/wiki/Pear)
+
+**Popular varieties for Ireland/UK:**
+
+| Variety | Pollination | Season | Notes |
+|---|---|---|---|
+| 'Conference' | Self-fertile | Mid-late season | By far the most widely grown UK/Ireland pear; reliable, heavy-cropping, familiar elongated shape |
+| 'Concorde' | Partially self-fertile | Late season | RHS AGM; a 'Conference' × 'Doyenné du Comice' cross bred at East Malling; combines Conference's shape with Comice's sweetness |
+| 'Doyenné du Comice' | Needs a pollination partner | Late season | Widely regarded as the best-flavoured dessert pear, though a less reliable cropper and needs a sheltered spot |
+
+**Pear rootstocks:**
+
+| Rootstock | Vigour | Approx. height | Notes |
+|---|---|---|---|
+| Quince A | Semi-vigorous | Similar to apple M26 | The standard general-purpose pear rootstock; suits bush, half-standard and most trained forms |
+| Quince C | More dwarfing | 1.8–2.4m (6–8ft) | Produces a smaller tree, roughly comparable to apple M9/Bud 9; needs staking and good soil |
+
+**Light:** ☀️ Full sun essential for best flowering and fruiting.
+
+**Soil needs:** Moist but well-drained, fertile soil; pH 6.0–7.5.
+
+**Soil prep:** Dig a hole twice the rootball width. Mix clay 50/50 with compost and 20–30% grit for drainage.
+
+**Planting depth:** Graft union at or just above soil level.
+
+**Spacing:** Depends on rootstock and form — see rootstock table above; fan or espalier against a wall needs 3.5–5m of wall space.
+
+**Fertiliser:** Balanced fruit tree fertiliser each February; potash-rich feed as fruit develops.
+
+**Companions:** Chives and garlic nearby to deter aphids; most pears need a compatible pollination partner flowering at the same time — check before buying.
+
+**Pruning:** Prune in winter while dormant (unlike stone fruit); trained forms (espalier, cordon) are pruned in summer.
+
+**West of Ireland:** Pears tolerate the mild, moist west of Ireland climate well, though blossom appears early and can be caught by late frosts — a sheltered, sunny spot away from frost pockets gives the best results. 'Conference' is the most forgiving choice for a typical Irish garden, being both self-fertile and a reliable cropper even in a cooler summer; 'Doyenné du Comice' rewards a warm, sheltered wall with genuinely superior flavour but is the least reliable of the three here.
 
 ---
 
@@ -1472,6 +1642,38 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### F21. Sour Cherry (*Prunus cerasus*)
+
+📷 **Reference photo:** [Prunus cerasus — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_cerasus)
+
+**Popular garden cultivars:**
+
+| Variety | Pollination | Season | Notes |
+|---|---|---|---|
+| 'Morello' | Self-fertile | Late summer | RHS AGM; by far the most widely grown cooking cherry; very hardy and reliable; dark red, acid-flavoured fruit; excellent on a shady north-facing wall where sweet cherries would not fruit |
+| 'Nabella' | Self-fertile | Mid-summer | Similar acid flavour to 'Morello' with slightly larger fruit; good disease resistance |
+| 'Kentish Red' | Self-fertile | Traditional/mid-season | An old, traditional English sour cherry, valued for jams and preserves |
+
+**Light:** ☀️ Full sun to 🌥️ partial shade — the one fruit tree in this guide genuinely happy on a shady, north-facing wall.
+
+**Soil needs:** Well-drained, fertile soil; pH 5.5–7.5.
+
+**Soil prep:** Dig a hole wider and deeper than the rootball. Mix excavated clay 50/50 with compost and 20–30% grit. Dig in plenty of well-rotted manure or compost.
+
+**Planting depth:** Graft union at or just above soil level.
+
+**Spacing:** On Colt rootstock (the standard choice for sour cherries), up to 4m; fan-trained against a wall needs 3.5–4.5m of wall space.
+
+**Fertiliser:** Balanced fruit tree fertiliser in early spring, with a further feed after harvest.
+
+**Companions:** Chives and garlic nearby to deter aphids.
+
+**Pruning:** Prune in summer only, to reduce the risk of silver leaf disease. Sour cherries fruit on the previous year's wood, so after harvest cut out some of the older fruited wood to encourage new growth for next year — a different regime from sweet cherries.
+
+**West of Ireland:** Genuinely useful for a shadier or north-facing spot where few other fruiting trees would crop well — sour cherries tolerate part shade far better than sweet cherries. Fully hardy in the mild, moist Irish climate. All three cultivars above are self-fertile, so a single tree is enough for a crop.
+
+---
+
 ### F17. Strawberry (*Fragaria × ananassa*)
 
 ***Irish / Russian:*** *Sú talún · Клубника садовая (земляника ананасная)*
@@ -1492,41 +1694,58 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Borage, garlic, chives, marigolds. Avoid planting near brassicas.
 
-**Your varieties:**
+**Popular garden varieties:**
 
-**'Korona'** — An early to mid-season summer-fruiting variety (harvests from mid-June). Heavy cropping with large, glossy, dark red fruits packed with juicy flavour. Very resistant to verticillium wilt, botrytis and grey mould — one of the best disease-resistant varieties available, which is particularly important in the wet west of Ireland climate. Suitable for patio pots, containers, greenhouses and open ground. Height approximately 20cm, spread 30cm. RHS plant profile confirms heavy cropping of large, dark red fruits in early summer. Pomona Fruits describes the flavour as very sweet and juicy with a refreshing flavour, sometimes with a hint of wild strawberry. Popular for pick-your-own and recommended by Sproot for its "combination of flavour, season and disease resistance."
-
-**'Ostara'** — A popular, long-established perpetual (everbearing) variety producing sweet-tasting bright red fruits from early summer (spring crop) and again from mid-July until the first frosts in October or November. Fruits are conical, medium-sized, firm and juicy with a flavour resembling wild strawberries. Plants are strong growing with a wide spreading habit, making them ideal for raised beds, hanging baskets and climbing frames. Produces heavy crops which increase over the season. Recommended for pick-your-own and amateur use. RHS plant profile lists it as an everbearing variety producing sweet bright red fruits from early summer.
-
-**'Summer Breeze'** — A compact, ornamental patio strawberry grown as much for its decorative value as for its fruit. Produces delicious small red berries all through the growing season (everbearing/perpetual). Compact and beautiful, suitable for use as a border plant or in containers on a patio. The double purpose as an eye-catching ornamental makes it a useful choice for potted displays.
+| Variety | Type | Season | Notes |
+|---|---|---|---|
+| 'Korona' | Summer-fruiting | Early–mid-season (from mid-June) | Large, glossy, dark red, very juicy fruit; excellent resistance to verticillium wilt, botrytis and grey mould — a real advantage in the wet west of Ireland climate |
+| 'Ostara' | Perpetual (everbearing) | Early summer, then mid-July until first frosts | Conical, medium-sized, firm, juicy fruit with a flavour recalling wild strawberry; vigorous, spreading habit suits raised beds and hanging baskets |
+| 'Summer Breeze' | Perpetual (everbearing) | Throughout the growing season | Compact, ornamental patio strawberry, grown as much for its decorative flowers and habit as for its small, sweet berries; good for containers and borders |
 
 ---
 
-### F18. Sweet Cherry 'Sylvia' (*Prunus avium* 'Sylvia')
+### F5. Sweet Cherry (*Prunus avium*)
 
-***Irish / Russian:*** *Silín fiáin · Черешня*
+📷 **Reference photo:** [Prunus avium — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_avium)
 
-📷 **Reference photo:** [Sweet Cherry 'Sylvia' — view source](https://www.gardens4you.ie/cherry-tree-sylvia-prunus-avium-a07192.html)
+**Popular garden cultivars (UK/Ireland):**
 
-**About 'Sylvia':** A compact, self-fertile sweet cherry suitable for patios and smaller gardens. Mature height approximately 125–150cm with a spread of 30–40cm, making it one of the most compact cherries available — well suited to container growing (source: gardens4you.ie).
+| Variety | Pollination | Season | Notes |
+|---|---|---|---|
+| 'Athos' | Self-fertile | June–July | Compact patio bush grown on its own roots (not grafted); very winter-hardy; stays 100–250cm depending on container/ground |
+| 'Stella' | Self-fertile | Mid-July | RHS AGM; the original self-fertile sweet cherry (bred at the John Innes Institute, Norwich); tangy, dark red-black fruit; reliable in cooler areas |
+| 'Sunburst' | Self-fertile | Early–mid-July | Large, dark red-black fruit with a full, sweet flavour; considered by many the best all-round self-fertile garden cherry |
+| 'Lapins' (syn. 'Cherokee') | Self-fertile | Late July–early August | Large, dark, crack-resistant fruit; extends the season beyond 'Stella'; vigorous, upright |
+| 'Sweetheart' | Self-fertile | Very late season | Red to dark red fruit; outstanding flavour and texture; RHS AGM |
+| 'Sylvia' | Self-fertile | June–July | Exceptionally compact (125–150cm), ideal for the smallest patios and large containers |
 
-**Light:** ☀️ Full sun to 🌤️ partial sun.
+**Cherry rootstocks:**
 
-**Soil needs:** Well-drained soil.
+| Rootstock | Vigour | Approx. height | Notes |
+|---|---|---|---|
+| Colt | Semi-vigorous | 3.5–4m (12–14ft) | Good anchorage, no permanent staking needed once established; tolerates poorer soil than Gisela 5; the traditional choice for a fan or bush in a larger garden |
+| Gisela 5 | Semi-dwarfing | 2.4–3m (8–10ft) | The most popular modern choice for a manageable garden cherry; needs permanent staking and fertile, reliably moist soil |
+| Krymsk 5 | Semi-vigorous | Similar to Gisela 6, slightly larger than Gisela 5 | Very cold-hardy, well anchored, does not usually need permanent staking |
 
-**Soil prep:** Dig wider and deeper than the root system. Break up clay beneath. Mix excavated clay 50/50 with compost and 20–30% grit for drainage.
+**Light:** ☀️ Full sun essential — at least 6 hours daily. Avoid frost pockets, since late spring frosts damage blossom.
 
-**Planting depth:** Approximately 12cm, or to the nursery soil mark/graft union at or just above soil level.
+**Soil needs:** Well-drained, fertile soil; pH 5.5–7.5. Dislikes waterlogging.
 
-**Spacing:** 1m spacing; self-fertile
+**Soil prep:** Dig a hole wider and deeper than the rootball. Mix excavated clay 50/50 with compost and 20–30% horticultural grit for drainage. In a pot, use a container at least 30–40cm in diameter with good drainage holes.
 
-**Fertiliser:** Feed from spring until fruit sets, and again after harvest. Balanced fruit tree fertiliser (Growmore or specialist fruit feed).
+**Planting depth:** Graft union at or just above soil level (own-root types like 'Athos' have no graft union — plant at the same depth as the nursery pot).
 
-**Companions:** Chives and garlic to deter aphids. Keep an area of roughly 1.2m around the base weed-free and mulched.
+**Spacing:** Depends on rootstock and form — see rootstock table above; compact patio cultivars like 'Athos' and 'Sylvia' need only 1–1.5m.
 
-**Pruning:** Best pruned in summer, ideally straight after harvest, to reduce the risk of silver leaf disease common to Prunus species.
+**Fertiliser:** Balanced fruit tree fertiliser (Growmore or specialist fruit feed) in early spring, with a further feed after harvest. Avoid feeding late in the season.
 
-**West of Ireland:** Self-fertile, so a single tree will produce fruit — ideal for smaller west of Ireland gardens or patios. Harvest June–July. White blossom in spring. Permanent staking recommended given its compact form and Atlantic winds.
+**Companions:** Chives and garlic nearby help deter aphids. Keep a weed-free, mulched area around the base.
+
+**Pruning:** Prune only in summer, ideally straight after harvest, to reduce the risk of silver leaf disease common to Prunus species.
+
+**Pot/container:** ✅ 'Athos' and 'Sylvia' were bred specifically for pot culture and are among the most compact, patio-friendly sweet cherries available. ⚠️ Protect ripening fruit from birds with netting.
+
+**West of Ireland:** Sweet cherries tolerate the mild, wet west of Ireland winters well provided drainage is adequate; the main local risk is losing blossom to a late spring frost, so a sheltered spot away from frost pockets gives the most reliable cropping. For a small garden or patio, 'Athos' or 'Sylvia' on their own compact roots are the most realistic choice; for a larger garden, any of the self-fertile cultivars above on Gisela 5 (small) or Colt (larger, more tolerant of poorer soil) will crop reliably.
 
 ---
 
@@ -1557,28 +1776,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ---
 
 ## GROUP G: GROUNDCOVER & CREEPING PLANTS
-
-### G20. Arabis 'Old Gold' (Variegated Rock Cress)
-
-📷 **Reference photo:** [Arabis — view on Wikipedia](https://en.wikipedia.org/wiki/Arabis)
-
-**Light:** ☀️ Full sun for the best variegation and flowering.
-
-**Soil needs:** Free-draining soil, tolerant of poor ground; pH 6.0–7.5.
-
-**Soil prep:** Improve clay with 25–30% horticultural grit; a raised bed, wall top or rockery suits it best.
-
-**Planting depth:** At pot level.
-
-**Spacing:** 30–40cm between plants; spreads as a mat.
-
-**Fertiliser:** Little needed — over-feeding produces lax growth and less flowering.
-
-**Companions:** Aubretia, alyssum and other classic wall-top/rockery trailing perennials; spring bulbs planted through the mat.
-
-**West of Ireland:** A low, spreading evergreen perennial with grey-green leaves edged in creamy gold, smothered in small white flowers in spring. Easy and reliable given sharp drainage; trim lightly after flowering to keep it neat and encourage fresh variegated growth. Excellent cascading over a wall or the edge of a raised bed.
-
----
 
 ### G10. Bellflowers (Rockery) (*Campanula* spp.)
 
@@ -1635,25 +1832,27 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G21. Delosperma echinatum (Ice Plant)
+### G22. Evergreen Candytuft (*Iberis sempervirens*)
 
-📷 **Reference photo:** [Delosperma — view on Wikipedia](https://en.wikipedia.org/wiki/Delosperma)
+📷 **Reference photo:** [Iberis sempervirens — view on Wikipedia](https://en.wikipedia.org/wiki/Iberis_sempervirens)
 
-**Light:** ☀️ Full sun essential.
+**Light:** ☀️ Full sun for the best flowering; tolerates light shade.
 
-**Soil needs:** Very free-draining, gritty soil, tolerant of poor, dry ground; pH 6.0–7.5. Rots quickly in wet winter clay.
+**Soil needs:** Well-drained soil, tolerant of poor ground; pH 6.5–8.0, preferring neutral to alkaline. Intolerant of wet, poorly drained conditions.
 
-**Soil prep:** Improve clay heavily with 40–50% horticultural grit; a raised bed, trough or pot is strongly recommended on Irish clay.
+**Soil prep:** Improve clay with 25–30% horticultural grit; a raised bed or rockery gives the most reliable results.
 
 **Planting depth:** At pot level.
 
-**Spacing:** 20–30cm between plants.
+**Spacing:** 30–45cm between plants.
 
-**Fertiliser:** None required — a genuine drought-tolerant succulent adapted to poor soil.
+**Fertiliser:** Little needed once established.
 
-**Companions:** Sempervivum, saxifrage and other sharply-drained rockery succulents.
+**Pruning:** Shear back by about a third immediately after flowering to keep the plant compact and encourage a tidy second flush of growth.
 
-**West of Ireland:** A South African succulent groundcover with fleshy, bristly, cucumber-like leaves and bright yellow daisy flowers in summer. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in a very sheltered, sharply drained west of Ireland spot, or best grown in a pot that can be moved under cover for winter given the region's wet conditions.
+**Companions:** Aubretia, arabis, alyssum — classic spring rockery/wall-top trio; also good with spring bulbs.
+
+**West of Ireland:** A low, spreading, woody-based evergreen sub-shrub, smothered in dense clusters of small white flowers from spring into early summer, sometimes with a lighter repeat in autumn. Widely available under various named cultivars (e.g. 'Purity', 'Snowflake', 'Little Gem'); if buying a specific named variety, check availability with a local nursery, as exact cultivars in the trade change from season to season. Fully hardy and easy given good drainage — an excellent edging or wall-top plant for the west of Ireland once its main dislike (waterlogging) is addressed.
 
 ---
 
@@ -1691,6 +1890,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### G25. Himalayan Bistort (Fleece Flower, Lesser Knotweed) (*Persicaria affinis* 'Superba')
+
+📷 **Reference photo:** [Persicaria affinis — view on Wikipedia](https://en.wikipedia.org/wiki/Persicaria_affinis)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Most soils including clay, moist but reasonably drained; pH 5.5–7.5. Tolerant and undemanding.
+
+**Soil prep:** Minimal — one of the easiest, most clay-tolerant groundcovers in this guide.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 30–40cm between plants; spreads steadily to form a dense mat.
+
+**Fertiliser:** Little needed once established.
+
+**Companions:** Ornamental grasses, sedum and other late-season perennials; useful for covering a bank or difficult clay area where little else thrives.
+
+**Warnings ⚠️:** Spreads readily and can be vigorous in good conditions (though not as aggressively invasive as its relative Japanese knotweed) — give it defined edges or space to roam, and avoid planting near a boundary with wild ground.
+
+**West of Ireland:** A low, mat-forming, semi-evergreen groundcover with narrow, pointed leaves that flush red in autumn, and dense spikes of pink flowers fading to russet-red from summer into autumn. Extremely tough and reliable on the region's clay soils, tolerating both damp and reasonably dry conditions — an excellent low-maintenance choice for covering a difficult bank or slope.
+
+---
+
 ### G4. Houseleek (*Sempervivum* spp.)
 
 ***Irish / Russian:*** *Lus an tóiteáin · Молодило*
@@ -1715,27 +1938,27 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G22. Iberis sempervirens (Perennial Candytuft)
+### G26. Jenny's Stonecrop (Reflexed Stonecrop) (*Petrosedum rupestre* 'Angelina')
 
-📷 **Reference photo:** [Iberis sempervirens — view on Wikipedia](https://en.wikipedia.org/wiki/Iberis_sempervirens)
+📷 **Reference photo:** [Sedum rupestre — view on Wikipedia](https://en.wikipedia.org/wiki/Sedum_rupestre)
 
-**Light:** ☀️ Full sun for the best flowering; tolerates light shade.
+**A note on the name:** Widely sold and still commonly labelled as *Sedum* 'Angelina', this popular cultivar has been reclassified by some botanical authorities into the segregate genus *Petrosedum*, as *Petrosedum rupestre* 'Angelina' — both names refer to exactly the same plant.
 
-**Soil needs:** Well-drained soil, tolerant of poor ground; pH 6.5–8.0, preferring neutral to alkaline. Intolerant of wet, poorly drained conditions.
+**Light:** ☀️ Full sun essential for the best golden colour.
 
-**Soil prep:** Improve clay with 25–30% horticultural grit; a raised bed or rockery gives the most reliable results.
+**Soil needs:** Free-draining soil, tolerant of poor, dry ground; pH 6.0–7.5.
+
+**Soil prep:** Improve clay with 30–40% horticultural grit; a raised bed or gritty border edge suits it best.
 
 **Planting depth:** At pot level.
 
-**Spacing:** 30–45cm between plants.
+**Spacing:** 20–30cm between plants; spreads to form a dense, low mat.
 
-**Fertiliser:** Little needed once established.
+**Fertiliser:** None required — thrives on poor soil; over-feeding produces lax, less colourful growth.
 
-**Pruning:** Shear back by about a third immediately after flowering to keep the plant compact and encourage a tidy second flush of growth.
+**Companions:** Sempervivum, other sedums, ornamental grasses — classic dry gravel-garden and green-roof companions; Black Mondo Grass for striking colour contrast.
 
-**Companions:** Aubretia, arabis, alyssum — classic spring rockery/wall-top trio; also good with spring bulbs.
-
-**West of Ireland:** A low, spreading, woody-based evergreen sub-shrub, smothered in dense clusters of small white flowers from spring into early summer, sometimes with a lighter repeat in autumn. Widely available under various named cultivars (e.g. 'Purity', 'Snowflake', 'Little Gem'); if buying a specific named variety, check availability with a local nursery, as exact cultivars in the trade change from season to season. Fully hardy and easy given good drainage — an excellent edging or wall-top plant for the west of Ireland once its main dislike (waterlogging) is addressed.
+**West of Ireland:** A low, spreading, evergreen succulent with bright golden-yellow needle-like foliage that takes on orange-red tints in cold weather, and small starry yellow flowers in summer. Fully hardy and very easy given sharp drainage — good for a gravel garden, green roof, or cascading over a wall, and a reliable source of winter colour when little else is bright.
 
 ---
 
@@ -1765,28 +1988,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Pruning:** Juniper 'Repanda': prune only to remove dead or damaged growth.
 
 **West of Ireland:** For Creeping Juniper, ⚠️ the biggest challenge is the region's high rainfall — raised beds, slopes, or very well-drained gritty ground are essential. Juniper 'Repanda' is a cultivar of common juniper, which is native to Ireland and found on rocky uplands and coastal heath, so it is naturally well suited to exposed, windy or coastal west of Ireland sites and to poor, thin soils where little else will form dense cover.
-
----
-
-### G23. Lewisia cotyledon
-
-📷 **Reference photo:** [Lewisia cotyledon — view on Wikipedia](https://en.wikipedia.org/wiki/Lewisia_cotyledon)
-
-**Light:** ☀️ Full sun to 🌤️ partial shade.
-
-**Soil needs:** Very free-draining, gritty soil; pH 6.0–7.0. The rosette is highly prone to rot if water sits on or around it, especially in winter.
-
-**Soil prep:** Improve clay heavily with 40–50% horticultural grit; plant on a slight mound or slope so water runs away from the crown, or grow in a raised trough.
-
-**Planting depth:** Plant with the rosette base slightly proud of the soil surface, angled if on a slope, so water cannot collect around the crown; surround with a collar of grit.
-
-**Spacing:** 20–25cm between plants.
-
-**Fertiliser:** Light balanced feed in spring; avoid rich feeding.
-
-**Companions:** Sempervivum, saxifrage, houseleek — classic sharp-drainage rockery companions.
-
-**West of Ireland:** An evergreen alpine rosette plant with vivid, multi-coloured (pink, orange, yellow, magenta or striped) flowers in late spring and early summer. The single biggest challenge in the wet west of Ireland climate is keeping the crown dry over winter — plant on a slope, in a raised trough or between rocks where water drains away instantly, or grow in a pot under a cold frame's cover through the wettest months.
 
 ---
 
@@ -1845,27 +2046,25 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G25. Persicaria affinis 'Superba' (Himalayan Knotweed)
+### G21. Pickle Plant (*Delosperma echinatum*)
 
-📷 **Reference photo:** [Persicaria affinis — view on Wikipedia](https://en.wikipedia.org/wiki/Persicaria_affinis)
+📷 **Reference photo:** [Delosperma — view on Wikipedia](https://en.wikipedia.org/wiki/Delosperma)
 
-**Light:** ☀️ Full sun to 🌤️ partial shade.
+**Light:** ☀️ Full sun essential.
 
-**Soil needs:** Most soils including clay, moist but reasonably drained; pH 5.5–7.5. Tolerant and undemanding.
+**Soil needs:** Very free-draining, gritty soil, tolerant of poor, dry ground; pH 6.0–7.5. Rots quickly in wet winter clay.
 
-**Soil prep:** Minimal — one of the easiest, most clay-tolerant groundcovers in this guide.
+**Soil prep:** Improve clay heavily with 40–50% horticultural grit; a raised bed, trough or pot is strongly recommended on Irish clay.
 
 **Planting depth:** At pot level.
 
-**Spacing:** 30–40cm between plants; spreads steadily to form a dense mat.
+**Spacing:** 20–30cm between plants.
 
-**Fertiliser:** Little needed once established.
+**Fertiliser:** None required — a genuine drought-tolerant succulent adapted to poor soil.
 
-**Companions:** Ornamental grasses, sedum and other late-season perennials; useful for covering a bank or difficult clay area where little else thrives.
+**Companions:** Sempervivum, saxifrage and other sharply-drained rockery succulents.
 
-**Warnings ⚠️:** Spreads readily and can be vigorous in good conditions (though not as aggressively invasive as its relative Japanese knotweed) — give it defined edges or space to roam, and avoid planting near a boundary with wild ground.
-
-**West of Ireland:** A low, mat-forming, semi-evergreen groundcover with narrow, pointed leaves that flush red in autumn, and dense spikes of pink flowers fading to russet-red from summer into autumn. Extremely tough and reliable on the region's clay soils, tolerating both damp and reasonably dry conditions — an excellent low-maintenance choice for covering a difficult bank or slope.
+**West of Ireland:** A South African succulent groundcover with fleshy, bristly, cucumber-like leaves and bright yellow daisy flowers in summer. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in a very sheltered, sharply drained west of Ireland spot, or best grown in a pot that can be moved under cover for winter given the region's wet conditions.
 
 ---
 
@@ -1917,6 +2116,34 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### G20. Rockcress (*Arabis* spp.)
+
+📷 **Reference photos:** [Arabis ferdinandi-coburgi](https://en.wikipedia.org/wiki/Arabis) · [Arabis blepharophylla](https://en.wikipedia.org/wiki/Arabis_blepharophylla) · [Arabis caucasica](https://en.wikipedia.org/wiki/Arabis_caucasica)
+
+| Species | Latin name | Height | Flowering | Planting depth | Notes |
+|---|---|---|---|---|---|
+| Variegated Rock Cress 'Old Gold' | *A. ferdinandi-coburgi* 'Old Gold' | 10–15cm | Spring | At pot level | Grey-green leaves edged in creamy gold; small white flowers; the most ornamental foliage of the three |
+| Rose/Coast Rock Cress | *A. blepharophylla* | 15–20cm | Late winter–late spring (February–May) | At pot level | Fragrant, deep purplish-pink flowers; mat-forming to mounding; native to coastal California |
+| Mountain/Caucasian Rock Cress | *A. caucasica* | 25–30cm | Late spring–summer | At pot level | Fragrant white (occasionally pink-tinted) flowers; the most vigorous and cold-hardy of the three; RHS AGM cultivars available |
+
+**Light:** ☀️ Full sun for all three — best variegation and flowering.
+
+**Soil needs:** Free-draining soil, tolerant of poor ground; pH 6.0–7.5. All dislike sitting wet over winter.
+
+**Soil prep:** Improve clay with 25–30% horticultural grit; a raised bed, wall top or rockery suits all three best.
+
+**Planting depth:** At pot level for all three.
+
+**Spacing:** 'Old Gold': 30–40cm. Rose/Coast Rock Cress: 20–25cm. Mountain/Caucasian Rock Cress: 30–45cm, given its more vigorous spread.
+
+**Fertiliser:** Little needed for any of them — over-feeding produces lax growth and less flowering.
+
+**Companions:** Aubretia, alyssum and other classic wall-top/rockery trailing perennials; spring bulbs planted through the mat.
+
+**West of Ireland:** All three are low, spreading, easy evergreen perennials given sharp drainage — trim lightly after flowering to keep them neat and encourage fresh growth. 'Old Gold' is grown chiefly for its variegated foliage; Rose/Coast Rock Cress brings a stronger pink-purple flower colour than most rockcress; Mountain/Caucasian Rock Cress is the toughest and most vigorous of the three, an excellent reliable groundcover for a wall top or the edge of a raised bed.
+
+---
+
 ### G9. Saxifrage (*Saxifraga* spp., alpine/rockery types)
 
 ***Irish / Russian:*** *Mórán · Камнеломка*
@@ -1941,25 +2168,25 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G26. Sedum 'Angelina' (Golden Sedum)
+### G23. Siskiyou Lewisia (*Lewisia cotyledon*)
 
-📷 **Reference photo:** [Sedum — view on Wikipedia](https://en.wikipedia.org/wiki/Sedum)
+📷 **Reference photo:** [Lewisia cotyledon — view on Wikipedia](https://en.wikipedia.org/wiki/Lewisia_cotyledon)
 
-**Light:** ☀️ Full sun essential for the best golden colour.
+**Light:** ☀️ Full sun to 🌤️ partial shade.
 
-**Soil needs:** Free-draining soil, tolerant of poor, dry ground; pH 6.0–7.5.
+**Soil needs:** Very free-draining, gritty soil; pH 6.0–7.0. The rosette is highly prone to rot if water sits on or around it, especially in winter.
 
-**Soil prep:** Improve clay with 30–40% horticultural grit; a raised bed or gritty border edge suits it best.
+**Soil prep:** Improve clay heavily with 40–50% horticultural grit; plant on a slight mound or slope so water runs away from the crown, or grow in a raised trough.
 
-**Planting depth:** At pot level.
+**Planting depth:** Plant with the rosette base slightly proud of the soil surface, angled if on a slope, so water cannot collect around the crown; surround with a collar of grit.
 
-**Spacing:** 20–30cm between plants; spreads to form a dense, low mat.
+**Spacing:** 20–25cm between plants.
 
-**Fertiliser:** None required — thrives on poor soil; over-feeding produces lax, less colourful growth.
+**Fertiliser:** Light balanced feed in spring; avoid rich feeding.
 
-**Companions:** Sempervivum, other sedums, ornamental grasses — classic dry gravel-garden and green-roof companions; Black Mondo Grass for striking colour contrast.
+**Companions:** Sempervivum, saxifrage, houseleek — classic sharp-drainage rockery companions.
 
-**West of Ireland:** A low, spreading, evergreen succulent with bright golden-yellow needle-like foliage that takes on orange-red tints in cold weather, and small starry yellow flowers in summer. Fully hardy and very easy given sharp drainage — good for a gravel garden, green roof, or cascading over a wall, and a reliable source of winter colour when little else is bright.
+**West of Ireland:** An evergreen alpine rosette plant with vivid, multi-coloured (pink, orange, yellow, magenta or striped) flowers in late spring and early summer. The single biggest challenge in the wet west of Ireland climate is keeping the crown dry over winter — plant on a slope, in a raised trough or between rocks where water drains away instantly, or grow in a pot under a cold frame's cover through the wettest months.
 
 ---
 
@@ -2668,6 +2895,28 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### P39. Chilean Avens (*Geum chiloense*)
+
+📷 **Reference photo:** [Geum chiloense — view on Wikipedia](https://en.wikipedia.org/wiki/Geum_chiloense)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Moist but well-drained, fertile soil; pH 6.0–7.5.
+
+**Soil prep:** Mix clay 50/50 with compost; good drainage matters, but the soil should not dry out either.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 30–40cm between plants.
+
+**Fertiliser:** Balanced feed in spring; deadhead regularly to prolong flowering.
+
+**Companions:** Alliums, irises, roses, hardy geraniums — classic sunny border companions.
+
+**West of Ireland:** A cheerful, clump-forming perennial with semi-evergreen foliage and wiry stems of vivid red, orange or yellow single or double flowers held well above the leaves from late spring through summer. Popular cultivars include 'Mrs J. Bradshaw' (scarlet-red) and 'Lady Stratheden' (golden-yellow). Fully hardy and easy in the mild, moist Irish climate; divide congested clumps every 2–3 years to maintain vigour.
+
+---
+
 ### P6. Columbine (*Aquilegia vulgaris* and hybrids)
 
 ***Irish / Russian:*** *Colaimbín · Водосбор обыкновенный (аквилегия)*
@@ -2716,29 +2965,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P38. Cortaderia selloana (Pampas Grass)
 
-📷 **Reference photo:** [Cortaderia selloana — view on Wikipedia](https://en.wikipedia.org/wiki/Cortaderia_selloana)
-
-**Light:** ☀️ Full sun essential.
-
-**Soil needs:** Any reasonably drained soil, including clay; pH 6.0–7.5. Tolerant once established.
-
-**Soil prep:** Improve heavy clay with 20–30% grit for the first couple of seasons while roots establish; mature plants are very tolerant.
-
-**Planting depth:** At pot level.
-
-**Spacing:** 2–3m between plants — this is a genuinely large, architectural grass, not suited to a small border.
-
-**Fertiliser:** Little needed once established; a balanced feed in spring for the first year or two.
-
-**Companions:** Best given its own space as a specimen rather than crowded by other planting, given its ultimate size.
-
-**Warnings ⚠️:** The narrow leaf blades have sharp, saw-toothed edges capable of cutting skin — wear gloves and long sleeves when working near or cutting back the plant. Site away from paths used by children or pets.
-
-**West of Ireland:** A massive, architectural evergreen grass forming a huge fountain of arching, razor-edged foliage topped by tall, feathery, silvery-white plumes in late summer and autumn. Reliably hardy and tolerant of coastal wind in the mild west of Ireland climate, but its eventual size (up to 2–3m tall and wide) makes it suitable only for a large garden with space to spare — not the compact, small-garden-friendly grasses covered elsewhere in this guide. Cut back hard (wearing thick gloves) in late winter/early spring to remove old foliage before new growth starts.
-
----
 
 ### P8. Cutleaf Coneflower 'Goldball' (*Rudbeckia laciniata* 'Goldball')
 
@@ -2906,28 +3133,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P39. Geum chiloense (Chilean Avens)
-
-📷 **Reference photo:** [Geum chiloense — view on Wikipedia](https://en.wikipedia.org/wiki/Geum_chiloense)
-
-**Light:** ☀️ Full sun to 🌤️ partial shade.
-
-**Soil needs:** Moist but well-drained, fertile soil; pH 6.0–7.5.
-
-**Soil prep:** Mix clay 50/50 with compost; good drainage matters, but the soil should not dry out either.
-
-**Planting depth:** Crown at soil level.
-
-**Spacing:** 30–40cm between plants.
-
-**Fertiliser:** Balanced feed in spring; deadhead regularly to prolong flowering.
-
-**Companions:** Alliums, irises, roses, hardy geraniums — classic sunny border companions.
-
-**West of Ireland:** A cheerful, clump-forming perennial with semi-evergreen foliage and wiry stems of vivid red, orange or yellow single or double flowers held well above the leaves from late spring through summer. Popular cultivars include 'Mrs J. Bradshaw' (scarlet-red) and 'Lady Stratheden' (golden-yellow). Fully hardy and easy in the mild, moist Irish climate; divide congested clumps every 2–3 years to maintain vigour.
-
----
-
 ### P15. Globeflower (*Trollius europaeus* / *T. x cultorum*)
 
 ***Russian:*** *Купальница европейская*
@@ -3031,27 +3236,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P40. Ligularia dentata 'Othello'
-
-📷 **Reference photo:** [Ligularia dentata — view on Wikipedia](https://en.wikipedia.org/wiki/Ligularia_dentata)
-
-**Light:** 🌥️ Partial shade preferred, especially from strong afternoon sun; tolerates full sun only if the soil never dries out.
-
-**Soil needs:** Reliably moist to wet, humus-rich soil; pH 5.5–7.0. This is a thirsty plant — it wilts dramatically in dry conditions, even temporarily, and looks its best beside a pond or in a permanently damp border.
-
-**Soil prep:** Dig in generous compost or well-rotted manure; the wetter and richer the ground, the better this plant performs.
-
-**Planting depth:** Crown at soil level.
-
-**Spacing:** 60–90cm between plants — a substantial, bold-leaved perennial.
-
-**Fertiliser:** Balanced feed in spring; benefits from an annual mulch of compost or manure to retain moisture.
-
-**Companions:** Astilbe, royal fern, yellow flag iris, hostas — classic damp border or pond-margin companions.
-
-**West of Ireland:** A bold, architectural perennial with large, rounded, deep purple-bronze leaves and vivid orange-yellow daisy flowers on dark stems in mid-to-late summer. The reliably damp west of Ireland climate suits this thirsty plant well, provided the soil itself is also moisture-retentive (not just the air) — an excellent choice for a pond margin or the boggier end of a border where many other perennials would struggle.
-
----
 
 ### P19. Lilyleaf Ladybells (*Adenophora liliifolia*)
 
@@ -3175,7 +3359,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ### P35. Ornamental Grasses (various genera)
 
-📷 **Reference photos:** [Festuca glauca](https://en.wikipedia.org/wiki/Festuca_glauca) · [Pennisetum alopecuroides](https://en.wikipedia.org/wiki/Pennisetum_alopecuroides) · [Calamagrostis × acutiflora](https://en.wikipedia.org/wiki/Calamagrostis_%C3%97_acutiflora) · [Hakonechloa macra](https://en.wikipedia.org/wiki/Hakonechloa) · [Nassella tenuissima](https://en.wikipedia.org/wiki/Nassella_tenuissima) · [Carex oshimensis](https://en.wikipedia.org/wiki/Carex_oshimensis)
+📷 **Reference photos:** [Festuca glauca](https://en.wikipedia.org/wiki/Festuca_glauca) · [Pennisetum alopecuroides](https://en.wikipedia.org/wiki/Pennisetum_alopecuroides) · [Calamagrostis × acutiflora](https://en.wikipedia.org/wiki/Calamagrostis_%C3%97_acutiflora) · [Hakonechloa macra](https://en.wikipedia.org/wiki/Hakonechloa) · [Nassella tenuissima](https://en.wikipedia.org/wiki/Nassella_tenuissima) · [Carex oshimensis](https://en.wikipedia.org/wiki/Carex_oshimensis) · [Cortaderia selloana](https://en.wikipedia.org/wiki/Cortaderia_selloana)
 
 | Species | Latin name | Height | Flowering | Planting depth | Notes |
 |---|---|---|---|---|---|
@@ -3186,24 +3370,25 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | Mexican Feather Grass | *Nassella tenuissima* (syn. *Stipa tenuissima*) | 40–60cm | Summer | At pot level | Fine, hair-like evergreen foliage in constant motion in the slightest breeze; self-seeds readily |
 | Evergold Sedge | *Carex oshimensis* 'Evergold' | 25–35cm | Insignificant | At pot level | Evergreen, cream-and-green striped foliage; tolerates damper soil and part shade better than the others |
 | Japanese Blood Grass | *Imperata cylindrica* 'Red Baron' | 40–60cm | Insignificant | At pot level | Upright blades, green at the base flushing brilliant blood-red at the tips, deepening through summer into autumn; slowly spreading rather than clump-forming |
+| Pampas Grass | *Cortaderia selloana* | 2–3m | Late summer–autumn | At pot level | Much larger and more architectural than the others in this table — a huge fountain of arching, razor-edged foliage topped by tall, feathery, silvery-white plumes; suits only a large garden with space to spare; ⚠️ sharp, saw-toothed leaf edges, wear gloves |
 
-**Light:** ☀️ Full sun for Blue Fescue, Dwarf Fountain Grass, Feather Reed Grass, Mexican Feather Grass and Japanese Blood Grass — flowering, upright habit and red colouring all suffer in shade. Japanese Forest Grass and Evergold Sedge are the exceptions, both doing well in partial shade.
+**Light:** ☀️ Full sun for Blue Fescue, Dwarf Fountain Grass, Feather Reed Grass, Mexican Feather Grass and Japanese Blood Grass — flowering, upright habit and red colouring all suffer in shade. Pampas Grass also needs full sun. Japanese Forest Grass and Evergold Sedge are the exceptions, both doing well in partial shade.
 
 **Soil needs:** Most prefer light, moist but free-draining, moderately fertile soil, pH 6.0–7.5. Evergold Sedge and Japanese Forest Grass are more tolerant of consistently moist, even slightly heavier soil than the others, which need sharper drainage, especially over winter.
 
 **Soil prep:** For Blue Fescue, Feather Reed Grass, Mexican Feather Grass and Japanese Blood Grass on clay: improve with 25–30% horticultural grit, since good winter drainage is essential to prevent rot at the crown. For Japanese Forest Grass and Evergold Sedge: mix clay with compost, without the need for heavy grit. Dwarf Fountain Grass sits between the two, appreciating reasonable drainage but not as fussy as the true drought-tolerant grasses.
 
-**Planting depth:** At pot level for all seven, planted at the same depth as in the nursery pot.
+**Planting depth:** At pot level for all eight, planted at the same depth as in the nursery pot.
 
-**Spacing:** Blue Fescue and Evergold Sedge: 25–35cm between plants. Japanese Forest Grass, Mexican Feather Grass and Japanese Blood Grass: 30–45cm. Dwarf Fountain Grass: 45–50cm. Feather Reed Grass: 45–60cm, given its height.
+**Spacing:** Blue Fescue and Evergold Sedge: 25–35cm between plants. Japanese Forest Grass, Mexican Feather Grass and Japanese Blood Grass: 30–45cm. Dwarf Fountain Grass: 45–50cm. Feather Reed Grass: 45–60cm, given its height. Pampas Grass: 2–3m — in a different league entirely, this is a genuinely large, architectural grass, not suited to a small border.
 
 **Fertiliser:** Very little needed for most — over-feeding produces lax, floppy growth, especially in Blue Fescue and Mexican Feather Grass. A light spring mulch of garden compost is usually sufficient. Feather Reed Grass and Dwarf Fountain Grass benefit from an occasional balanced feed in spring for the best flowering display.
 
-**Companions:** All seven combine beautifully with late-summer perennials such as sedum, echinacea and rudbeckia, and with spring bulbs planted through the clumps for earlier interest. Evergold Sedge and Japanese Forest Grass pair especially well with hostas, ferns and other shade-loving foliage plants. Japanese Blood Grass looks especially dramatic backlit by low sun, or planted with dark-leaved companions such as Black Mondo Grass.
+**Companions:** The seven smaller grasses combine beautifully with late-summer perennials such as sedum, echinacea and rudbeckia, and with spring bulbs planted through the clumps for earlier interest. Evergold Sedge and Japanese Forest Grass pair especially well with hostas, ferns and other shade-loving foliage plants. Japanese Blood Grass looks especially dramatic backlit by low sun, or planted with dark-leaved companions such as Black Mondo Grass. Pampas Grass is best given its own space as a solo specimen rather than crowded by other planting, given its ultimate size.
 
-**Pruning:** Cut deciduous types (Dwarf Fountain Grass, Feather Reed Grass, Japanese Blood Grass) back hard to a few centimetres above the ground in late winter, before new growth starts. Evergreen types (Blue Fescue, Mexican Feather Grass, Japanese Forest Grass, Evergold Sedge) just need old or damaged foliage combed out or lightly trimmed in spring — do not cut hard back.
+**Pruning:** Cut deciduous types (Dwarf Fountain Grass, Feather Reed Grass, Japanese Blood Grass) back hard to a few centimetres above the ground in late winter, before new growth starts. Evergreen types (Blue Fescue, Mexican Feather Grass, Japanese Forest Grass, Evergold Sedge) just need old or damaged foliage combed out or lightly trimmed in spring — do not cut hard back. Pampas Grass: cut back hard in late winter/early spring to remove old foliage before new growth starts — always wear thick gloves and long sleeves, since the leaf edges are sharp enough to cut skin.
 
-**West of Ireland:** For a small west of Ireland garden, Blue Fescue, Evergold Sedge and Mexican Feather Grass are the best-behaved and most compact choices — all clump-forming rather than running, so they stay well mannered in a small border or container. Japanese Forest Grass is an excellent choice for a shadier corner where few other grasses would thrive, while Feather Reed Grass gives valuable upright structure and winter interest (its dried flower spikes persist attractively) without becoming floppy in the region's wind and rain. The mild, moist Atlantic climate generally suits ornamental grasses well, though the free-draining species (Blue Fescue, Mexican Feather Grass, Feather Reed Grass) are more prone to winter rot on heavy clay than the moisture-tolerant Evergold Sedge and Japanese Forest Grass.
+**West of Ireland:** For a small west of Ireland garden, Blue Fescue, Evergold Sedge and Mexican Feather Grass are the best-behaved and most compact choices — all clump-forming rather than running, so they stay well mannered in a small border or container. Japanese Forest Grass is an excellent choice for a shadier corner where few other grasses would thrive, while Feather Reed Grass gives valuable upright structure and winter interest (its dried flower spikes persist attractively) without becoming floppy in the region's wind and rain. The mild, moist Atlantic climate generally suits ornamental grasses well, though the free-draining species (Blue Fescue, Mexican Feather Grass, Feather Reed Grass) are more prone to winter rot on heavy clay than the moisture-tolerant Evergold Sedge and Japanese Forest Grass. Pampas Grass is reliably hardy and tolerant of coastal wind here too, but its sheer eventual size (2–3m tall and wide) makes it suitable only for a large garden with space to spare — the odd one out in this table, included for comparison rather than as a small-garden recommendation.
 
 ---
 
@@ -3355,6 +3540,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### P42. Society Garlic (*Tulbaghia violacea*)
+
+📷 **Reference photo:** [Tulbaghia violacea — view on Wikipedia](https://en.wikipedia.org/wiki/Tulbaghia_violacea)
+
+**Light:** ☀️ Full sun essential.
+
+**Soil needs:** Free-draining, moderately fertile soil; pH 6.0–7.5.
+
+**Soil prep:** Improve clay with 25–30% horticultural grit; a raised bed or large container gives the most reliable results on Irish clay.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 25–30cm between plants.
+
+**Fertiliser:** Balanced liquid feed monthly through the growing season.
+
+**Companions:** Lavender, rosemary and other sun-loving, well-drained border companions; said to help deter aphids nearby, like other alliums.
+
+**Pot/container:** ✅ Grows very well in a container, which also makes winter protection straightforward.
+
+**West of Ireland:** An evergreen, clump-forming, garlic-scented perennial from South Africa with grey-green strappy leaves and clusters of star-shaped lilac flowers held on tall stems through summer into autumn. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in the mildest, most sheltered coastal west of Ireland gardens; elsewhere, best grown in a container that can be moved to a frost-free spot for winter, or given a thick dry mulch if left in the ground.
+
+---
+
 ### P30. Stocks (*Matthiola incana* / *M. longipetala*)
 
 ***Russian:*** *Левкой седой*
@@ -3398,30 +3607,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Companions:** Ox-eye daisy, yarrow, other native wildflower meadow companions.
 
 **West of Ireland:** A native wildflower with snapdragon-like yellow and orange flowers on upright spikes through summer, valuable for bees. Spreads by rhizomes and self-seeds readily, so best suited to a wildflower area or informal bank rather than a tidy border, where it can be to be kept in check.
-
----
-
-### P42. Tulbaghia violacea (Society Garlic)
-
-📷 **Reference photo:** [Tulbaghia violacea — view on Wikipedia](https://en.wikipedia.org/wiki/Tulbaghia_violacea)
-
-**Light:** ☀️ Full sun essential.
-
-**Soil needs:** Free-draining, moderately fertile soil; pH 6.0–7.5.
-
-**Soil prep:** Improve clay with 25–30% horticultural grit; a raised bed or large container gives the most reliable results on Irish clay.
-
-**Planting depth:** Crown at soil level.
-
-**Spacing:** 25–30cm between plants.
-
-**Fertiliser:** Balanced liquid feed monthly through the growing season.
-
-**Companions:** Lavender, rosemary and other sun-loving, well-drained border companions; said to help deter aphids nearby, like other alliums.
-
-**Pot/container:** ✅ Grows very well in a container, which also makes winter protection straightforward.
-
-**West of Ireland:** An evergreen, clump-forming, garlic-scented perennial from South Africa with grey-green strappy leaves and clusters of star-shaped lilac flowers held on tall stems through summer into autumn. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in the mildest, most sheltered coastal west of Ireland gardens; elsewhere, best grown in a container that can be moved to a frost-free spot for winter, or given a thick dry mulch if left in the ground.
 
 ---
 
@@ -3812,6 +3997,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### T31. Balsam Fir (*Abies balsamea*)
+
+📷 **Reference photo:** [Abies balsamea — view on Wikipedia](https://en.wikipedia.org/wiki/Abies_balsamea)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Moist, well-drained, acidic to neutral soil; pH 5.0–6.5. Dislikes hot, dry conditions.
+
+**Soil prep:** Mix clay 50/50 with ericaceous or multipurpose compost and grit for drainage.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 4–6m between plants for a full-sized tree; dwarf cultivars much closer.
+
+**Fertiliser:** Balanced slow-release feed in spring while young.
+
+**Companions:** Underplant with ferns, hostas and other woodland-edge shade plants.
+
+**Fragrance 🌲:** Famously fragrant — the classic "Christmas tree" scent, released strongly when the needles are crushed or the tree is cut; often used in balsam-filled pillows and potpourri.
+
+**West of Ireland:** A neat, conical North American conifer, the archetypal Christmas tree, with soft, flat, dark green needles and upright purplish cones. Prefers cool, consistently moist conditions and dislikes hot, dry summers, which suits the mild west of Ireland climate reasonably well, though it performs best with some shelter from strong coastal wind. Full-sized specimens are large — a dwarf cultivar is a better fit for most gardens.
+
+---
+
 ### T1. Bamboo (clump-forming: *Fargesia* spp., *Chusquea* spp.)
 
 ***Russian:*** *Бамбук*
@@ -3834,27 +4043,27 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T22. Berberis thunbergii 'Atropurpurea' (Purple Japanese Barberry)
+### T25. Black Locust (*Robinia pseudoacacia* 'Frisia')
 
-📷 **Reference photo:** [Berberis thunbergii — view on Wikipedia](https://en.wikipedia.org/wiki/Berberis_thunbergii)
+📷 **Reference photo:** [Robinia pseudoacacia — view on Wikipedia](https://en.wikipedia.org/wiki/Robinia_pseudoacacia)
 
-**Light:** ☀️ Full sun for the best deep purple leaf colour; tolerates partial shade but foliage turns greener.
+**Light:** ☀️ Full sun essential for the best golden leaf colour.
 
-**Soil needs:** Any reasonably drained soil, including clay; pH 6.0–7.5. Very adaptable and tolerant of poor soil.
+**Soil needs:** Any well-drained soil, including poor or dry ground; pH 6.0–7.5. Tolerant of poor soil (it fixes its own nitrogen) but dislikes waterlogging.
 
-**Soil prep:** Minimal — one of the easiest and most tolerant shrubs of clay in this guide. Add compost to very heavy ground.
+**Soil prep:** Improve heavy clay with grit for the first few years; established trees are very tolerant.
 
-**Planting depth:** At nursery soil mark.
+**Planting depth:** At nursery soil mark. Stake well while young — brittle wood is prone to wind damage.
 
-**Spacing:** 60–90cm between plants for a hedge; 1–1.2m as a specimen.
+**Spacing:** 6–8m between plants; can eventually reach 12–15m, though slower and more compact than the straight species.
 
-**Fertiliser:** None needed once established.
+**Fertiliser:** None needed once established — a nitrogen-fixing legume.
 
-**Companions:** Golden or lime-green shrubs (e.g. Choisya, golden Philadelphus) for foliage contrast; spring bulbs beneath.
+**Companions:** Underplant with shade-tolerant bulbs and perennials once the canopy provides light dappled shade.
 
-**Warnings ⚠️:** Sharply spined stems — wear thick gloves when pruning; site away from paths used by children.
+**Warnings ⚠️:** Brittle branches can break in strong wind — avoid very exposed sites, and site away from paths/parking. Thorny on some growth.
 
-**West of Ireland:** A tough, spiny deciduous shrub with rich reddish-purple foliage all season, small pale yellow spring flowers, red autumn berries and fiery autumn leaf colour. Extremely hardy and low-maintenance, tolerant of wind, pollution and poor soil — an excellent low hedge or barrier planting for an exposed site.
+**West of Ireland:** A fast-growing deciduous tree grown for its soft, golden-yellow, fern-like foliage that lights up a garden from spring to autumn, with fragrant white pea-flowers in early summer. Tolerant of poor soil and pollution, but its brittle wood is vulnerable to breakage in the region's strong Atlantic winds — a sheltered spot is best.
 
 ---
 
@@ -3904,6 +4113,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### T32. Douglas Fir (*Pseudotsuga menziesii*)
+
+📷 **Reference photo:** [Pseudotsuga menziesii — view on Wikipedia](https://en.wikipedia.org/wiki/Pseudotsuga_menziesii)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Soil needs:** Moist, well-drained soil, acidic to neutral; pH 5.0–6.5. Dislikes hot, dry sites.
+
+**Soil prep:** Mix clay 50/50 with compost and grit for drainage.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** This is a genuinely enormous forest tree (naturally reaching well over 60m) — full-sized specimens need a very large garden or estate; dwarf and compact cultivars are a far more realistic choice for most gardens, spaced 2–4m apart.
+
+**Fertiliser:** Balanced slow-release feed in spring while young.
+
+**Companions:** Best given its own space if grown as a full-sized specimen; dwarf cultivars combine well with other conifers and heathers.
+
+**Fragrance 🌲:** Needles are noticeably fragrant when crushed or bruised, often described as citrusy or resinous.
+
+**West of Ireland:** A majestic evergreen conifer, introduced to the UK and Ireland from western North America in the 1820s and now naturalised in some large estate woodlands. Tolerates the mild, moist Atlantic climate well and is not a true fir despite the name (it belongs to its own genus, *Pseudotsuga*). Given its ultimate size, this is a tree for a large garden, parkland or woodland planting rather than an average suburban plot — choose one of the many dwarf or compact cultivars available for a smaller space.
+
+---
+
 ### T5. Dwarf Lily Magnolia (*Magnolia liliiflora*, e.g. 'Nigra')
 
 ***Russian:*** *Магнолия лилиецветная*
@@ -3950,6 +4183,52 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### T26. Elder 'Black Lace' (*Sambucus nigra* 'Black Lace')
+
+📷 **Reference photo:** [Sambucus nigra — view on Wikipedia](https://en.wikipedia.org/wiki/Sambucus_nigra)
+
+**Light:** ☀️ Full sun for the deepest near-black leaf colour; tolerates partial shade but foliage turns more green.
+
+**Soil needs:** Most soils including clay, moist but well-drained; pH 5.5–7.5.
+
+**Soil prep:** Mix clay with compost; very adaptable and easy.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 2–3m between plants; can be kept smaller with annual pruning.
+
+**Fertiliser:** Balanced feed in spring; annual compost mulch.
+
+**Companions:** Contrasts beautifully with lime-green or golden foliage (e.g. golden Philadelphus, Choisya 'Sundance') and with pink or white-flowered shrubs and perennials.
+
+**Pruning:** For the best, largest foliage, cut hard back to a framework in late winter each year (sacrificing some flowers); for flowers and berries as well as foliage, prune more lightly.
+
+**West of Ireland:** A striking large shrub with finely cut, near-black purple foliage and pink-flushed, lacy flowerheads in early summer, followed by black elderberries (edible when cooked, like the wild native elder). Fully hardy and easy in the mild, moist Irish climate — a dramatic dark foil for pale or pastel-flowered companions.
+
+---
+
+### T33. English Oak (*Quercus robur*)
+
+📷 **Reference photo:** [Quercus robur — view on Wikipedia](https://en.wikipedia.org/wiki/Quercus_robur)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Any soil including clay and chalk; pH 5.0–8.0. Extremely tolerant and lime-tolerant.
+
+**Soil prep:** Minimal — one of the most adaptable trees to heavy clay in this guide, needing no special amendment.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 8–10m minimum from structures for a young tree, and ideally considerably more given its eventual size (up to 35m) — this is a long-lived, very large forest tree.
+
+**Fertiliser:** None needed once established.
+
+**Companions:** Bluebells, wood anemones and other native woodland-floor plants once the canopy provides dappled shade; supports an exceptional range of native Irish insect and bird life.
+
+**West of Ireland:** A magnificent, iconic native-range tree (present in Ireland since prehistory, though most Irish "native" oak woodland is now largely sessile oak, *Quercus petraea*) valued as much for wildlife as for timber — few other trees support as much insect, lichen and bird life. Extremely long-lived, tolerant of the region's heavy clay and high rainfall, and a genuine multi-generational specimen tree — plant only where there is truly room for a very large, long-lived tree, well away from buildings and drains.
+
+---
+
 ### T7. False Spirea (*Sorbaria sorbifolia*)
 
 📷 **Reference photo:** [Sorbaria sorbifolia — view source](https://en.wikipedia.org/wiki/Sorbaria_sorbifolia)
@@ -3969,6 +4248,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Companions:** Good at the back of a mixed border with hydrangea and deutzia; also useful for stabilising damp banks.
 
 **West of Ireland:** Vigorous, suckering shrub with creamy plume-like flowers in summer — spreads readily by suckers, so best given room to naturalise (e.g. a bank or informal border) rather than a tight border, where it can be to be kept in check by removing suckers.
+
+---
+
+### T34. Fraser Fir (*Abies fraseri*)
+
+📷 **Reference photo:** [Abies fraseri — view on Wikipedia](https://en.wikipedia.org/wiki/Fraser_fir)
+
+**Light:** ☀️ Full sun to 🌤️ light shade.
+
+**Soil needs:** Moist, well-drained, acidic soil; pH 5.0–6.0. Dislikes heat and drought.
+
+**Soil prep:** Mix clay 50/50 with ericaceous or multipurpose compost and grit for drainage.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 4–6m between plants for a full-sized tree.
+
+**Fertiliser:** Balanced slow-release feed in spring while young.
+
+**Companions:** Underplant with ferns, hostas and other acid-loving woodland-edge plants.
+
+**Fragrance 🌲:** Strongly and pleasantly fragrant, often described as resembling turpentine or classic pine-forest scent; the needles are notably long-lasting once cut, which is why this species is the most popular Christmas tree species commercially grown in North America.
+
+**West of Ireland:** A neat, conical North American fir native to the high Appalachian Mountains, with dark green needles showing silvery-white undersides. Prefers cool, consistently moist conditions similar to its native mountain habitat, which the mild, damp west of Ireland climate can suit well given reasonable shelter; dislikes hot, dry summers, which are rarely an issue here. A good choice where a genuinely fragrant conifer specimen is wanted.
 
 ---
 
@@ -3996,7 +4299,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T23. Ginkgo biloba (Maidenhair Tree)
+### T23. Ginkgo (*Ginkgo biloba*)
 
 📷 **Reference photo:** [Ginkgo biloba — view on Wikipedia](https://en.wikipedia.org/wiki/Ginkgo_biloba)
 
@@ -4042,6 +4345,28 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### T36. Horse Chestnut (*Aesculus hippocastanum*)
+
+📷 **Reference photo:** [Aesculus hippocastanum — view on Wikipedia](https://en.wikipedia.org/wiki/Aesculus_hippocastanum)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Soil needs:** Most soils including clay; pH 5.5–7.5. Adaptable and tolerant.
+
+**Soil prep:** Minimal — a tolerant tree once established.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** Needs a genuinely large garden or parkland setting — 10m+ from structures, and considerably more space to reach its full, wide-spreading canopy.
+
+**Fertiliser:** None needed once established.
+
+**Companions:** Best given its own space, since it casts dense shade and has a wide root spread once mature.
+
+**West of Ireland:** A large, familiar deciduous tree (not native to Ireland or Britain, but long naturalised, originally from the Balkans), grown for its impressive upright "candles" of white or pink flowers in May and its glossy conkers in autumn — a childhood favourite. Fully hardy in the mild, moist Irish climate, but its eventual size and dense canopy make it suitable only for a large garden, parkland or avenue planting, not an average suburban plot. Increasingly affected by leaf miner and bleeding canker in parts of the UK/Ireland, which can shorten leaf display but rarely kills an established tree outright.
+
+---
+
 ### T10. Irish Yew (*Taxus baccata* 'Fastigiata')
 
 ***Irish / Russian:*** *Iúr · Тис ягодный*
@@ -4063,6 +4388,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Companions:** Holly, peonies, roses (as a dark backdrop), hellebores, snowdrops. Evergreen column provides structure year-round.
 
 ⚠️ **All parts except red berry flesh are highly toxic to humans, horses and livestock. Do not plant near paddocks.**
+
+---
+
+### T22. Japanese Barberry (*Berberis thunbergii* 'Atropurpurea')
+
+📷 **Reference photo:** [Berberis thunbergii — view on Wikipedia](https://en.wikipedia.org/wiki/Berberis_thunbergii)
+
+**Light:** ☀️ Full sun for the best deep purple leaf colour; tolerates partial shade but foliage turns greener.
+
+**Soil needs:** Any reasonably drained soil, including clay; pH 6.0–7.5. Very adaptable and tolerant of poor soil.
+
+**Soil prep:** Minimal — one of the easiest and most tolerant shrubs of clay in this guide. Add compost to very heavy ground.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 60–90cm between plants for a hedge; 1–1.2m as a specimen.
+
+**Fertiliser:** None needed once established.
+
+**Companions:** Golden or lime-green shrubs (e.g. Choisya, golden Philadelphus) for foliage contrast; spring bulbs beneath.
+
+**Warnings ⚠️:** Sharply spined stems — wear thick gloves when pruning; site away from paths used by children.
+
+**West of Ireland:** A tough, spiny deciduous shrub with rich reddish-purple foliage all season, small pale yellow spring flowers, red autumn berries and fiery autumn leaf colour. Extremely hardy and low-maintenance, tolerant of wind, pollution and poor soil — an excellent low hedge or barrier planting for an exposed site.
 
 ---
 
@@ -4196,6 +4545,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### T35. Korean Fir (*Abies koreana*)
+
+📷 **Reference photo:** [Abies koreana — view on Wikipedia](https://en.wikipedia.org/wiki/Abies_koreana)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade, with some shelter from cold wind.
+
+**Soil needs:** Deep, moist, slightly acidic to neutral, well-drained soil; pH 5.0–6.5. Grows poorly in heavy clay unless well amended.
+
+**Soil prep:** Mix clay generously with ericaceous or multipurpose compost and grit for drainage — this species is less clay-tolerant than many other conifers in this guide.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 3–4m between plants for a full-sized specimen; slow-growing, so this takes many years; dwarf cultivars (e.g. 'Silberlocke') can go much closer.
+
+**Fertiliser:** Balanced slow-release feed in spring while young.
+
+**Companions:** Heather, dwarf conifers and other acid-loving woodland-edge plants.
+
+**Fragrance 🌲:** The needles are noticeably fragrant, particularly when crushed.
+
+**West of Ireland:** A compact, slow-growing, RHS AGM conifer from the mountains of South Korea, prized for its short, dense, glossy needles (silvery beneath) and striking upright violet-blue cones, produced even on young trees. Prefers cooler conditions and good shelter from wind — well suited to the mild but often breezy west of Ireland climate given a reasonably sheltered spot, though it dislikes being planted in unamended heavy clay.
+
+---
+
 ### T14. Lewis Mock Orange (*Philadelphus lewisii*)
 
 ***Russian:*** *Чубушник Льюиса*
@@ -4294,75 +4667,27 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T24. Rhus glabra 'Laciniata' (Cutleaf Smooth Sumac)
+### T37. Scots Pine (*Pinus sylvestris*)
 
-📷 **Reference photo:** [Rhus glabra — view on Wikipedia](https://en.wikipedia.org/wiki/Rhus_glabra)
+📷 **Reference photo:** [Pinus sylvestris — view on Wikipedia](https://en.wikipedia.org/wiki/Pinus_sylvestris)
 
-**Light:** ☀️ Full sun for the best autumn colour.
+**Light:** ☀️ Full sun essential.
 
-**Soil needs:** Any well-drained soil, including poor or dry ground; pH 5.5–7.5. Very adaptable.
+**Soil needs:** Any well-drained soil, including poor, sandy or acidic ground; pH 4.5–7.0. Dislikes heavy waterlogged clay.
 
-**Soil prep:** Minimal — thrives on poor soil; avoid overly rich ground, which encourages excessive suckering.
-
-**Planting depth:** At nursery soil mark.
-
-**Spacing:** 2–3m between plants; spreads by suckers, so allow room or control with a root barrier.
-
-**Fertiliser:** None needed — feeding encourages unwanted vigorous suckering.
-
-**Companions:** Ornamental grasses and other plants that can compete with its suckering habit; avoid delicate small perennials nearby.
-
-**Warnings ⚠️:** Spreads by suckers and can become a thicket if not controlled — remove unwanted suckers as they appear, or contain the roots.
-
-**West of Ireland:** A striking architectural shrub with finely cut, fern-like foliage that turns brilliant orange-red in autumn, and conical clusters of crimson fruit persisting into winter. Fully hardy and easy in the mild, moist Irish climate; give it room to spread or be prepared to control suckers regularly.
-
----
-
-### T25. Robinia pseudoacacia 'Frisia' (Golden Robinia)
-
-📷 **Reference photo:** [Robinia pseudoacacia — view on Wikipedia](https://en.wikipedia.org/wiki/Robinia_pseudoacacia)
-
-**Light:** ☀️ Full sun essential for the best golden leaf colour.
-
-**Soil needs:** Any well-drained soil, including poor or dry ground; pH 6.0–7.5. Tolerant of poor soil (it fixes its own nitrogen) but dislikes waterlogging.
-
-**Soil prep:** Improve heavy clay with grit for the first few years; established trees are very tolerant.
-
-**Planting depth:** At nursery soil mark. Stake well while young — brittle wood is prone to wind damage.
-
-**Spacing:** 6–8m between plants; can eventually reach 12–15m, though slower and more compact than the straight species.
-
-**Fertiliser:** None needed once established — a nitrogen-fixing legume.
-
-**Companions:** Underplant with shade-tolerant bulbs and perennials once the canopy provides light dappled shade.
-
-**Warnings ⚠️:** Brittle branches can break in strong wind — avoid very exposed sites, and site away from paths/parking. Thorny on some growth.
-
-**West of Ireland:** A fast-growing deciduous tree grown for its soft, golden-yellow, fern-like foliage that lights up a garden from spring to autumn, with fragrant white pea-flowers in early summer. Tolerant of poor soil and pollution, but its brittle wood is vulnerable to breakage in the region's strong Atlantic winds — a sheltered spot is best.
-
----
-
-### T26. Sambucus nigra 'Black Lace' (Black Elder)
-
-📷 **Reference photo:** [Sambucus nigra — view on Wikipedia](https://en.wikipedia.org/wiki/Sambucus_nigra)
-
-**Light:** ☀️ Full sun for the deepest near-black leaf colour; tolerates partial shade but foliage turns more green.
-
-**Soil needs:** Most soils including clay, moist but well-drained; pH 5.5–7.5.
-
-**Soil prep:** Mix clay with compost; very adaptable and easy.
+**Soil prep:** Improve heavy clay with 30% grit; this species is naturally adapted to poor, free-draining soils.
 
 **Planting depth:** At nursery soil mark.
 
-**Spacing:** 2–3m between plants; can be kept smaller with annual pruning.
+**Spacing:** 6–10m between plants for a full-sized tree; this is a large forest tree at maturity (up to 30m).
 
-**Fertiliser:** Balanced feed in spring; annual compost mulch.
+**Fertiliser:** None needed once established.
 
-**Companions:** Contrasts beautifully with lime-green or golden foliage (e.g. golden Philadelphus, Choisya 'Sundance') and with pink or white-flowered shrubs and perennials.
+**Companions:** Heather, gorse and other plants of poor, acidic, free-draining ground.
 
-**Pruning:** For the best, largest foliage, cut hard back to a framework in late winter each year (sacrificing some flowers); for flowers and berries as well as foliage, prune more lightly.
+**Fragrance 🌲:** Distinctly resinous and fragrant, especially the sap and crushed needles — the classic "pine forest" scent.
 
-**West of Ireland:** A striking large shrub with finely cut, near-black purple foliage and pink-flushed, lacy flowerheads in early summer, followed by black elderberries (edible when cooked, like the wild native elder). Fully hardy and easy in the mild, moist Irish climate — a dramatic dark foil for pale or pastel-flowered companions.
+**West of Ireland:** A native-range evergreen conifer (native to Scotland and once native to Ireland too, where ancient pine woodland has been reintroduced in some conservation projects) with distinctive orange-red upper bark and blue-green needles. Tolerates poor, acidic, free-draining soil and coastal exposure well, but genuinely needs full sun and dislikes the region's heavier, wetter clay unless drainage is properly improved. A large, long-lived specimen tree suited to a big garden rather than a small plot.
 
 ---
 
@@ -4385,6 +4710,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Companions:** Lavender, catmint, ornamental grasses — classic sunny border and low-hedge companions.
 
 **West of Ireland:** A compact, twiggy deciduous shrub with small divided leaves and a long succession of saucer-shaped flowers (yellow, gold, white, pink or orange depending on cultivar) from late spring right through to autumn. Extremely hardy, tolerant of wind and coastal exposure, and virtually trouble-free — an excellent low-maintenance choice for a low informal hedge or border edge in an exposed west of Ireland garden.
+
+---
+
+### T24. Smooth Sumac (*Rhus glabra* 'Laciniata')
+
+📷 **Reference photo:** [Rhus glabra — view on Wikipedia](https://en.wikipedia.org/wiki/Rhus_glabra)
+
+**Light:** ☀️ Full sun for the best autumn colour.
+
+**Soil needs:** Any well-drained soil, including poor or dry ground; pH 5.5–7.5. Very adaptable.
+
+**Soil prep:** Minimal — thrives on poor soil; avoid overly rich ground, which encourages excessive suckering.
+
+**Planting depth:** At nursery soil mark.
+
+**Spacing:** 2–3m between plants; spreads by suckers, so allow room or control with a root barrier.
+
+**Fertiliser:** None needed — feeding encourages unwanted vigorous suckering.
+
+**Companions:** Ornamental grasses and other plants that can compete with its suckering habit; avoid delicate small perennials nearby.
+
+**Warnings ⚠️:** Spreads by suckers and can become a thicket if not controlled — remove unwanted suckers as they appear, or contain the roots.
+
+**West of Ireland:** A striking architectural shrub with finely cut, fern-like foliage that turns brilliant orange-red in autumn, and conical clusters of crimson fruit persisting into winter. Fully hardy and easy in the mild, moist Irish climate; give it room to spread or be prepared to control suckers regularly.
 
 ---
 
@@ -5083,18 +5432,20 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | G35 | Adriatic Bellflower | *Campanula garganica* | 6.0–7.0 | At pot level | ✅ 10–15L container | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 15–20cm between plants |
 | B16 | Allium | *Allium* spp. | 6.0–7.5 | 10–15cm deep (2–3× bulb depth); autumn | ✅ 5L+ per bulb cluster | ☀️ | Roses, peonies, irises, ornamental grasses | 10–20cm between bulbs depending on variety |
 | B30 | Allium 'Nigrum' | *Allium multibulbosum* 'Nigrum' (*A. nigrum*) | 6.0–7.5 | 15cm deep (2–3× bulb depth); autumn | ✅ Large 5L+ container | ☀️ | Roses, peonies, ornamental grasses | 20–25cm between bulbs |
+| F22 | Almond | *Prunus dulcis* | 6.0–7.5 | At nursery soil mark; graft above soil | ⚠️ Large container | ☀️ | Chives, garlic; spring bulbs | 4–6m free-standing; 4–5m fan-trained |
 | P47 | Alstroemeria | *Alstroemeria* spp. | 6.0–7.0 | 15–20cm deep (tubers) | ✅ 15–20L container | ☀️ to 🌤️ | Roses, geraniums, salvias | 30–45cm between plants |
-| F1 | Apple 'Baya Marisa' (P22) | *Malus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, nasturtiums | 1–1.5m between trees; permanent stake |
+| F1 | Apple | *Malus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) on dwarfing rootstock | ☀️ | Chives, garlic, nasturtiums | Depends on rootstock; cvs. 'Baya Marisa', Cox's Orange Pippin, White Transparent, 'Granny Smith', Antonovka, Grushovka Moskovskaya |
 | P6 | Aquilegia (Columbine) | *Aquilegia vulgaris* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Foxgloves, hardy geraniums, roses | 30–45cm between plants; self-seeds freely |
-| G20 | Arabis 'Old Gold' | *Arabis* 'Old Gold' | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Aubretia, alyssum, spring bulbs | 30–40cm between plants |
+| G20 | Arabis 'Old Gold' | *Arabis ferdinandi-coburgi* 'Old Gold' | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Aubretia, alyssum, spring bulbs | 30–40cm between plants |
 | W10 | Arrowhead | *Sagittaria sagittifolia* | 6.0–7.5 | Crown at soil surface; up to 20cm water above | ✅ Aquatic basket or pond-bottom mud | ☀️ to 🌤️ | Yellow flag iris, bogbean, flowering rush | 30–45cm between plants |
 | P48 | Aruncus aethusifolius | *Aruncus aethusifolius* | 5.5–7.0 | Crown at soil level | ✅ 10–15L container | 🌥️ | Astilbe, hostas, ferns, primroses | 30–40cm between plants |
 | P1 | Astilbe | *Astilbe* spp. | 5.5–7.0 | At pot level; crown at surface | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, ferns, hellebores, primulas | 30–45cm between plants |
 | P2 | Auricula | *Primula auricula* | 6.5–7.5 | Crown at soil level | ✅ 3–5L pot/trough | 🌥️ | Saxifrage, sempervivum, other alpines | 15–20cm between plants |
+| T31 | Balsam Fir | *Abies balsamea* | 5.0–6.5 | At nursery soil mark | ⚠️ Large container for dwarf cultivars | ☀️ to 🌥️ | Ferns, hostas | 4–6m; dwarf cultivars much closer |
 | T1 | Bamboo (clump-forming) | *Fargesia* / *Chusquea* spp. | 5.5–7.0 | At pot level | ⚠️ Very large tub (100L+) | 🌤️ | Ferns, hostas, astilbe | 1.5–3m from structures; root barrier for running types |
 | P3 | Bearded Iris (Border Iris) | *Iris germanica* | 6.5–7.5 | Rhizome at/just above soil surface | ⚠️ Wide shallow container, 30L+ | ☀️ | Roses, peonies, alliums | 30–45cm between rhizomes; divide every 3–4 yrs |
 | G16 | Bell Heather | *Erica cinerea* | 4.5–6.5 | At pot level | ✅ 20–25cm / 5–10L ericaceous compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants |
-| T22 | Berberis thunbergii 'Atropurpurea' | *Berberis thunbergii* 'Atropurpurea' | 6.0–7.5 | At nursery soil mark | ✅ 40–50L container | ☀️ | Golden/lime-green shrubs, spring bulbs | 60–90cm hedge; 1–1.2m specimen |
+| T25 | Black Locust | *Robinia pseudoacacia* 'Frisia' | 6.0–7.5 | At nursery soil mark | ⚠️ Large container for young trees | ☀️ | Shade-tolerant bulbs and perennials | 6–8m between plants |
 | G32 | Black Mondo Grass | *Ophiopogon planiscapus* 'Niger' | 5.5–7.0 | At pot level | ✅ 10–15L container | ☀️ to 🌥️ | Sedum 'Angelina', golden sedges | 20–25cm between plants |
 | F2 | Blackberries | *Rubus fruticosus* agg. | 5.5–7.0 | At nursery soil mark | ⚠️ 40–50L container against support | ☀️ to 🌤️ | Raspberries, other cane fruit | 2–3m between plants against wires |
 | F3 | Blackcurrant | *Ribes nigrum* | 6.0–7.0 | 5–7cm deeper than nursery mark | ⚠️ 30L+ large pot | 🌤️ | Alliums, garlic, nasturtiums, redcurrant | 1.2–1.5m between plants |
@@ -5111,7 +5462,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | P38 | Carnation (Border Carnation) | *Dianthus caryophyllus* | 6.0–7.5 | At pot level | ✅ 20–25cm / 10L+ | ☀️ | Roses, stocks, alliums, lavender | 45–60cm between plants |
 | G12 | Carpathian Bellflower | *Campanula carpatica* | 6.0–7.0 | At pot level | ✅ 15–20L container | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 25–35cm between plants |
 | H1 | Catnip | *Nepeta cataria* | 6.0–7.5 | At pot level | ✅ 15–20L container | ☀️ to 🌤️ | Brassicas, roses | 30–45cm between plants |
-| F5 | Cherry 'Athos' | *Prunus avium* 'Athos' | 5.5–7.5 | At pot level; spring/autumn | ✅ 30–40cm+ container | ☀️ | Chives, garlic | 1–1.5m between plants; self-fertile |
+| P50 | Chilean Avens | *Geum chiloense* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌥️ | Alliums, irises, roses, hardy geraniums | 30–40cm between plants |
 | P39 | Chinese Pink | *Dianthus chinensis* | 6.5–7.5 | 3mm deep (seed) / at pot level | ✅ 5L+ container | ☀️ | Cornflower, love-in-a-mist | 15–20cm between plants; grow as annual/biennial |
 | C2 | Clematis (most) | *Clematis* spp. | 6.5–7.5 | 10–15cm DEEPER than pot | ✅ 45cm/40L+ container | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential |
 | C3 | Climbing Honeysuckle | *Lonicera periclymenum* | 5.5–8.0 | At pot level | ⚠️ 30L+ (not ideal, deep roots) | 🌤️ | Climbing roses, clematis; near windows | 1.5m between plants |
@@ -5122,12 +5473,12 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S1 | Common Dog Violet | *Viola riviniana* | 5.5–7.0 | Crown at soil level | ✅ 5L+ container | 🌥️ | Primroses, wood sorrel, ferns | 15–20cm between plants |
 | T4 | Common Hawthorn | *Crataegus monogyna* | 5.5–7.5 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌤️ | Blackthorn, holly, hazel; primroses, bluebells beneath | As hedge: 30–45cm; as tree: 4–6m from structures |
 | G3 | Common Heather / Ling | *Calluna vulgaris* (syn. *Erica vulgaris*) | 4.5–6.5 (ideally 5.5) | At pot level | ✅ 20–25cm / 5–10L ericaceous compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants; cv. 'Zilly' available |
+| C16 | Common Jasmine | *Jasminum officinale* | 6.0–7.5 | At nursery soil mark | ⚠️ Large container against support | ☀️ to 🌤️ | Climbing roses, clematis, honeysuckle | 2–3m between plants against wall/pergola |
 | W21 | Common Water Crowfoot | *Ranunculus aquatilis* | 6.0–7.5 | Muddy margins or submerged, 15–60cm deep | ✅ Aquatic basket or pond-bottom mud | ☀️ | Hornwort, water lilies | 30–45cm between plants |
 | S3 | Convallaria (Lily of the Valley) | *Convallaria majalis* | 6.0–7.5 | 2–3cm deep (rhizome) | ✅ 15–20L container | 🌥️ | Ferns, hostas, hellebores | 15–20cm between plants; ⚠️ toxic, spreads |
 | P7 | Coral Bells | *Heuchera* spp. | 6.0–7.0 | Crown at soil level | ✅ 20–30L container | 🌥️ | Hostas, astilbe, ferns, hellebores | 30–45cm between plants |
 | H2 | Coriander | *Coriandrum sativum* | 6.0–7.0 | Sow 5mm deep; do not transplant | ✅ 20cm+ deep / 5L+ | 🌤️ | Parsley, brassicas; away from dill & fennel | 15–20cm between plants |
 | A2 | Cornflower | *Centaurea cyanus* | 6.0–7.5 | 1–2cm deep (seed) | ✅ 5L+ container | ☀️ | Poppies, love-in-a-mist, briza maxima | 20–30cm between plants; annual, self-seeds |
-| P49 | Cortaderia selloana | *Cortaderia selloana* | 6.0–7.5 | At pot level | ❌ Too large for pots | ☀️ | Best as a solo specimen | 2–3m between plants |
 | F6 | Cranberry | *Vaccinium macrocarpon* | 4.0–5.0 | At pot level | ✅ Essential: 30–45cm / 10–20L | 🌤️ | Heather, lingonberry, blueberry (ericaceous) | 30–45cm in acidic bed |
 | G2 | Creeping / Moss Phlox | *Phlox subulata* | 5.5–7.7 | At pot level; shoots above soil | ✅ 20–30cm / 5–10L + grit | ☀️ | Tulips, daffodils underplanted; thyme, sedum, dianthus | 30–45cm for ground cover |
 | G1 | Creeping Juniper | *Juniperus horizontalis* | 4.5–8.5 | At pot level or slightly raised | ✅ 30–40cm/20L+ | ☀️ (essential) | Heather, sedum, ornamental grasses, thyme | 1–1.5m for ground cover |
@@ -5138,10 +5489,10 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | G15 | Dalmatian Bellflower | *Campanula portenschlagiana* | 6.0–7.5 | At pot level | ✅ 15–20L container | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 30–40cm between plants |
 | P9 | Daylilies | *Hemerocallis* spp. | 6.0–7.5 | Crown at soil level | ✅ 20–30L container | ☀️ to 🌥️ | Roses, ornamental grasses, yarrow | 45–60cm between plants; divide every 3–4 yrs |
 | S4c | Deer Fern | *Blechnum spicant* | 4.5–6.0 | At pot level | ✅ 30cm / 10L+ | 🌥️ to 🌑 | Lingonberry, heather, foxgloves | 30–45cm between plants |
-| G21 | Delosperma echinatum | *Delosperma echinatum* | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Sempervivum, saxifrage | 20–30cm between plants |
 | P10 | Delphinium | *Delphinium* spp. | 6.5–7.5 | At pot level; buds 2–5cm below | ⚠️ 40–50cm / 40L+ | ☀️ | Roses, lupins, peonies, alliums | 60–90cm between plants; stake essential |
 | S8 | Dicksonia antarctica (Tree Fern) | *Dicksonia antarctica* | 5.5–6.5 | Trunk at same depth as grown | ✅ Large 50L+ container | 🌥️ to 🌑 | Hostas, ferns, hellebores, snowdrops | 1.5–3m between plants; wrap crown in hard frost |
 | H4 | Dill | *Anethum graveolens* | 5.5–7.0 | Sow 3–5mm deep; do not transplant | ✅ 30cm+ deep / 8L+ | ☀️ | Brassicas, lettuce; away from coriander & fennel | 20–30cm between plants |
+| T32 | Douglas Fir | *Pseudotsuga menziesii* | 5.0–6.5 | At nursery soil mark | ⚠️ Large container for dwarf cultivars | ☀️ to 🌥️ | Best alone (full size); conifers/heathers (dwarf) | Very large tree; use dwarf cultivars in most gardens |
 | S5a | Drumstick Primula | *Primula denticulata* | 5.5–7.0 | Crown at soil level | ✅ 10–15L container | 🌥️ | Bluebells, wood anemones, spring bulbs | 20–30cm between plants |
 | P43 | Dwarf Fountain Grass | *Pennisetum alopecuroides* 'Hameln' | 6.0–7.5 | At pot level | ✅ 15–20L container | ☀️ | Sedum, echinacea, rudbeckia | 45–50cm between plants |
 | B8 | Dwarf Iris | *Iris reticulata* | 6.0–7.5 | 8–10cm deep; autumn | ✅ 3–5L pot/trough | ☀️ | Snowdrops, crocus, dwarf daffodils | 5–8cm between bulbs |
@@ -5149,17 +5500,22 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | G24 | Dwarf Mondo Grass | *Ophiopogon japonicus* 'Minor' | 5.5–7.0 | At pot level | ✅ 10–15L container | ☀️ to 🌥️ | Ferns, hostas | 10–15cm between plants |
 | T6 | Dwarf Mountain Pine | *Pinus mugo* var. *mugo* | 5.0–7.5 | At pot level | ⚠️ Large gritty container | ☀️ | Heather, dwarf junipers, sempervivum | 1.5–2m between plants |
 | P11 | Edelweiss | *Leontopodium alpinum* | 6.5–7.5 | Crown at soil level | ✅ Trough/rockery, 5L | ☀️ | Sempervivum, saxifrage, other alpines | 15–20cm between plants |
+| T26 | Elder 'Black Lace' | *Sambucus nigra* 'Black Lace' | 5.5–7.5 | At nursery soil mark | ✅ 40–50L container | ☀️ | Golden/lime-green foliage plants | 2–3m between plants |
 | P12 | Elephant's Ears | *Bergenia* spp. | 5.5–8.0 | Rhizome at/just below surface | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hostas, hellebores, snowdrops, ferns | 30–60cm between plants |
+| T33 | English Oak | *Quercus robur* | 5.0–8.0 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌤️ | Bluebells, wood anemones | 8–10m+ minimum; very large, long-lived tree |
 | S13 | Epimedium × perralchicum 'Rose Queen' | *E.* × *perralchicum* 'Rose Queen' | 5.5–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants |
 | S14 | Epimedium × rubrum | *E.* × *rubrum* | 5.5–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants |
 | S10 | Epimedium × versicolor 'Sulphureum' | *E.* × *versicolor* 'Sulphureum' | 5.5–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants |
 | P45 | Evergold Sedge | *Carex oshimensis* 'Evergold' | 6.0–7.5 | At pot level | ✅ 10–15L container | 🌥️ to ☀️ | Hostas, ferns, hellebores | 25–35cm between plants |
+| G22 | Evergreen Candytuft | *Iberis sempervirens* | 6.5–8.0 | At pot level | ✅ 10–15L container | ☀️ | Aubretia, arabis, alyssum | 30–45cm between plants |
 | P44 | Feather Reed Grass | *Calamagrostis* × *acutiflora* 'Karl Foerster' | 6.0–7.5 | At pot level | ✅ 20–25L container | ☀️ | Sedum, echinacea, rudbeckia | 45–60cm between plants |
+| F23 | Fig | *Ficus carica* | 6.0–7.5 | At nursery soil mark; restrict roots | ✅ Large container (35–45cm) | ☀️ | Best given its own space | 3–4m; cvs. 'Brown Turkey', 'Brunswick', 'White Marseilles' |
 | C14 | Five-Flavour Berry (Magnolia Vine) | *Schisandra chinensis* | 6.0–7.5 | At nursery soil mark | ✅ Large 40–50L container | 🌥️ | Climbing hydrangea, ivy | 2–3m between plants against support |
 | W12 | Flowering Rush | *Butomus umbellatus* | 6.0–7.5 | Crown at soil surface; up to 25cm water above | ✅ Aquatic basket | ☀️ | Yellow flag iris, arrowhead, bogbean | 30–45cm between plants |
 | S4d | Fortune's Holly Fern (var. clivicola) | *Cyrtomium fortunei* var. *clivicola* | 6.0–8.0 | At pot level; crown at/just below surface | ✅ 30–40cm / 15L+ | 🌥️ to 🌑 | Hostas, hellebores, snowdrops; tolerates dry shade | 45–60cm between plants |
 | B9 | Fox's Grape Fritillary | *Fritillaria uva-vulpis* | 6.0–7.5 | 10cm deep; autumn | ✅ Raised bed/trough/pot | ☀️ to 🌤️ | Other species fritillarias, dwarf iris, crocus | 8–10cm between bulbs |
 | P14 | Foxglove | *Digitalis purpurea* | 5.5–7.5 | At pot level; seeds on surface | ✅ 30cm / 10L+ deep | 🌥️ | Ferns, hostas, roses, alliums; self-seeds | 30–45cm between plants |
+| T34 | Fraser Fir | *Abies fraseri* | 5.0–6.0 | At nursery soil mark | ⚠️ Large container for young plants | ☀️ to 🌤️ | Ferns, hostas | 4–6m between plants |
 | B10 | Freesia | *Freesia* spp. | 6.0–7.0 | 5–8cm deep; spring, lift & store | ✅ Best in containers (tender) | ☀️ | Ixia and other tender corms | 5–8cm between corms |
 | W13 | Fringed Water Lily | *Nymphoides peltata* | 6.0–7.5 (water) | Crown at basket surface; 15–90cm water above | ✅ Aquatic basket essential | ☀️ to 🌤️ | Water lilies, hornwort | 40–60cm between plants; ⚠️ vigorous, keep contained |
 | B3 | Fritillaria meleagris (Checkered Lily) | *Fritillaria meleagris* | 6.0–7.0 | 10cm deep; autumn | ✅ 5L+ container | 🌤️ | Snowdrops, daffodils, damp border/pond-margin planting | 8–10cm between bulbs |
@@ -5171,20 +5527,22 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | P27 | Garden Pink | *Dianthus plumarius* (garden pinks) | 5.8–6.5 | At pot level | ✅ 25–35cm / 10L+ | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants |
 | F7 | Garden Plum | *Prunus domestica* | 6.0–7.0 | Graft union at/above soil | ⚠️ Half-barrel (50L+) | ☀️ | Chives, garlic, comfrey, nasturtiums | 3–5m between trees depending on rootstock; permanent stake |
 | H18 | Garlic | *Allium sativum* | 6.0–7.0 | Tip 2.5cm below soil; autumn (or spring in modules) | ✅ 20–30cm / 10L+ container | ☀️ | Roses, fruit trees; avoid near peas/beans | 15cm between cloves; 30cm between rows |
-| P50 | Geum chiloense | *Geum chiloense* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌥️ | Alliums, irises, roses, hardy geraniums | 30–40cm between plants |
 | B27 | Giant Onion | *Allium giganteum* | 6.0–7.5 | 20cm deep (2–3× bulb depth); autumn | ✅ Large 5L+ container | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs |
-| T23 | Ginkgo biloba | *Ginkgo biloba* | 5.0–8.0 | At nursery soil mark | ✅ Large container for young trees | ☀️ to 🌤️ | Spring bulbs, shade-tolerant perennials | 6–8m between plants |
+| T23 | Ginkgo | *Ginkgo biloba* | 5.0–8.0 | At nursery soil mark | ✅ Large container for young trees | ☀️ to 🌤️ | Spring bulbs, shade-tolerant perennials | 6–8m between plants |
 | B28 | Golden Garlic | *Allium moly* | 6.0–7.5 | 8–10cm deep; autumn | ✅ 3–5L container | ☀️ | Dwarf iris, crocus, other rockery bulbs | 10–15cm between bulbs |
 | F8 | Gooseberry | *Ribes uva-crispa* | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌤️ | Redcurrant, whitecurrant, tansy | 1.5m between plants |
 | W15 | Greater Bladderwort | *Utricularia vulgaris* | 6.0–7.5 (water) | Fully submerged, free-floating | ✅ No planting needed; free-floating | ☀️ to 🌤️ | Frogbit, hornwort | Allow to spread loosely; thin if congested |
 | H5 | Green Onions (Scallions) | *Allium fistulosum* | 6.0–7.0 | 1cm deep (seed) / at pot level | ✅ 5L+ container | ☀️ to 🌤️ | Carrots, rocket, radish | 5–8cm between plants; sow successionally |
 | C6 | Hardy Grapes | *Vitis vinifera* | 6.0–6.5 | At pot depth; graft above soil | ⚠️ 40L+ container | ☀️ (essential) | Lavender, rosemary, garlic, hyssop | 1.2–1.5m between vines; 20cm from wall |
 | W30 | Hardy Hybrid Water Lily | *Nymphaea* × *hybrida* | 6.5–7.5 (water) | Crown at basket surface; 15–90cm+ water above depending on cultivar | ✅ Basket sized to cultivar, 20–40cm | ☀️ | Bogbean, yellow flag iris, oxygenating plants | Spread depends on cultivar; check label |
+| F24 | Hazelnut | *Corylus avellana* | 6.0–7.5 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌥️ | Blackthorn, hawthorn, primroses, bluebells | 4–5m; 2m if coppiced hedge |
 | P16 | Hellebore / Lenten Rose | *Helleborus* spp. | 6.0–8.0 | At pot level; crown at/just below | ✅ 25–35cm / 10L+ | 🌥️ to 🌑 | Snowdrops, cyclamen, pulmonaria, hostas | 45–60cm between plants |
+| G25 | Himalayan Bistort | *Persicaria affinis* 'Superba' | 5.5–7.5 | At pot level | ✅ 10–15L container | ☀️ to 🌥️ | Ornamental grasses, sedum | 30–40cm between plants |
 | T9 | Holly | *Ilex aquifolium* | 4.5–8.0 | At pot level (shallow roots) | ⚠️ 50L+ container | 🌑 to ☀️ | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | 1.5–3m between; slow-growing hedge |
 | F9 | Honeyberry (Kamchatka) | *Lonicera caerulea* var. *kamtschatica* | 4.5–7.5 | At pot level | ⚠️ 50–75L (15–20 gal.) | 🌤️ | Blueberry, lingonberry; needs 2+ varieties | 1–1.5m between plants |
 | C7 | Hops | *Humulus lupulus* | 6.0–8.0 | Rhizome 5–8cm / pot level | ✅ 50L+ large container | 🌤️ | Climbing roses, clematis, ornamental grasses | 1–1.5m between plants |
 | W16 | Hornwort | *Ceratophyllum demersum* | 6.0–8.0 (water) | Fully submerged, free-floating | ✅ No planting needed; free-floating | ☀️ to 🌥️ | Water lilies, frogbit | Introduce 1–2 bunches per m² of pond surface |
+| T36 | Horse Chestnut | *Aesculus hippocastanum* | 5.5–7.5 | At nursery soil mark | ❌ Too large for pots | ☀️ to 🌤️ | Best given its own space | 10m+ minimum; very large tree |
 | S18 | Hosta 'Frances Williams' | *H.* 'Frances Williams' | 5.5–7.5 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 60–75cm between plants |
 | S27 | Hosta 'Halcyon' | *H.* × *tardiana* 'Halcyon' | 5.5–7.5 | At pot level; crown at surface | ✅ 30–40cm / 15–20L | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 40–50cm between plants |
 | S19 | Hosta 'Patriot' | *H.* 'Patriot' | 5.5–7.5 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 40–50cm between plants |
@@ -5193,7 +5551,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S16 | Hosta 'Undulata Albomarginata' | *H.* 'Undulata Albomarginata' | 5.5–7.5 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 30–45cm between plants |
 | P17 | Hosta / Plantain Lily | *Hosta* spp. | 6.0–8.0 | At pot level; crown at surface | ✅ 30–60cm / 20–50L+ | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 30–90cm (variety-dependent) |
 | T18 | Hypericum 'Rowallane' | *Hypericum* 'Rowallane' | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌤️ | Heather, skimmia, roses, late perennials | 1–1.5m between plants |
-| G22 | Iberis sempervirens | *Iberis sempervirens* | 6.5–8.0 | At pot level | ✅ 10–15L container | ☀️ | Aubretia, arabis, alyssum | 30–45cm between plants |
 | G18 | Irish Heath | *Erica erigena* | 5.5–7.5 | At pot level | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 45–60cm between plants |
 | S2 | Irish Native Mosses | *various spp.* | 5.0–6.5 (most) | Surface transplant, not buried | ✅ Shallow tray/log/pot | 🌥️ to 🌑 | Ferns, wood sorrel, primroses | Establish as patches; keep consistently moist |
 | T10 | Irish Yew | *Taxus baccata* 'Fastigiata' | 5.0–8.0 | At pot level | ⚠️ 50L+ container | 🌑 to ☀️ | Holly, peonies, roses (backdrop), hellebores | Column 1m wide eventually; 1m from structures |
@@ -5201,6 +5558,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | C8 | Ivy | *Hedera helix / H. hibernica* | 5.0–8.0 | At pot level | ✅ 20L+ (25–35cm pot) | 🌑 to ☀️ | Virginia creeper, ferns, snowdrops, bluebells | 30–50cm between plants |
 | B4 | Ixia | *Ixia* spp. | 6.0–7.0 | 8–10cm deep; spring, lift & store | ✅ Best in containers (borderline hardy) | ☀️ | Freesia and other tender corms | 5–8cm between corms |
 | B2b | Japanese / Autumn Anemone | *Anemone × hybrida* | 6.0–7.5 | At pot level; spring | ✅ 40–50cm / 30L+ | 🌥️ | Hostas, astilbe, hellebores | 45–60cm between plants; can spread |
+| T22 | Japanese Barberry | *Berberis thunbergii* 'Atropurpurea' | 6.0–7.5 | At nursery soil mark | ✅ 40–50L container | ☀️ | Golden/lime-green shrubs, spring bulbs | 60–90cm hedge; 1–1.2m specimen |
 | P54 | Japanese Blood Grass | *Imperata cylindrica* 'Red Baron' | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Sedum, echinacea, rudbeckia | 30–45cm between plants |
 | T11 | Japanese Camellia | *Camellia japonica* | 5.0–6.5 | At nursery soil mark | ✅ 40–50L ericaceous compost | 🌥️ | Skimmia, hydrangea macrophylla, Japanese maple | 1–1.5m between plants |
 | T20 | Japanese Cedar | *Cryptomeria japonica* | 5.5–6.5 | At nursery soil mark | ✅ Large container for dwarf cultivars | ☀️ to 🌥️ | Japanese maple, camellia, rhododendron, ferns | 4–6m between plants; dwarf cultivars 1–1.5m |
@@ -5210,17 +5568,16 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S20 | Japanese Painted Fern | *Athyrium niponicum* 'Metallicum' | 5.5–6.5 | At pot level; crown at/just below surface | ✅ 30–40cm / 15L+ | 🌥️ to 🌑 | Hostas, hellebores, astilbe | 30–45cm between plants |
 | T13 | Japanese Skimmia | *Skimmia japonica* | 5.5–6.5 | At nursery soil mark | ✅ 30–40L container | 🌑 to ☀️ | Hellebores, ferns, hostas, Japanese maple | 60–90cm between plants; ♂+♀ within a few metres for berries |
 | P55 | Japanese Water Iris 'Dinner Plate Cupcake' | *Iris ensata* 'Dinner Plate Cupcake' | 5.5–6.5 | Rhizome at soil level; moist to wet soil | ✅ Large container, kept constantly moist | ☀️ to 🌤️ | Bogbean, yellow flag iris | 30–40cm between plants |
-| C16 | Jasminum officinale | *Jasminum officinale* | 6.0–7.5 | At nursery soil mark | ⚠️ Large container against support | ☀️ to 🌤️ | Climbing roses, clematis, honeysuckle | 2–3m between plants against wall/pergola |
+| G26 | Jenny's Stonecrop | *Petrosedum rupestre* 'Angelina' | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Sempervivum, other sedums, ornamental grasses | 20–30cm between plants |
 | G5 | Juniper 'Repanda' | *Juniperus communis* 'Repanda' | 4.5–7.5 | At pot level, ~15cm deep | ⚠️ Large shallow container | ☀️ | Heather, sempervivum, saxifrage | 1–1.5m for ground cover |
 | C9 | Kiwi 'Jenny'| *Actinidia deliciosa* 'Jenny' | 6.0–7.0 | At pot level; do not bury crown | ⚠️ Min. 60–80L (better in ground) | ☀️ | Climbing roses, wisteria, lavender, garlic | 3–5m between plants; needs permanent support |
 | S4e | Koidzumi's Wood Fern | *Dryopteris koidzumiana* | 5.5–7.0 | At pot level; crown at/just below surface | ✅ 40–50cm / 25–30L | 🌥️ to 🌑 | Hostas, astilbe, hellebores, bamboo | 60cm between plants |
+| T35 | Korean Fir | *Abies koreana* | 5.0–6.5 | At nursery soil mark | ⚠️ Large container for young plants | ☀️ to 🌥️ | Heather, dwarf conifers | 3–4m; dwarf cvs. much closer |
 | P18 | Lady's Bedstraw | *Galium verum* | 6.0–7.5 | Crown at soil level | ✅ 5L+ container | ☀️ | Ox-eye daisy, yarrow, wild grasses | 20–30cm between plants |
 | H6 | Lavender | *Lavandula angustifolia* | 6.5–8.0 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Roses, rosemary, thyme | 30–45cm between plants |
 | H22 | Lemon Verbena | *Aloysia citrodora* | 6.0–7.5 | At pot level | ✅ Essential; move under cover for winter | ☀️ | Best grown alone in own container | One plant per pot; 60–90cm if grown in a bed |
 | H19 | Lemongrass | *Cymbopogon citratus* | 6.0–7.5 | At pot level | ✅ Essential; move under cover for winter | ☀️ | Best grown alone in own container | One plant per pot; 40–50cm if grown in a bed |
 | T14 | Lewis Mock Orange | *Philadelphus lewisii* | 6.0–7.5 | At nursery soil mark | ⚠️ 50L+ container | ☀️ to 🌤️ | Deutzia, lilac, roses, spring bulbs | 1.5–2m between plants |
-| G23 | Lewisia cotyledon | *Lewisia cotyledon* | 6.0–7.0 | Rosette proud of soil, grit collar | ✅ Trough/rockery, 3–5L | ☀️ to 🌤️ | Sempervivum, saxifrage, houseleek | 20–25cm between plants |
-| P51 | Ligularia dentata 'Othello' | *Ligularia dentata* 'Othello' | 5.5–7.0 | Crown at soil level | ⚠️ Large 20L+ container, keep very moist | 🌥️ | Astilbe, royal fern, yellow flag iris, hostas | 60–90cm between plants |
 | T15 | Lilac | *Syringa vulgaris* | 6.5–8.0 | At nursery soil mark | ❌ Too large | ☀️ | Roses, alliums, peonies, irises | 1.5m between; 2m from walls |
 | B13 | Lily | *Lilium* spp. | 6.0–7.0 | 15cm (3× bulb height) on grit; autumn/spring | ✅ 30–40cm / 15–25L | 🌤️ | Hostas, geraniums, roses, alliums | 15–30cm between bulbs |
 | P19 | Lilyleaf Ladybells | *Adenophora liliifolia* | 6.0–7.5 | Crown at soil level | ⚠️ 20L+ container (dislikes disturbance) | ☀️ to 🌥️ | Bellflowers, delphiniums, phlox | 30–40cm between plants |
@@ -5245,27 +5602,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | T16 | Mophead / Lacecap Hydrangea | *Hydrangea macrophylla* | 5.0–7.0 (blue 5.0–6.0; pink 6.0–7.0) | At pot level; rootball top slightly raised | ✅ Excellent: 40cm compact / 50–60cm standard | 🌥️ | Astilbe, hostas, ferns, yarrow, heucheras | 90cm–2.4m between (check label for variety size) |
 | G13 | Mother of Thyme | *Thymus serpyllum* | 6.0–8.0 | At pot level | ✅ Terracotta 20cm / 5L+ with grit | ☀️ | Rosemary, oregano, lavender, creeping juniper | 20–30cm between plants |
 | T17 | Mountain Ash (Rowan) | *Sorbus aucuparia* | 5.0–7.0 | At nursery soil mark | ⚠️ 80–100L container | ☀️ to 🌤️ | Holly, hawthorn, ferns, foxgloves, hellebores | 3–5m from structures |
-| C17 | Muehlenbeckia complexa | *Muehlenbeckia complexa* | 5.5–7.5 | At nursery soil mark | ✅ Large container or ground | ☀️ to 🌤️ | Ornamental grasses, topiary frames | 1–1.5m between plants |
+| G41 | Mountain/Caucasian Rock Cress | *Arabis caucasica* | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Aubretia, alyssum, spring bulbs | 30–45cm between plants |
 | B29 | Naples Garlic | *Allium cowanii* (syn. *A. neapolitanum*) | 6.0–7.5 | 8–10cm deep; autumn | ✅ 3–5L container | ☀️ | Crocus, dwarf iris, other small spring bulbs | 10–15cm between bulbs |
 | H10 | Nasturtiums | *Tropaeolum majus* | 6.0–7.5 | 1–2cm deep (seed) | ✅ 5L+ container | ☀️ to 🌤️ | Apples, brassicas, cucumbers (trap crop) | 20–30cm between plants; annual, self-seeds |
 | B15 | Native Bluebells | *Hyacinthoides non-scripta* | 6.0–6.8 | 8cm deep; autumn | ✅ 5L+ container | 🌥️ | Ferns, hostas, primroses, wood anemones | 8–10cm between bulbs |
 | W7 | Native White Water Lily | *Nymphaea alba* | 6.5–7.5 (water) | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | ✅ (pond basket essential): 30–40cm+ basket | ☀️ | Yellow flag iris, bogbean, oxygenating plants | 1.5–2m between plants; large ponds only |
+| C17 | Necklace Vine (Maidenhair Vine) | *Muehlenbeckia complexa* | 5.5–7.5 | At nursery soil mark | ✅ Large container or ground | ☀️ to 🌤️ | Ornamental grasses, topiary frames | 1–1.5m between plants |
+| F25 | Olive | *Olea europaea* | 6.0–8.5 | At nursery soil mark | ✅ Strongly recommended | ☀️ | Lavender, rosemary | 2–3m between plants |
 | H11 | Oregano / Wild Marjoram | *Origanum vulgare* | 6.5–8.0 | At pot level | ✅ 25cm / 8L+ | ☀️ | Thyme, rosemary; pollinator attractor for fruit | 30–45cm between plants |
 | B32 | Ostrowsky's Onion | *Allium oreophilum* | 6.0–7.5 | 8–10cm deep; autumn | ✅ 3–5L container | ☀️ | Dwarf iris, crocus, other rockery bulbs | 8–10cm between bulbs |
 | P13 | Paeonia tenuifolia (Fern-leaf Peony) | *Paeonia tenuifolia* | 6.5–7.5 | Eyes 2–3cm below soil | ⚠️ 30–40L container | ☀️ | Alliums, bearded iris, catmint | 45–60cm between plants |
+| P49 | Pampas Grass | *Cortaderia selloana* | 6.0–7.5 | At pot level | ❌ Too large for pots | ☀️ | Best as a solo specimen | 2–3m between plants |
 | P23 | Pasqueflower | *Pulsatilla vulgaris* | 6.5–8.0 | At pot level; do not disturb | ✅ Essential on clay: 25–30cm / 10L+ | ☀️ | Dianthus, Eryngium, Achillea, ornamental grasses | 20–30cm between plants |
 | C1 | Passiflora (Blue Passion Flower) | *Passiflora caerulea* | 6.0–7.5 | At nursery soil mark | ⚠️ 40–50L container against support | ☀️ | Climbing roses, clematis, honeysuckle | 2–3m between plants against wall/fence |
 | H20 | Patio Tomatoes | *Solanum lycopersicum* (compact/dwarf cultivars) | 6.0–6.8 | Deep; bury to lowest leaves | ✅ 30–40cm/10L+ pot; essential | ☀️ | Basil, marigolds, chives | One plant per 30–40cm pot |
-| F20 | Peach 'Melred' | *Prunus persica* 'Melred' | 6.0–7.0 | At nursery soil mark; graft above soil | ✅ Large container (compact, ~2m) | ☀️ | Chives, garlic | 2–3m free-standing; 3–4m fan-trained |
+| F20 | Peach | *Prunus persica* | 6.0–7.0 | At nursery soil mark; graft above soil | ✅ Large container (compact cvs.) | ☀️ | Chives, garlic | 2–4m; cvs. 'Peregrine', 'Rochester', 'Melred' |
 | P37 | Peach-leaved Bellflower | *Campanula persicifolia* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ to 🌥️ | Delphiniums, roses, lupins | 30–45cm between plants; divide every 2–4 yrs |
+| F26 | Pear | *Pyrus communis* | 6.0–7.5 | Graft union at/above soil | ✅ Container on Quince C | ☀️ | Chives, garlic | Depends on rootstock; cvs. 'Conference', 'Concorde', 'Doyenné du Comice' |
 | H21 | Peas | *Pisum sativum* | 6.0–7.5 | Sow 2–5cm deep | ✅ 30–40cm / 10L+ container | ☀️ | Carrots, radishes, cucumbers, beans | 5–7cm between seeds; 45–60cm between rows |
 | P24 | Peony (herbaceous) ⚠️ | *Paeonia* spp. | 6.5–7.0 | Eyes MAX 2.5–5cm below soil | ⚠️ 50L+ large tub | ☀️ to 🌤️ | Alliums, irises, salvia, roses, foxgloves | 90cm between plants |
 | H23 | Peppermint | *Mentha* × *piperita* | 6.0–7.0 | At pot level | ✅ 30cm+ container (or root barrier) | 🌤️ | Roses, brassicas, tomatoes | 45–60cm between plants; ⚠️ vigorous |
 | G6 | Periwinkle | *Vinca minor / V. major* | 5.5–8.0 | At pot level | ✅ 25–35cm / 10L+ | 🌑 to ☀️ | Hellebores, snowdrops, ivy; under trees/shrubs | 30–45cm between plants; can spread |
 | B17 | Persian Fritillary | *Fritillaria persica* | 6.5–8.0 | 15–20cm deep, on its side; autumn | ⚠️ Large gritty container | ☀️ | Tulips, alliums, euphorbia | 20–25cm between bulbs |
 | B18 | Persian Ranunculus | *Ranunculus asiaticus* | 6.0–7.0 | 5–8cm deep; claws down; spring, lift & store | ✅ Better in pots: 25–30cm / 10L+ | 🌤️ | Pansies, muscari, spring anemones | 15–20cm between tubers |
-| G25 | Persicaria affinis 'Superba' | *Persicaria affinis* 'Superba' | 5.5–7.5 | At pot level | ✅ 10–15L container | ☀️ to 🌥️ | Ornamental grasses, sedum | 30–40cm between plants |
 | A4 | Phacelia | *Phacelia tanacetifolia* | 6.0–7.5 | 1cm deep (seed) | ✅ 5L+ container | ☀️ | Vegetable beds, fruit trees (pollinator support) | 20–30cm between plants; annual, sow successionally |
+| G21 | Pickle Plant | *Delosperma echinatum* | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Sempervivum, saxifrage | 20–30cm between plants |
 | B33 | Pineapple Lily | *Eucomis* spp. | 6.0–7.5 | 10–15cm deep; spring | ✅ Large container ideal | ☀️ | Alliums, crocosmia, dahlias | 25–30cm between bulbs |
 | F11 | Plum Tree 'Aprimira' | *Prunus domestica* 'Aprimira' | 6.0–7.0 | Top of rootball just below surface | ✅ 25cm+ pot, standard form | ☀️ | Chives, garlic | 1–1.5m from structures; self-fertile |
 | F12 | Pomegranate | *Punica granatum* | 5.5–7.0 | At nursery soil mark | ✅ Large 50L+ container, movable | ☀️ | Passiflora, grapevine on same warm wall | 2–3m against wall; borderline hardy, best in a container |
@@ -5280,26 +5641,28 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | F14 | Redcurrant | *Ribes rubrum* | 6.0–7.5 | At nursery mark; roots 5cm | ⚠️ 30L+ large pot | 🌥️ (north fence ok) | Gooseberry, whitecurrant | 1.5m between plants |
 | G8 | Reindeer Lichen | *Cladonia rangiferina* | 4.0–5.5 | Surface only, not buried | ⚠️ Shallow tray/rockery | ☀️ to 🌥️ | Heather, sempervivum, open heath planting | Establishes slowly; avoid disturbance |
 | F15 | Rhubarb | *Rheum × hybridum* | 6.0–7.0 | Buds 1–2cm below soil | ⚠️ 50cm / 50L+ deep pot | 🌤️ | Beans, peas nearby; away from fennel | 90cm between crowns |
-| T24 | Rhus glabra 'Laciniata' | *Rhus glabra* 'Laciniata' | 5.5–7.5 | At nursery soil mark | ⚠️ Large container, controls suckering | ☀️ | Ornamental grasses | 2–3m between plants |
-| T25 | Robinia pseudoacacia 'Frisia' | *Robinia pseudoacacia* 'Frisia' | 6.0–7.5 | At nursery soil mark | ⚠️ Large container for young trees | ☀️ | Shade-tolerant bulbs and perennials | 6–8m between plants |
 | H13 | Rocket | *Eruca sativa* | 6.0–7.0 | 1cm deep (seed) | ✅ 5L+ container | ☀️ to 🌥️ | Radish, green onions, lettuce | 15–20cm between plants; sow successionally |
+| G40 | Rose/Coast Rock Cress | *Arabis blepharophylla* | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Aubretia, alyssum, spring bulbs | 20–25cm between plants |
 | H14 | Rosemary | *Salvia rosmarinus* | 6.0–7.5 | At pot level | ✅ Terracotta 20–30L, with grit | ☀️ | Brassicas, carrots, beans, thyme, lavender | 45–60cm between plants |
 | W20 | Round-leaved Sundew | *Drosera rotundifolia* | 4.0–5.5 | Crown at soil surface, permanently wet | ✅ Boggy container | ☀️ to 🌤️ | Common butterwort, bog asphodel | 10–15cm between plants |
 | S6 | Round-Lobed Hepatica | *Hepatica nobilis* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | 🌥️ | Snowdrops, hellebores, wood anemones | 15–20cm between plants |
 | S4b | Royal Fern | *Osmunda regalis* | 4.5–6.5 | Crown slightly above soil | ❌ Too large | ☀️ to 🌥️ | Hostas, iris, marginal aquatics, bamboo | 1–1.5m between plants |
 | P8 | Rudbeckia 'Goldball' | *Rudbeckia laciniata* 'Goldball' | 5.5–7.0 | At pot level | ⚠️ 40–50cm / 40L+ (very tall — better in ground) | ☀️ | Helenium, echinacea, salvias, ornamental grasses, asters | 60–90cm between; divide every 2–3 yrs |
-| T26 | Sambucus nigra 'Black Lace' | *Sambucus nigra* 'Black Lace' | 5.5–7.5 | At nursery soil mark | ✅ 40–50L container | ☀️ | Golden/lime-green foliage plants | 2–3m between plants |
 | G9 | Saxifrage | *Saxifraga* spp. | 6.0–7.5 | At pot level | ✅ Trough/rockery, 3–5L | ☀️ to 🌥️ | Sempervivum, campanula saxifraga, dwarf bulbs | 15–20cm between plants |
+| T37 | Scots Pine | *Pinus sylvestris* | 4.5–7.0 | At nursery soil mark | ❌ Too large for pots | ☀️ | Heather, gorse | 6–10m between plants |
 | H15 | Scurvy Grass | *Cochlearia officinalis* | 6.5–7.5 | At pot level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌥️ | Sea kale, coastal edible plants | 15–20cm between plants |
-| G26 | Sedum 'Angelina' | *Sedum* 'Angelina' | 6.0–7.5 | At pot level | ✅ 10–15L container | ☀️ | Sempervivum, other sedums, ornamental grasses | 20–30cm between plants |
 | G4 | Sempervivum | *Sempervivum* spp. | 6.0–7.5 | At pot level | ✅ Shallow pot/trough, 3–5L | ☀️ | Saxifrage, wall pennywort, thyme, sedum | 10–15cm between rosettes |
 | F16 | Serviceberry | *Amelanchier lamarckii* | 5.5–7.0 | At nursery soil mark | ⚠️ 50–80L container | ☀️ to 🌤️ | Hellebores, snowdrops, ferns, Japanese maple | 2–4m between plants/structures |
 | T27 | Shrubby Cinquefoil | *Potentilla fruticosa* (incl. var. *aurea*) | 5.5–8.0 | At nursery soil mark | ✅ 20–30L container | ☀️ | Lavender, catmint, ornamental grasses | 60–90cm hedge; 1m specimen |
 | P35 | Siberian Iris | *Iris sibirica* | 5.8–7.0 | Rhizome at/just below surface (2–3cm max) | ✅ 35–40cm / 15–20L | ☀️ to 🌤️ | Astilbe, hostas, yellow flag iris, daylilies, royal fern | 30–45cm between plants; divide every 3–5 yrs |
 | P28 | Siberian Statice | *Goniolimon tataricum* | 6.0–7.5 | Crown at soil level | ✅ 15–20L container | ☀️ | Ornamental grasses, achillea, sedum | 30–40cm between plants |
+| G23 | Siskiyou Lewisia | *Lewisia cotyledon* | 6.0–7.0 | Rosette proud of soil, grit collar | ✅ Trough/rockery, 3–5L | ☀️ to 🌤️ | Sempervivum, saxifrage, houseleek | 20–25cm between plants |
+| T24 | Smooth Sumac | *Rhus glabra* 'Laciniata' | 5.5–7.5 | At nursery soil mark | ⚠️ Large container, controls suckering | ☀️ | Ornamental grasses | 2–3m between plants |
 | B19 | Snowdrop | *Galanthus nivalis* | 5.5–7.0 | 10cm dry (autumn) / at growing depth in the green (spring) | ✅ 20–25cm / 5L+ | 🌥️ to 🌑 | Hellebores, aconites, early narcissus, cyclamen coum | 8–10cm between bulbs |
 | B20 | Snowflake (Summer) | *Leucojum aestivum* | 5.5–7.0 | 8–10cm deep; autumn | ✅ 30–40cm / 15L+ | 🌤️ | Daffodils, snowdrops, hellebores; pond edges | 8–10cm between bulbs |
+| P53 | Society Garlic | *Tulbaghia violacea* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ | Lavender, rosemary | 25–30cm between plants |
 | T7 | Sorbaria sorbifolia | *Sorbaria sorbifolia* | 5.5–7.5 | At nursery soil mark | ⚠️ 40–50L container | ☀️ to 🌥️ | Hydrangea, deutzia; good bank stabiliser | 1–1.5m between plants; spreads by suckers |
+| F21 | Sour Cherry | *Prunus cerasus* | 5.5–7.5 | Graft union at/above soil | ✅ Large container | ☀️ to 🌥️ | Chives, garlic | Up to 4m; cvs. 'Morello', 'Nabella', 'Kentish Red' |
 | P29 | Spreading Bellflower | *Campanula patula* | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 10–15L container | ☀️ to 🌥️ | Ox-eye daisy, wild grasses | 20–30cm between plants; biennial/short-lived |
 | B2a | Spring Anemone | *Anemone blanda / A. nemorosa* | 5.5–7.0 | 5–8cm deep; autumn | ✅ 20–25cm / 5L+ | 🌥️ | Snowdrops, bluebells, foxgloves | 10cm between corms |
 | B21 | Spring Sowbread (Cyclamen) | *Cyclamen coum* | 6.0–7.5 | 2–3cm deep, flat side down; late summer/autumn | ✅ 3–5L container | 🌥️ | Snowdrops, winter aconite, hellebores | 10–15cm between tubers |
@@ -5307,13 +5670,12 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | T19 | Star Magnolia | *Magnolia stellata* | 5.0–6.5 | At pot level; no deeper | ✅ 80–100L stone/terracotta | 🌤️ | Snowdrops, daffodils, hellebores, hardy geraniums | 2.5m spread; shelter from N/E winds |
 | P30 | Stocks | *Matthiola incana / M. longipetala* | 6.5–7.5 | At pot level; seeds on surface | ✅ 25–30cm / 10L+ | 🌤️ | Wallflowers, sweet William, pansies | 20–30cm between plants |
 | F17 | Strawberry | *Fragaria × ananassa* | 5.5–6.8 | Crown exactly at soil level | ✅ 30–35cm / 15–20L per plant | ☀️ | Borage, garlic, chives, marigolds | 30–45cm between plants |
-| F18 | Sweet Cherry 'Sylvia' | *Prunus avium* 'Sylvia' | 6.0–7.0 (well-drained) | ~12cm / graft union at soil level | ✅ Large patio pot | ☀️ to 🌤️ | Chives, garlic | 1m spacing; self-fertile |
+| F5 | Sweet Cherry | *Prunus avium* | 5.5–7.5 | Graft union at/above soil (own-root cvs. at pot level) | ✅ 30–40cm+ container | ☀️ | Chives, garlic | 1–4m depending on rootstock; cvs. 'Athos', 'Stella', 'Sunburst', 'Lapins', 'Sweetheart', 'Sylvia' |
 | A7 | Sweet Peas | *Lathyrus odoratus* | 6.0–7.5 | 2cm deep (seed) | ✅ Large 20L+ container with support | ☀️ | Climbing roses, clematis; vegetable garden | 15–20cm between plants against support |
 | P31 | Sweet William | *Dianthus barbatus* | 5.8–6.5 | At pot level | ✅ 25–30cm / 10L+ | ☀️ | Pinks, stocks, foxgloves, wallflowers, roses | 30cm between plants |
 | P32 | Toadflax | *Linaria vulgaris* | 6.0–7.5 | Crown at soil level / surface-sown seed | ✅ 5L+ container | ☀️ to 🌤️ | Ox-eye daisy, yarrow, wildflower meadow | 20–30cm between plants; spreads readily |
 | G19 | Tree Heath | *Erica arborea* | 5.0–6.5 | At pot level | ⚠️ Large 40–50L container | ☀️ | Blueberry, lingonberry, ornamental grasses | 1–1.5m between plants; hardier var. *alpina* available |
 | P15 | Trollius (Globeflower) | *Trollius europaeus* | 5.5–7.0 | Crown at soil level | ✅ 20–30L container, keep moist | ☀️ to 🌥️ | Astilbe, hosta, candelabra primulas | 30–40cm between plants |
-| P53 | Tulbaghia violacea | *Tulbaghia violacea* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ | Lavender, rosemary | 25–30cm between plants |
 | B22 | Tulip | *Tulipa* spp. | 6.0–7.0 | 20cm (3× bulb height); autumn | ✅ Excellent: 25–30cm / 10L+ | ☀️ | Forget-me-nots, daffodils, alliums, wallflowers | 10–15cm between bulbs |
 | B23 | Turkestan Tulip | *Tulipa turkestanica* | 6.0–7.5 | 10cm deep; autumn | ✅ Raised bed/pot | ☀️ | Crocus, dwarf iris, other early species bulbs | 8–10cm between bulbs |
 | P33 | Vervain | *Verbena officinalis* | 6.0–7.5 | Crown at soil level | ✅ 10–15L container | ☀️ to 🌤️ | Lavender, catmint, ornamental grasses | 20–30cm between plants |
