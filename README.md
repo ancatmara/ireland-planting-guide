@@ -289,6 +289,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### A100. Lambs Tails (*Ptilotus exaltatus*)
+
+📷 **Reference photo:** [Ptilotus exaltatus — view on Wikipedia](https://en.wikipedia.org/wiki/Ptilotus_exaltatus)
+
+**Light:** ☀️ Full sun essential.
+
+**Height/Spread:** 30cm–1.2m tall depending on conditions, 30–45cm spread.
+
+**Soil needs:** Free-draining soil, tolerant of poor and sandy ground; pH 6.0–7.5. Genuinely drought-tolerant once established, reflecting its arid Australian origin.
+
+**Soil prep:** Improve clay with 30% horticultural grit; a raised bed, gravel garden or container gives the most reliable drainage.
+
+**Planting depth:** Sow under cover in spring, plant out after frost risk has passed, at pot level.
+
+**Spacing:** 30–40cm between plants.
+
+**Fertiliser:** Little needed — thrives on lean soil; over-feeding produces soft, floppy growth.
+
+**Companions:** Other drought-tolerant annuals and gravel-garden plants sharing its need for sun and sharp drainage.
+
+**West of Ireland:** Also called Tall Mulla Mulla or Pink Mulla Mulla, an Australian annual/short-lived perennial grown for its dense, woolly, bottlebrush-like flower spikes in vivid pink to magenta, a striking and unusual addition to a sunny border or gravel garden. Native to arid and semi-arid Australia, so it is not remotely frost-hardy and must be treated as a half-hardy annual here — started under glass and planted out only once all frost risk has passed, since the mild but consistently damp west of Ireland climate is a world away from its natural home.
+
+---
+
 ### A11. Love-in-a-Mist (*Nigella damascena*)
 
 
@@ -517,7 +541,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP B: BULBS
 
 ---
 
@@ -1344,7 +1367,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP C: CLIMBERS & WALL PLANTS
 
 ---
 
@@ -1799,7 +1821,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP F: FRUIT TREES & SHRUBS
 
 ---
 
@@ -1891,7 +1912,14 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ***Irish / Russian:*** *Sméara dubha · Ежевика кустистая*
 
-📷 **Reference photo:** [Blackberries — view source](https://en.wikipedia.org/wiki/Blackberry)
+📷 **Reference photos:** [Black Satin](https://www.gardens4you.ie/blackberry-black-satin-a10966.html) · [Navaho Thornless](https://www.gardens4you.ie/blackberry-navaho-thornless-a10968.html) · [Chester Thornless](https://www.gardens4you.ie/blackberry-chester-thornless-a10967.html)
+
+| Cultivar | Habit | Height/Spread | Notes |
+|---|---|---|---|
+| Black Satin | Thornless, vigorous, semi-erect | 1.25–1.5m / 80cm–1m | Self-fertile; deep blue-black berries, mid–late season; resistant to cane spot; white spring flowers |
+| Navaho Thornless | Thornless, upright, moderately vigorous | 1.5–2m / 1–1.2m | Compact and self-supporting, needing little to no staking; very sweet berries when fully ripened; good disease resistance |
+| Chester Thornless | Thornless, semi-erect, vigorous | 1.8–2.5m / 1.2–1.8m | Late-season; very high yields; good resistance to cane blight and sunscald; one of the hardiest thornless varieties |
+| Loch Ness | Thornless, compact, upright | 1.5–1.8m / 1–1.2m | RHS AGM; bred in Scotland, well suited to Irish and UK conditions; very heavy cropping; large, firm fruit; mid–late season |
 
 **Light:** ☀️ Full sun to 🌤️ partial shade for best fruiting.
 
@@ -2660,7 +2688,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP G: GROUNDCOVER & CREEPING PLANTS
 
 ---
 
@@ -3186,7 +3213,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP H: KITCHEN HERBS & VEGETABLES
 
 ---
 
@@ -3674,6 +3700,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### H100. Mustard Greens (*Brassica juncea*)
+
+📷 **Reference photo:** [Brassica juncea — view on Wikipedia](https://en.wikipedia.org/wiki/Brassica_juncea)
+
+**Light:** ☀️ Full sun to 🌥️ partial shade.
+
+**Height/Spread:** 30–60cm tall, 30–45cm spread.
+
+**Soil needs:** Fertile, moisture-retentive, well-drained soil; pH 6.0–7.5.
+
+**Soil prep:** Mix clay with generous compost.
+
+**Planting depth:** Sow direct or in modules, 1cm deep, spring to late summer for successional crops.
+
+**Spacing:** 20–30cm between plants.
+
+**Fertiliser:** Balanced liquid feed monthly through the growing season.
+
+**Companions:** Other brassicas, though avoid overcrowding to reduce disease risk; good in rotation with legumes.
+
+**West of Ireland:** A fast-growing, cool-season leafy green with a peppery, mustard-like bite, popular in Asian cooking and increasingly in general kitchen gardens — young leaves are milder and good raw in salads, while mature leaves are best cooked (stir-fried, braised or added to soups) to mellow the heat. Thrives in the mild, moist Irish climate and can be sown from spring right through to late summer for a near-continuous supply; like other brassicas it can bolt in hot weather, so consistent moisture helps prevent premature flowering.
+
+---
+
 ### H20. Nasturtiums (*Tropaeolum majus*)
 
 
@@ -3729,6 +3779,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ### H22. Parsley (*Petroselinum crispum*)
 
 📷 **Reference photo:** [Petroselinum crispum — view on Wikipedia](https://en.wikipedia.org/wiki/Petroselinum_crispum)
+
+| Variety | Type | Height | Notes |
+|---|---|---|---|
+| Moss Curled | Curly-leaf (*var. crispum*) | 20–30cm | Finely ruffled, densely curled leaves; milder flavour than flat-leaf types; classic garnish parsley, compact and good in pots |
+| Gigante d'Italia | Flat-leaf/Italian (*var. neapolitanum*) | 30–50cm | Strong, robust flavour; rapid growth; harvestable almost year-round; one of the most popular flat-leaf varieties |
+| Titan | Flat-leaf/Italian (*var. neapolitanum*) | 45–60cm | Vigorous and tall; large, broad dark green leaves; heavy-yielding |
+| Hamburg (root parsley) | Root parsley (*var. tuberosum*) | 45–60cm | Grown mainly for its thick, parsnip-like edible root with a parsley-celery flavour; leaves also usable; roots store like carrots |
 
 **Light:** ☀️ Full sun to 🌥️ partial shade.
 
@@ -3962,7 +4019,83 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H31. Zucchini (Courgette) (*Cucurbita pepo var. cylindrica, var. giraumontia*)
+### H101. Spring Onions (*Allium cepa*)
+
+📷 **Reference photo:** [Allium cepa — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_cepa)
+
+**Light:** ☀️ Full sun to 🌤️ partial shade.
+
+**Height/Spread:** 30–45cm tall, 10–15cm spread.
+
+**Soil needs:** Fertile, well-drained soil; pH 6.0–7.0.
+
+**Soil prep:** Mix clay with compost; improve drainage with grit on heavy ground, since onions dislike waterlogging.
+
+**Planting depth:** Sow direct, 1cm deep, or plant sets at pot level, spring through summer for successional crops.
+
+**Spacing:** 2.5–5cm between plants in rows 15–20cm apart; sow thickly and harvest young for the classic spring onion habit.
+
+**Fertiliser:** Light balanced feed if growth looks weak; otherwise little needed for a quick catch crop.
+
+**Companions:** Carrots, roses — alliums are classic companions said to help deter some pests.
+
+**West of Ireland:** Ordinary bulb onions (*Allium cepa*) pulled young, before the bulb swells, for a milder, fresh onion flavour with edible green tops — distinct from Green Onions/Scallions (*A. fistulosum*), already in this guide, which is a separate, non-bulbing species. Easy and quick in the mild Irish climate; sow little and often through spring and summer for a continuous supply, and thin crowded rows to eat as you go.
+
+---
+
+### H31. Tarragon (*Artemisia dracunculus*)
+
+📷 **Reference photo:** [Tarragon — view on Wikipedia](https://en.wikipedia.org/wiki/Artemisia_dracunculus)
+
+**Light:** ☀️ Full sun essential, in a sheltered spot.
+
+**Height/Spread:** French tarragon: 50–75cm tall, 30cm spread. Russian tarragon: up to 1m tall, 50cm spread.
+
+**Soil needs:** Well-drained, fertile soil; pH 6.5–7.0. Will not tolerate poorly-drained, waterlogged ground, especially over winter.
+
+**Soil prep:** Mix clay generously with horticultural grit, whether growing in a border or a pot — sharp drainage is essential.
+
+**Planting depth:** At pot level; French tarragon is propagated by cuttings or division only, since it rarely flowers or sets viable seed. Russian tarragon can be raised from seed.
+
+**Spacing:** 30–50cm between plants.
+
+**Fertiliser:** Little needed; over-feeding produces lush but less flavourful growth.
+
+**Companions:** Rosemary, sage, lavender — classic Mediterranean-herb-bed companions with similar sun and drainage needs.
+
+**West of Ireland:** French tarragon (*A. dracunculus* 'Sativa') has the superior aniseed-liquorice flavour prized in classic French cooking, but its slender growth struggles with the combination of wet and cold in an Irish winter — best grown in a container that can be moved to a sheltered spot, or given a very free-draining raised bed. Russian tarragon (*A. dracunculus* 'Inodora') is far more vigorous and copes much better with Irish winters in open ground, but its flavour is markedly inferior — more grassy, with a slight bitterness, and lacking the warm aniseed character of the French type. Buy tarragon plants in person where possible, checking the aroma before purchasing, since plants sold under either name can be variable.
+
+---
+
+### H32. Wild Garlic (*Allium ursinum*)
+
+***Irish / Russian:*** *Creamh · Лук медвежий*
+
+📷 **Reference photo:** [Wild Garlic — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_ursinum)
+
+**Light:** 🌑 Partial to full shade; more tolerant of shade than most alliums.
+
+**Height/Spread:** 45–60cm tall, 15–20cm spread.
+
+**Soil needs:** Moist, fertile, well-drained soil, slightly acid to neutral; pH 5.5–7.0. Naturally a plant of damp, established woodland.
+
+**Soil prep:** Mix clay with leaf mould or multipurpose compost to mimic the humus-rich woodland floor this plant prefers; add horticultural grit only if the site is genuinely waterlogged.
+
+**Planting depth:** Bulbs about 2.5cm deep, planted in autumn.
+
+**Spacing:** 15–20cm between bulbs; spreads readily by bulbils and self-seeding to form a dense carpet.
+
+**Fertiliser:** None required.
+
+**Companions:** Native bluebells (a classic damp-woodland combination), ferns, primroses — underplant deciduous trees and shrubs for an early-summer woodland floor display.
+
+**Warnings ⚠️:** Spreads vigorously and can become a nuisance in a small or formal garden — best confined to a naturalistic woodland corner rather than a border, and never introduced into wild areas beyond the garden.
+
+**West of Ireland:** Native and common throughout Ireland, carpeting damp woodland floors and shady hedge banks with garlic-scented white flowers from April to June before dying back completely by midsummer. Both leaves and flowers are edible (with a milder flavour than bulb garlic) and popular for pesto, but take care with identification, since the leaves can be confused with poisonous Lily of the Valley or Lords-and-Ladies before flowering — if in doubt, crush a leaf and check for the unmistakable garlic smell.
+
+---
+
+### H33. Zucchini (Courgette) (*Cucurbita pepo var. cylindrica, var. giraumontia*)
 
 
 ***Irish / Russian:*** *Cúirséad · Кабачок (Цуккини)*
@@ -3989,7 +4122,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP P: ORNAMENTAL PERENNIALS
 
 ---
 
@@ -4415,6 +4547,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### P102. Giant Bellflower (*Campanula latifolia var. macrantha*)
+
+📷 **Reference photo:** [Campanula latifolia — view on Wikipedia](https://en.wikipedia.org/wiki/Campanula_latifolia)
+
+**Light:** 🌥️ Partial shade to full sun.
+
+**Height/Spread:** Up to 1m tall, 45–60cm spread.
+
+**Soil needs:** Fertile, moist but well-drained soil; pH 6.0–7.5.
+
+**Soil prep:** Mix clay with generous compost.
+
+**Planting depth:** Crown at soil level.
+
+**Spacing:** 45–60cm between plants.
+
+**Fertiliser:** Light balanced feed in spring; annual compost mulch.
+
+**Companions:** Ferns and other woodland-edge perennials in partial shade; roses and taller border perennials in sun.
+
+**West of Ireland:** A tall, clump-forming native-range perennial (Europe to western Asia) with large, dark violet-blue, narrowly bell-shaped flowers held in upright racemes from July to September — the darker-flowered form of the species, since the straight species can also occur in white. Genuinely at home in the mild, moist Irish climate; may self-seed and can spread somewhat in good conditions, but is easily controlled by removing unwanted seedlings.
+
+---
+
 ### P16. Globe Thistle (*Echinops ritro*)
 
 📷 **Reference photo:** [Echinops ritro — view on Wikipedia](https://en.wikipedia.org/wiki/Echinops_ritro)
@@ -4797,6 +4953,14 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 📷 **Reference photo:** [Peonies — view on Wikipedia](https://en.wikipedia.org/wiki/Paeonia)
 
+| Cultivar | Colour | Fragrance | Height | Notes |
+|---|---|---|---|---|
+| Sarah Bernhardt | Soft, pastel pink | Strong | 75–90cm | Bred by Lemoine, 1906; huge, fully double blooms; one of the most widely grown and dependable cut-flower peonies ever raised |
+| Festiva Maxima | White with crimson flecks at the centre | Strong | 85–95cm | Bred 1851, one of the oldest peonies still widely grown; RHS AGM; early-flowering, good heat tolerance |
+| Duchesse de Nemours | Milky white with a creamy-yellow/lemon centre | Strong, often described as the finest of the white peonies | 75–90cm | Bred by Calot, 1856; RHS AGM 1993; fully double, globe-shaped blooms; a classic against which other white peonies are measured |
+| Kansas | Vibrant carmine-red to watermelon-red, does not fade in sun | Light to moderate | 75–90cm | Introduced 1940; American Peony Society Gold Medal 1957; very strong, rigid stems needing little staking; excellent, long-lasting cut flower |
+| Bowl of Beauty | Rose-pink guard petals surrounding a dense centre of creamy-yellow staminodes | Light | 80–90cm | Bred by Kelway, 1949; RHS AGM; a Japanese-type peony, visually quite different from the fully double cultivars above — single row of large petals rather than a dense pompom |
+
 **Light:** ☀️ to 🌤️ Full sun to partial shade. At least 4–6 hours for good flowering.
 
 **Height/Spread:** 60–90cm tall, 60–90cm spread.
@@ -4925,6 +5089,30 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Companions:** Roses, stocks, alliums, lavender, thyme and campanula in a well-drained sunny border; foxgloves, forget-me-nots, wallflowers and pansies alongside Sweet William in particular. Other annual bedding such as cornflower and love-in-a-mist suit Chinese Pink in a cottage-style summer border. Maiden Pink and Garden Pink both combine well with Phlox subulata, Iberis sempervirens and sempervivum at the front of a rockery.
 
 **West of Ireland:** The perennial and biennial types (Carnation, Garden Pink, Sweet William) find the region's wet winters the main challenge — a raised bed with gritty soil or a sheltered, south-facing spot gives the best results, and Sweet William in particular benefits from the mild winters, though it is still best treated as a biennial with fresh seed sown each year. Chinese Pink is best treated as an annual, replanted fresh each year for reliable colour. Maiden Pink is the easiest of the five, forming a trouble-free low mat once given sharp drainage.
+
+---
+
+### P101. Purpletop Vervain (*Verbena bonariensis*)
+
+📷 **Reference photo:** [Verbena bonariensis — view on Wikipedia](https://en.wikipedia.org/wiki/Verbena_bonariensis)
+
+**Light:** ☀️ Full sun essential.
+
+**Height/Spread:** 1.5–2m tall, 45–60cm spread.
+
+**Soil needs:** Moderately fertile, well-drained soil; pH 6.0–7.5. Adaptable to loam or sandy soils; good drought tolerance once established.
+
+**Soil prep:** Improve clay with 20–25% grit for reliable drainage, especially over winter.
+
+**Planting depth:** At pot level.
+
+**Spacing:** 45–60cm between plants; self-seeds freely once established.
+
+**Fertiliser:** Little needed; balanced feed in spring is sufficient.
+
+**Companions:** Ornamental grasses, echinacea, rudbeckia — classic naturalistic/prairie-style border companions; excellent for pollinators.
+
+**West of Ireland:** A graceful, airy, architectural perennial with tall, wiry, branching stems topped by tight clusters of small violet-purple flowers from mid-summer through autumn — its "see-through" habit makes it a favourite for planting towards the front of a border without blocking the view behind. Self-seeds readily in the mild Irish climate; pinch back young stems in early summer for a bushier habit, and deadhead to manage self-seeding if it becomes too enthusiastic.
 
 ---
 
@@ -5087,7 +5275,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP S: SHADE & WOODLAND PLANTS
 
 ---
 
@@ -5199,7 +5386,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP S: SHADE & WOODLAND PLANTS
 
 ---
 
@@ -5892,32 +6078,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S24. Wild Garlic (*Allium ursinum*)
-
-
-📷 **Reference photo:** [Garlic — view on Wikipedia](https://en.wikipedia.org/wiki/Garlic)
-
-**Light:** ☀️ Full sun essential.
-
-**Height/Spread:** 45–60cm tall, 15–20cm spread.
-
-**Soil needs:** Free-draining, fertile soil; pH 6.0–7.0. Garlic dislikes acid soil (below pH 6.5 is often cited as a threshold) and is prone to rot in wet, poorly drained ground over winter.
-
-**Soil prep:** Dig in 2 bucketfuls of well-rotted manure or garden compost per square metre before planting. On heavy clay or where winter waterlogging is likely, improve drainage with grit or start cloves off in modules under cover, planting out in spring instead of autumn.
-
-**Planting depth:** Split the bulb into individual cloves just before planting, and plant flat end down, pointed tip up, with the tip about 2.5cm below the soil surface (deeper — up to 5cm — in light soil for larger bulbs; not deeper in heavy soil).
-
-**Spacing:** 15cm between cloves, with rows 30cm apart.
-
-**Fertiliser:** A general balanced fertiliser worked in before planting; otherwise minimal feeding needed through the season.
-
-**Companions:** Roses, fruit trees and many vegetables benefit from garlic nearby, which is reputed to help deter aphids and other pests. Avoid planting near peas or beans, which dislike alliums.
-
-**West of Ireland:** Garlic needs a cold spell (most varieties want 1–2 months at 0–10°C) to form separate cloves properly, so autumn planting (October–November) suits the Irish climate well — though on heavy, wet clay it is often more reliable to start cloves in modules in a cold frame over winter and plant out in early spring instead, avoiding the risk of cloves rotting in saturated ground. Harvest from early summer onwards once the leaves begin to yellow, and dry (cure) bulbs somewhere airy before storing.
-
----
-
-### S25. Wood Sorrel (*Oxalis acetosella*)
+### S24. Wood Sorrel (*Oxalis acetosella*)
 
 
 ***Irish / Russian:*** *Seamsóg · Кислица обыкновенная*
@@ -5944,7 +6105,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-## GROUP T: ORNAMENTAL TREES & SHRUBS
 
 ---
 
@@ -6153,33 +6313,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 **Fragrance 🌲:** Needles are noticeably fragrant when crushed or bruised, often described as citrusy or resinous.
 
 **West of Ireland:** A majestic evergreen conifer, introduced to the UK and Ireland from western North America in the 1820s and now naturalised in some large estate woodlands. Tolerates the mild, moist Atlantic climate well and is not a true fir despite the name (it belongs to its own genus, *Pseudotsuga*). Given its ultimate size, this is a tree for a large garden, parkland or woodland planting rather than an average suburban plot — choose one of the many dwarf or compact cultivars available for a smaller space.
-
----
-
-### T9. Dwarf Lily Magnolia (*Magnolia liliiflora, e.g. 'Nigra'*)
-
-
-***Russian:*** *Магнолия лилиецветная*
-
-📷 **Reference photo:** [Dwarf Lily Magnolia — view source](https://en.wikipedia.org/wiki/Magnolia_liliiflora)
-
-**Light:** ☀️ Full sun to 🌤️ part shade, sheltered from cold wind.
-
-**Height/Spread:** 2.5–3m tall, 2.5–3m spread.
-
-**Soil needs:** Moist but well-drained, humus-rich soil; slightly acid to neutral, pH 5.5–6.5. Dislikes shallow chalk and waterlogging.
-
-**Soil prep:** Mix clay with 30% compost/ericaceous compost and grit for drainage. Avoid deep planting.
-
-**Planting depth:** At nursery soil mark; shallow, fleshy roots — do not disturb once planted.
-
-**Spacing:** 2–3m between plants/structures
-
-**Fertiliser:** Balanced or ericaceous slow-release feed in spring. Annual mulch with compost or bark, kept away from the trunk.
-
-**Companions:** Underplant with hellebores, ferns, snowdrops; pairs well with Japanese maple and star magnolia for a spring border.
-
-**West of Ireland:** More compact and later-flowering than star magnolia, so its blooms often escape the worst late frosts. Reliably hardy in sheltered west of Ireland gardens; avoid frost pockets and exposed coastal wind.
 
 ---
 
@@ -6719,6 +6852,65 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### T101. Magnolias (*Magnolia* spp. and hybrids)
+
+
+***Russian:*** *Магнолия*
+
+📷 **Reference photos:** [Magnolia liliiflora](https://en.wikipedia.org/wiki/Magnolia_liliiflora) · [Magnolia stellata](https://en.wikipedia.org/wiki/Magnolia_stellata) · [Magnolia × soulangeana](https://en.wikipedia.org/wiki/Magnolia_%C3%97_soulangeana) · [Magnolia × loebneri](https://en.wikipedia.org/wiki/Magnolia_%C3%97_loebneri) · [Magnolia denudata](https://en.wikipedia.org/wiki/Magnolia_denudata)
+
+| Species/Hybrid | Latin name | Height/Spread | Notes |
+|---|---|---|---|
+| Lily Magnolia | *M. liliiflora* | 2.5–3m / 2.5–3m | Compact, later-flowering than star magnolia, so often escapes late frosts |
+| Star Magnolia | *M. stellata* | 2–3m / 2–3m | Very early, multi-tepalled star-shaped flowers; tolerates alkaline soil better than most magnolias |
+| Saucer Magnolia | *M. × soulangeana* | 4.5–6m / 4.5–6m | The classic large-flowered spring magnolia; considerably bigger at maturity than the others here |
+| Loebner Magnolia | *M. × loebneri* | 4–6m / 4–6m | Hybrid of *M. kobus* × *M. stellata*; vigorous, free-flowering, good frost resistance for an early magnolia |
+| Yulan Magnolia | *M. denudata* | 6–9m (compact cultivars smaller) / 5–8m | One of the oldest magnolias in cultivation, grown in China for over 1000 years; pure white in the species, though cultivars extend the colour range |
+| "Little Girl" hybrids | *M. liliiflora* 'Nigra' × *M. stellata* 'Rosea' | 2.5–4m / 2.5–4m | US National Arboretum series bred for later flowering and better frost avoidance |
+| Gresham hybrids | *M. liliiflora* 'Nigra' × *M. × veitchii* | 5–8m / 4–6m | Taller American hybrids; sometimes mislabelled as *soulangeana* by nurseries |
+
+**Light:** ☀️ Full sun to 🌤️ part shade, sheltered from cold wind. Morning sun and a sheltered position help protect early flowers from late frost damage.
+
+**Height/Spread:** Varies considerably by species/hybrid — see table above; 2–3m for the more compact Star and Lily Magnolias, up to 6–9m for Saucer and Yulan Magnolias at full maturity.
+
+**Soil needs:** Moist but well-drained, humus-rich soil; slightly acid to neutral, pH 5.0–6.5. Dislikes shallow chalk and waterlogging. Star Magnolia tolerates alkaline soil somewhat better than the others.
+
+**Soil prep:** Mix clay with 30% compost/ericaceous compost and grit for drainage. Use a wide, shallow planting hole. Avoid deep planting.
+
+**Planting depth:** At nursery soil mark; shallow, fleshy roots on all magnolias — handle gently and do not disturb once planted.
+
+**Spacing:** 2–3m between plants/structures for the more compact species (Star, Lily); 4–6m for Saucer, Loebner and Yulan magnolias, given their larger eventual size.
+
+**Fertiliser:** Balanced or ericaceous slow-release feed in spring. Annual mulch with compost or bark, kept away from the trunk, is more beneficial than heavy feeding.
+
+**Companions:** Underplant with hellebores, ferns, snowdrops, species crocus and *Iris reticulata*, all of which flower before or as the magnolia leafs up; hardy geraniums make good ground cover beneath. Pairs well with Japanese maple. White- or pale-flowered types show up beautifully against an evergreen backdrop.
+
+**Cultivars:**
+
+| Cultivar | Species/Hybrid | Colour | Notes |
+|---|---|---|---|
+| 'Nigra' | Lily Magnolia | Deep reddish-purple outside, paler pink inside | RHS AGM; the most widely grown *liliiflora* cultivar; flowers mid-to-late spring and sporadically into autumn |
+| 'O'Neill' | Lily Magnolia | Deep purple-red | Noted for being particularly cold-tolerant among named forms of the species |
+| 'Darkest Purple' | Lily Magnolia | Very dark, rich purple | Among the darkest-flowered cultivars available in the species |
+| 'Royal Star' | Star Magnolia | White | More tepals than the species (25–30); blooms ~2 weeks later, reducing frost risk; robust and easy to propagate |
+| 'Waterlily' | Star Magnolia | White | Blooms ~2 weeks later than the species, also reducing frost risk |
+| 'Rosea' | Star Magnolia | Pink-flushed buds opening paler pink/white | A popular pink-toned selection of the species |
+| 'Alexandrina' | Saucer Magnolia | Deep rose-purple outside, white inside | Upright, multi-stemmed habit; one of the most widely planted saucer magnolia cultivars |
+| 'Lennei' | Saucer Magnolia | Deep magenta-purple outside, white inside | Broad, pyramidal habit; flowers slightly later than the species |
+| 'Lennei Alba' | Saucer Magnolia | Pure white | Broad, pyramidal habit; later-flowering; good for smaller gardens |
+| 'Rustica Rubra' | Saucer Magnolia | Rose-red | More compact in height than other soulangeana cultivars |
+| 'Alba Superba' | Saucer Magnolia | Pure white outside with a purple-pink flush at the base of each petal, white inside | Old Belgian cultivar (mid-19th century); among the first saucer magnolia cultivars to open each spring |
+| 'Satisfaction' | Saucer Magnolia | Rich pink-purple | A more modern, free-flowering saucer magnolia selection |
+| 'Leonard Messel' | Loebner Magnolia | Purple-pink outside, white inside | RHS AGM; bred at Nymans Garden, 1955; very free-flowering, good for smaller gardens |
+| 'Yellow River' | Yulan Magnolia | Citrus/lemon-yellow | Fragrant, lemon-scented; flowers in early May; smaller and more compact than the species |
+| 'Betty' | "Little Girl" hybrid | Reddish-purple outside, white inside | Compact, late-flowering shrub that avoids most late frosts |
+| 'Susan' | "Little Girl" hybrid | Purple-red, twisted tepals | RHS AGM; fragrant; despite occasional loose association with saucer magnolias in conversation, has no *soulangeana* parentage |
+| 'Heaven Scent' | Gresham hybrid | Lavender-pink outside, white inside | RHS AGM; fragrant, goblet-shaped flowers; sometimes sold as "*soulangeana* Heaven Scent" by nurseries, but this is a commercial mislabelling, not true *soulangeana* |
+
+**West of Ireland:** Magnolias are one of the great spring spectacles of an Irish garden, from the earliest star- and lily-flowered types through to the large, showy saucer and yulan magnolias. All are reliably hardy in sheltered west of Ireland gardens, but as a group their early flowers are vulnerable to being blackened by a late frost — avoid frost pockets, exposed coastal wind, and east-facing positions where early-morning sun after a frosty night can damage flowers. Choose species and cultivars to suit the space available: Star and Lily Magnolias for a small garden, Saucer, Loebner and Yulan magnolias where there's room for a genuinely large specimen.
+
+---
+
 ### T30. Mophead / Lacecap Hydrangea (*Hydrangea macrophylla*)
 
 
@@ -6807,9 +6999,20 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ### T33. Shrub Roses (*Rosa, shrub and old-fashioned cultivars*)
 
 
-***Russian:*** *Плетистая роза*
+***Irish / Russian:*** *Rós · Роза*
 
-📷 **Reference photo:** [Climbing Roses — view on Wikipedia](https://en.wikipedia.org/wiki/Climbing_rose)
+📷 **Reference photo:** [Shrub rose — view on Wikipedia](https://en.wikipedia.org/wiki/Garden_roses#Shrub)
+
+| Cultivar | Type | Colour | Fragrance | Height/Spread | Notes |
+|---|---|---|---|---|---|
+| Gertrude Jekyll | English Shrub Rose | Bright, glowing pink, fading paler at the edges | Strong, classic "old rose" — often held up as the archetypal rose scent | 1.2–1.8m / 90cm–1.2m | David Austin, 1986; RHS AGM; fully double, quartered blooms; repeat-flowering; vigorous enough to be trained as a short climber |
+| Jude the Obscure | English Shrub Rose | Pale apricot with a cream centre, paler outer petals | Strong and fruity | Up to 1.2m / 1.2m | David Austin, 1989; large, cupped, ruffled double blooms; repeat-flowering; good disease resistance |
+| Double Delight | Hybrid Tea | Creamy-white, edges flushing strawberry-red in sun | Strong, spicy-sweet | 90cm–1.5m / 60–90cm | Swim & Ellis, 1977; Rose Hall of Fame 1985; large, high-centred blooms; colour intensifies with more sun exposure |
+| Rhapsody in Blue | Floribunda/Shrub | Iridescent purple-magenta, fading to slate-blue/mauve-grey | Strong | 1.2–1.4m / 90cm | Bred in Derbyshire, UK; RHS AGM 2012, Rose of the Year 2003; one of the closest roses yet to true blue; semi-double, repeat-flowering |
+| Munstead Wood | English Shrub Rose | Deep, velvety crimson with lighter outer petals | Strong, old rose with blackberry/damson notes | 90cm–1m / 75–90cm | David Austin, 2007; RHS AGM; bushy, spreading habit; named after Gertrude Jekyll's own garden |
+| Graham Thomas | English Shrub Rose | Deep, rich yellow, fading to pale lemon with age | Strong "tea" fragrance | 1.2–3m / 90cm–1.5m | David Austin, 1983; RHS AGM 1993; Rose Hall of Fame 2009 as "World's Favourite Rose"; upright habit, very disease-resistant |
+| Boscobel | English Shrub Rose | Coral-pink to salmon | Myrrh, with hints of hawthorn, elderflower, pear and almond | 1–1.2m / 75–90cm | David Austin; fully double, rosette-shaped blooms in generous clusters; free-flowering and reliable |
+| Zéphirine Drouhin | Bourbon (shrub or short climber) | Cherry-pink to deep rose-pink | Strong damask, sweet and fruity | Up to 3m as shrub, more if trained as climber / 1.2–1.5m | Bizot, France, 1868; famously thornless; one of the first roses to bloom and among the last to finish; prone to mildew and blackspot, so give it good air circulation |
 
 **Light:** ☀️ Full sun preferred — at least 6 hours.
 
@@ -6908,32 +7111,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T37. Star Magnolia (*Magnolia stellata*)
-
-
-***Russian:*** *Магнолия звёздчатая*
-
-📷 **Reference photo:** [Star Magnolia — view on Wikipedia](https://en.wikipedia.org/wiki/Magnolia_stellata)
-
-**Light:** 🌤️ Full sun to partial shade. Morning sun, sheltered position. Blooms in March–April — susceptible to late frost damage.
-
-**Height/Spread:** 2–3m tall, 2–3m spread.
-
-**Soil needs:** Moist but well-drained, pH 5.0–6.5. Tolerates alkaline better than most magnolias (RHS). Shallow, fleshy roots — handle gently.
-
-**Soil prep:** Wide, shallow hole. Mix clay with compost and 20% grit. Generous bark or leaf mould mulch each spring.
-
-**Planting depth:** At pot level. Do not plant deeper. Fleshy roots are fragile — do not damage.
-
-**Spacing:** 2.5m spread; shelter from N/E winds
-
-**Fertiliser:** Slow-release balanced fertiliser in spring. Annual bark mulch more beneficial than heavy feeding. Ericaceous liquid feed sparingly on acidic soils.
-
-**Companions:** Snowdrops, species crocus, Iris reticulata (bloom before magnolia leafs up). Hellebores in partial shade beneath. Hardy geraniums as ground cover. White flowers shown off beautifully against evergreen backdrop.
-
----
-
-## GROUP W: POND & WATER PLANTS
 
 ---
 
@@ -6994,6 +7171,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ***Russian:*** *Астильба*
 
 📷 **Reference photo:** [Astilbe — view on Wikipedia](https://en.wikipedia.org/wiki/Astilbe)
+
+| Species/Group | Latin name | Height | Flowering | Notes |
+|---|---|---|---|---|
+| Arendsii hybrids | *A. × arendsii* | 60–150cm | Mid–late summer | The most widely grown garden astilbes; complex hybrids (chinensis × japonica × thunbergii × astilboides) bred by Georg Arends; tapering plumes, upright or lax, in white, pink or deep red; numerous named cultivars |
+| Japanese Astilbe | *A. japonica* | 40–60cm | Early–mid summer, ahead of most arendsii hybrids | Distinctly glossy leaves; dense, pyramidal flower plumes; parent species behind many popular cultivars including 'Deutschland' and 'Rheinland' (both RHS AGM) |
 
 **Light:** 🌥️ Partial shade to full sun if soil stays moist. Best in partial shade — avoids leaf scorch. Excellent beside ponds or in moisture-rich borders.
 
@@ -7585,6 +7767,20 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
+### W100. Water Hyacinth (*Eichhornia crassipes*, syn. *Pontederia crassipes*)
+
+📷 **Reference photo:** [Water Hyacinth — view on Wikipedia](https://en.wikipedia.org/wiki/Pontederia_crassipes)
+
+**⚠️ LEGAL WARNING — DO NOT BUY, GROW, OR KEEP THIS PLANT:** Water Hyacinth is listed on the **EU List of Invasive Alien Species of Union Concern** under Regulation (EU) No 1143/2014, in force since 2016. In Ireland this is given effect through domestic invasive species legislation, and it is a criminal offence to sell, grow, transport, release, or otherwise keep this plant. It is also banned across the UK (England, Wales, Scotland and Northern Ireland) under equivalent regulations. This entry is included for identification and factual reference only — it is not a cultivation recommendation, and this guide does not encourage sourcing, buying, or growing it under any circumstances. If you find it already present in a pond (for example from an old, pre-ban stock), do not pass it on to anyone else, and dispose of any removed material by composting well away from any watercourse — never into a drain, ditch, river or lake.
+
+**Identification:** A free-floating tropical/subtropical aquatic perennial native to the Amazon basin in South America. Forms dense rosettes of thick, glossy, rounded leaves on bulbous, spongy, inflated stalks that act as floats, rising up to about 1m above the water. Produces spikes of showy lilac to lavender flowers, each with a yellow-bordered blue spot on the uppermost petal, in summer. Spreads with extraordinary speed by stolons (runners) to form dense mats, and also sets viable seed that can remain dormant in mud for decades.
+
+**Why it is banned:** Water Hyacinth is considered one of the world's most damaging invasive aquatic plants. Dense floating mats block light and oxygen exchange, outcompete native aquatic plants and animals, impede boating, fishing and water sport, clog irrigation and drainage channels, and are extremely difficult and costly to eradicate once established in open water. It has caused severe ecological and economic damage in warm-climate regions worldwide, and the EU and Irish authorities have specifically targeted it to prevent establishment in European waterways as the climate warms.
+
+**West of Ireland:** Not a plant for any garden, pond, or water feature here or anywhere in the EU/UK — full stop. If you are looking for a similar-looking, entirely legal floating ornamental for an Irish pond, Frogbit (*Hydrocharis morsus-ranae*), already in this guide, is a genuine native alternative with a comparable floating-rosette habit on a much less aggressive scale.
+
+---
+
 ### W25. Water Irises (*Iris spp.*)
 
 
@@ -7810,6 +8006,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 | # | English Name | Latin Name | Height | Planting Depth | Light | Key Companions | Spacing | pH | In Pot? |
 |---|---|---|---|---|---|---|---|---|---|
+| T106 | "Little Girl" Magnolia hybrids | *M. liliiflora* 'Nigra' × *M. stellata* 'Rosea' | 2.5–4m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2.5–4m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container |
 | F28 | 'Altaj' | *Lonicera caerulea* 'Altaj' | 1.5–2m | At pot level | 🌤️ | Blueberry, lingonberry; needs 2+ varieties | 1–1.5m between plants | 4.5–7.5 | ⚠️ 50–75L (15–20 gal.) |
 | T39 | 'Kanzan' | *Prunus serrulata* 'Kanzan' | Up to 8m | Graft union at/above soil | ☀️ | Daffodils, forget-me-nots, hostas | 2.5–6m from trees/structures depending on variety; cvs. 'Kanzan', 'Shirotae', 'Kiku-shidare' | 6.0–7.5 | ⚠️ 80–100L container |
 | T41 | 'Kiku-shidare' (syn. 'Kiku-shidare-zakura', Cheal's Weeping) | *Prunus serrulata* 'Kiku-shidare' | 2.5–4m | Graft union at/above soil | ☀️ | Daffodils, forget-me-nots, hostas | 2.5–6m from trees/structures depending on variety; cvs. 'Kanzan', 'Shirotae', 'Kiku-shidare' | 6.0–7.5 | ⚠️ 80–100L container |
@@ -7935,7 +8132,6 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | B32 | Dutch/Large-flowered Crocus | *Crocus* spp. (Dutch hybrids) | 10–15cm | 10–12cm deep; autumn | ☀️ | Snowdrops, daffodils, muscari | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ |
 | P51 | Dwarf Fountain Grass | *Pennisetum alopecuroides* 'Hameln' | 50–60cm | At pot level | ☀️ | Sedum, echinacea, rudbeckia | 45–50cm between plants | 6.0–7.5 | ✅ 15–20L container |
 | B8 | Dwarf Iris | *Iris reticulata* | 10–15cm | 8–10cm deep; autumn | ☀️ | Snowdrops, crocus, dwarf daffodils | 5–8cm between bulbs | 6.0–7.5 | ✅ 3–5L pot/trough |
-| T9 | Dwarf Lily Magnolia | *Magnolia liliiflora, e.g. 'Nigra'* | 2.5–3m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2–3m between plants/structures | 5.5–6.5 | ⚠️ 50–80L container |
 | G32 | Dwarf Mondo Grass | *O. japonicus* 'Minor' | 5–10cm | At pot level | ☀️ to 🌥️ | Ferns, hostas | 10–15cm between plants | 5.5–7.0 | ✅ 10–15L container |
 | T10 | Dwarf Mountain Pine | *Pinus mugo var. mugo* | 1–1.5m | At pot level | ☀️ | Heather, dwarf junipers, sempervivum | 1.5–2m between plants | 5.0–7.5 | ⚠️ Large gritty container |
 | B70 | Dwarf Sword Lily | *Gladiolus nanus* | 40–70cm | 10–16cm deep; spring | ☀️ | Freesia, ixia | 10–15cm between corms | 6.0–7.5 | ✅ 15–20L container |
@@ -7967,6 +8163,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | P62 | Garden Pink | *D. plumarius* | 25–35cm | At pot level | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants | 5.8–6.5 | ✅ 25–35cm / 10L+ |
 | F8 | Garden Plum | *Prunus domestica* | 3–5m | Graft union at/above soil | ☀️ | Chives, garlic, comfrey, nasturtiums | 3–5m between trees depending on rootstock; permanent stake | 6.0–7.0 | ⚠️ Half-barrel (50L+) |
 | H13 | Garlic | *Allium sativum* | 25–30cm | Tip 2.5cm below soil; autumn (or spring in modules) | ☀️ | Roses, fruit trees; avoid near peas/beans | 15cm between cloves; 30cm between rows | 6.0–7.0 | ✅ 20–30cm / 10L+ container |
+| P102 | Giant Bellflower | *Campanula latifolia var. macrantha* | Up to 1m | Crown at soil level | ☀️ to 🌥️ | Ferns, roses, taller border perennials | 45–60cm between plants | 6.0–7.5 | ✅ 20–30L container |
 | B41 | Giant Onion | *A. giganteum* | 1.2–1.5m | 20cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
 | T16 | Ginkgo | *Ginkgo biloba* | 15–25m | At nursery soil mark | ☀️ to 🌤️ | Spring bulbs, shade-tolerant perennials | 6–8m between plants | 5.0–8.0 | ✅ Large container for young trees |
 | A8 | Globe Amaranth | *Gomphrena globosa* | 30–60cm | Sow under cover in spring, plant out after frost risk has passed, at pot level | ☀️ | Other tender summer bedding annuals sharing its need for warmth and sun | 20–30cm between plants | 6.0–7.0 | ✅ |
@@ -7981,6 +8178,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | A9 | Greater Quaking Grass | *Briza maxima* | 30–50cm | 5mm deep (seed) | ☀️ | Cornflower, poppies, love-in-a-mist | 15–20cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container |
 | H14 | Green Onions (Scallions) | *Allium fistulosum* | 30–45cm | 1cm deep (seed) / at pot level | ☀️ to 🌤️ | Carrots, rocket, radish | 5–8cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container |
 | F10 | Green Strawberry | *Fragaria viridis* | 20–30cm | Crown exactly at soil level — too deep = crown rot; too shallow = roots dry out | ☀️ | Borage, garlic, chives, marigolds. Avoid planting near brassicas | 30–45cm between plants (or 45cm × 75cm rows if in open ground) | 5.5–6.8 | ⚠️ |
+| T107 | Gresham Magnolia hybrids | *M. liliiflora* 'Nigra' × *M. × veitchii* | 5–8m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
 | S38 | Hard Shield Fern | *Polystichum aculeatum* | 45–60cm | At pot level | 🌥️ to 🌑 | Lingonberry, heather, foxgloves | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ |
 | C8 | Hardy Grapes | *Vitis vinifera* | 6–9m | At pot depth; graft above soil | ☀️ (essential) | Lavender, rosemary, garlic, hyssop | 1.2–1.5m between vines; 20cm from wall | 6.0–6.5 | ⚠️ 40L+ container |
 | W37 | Hardy hybrid water lilies | *N.* × *hybrida* and other garden hybrids | Leaves float; flowers just above surface | Crown at basket surface; 15–90cm+ water above depending on cultivar | ☀️ | Bogbean, yellow flag iris, oxygenating plants | Spread depends on cultivar; check label | 6.5–7.5 (water) | ✅ Basket sized to cultivar, 20–40cm |
@@ -8017,6 +8215,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | A10 | Lacy Phacelia | *Phacelia tanacetifolia* | 60–90cm | 1cm deep (seed) | ☀️ | Vegetable beds, fruit trees (pollinator support) | 20–30cm between plants; annual, sow successionally | 6.0–7.5 | ✅ 5L+ container |
 | S36 | Lady Fern | *Athyrium filix-femina* | 60–120cm | At pot level; crown at/just below surface | 🌥️ to 🌑 | Hostas, hellebores, astilbe | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ |
 | P21 | Lady's Bedstraw | *Galium verum* | 20–30cm | Crown at soil level | ☀️ | Ox-eye daisy, yarrow, wild grasses | 20–30cm between plants | 6.0–7.5 | ✅ 5L+ container |
+| A100 | Lambs Tails | *Ptilotus exaltatus* | 30cm–1.2m | Sow under cover, spring; at pot level | ☀️ | Other drought-tolerant annuals, gravel-garden plants | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | P22 | Lanceleaf Tickseed | *Coreopsis lanceolata* | 45–60cm | Crown at soil level | ☀️ | Achillea, ornamental grasses, echinacea — classic dry prairie-style border companions | 30–45cm between plants | 6.0–7.5 | ✅ |
 | H15 | Lavender | *Lavandula angustifolia* | 45–60cm | At pot level | ☀️ | Roses, rosemary, thyme | 30–45cm between plants | 6.5–8.0 | ✅ Terracotta 20–30L, with grit |
 | H16 | Lemon Balm | *Melissa officinalis* | 60–90cm | At pot level | ☀️ to 🌥️ | Brassicas, tomatoes | 30–45cm between plants; spreads readily | 6.0–7.5 | ✅ 15–20L container (to contain spread) |
@@ -8025,9 +8224,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | T28 | Lewis Mock Orange | *Philadelphus lewisii* | 2–3m | At nursery soil mark | ☀️ to 🌤️ | Deutzia, lilac, roses, spring bulbs | 1.5–2m between plants | 6.0–7.5 | ⚠️ 50L+ container |
 | T29 | Lilac | *Syringa vulgaris* | 20–50cm | At nursery soil mark | ☀️ | Roses, alliums, peonies, irises | 1.5m between; 2m from walls | 6.5–8.0 | ❌ Too large |
 | B14 | Lilies | *Lilium spp.* | 60cm–1.8m | 15cm (3× bulb height) on a bed of grit, in autumn (September–October) or early spring. Fully hardy — never needs lifting | 🌤️ | Hostas, geraniums, low salvias (shade the soil around bulbs). Roses (lilies fill the mi... | 15–30cm between bulbs | 6.0–7.0. | ⚠️ |
+| T101 | Lily Magnolia | *Magnolia liliiflora* | 2.5–3m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2–3m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container |
 | S12 | Lily of the Valley | *Convallaria majalis* | 15–20cm | 2–3cm deep (rhizome) | 🌥️ | Ferns, hostas, hellebores | 15–20cm between plants; ⚠️ toxic, spreads | 6.0–7.5 | ✅ 15–20L container |
 | P23 | Lilyleaf Ladybells | *Adenophora liliifolia* | 60–90cm | Crown at soil level | ☀️ to 🌥️ | Bellflowers, delphiniums, phlox | 30–40cm between plants | 6.0–7.5 | ⚠️ 20L+ container (dislikes disturbance) |
 | F13 | Lingonberry | *Vaccinium vitis-idaea* | 15–20cm | At pot level | 🌥️ | Blueberry, heather, cranberry, deer fern | 30cm between plants | 4.2–5.5 | ✅ 25–30cm / 10–15L |
+| T104 | Loebner Magnolia | *Magnolia × loebneri* | 4–6m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
 | W14 | Loosestrife | *Lysimachia vulgaris and L. punctata* | 20–50cm | Crown at soil level | ☀️ to 🌥️ | Meadowsweet, yellow flag iris, marsh marigold | 40–50cm between plants; spreads by rhizome | 6.0–7.5 | ✅ 20L+ container, keep moist |
 | W15 | Lotus | *Nelumbo spp.* | 30–60cm above water | Tuber horizontal, just under soil; 5–60cm water above | ☀️ | Best grown alone in own container | One tuber per large container | 6.0–7.0 (water) | ✅ Essential: large container acting as mini-pond |
 | A11 | Love-in-a-Mist | *Nigella damascena* | 30–60cm | 1cm deep (seed) | ☀️ to 🌤️ | Cornflower, poppies, briza maxima | 20cm between plants; annual, self-seeds freely | 6.0–7.5 | ✅ 5L+ container |
@@ -8050,6 +8251,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | G37 | Mother of Thyme (Creeping Thyme) | *T. serpyllum* | 5–10cm, mat-forming | At pot level | ☀️ | Rosemary, oregano, lavender, creeping juniper | 20–30cm between plants | 6.0–8.0 | ✅ Terracotta 20cm / 5L+ with grit |
 | T31 | Mountain Ash (Rowan) | *Sorbus aucuparia* | 10–15m | At nursery soil mark | ☀️ to 🌤️ | Holly, hawthorn, ferns, foxgloves, hellebores | 3–5m from structures | 5.0–7.0 | ⚠️ 80–100L container |
 | G36 | Mountain/Caucasian Rock Cress | *A. caucasica* | 25–30cm | At pot level | ☀️ | Aubretia, alyssum, spring bulbs | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
+| H100 | Mustard Greens | *Brassica juncea* | 30–60cm | Sow direct/modules, 1cm deep | ☀️ to 🌥️ | Other brassicas (rotate); legumes | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | B44 | Naples Garlic | *A. cowanii* (syn. *A. neapolitanum*) | 20–30cm | 8–10cm deep; autumn | ☀️ | Crocus, dwarf iris, other small spring bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
 | H20 | Nasturtiums | *Tropaeolum majus* | 20–30cm | 1–2cm deep (seed) | ☀️ to 🌤️ | Apples, brassicas, cucumbers (trap crop) | 20–30cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container |
 | B16 | Native Bluebells | *Hyacinthoides non-scripta* | 20–40cm | 8cm deep; autumn | 🌥️ | Ferns, hostas, primroses, wood anemones | 8–10cm between bulbs | 6.0–6.8 | ✅ 5L+ container |
@@ -8087,6 +8289,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | G12 | Prickly Heath | *Gaultheria mucronata* | 60cm–1m | At nursery soil mark | ☀️ to 🌥️ | Heather, blueberry, lingonberry, dwarf conifers | 45–60cm between plants; ♂+♀ for berries | 4.5–6.0 | ✅ 20–30L ericaceous compost |
 | S48 | Primroses | *P. vulgaris* | 10–15cm | Crown at soil level | 🌥️ | Bluebells, wood anemones, violets, ferns | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container |
 | B46 | Purple-flowered Onion | *A. atropurpureum* | 80cm–1m | 20cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
+| P101 | Purpletop Vervain | *Verbena bonariensis* | 1.5–2m | At pot level | ☀️ | Ornamental grasses, echinacea, rudbeckia | 45–60cm between plants; self-seeds freely | 6.0–7.5 | ✅ 15–20L container |
 | H26 | Radish | *Raphanus sativus* | 10–15cm | 1cm deep (seed) | ☀️ to 🌤️ | Carrots, lettuce, green onions | 2–3cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container |
 | W20 | Ragged Robin | *Lychnis flos-cuculi* | 30–45cm | Crown at soil level; damp meadow, not standing water | ☀️ to 🌤️ | Meadowsweet, yellow flag iris, marsh orchids | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | B19 | Ranunculus | *Ranunculus asiaticus* | 30–45cm | 5–8cm deep; claws down; spring, lift & store | 🌤️ | Pansies, muscari, spring anemones | 15–20cm between tubers | 6.0–7.0 | ✅ Better in pots: 25–30cm / 10L+ |
@@ -8105,6 +8308,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S40 | Royal Fern | *Osmunda regalis* | 1–2m | Crown slightly above soil | ☀️ to 🌥️ | Hostas, iris, marginal aquatics, bamboo | 1–1.5m between plants | 4.5–6.5 | ❌ Too large |
 | B34 | Saffron Crocus | *C. sativus* | 10–15cm | 8–10cm deep; plant August | ☀️ | Best grown alone for easy harvest | 8–9cm between corms | 6.0–7.5 | ✅ Best in containers |
 | H29 | Sage | *Salvia officinalis* | 1–1.5m | At pot level; do not bury the woody base | ☀️ | Classic companion for brassicas (deters cabbage moth), carrots and beans in the vegetab... | 45–60cm between plants | 6.0–7.5. | ⚠️ |
+| T103 | Saucer Magnolia | *Magnolia × soulangeana* | 4.5–6m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
 | G15 | Saxifrage | *Saxifraga spp., including Mossy Saxifrage S. × arendsii* | 10–15cm, trailing | At pot level | ☀️ to 🌥️ | Sempervivum, campanula saxifraga, dwarf bulbs | 15–20cm between plants | 6.0–7.5 | ✅ Trough/rockery, 3–5L |
 | T32 | Scots Pine | *Pinus sylvestris* | 20–30cm | At nursery soil mark | ☀️ | Heather, gorse | 6–10m between plants | 4.5–7.0 | ❌ Too large for pots |
 | H30 | Scurvy Grass | *Cochlearia officinalis* | 10–20cm | At pot level / surface-sown seed | ☀️ to 🌥️ | Sea kale, coastal edible plants | 15–20cm between plants | 6.5–7.5 | ✅ 5L+ container |
@@ -8130,10 +8334,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S21 | Solomon's Seal | *Polygonatum multiflorum / P. × hybridum* | 60–90cm | Rhizome 5–8cm deep, autumn or spring | 🌥️ | Ferns, hostas, hellebores — classic woodland-floor companions; arching stems look best rising through or behind lower groundcover | 30–40cm between plants | 5.5–7.5 | ✅ |
 | F24 | Sour Cherry | *Prunus cerasus* | 2.5–4m | Graft union at/above soil | ☀️ to 🌥️ | Chives, garlic | Up to 4m; cvs. 'Morello', 'Nabella', 'Kentish Red' | 5.5–7.5 | ✅ Large container |
 | P46 | Spreading Bellflower | *C. patula* | 30–60cm | Crown at soil level / surface-sown seed | ☀️ to 🌥️ | Ox-eye daisy, wild grasses | 20–30cm between plants; biennial/short-lived | 6.0–7.5 | ✅ 10–15L container |
+| H101 | Spring Onions | *Allium cepa* | 30–45cm | Sow direct, 1cm deep, or plant sets | ☀️ to 🌤️ | Carrots, roses | 2.5–5cm between plants in rows | 6.0–7.0 | ✅ 10–15L container |
 | B23 | Spring Sowbread | *Cyclamen coum* | 5–8cm | 2–3cm deep, flat side down; late summer/autumn | 🌥️ | Snowdrops, winter aconite, hellebores | 10–15cm between tubers | 6.0–7.5 | ✅ 3–5L container |
 | T36 | St John's Wort 'Rowallane' | *Hypericum 'Rowallane'* | 1–1.5m | At nursery soil mark | ☀️ to 🌤️ | Heather, skimmia, roses, late perennials | 1–1.5m between plants | 5.5–7.5 | ⚠️ 40–50L container |
 | S22 | St Patrick's Cabbage | *Saxifraga spathularis* | 10–20cm | Crown at soil level | 🌥️ to 🌑 | Ferns, native mosses, shaded rockery plants | 15–20cm between plants | 5.0–6.0 | ✅ 10–15L container/rockery |
-| T37 | Star Magnolia | *Magnolia stellata* | 2–3m | At pot level; no deeper | 🌤️ | Snowdrops, daffodils, hellebores, hardy geraniums | 2.5m spread; shelter from N/E winds | 5.0–6.5 | ✅ 80–100L stone/terracotta |
+| T102 | Star Magnolia | *Magnolia stellata* | 2–3m | At pot level; no deeper | 🌤️ | Snowdrops, daffodils, hellebores, hardy geraniums | 2.5m spread; shelter from N/E winds | 5.0–6.5 | ✅ 80–100L stone/terracotta |
 | P24 | Statice | *Limonium sinuatum* | 30–45cm | Crown at soil level | ☀️ | Ornamental grasses, achillea, sedum | 30–45cm between plants | 6.0–8.0 | ✅ 10–15L container |
 | P42 | Stocks | *Matthiola incana / M. longipetala* | 30–90cm | At pot level; seeds on surface | 🌤️ | Wallflowers, sweet William, pansies | 20–30cm between plants | 6.5–7.5 | ✅ 25–30cm / 10L+ |
 | F25 | Strawberry | *Fragaria × ananassa* | 20–30cm | Crown exactly at soil level | ☀️ | Borage, garlic, chives, marigolds | 30–45cm between plants | 5.5–6.8 | ✅ 30–35cm / 15–20L per plant |
@@ -8143,6 +8348,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | A19 | Sweet Peas | *Lathyrus odoratus* | 1.8–2.5m | 2cm deep (seed) | ☀️ | Climbing roses, clematis; vegetable garden | 15–20cm between plants against support | 6.0–7.5 | ✅ Large 20L+ container with support |
 | P58 | Sweet William | *D. barbatus* | 30–60cm | At pot level | ☀️ | Pinks, stocks, foxgloves, wallflowers, roses | 30cm between plants | 5.8–6.5 | ✅ 25–30cm / 10L+ |
 | T38 | Tarentum Myrtle | *Myrtus communis subsp. tarentina* | 1–2m | At nursery soil mark | ☀️ | Lavender, rosemary — classic Mediterranean-style border companions | 1–1.5m between plants | 6.0–7.5 | ✅ |
+| H31 | Tarragon | *Artemisia dracunculus* | 50–100cm | At pot level | ☀️ | Rosemary, sage, lavender | 30–50cm between plants | 6.5–7.0 | ✅ 10–15L container |
 | S23 | Tasmanian Tree Fern | *Dicksonia antarctica* | 2–4m | Trunk at same depth as grown | 🌥️ to 🌑 | Hostas, ferns, hellebores, snowdrops | 1.5–3m between plants; wrap crown in hard frost | 5.5–6.5 | ✅ Large 50L+ container |
 | P43 | Toadflax | *Linaria vulgaris* | 20–50cm | Crown at soil level / surface-sown seed | ☀️ to 🌤️ | Ox-eye daisy, yarrow, wildflower meadow | 20–30cm between plants; spreads readily | 6.0–7.5 | ✅ 5L+ container |
 | G22 | Trailing Rock Bellflower | *C. saxifraga* | 10–15cm, trailing | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 15–20cm between plants | 6.0–7.0 | ✅ 10–15L container |
@@ -8156,12 +8362,13 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | C15 | Virginia Creeper | *Parthenocissus quinquefolia* | 10–20m | At pot level | 🌤️ | Ivy (same wall), late clematis | 1.5–3m between plants | 5.5–7.5 | ✅ 30–40L container |
 | G18 | Wall Pennywort | *Umbilicus rupestris* | 5–10cm | At pot level / wall crevice | 🌥️ | Ivy, ferns, sempervivum, saxifrage | 15–20cm between plants | 6.0–7.5 | ✅ Small pot or wall crevice |
 | W24 | Water Forget-me-not | *Myosotis scorpioides* | 10–40cm | Crown at soil surface; up to 10cm water above | ☀️ to 🌤️ | Yellow flag iris, marsh marigold, bogbean | 15–30cm between plants | 6.0–7.5 | ✅ Aquatic basket |
+| W100 | Water Hyacinth | *Eichhornia crassipes* (syn. *Pontederia crassipes*) | Up to 1m above water | ⚠️ ILLEGAL TO GROW/SELL — EU/Irish invasive species ban | ☀️ | N/A — not for cultivation | N/A — not for cultivation | N/A | ❌ Illegal — do not buy or keep |
 | W27 | Water Mint | *Mentha aquatica* | 15–25cm above water | Crown at soil surface; up to 25cm water above | ☀️ | Bog pimpernel, yellow flag iris | 30–45cm between plants; ⚠️ vigorous | 6.0–7.5 | ✅ Aquatic basket |
 | W28 | Water Soldier | *Stratiotes aloides* | Floating rosette 15–25cm | Floats just below surface, sinks in winter | ☀️ | Frogbit, native water lilies | Allow to spread; thin if congested | 6.0–7.5 (water) | ✅ No planting needed; free-floating |
 | W29 | Water Violet | *Hottonia palustris* | 10–15cm above water | Mostly submerged; do not disturb in summer | ☀️ to 🌤️ | Hornwort, common water crowfoot | Allow to spread loosely | 6.0–7.5 (water) | ✅ No planting needed; free-floating |
 | W30 | Watershield | *Brasenia schreberi* | Floating at surface | Rhizome in mud; floating leaves | ☀️ to 🌤️ | Water lilies | Allow room to spread | 6.0–7.5 (water, estimated) | ⚠️ Aquatic basket; limited Irish availability |
 | B53 | Whittall's Tulip | *T. orphanidea* | 15–20cm | 10–15cm deep; autumn | ☀️ | Crocus, grape hyacinth, other species tulips | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
-| S24 | Wild Garlic | *Allium ursinum* | 45–60cm | Split the bulb into individual cloves just before planting, and plant flat end down, pointed tip up, with the tip about 2.5cm below the soil surface (deeper — up to 5cm — in light soil for larger bulbs; not deeper in heavy soil) | ☀️ | Roses, fruit trees and many vegetables benefit from garlic nearby, which is reputed to ... | 15cm between cloves, with rows 30cm apart | 6.0–7.0. | ⚠️ |
+| H32 | Wild Garlic | *Allium ursinum* | 45–60cm | Bulbs 2.5cm deep; autumn | 🌑 | Native bluebells, ferns, primroses | 15–20cm between bulbs | 5.5–7.0 | ✅ 10–15L container |
 | G38 | Wild Thyme | *T. polytrichus* | 2–5cm, mat-forming | At pot level | ☀️ | Sempervivum, saxifrage, wall pennywort | 20–30cm between plants; spreads by runners | 6.5–7.5 | ✅ Trough/rockery, 3–5L |
 | B54 | Wild Tulip | *T. sylvestris* | 20–30cm | 10–15cm deep; autumn | 🌤️ to ☀️ | Daffodils, other naturalising bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 5L+ container |
 | W31 | Willow Moss | *Fontinalis antipyretica* | Submerged mats | Attach to submerged stone/wood | 🌥️ to ☀️ | Hornwort, common water crowfoot | Space stones/clumps as desired | 6.0–7.5 (water) | ✅ No soil needed; attach to stone |
@@ -8170,14 +8377,15 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | G25 | Winter Heath | *Erica carnea* | 10–25cm | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost |
 | C16 | Wisteria | *Wisteria sinensis / W. floribunda* | 9–18m | At pot level; graft above soil | ☀️ | Climbing roses (same wall), alliums, irises | 45cm from wall; 3m between plants | 6.0–7.0 | ⚠️ 45cm/60L+ container |
 | B29 | Wood Anemone | *A. nemorosa* | 10–15cm | 5–8cm deep; autumn | 🌥️ | Snowdrops, bluebells, foxgloves | 10cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ |
-| S25 | Wood Sorrel | *Oxalis acetosella* | 5–10cm | Crown at soil level | 🌑 to 🌥️ | Ferns, native mosses, primroses | 10–15cm between plants | 5.0–6.5 | ✅ 5L+ container |
+| S24 | Wood Sorrel | *Oxalis acetosella* | 5–10cm | Crown at soil level | 🌑 to 🌥️ | Ferns, native mosses, primroses | 10–15cm between plants | 5.0–6.5 | ✅ 5L+ container |
 | F27 | Woodland Strawberry | *Fragaria vesca* | 10–15cm | Crown at soil level | ☀️ to 🌥️ | Ferns, hostas, primroses | 25–30cm between plants; spreads by runners | 5.5–7.0 | ✅ 20–30L container |
 | P44 | Yarrow | *Achillea millefolium* | 30–60cm | At pot level; bare-root buds 2–3cm below | ☀️ | Roses, salvia, echinacea, hydrangea, ornamental grasses | 30–60cm between plants; divide every 2–3 yrs | 5.5–7.0 | ✅ 30cm / 10L+ |
 | W34 | Yellow Flag Iris | *I. pseudacorus* | 90cm–1.5m | Crown at soil level; 0–20cm water above | ☀️ | White water lily, bogbean, bog pimpernel | 30–60cm between plants; divide every 2–3 yrs | 5.5–8.0 | ✅ 19–24cm aquatic basket |
 | B26 | Yellow Star-of-Bethlehem | *Gagea lutea* | 5–15cm | 5–8cm deep; autumn | 🌥️ | Snowdrops, wood anemones | 5–8cm between bulbs | 6.5–7.5 | ✅ 5L+ container |
 | W32 | Yellow Water Lily | *Nuphar lutea* | 45–150cm+ above water | Crown at basket surface; 45–150cm+ water above | ☀️ to 🌤️ | Native white water lily, bogbean | 1–2m ultimate spread | 6.5–7.5 (water) | ⚠️ Large ponds/lakes only, not for small pots |
+| T105 | Yulan Magnolia | *Magnolia denudata* | 6–9m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 5–8m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
 | A21 | Zinnia | *Zinnia elegans* | 30–90cm | Sow under cover in spring, plant out after frost risk, at pot level; dislikes root disturbance | ☀️ | Cosmos, cornflower and other sunny cutting-garden annuals; excellent for pollinators | 25–30cm between plants; good air circulation reduces powdery mildew risk | 6.0–7.5 | ✅ |
-| H31 | Zucchini (Courgette) | *Cucurbita pepo var. cylindrica, var. giraumontia* | 45–60cm | At pot level (after frost) | ☀️ | Nasturtiums, sweetcorn, beans | 60–90cm between plants | 6.0–7.0 | ✅ Large 30–40L container |
+| H33 | Zucchini (Courgette) | *Cucurbita pepo var. cylindrica, var. giraumontia* | 45–60cm | At pot level (after frost) | ☀️ | Nasturtiums, sweetcorn, beans | 60–90cm between plants | 6.0–7.0 | ✅ Large 30–40L container |
 
 ---
 
