@@ -40,7 +40,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP A: ANNUAL FLOWERS
 
-### A1. Borage (*Borago officinalis*)
+### A1. Borage *(Borago officinalis)*
 
 
 ***Irish / Russian:*** *Borráiste gorm · Бурачник лекарственный*
@@ -66,7 +66,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A2. Bush Slipperwort 'Sunshine' (*Calceolaria integrifolia 'Sunshine'*)
+### A2. Bush Slipperwort 'Sunshine' *(Calceolaria integrifolia 'Sunshine')*
 
 
 ***Russian:*** *Кальцеолярия*
@@ -92,7 +92,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A3. California Poppy (*Eschscholzia californica*)
+### A3. California Poppy *(Eschscholzia californica)*
 
 
 ***Russian:*** *Эшшольция калифорнийская*
@@ -118,7 +118,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A4. Cockscomb (*Celosia argentea (Cristata & Plumosa Groups)*)
+### A4. Cockscomb *(Celosia argentea (Cristata & Plumosa Groups))*
 
 
 ***Russian:*** *Целозия серебристая*
@@ -144,7 +144,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A5. Cornflower (*Centaurea cyanus*)
+### A5. Cornflower *(Centaurea cyanus)*
 
 
 ***Russian:*** *Василёк синий*
@@ -171,7 +171,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A6. Cosmos (*Cosmos bipinnatus*)
+### A6. Cosmos *(Cosmos bipinnatus)*
 
 
 ***Russian:*** *Космея дваждыперистая*
@@ -197,7 +197,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A7. Drumstick Flower (*Craspedia globosa*)
+### A7. Drumstick Flower *(Craspedia globosa)*
 
 
 ***Russian:*** *Краспедия шаровидная*
@@ -223,7 +223,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A8. Globe Amaranth (*Gomphrena globosa*)
+### A8. Globe Amaranth *(Gomphrena globosa)*
 
 
 ***Russian:*** *Гомфрена шаровидная*
@@ -249,7 +249,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A9. Greater Quaking Grass (*Briza maxima*)
+### A9. Greater Quaking Grass *(Briza maxima)*
 
 
 ***Russian:*** *Трясунка большая*
@@ -276,7 +276,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A10. Lacy Phacelia (*Phacelia tanacetifolia*)
+### A10. Lacy Phacelia *(Phacelia tanacetifolia)*
 
 
 ***Russian:*** *Фацелия пижмолистная*
@@ -303,7 +303,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A100. Lambs Tails (*Ptilotus exaltatus*)
+### A100. Lambs Tails *(Ptilotus exaltatus)*
 
 📷 **Reference photo:** [Ptilotus exaltatus — view on Wikipedia](https://en.wikipedia.org/wiki/Ptilotus_exaltatus)
 
@@ -327,7 +327,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A11. Love-in-a-Mist (*Nigella damascena*)
+### A11. Love-in-a-Mist *(Nigella damascena)*
 
 
 ***Irish / Russian:*** *Nigéal · Чернушка дамасская (девица в зелени, нигелла)*
@@ -354,7 +354,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A12. Mealycup Sage 'Blue Bedder' (*Salvia farinacea 'Blue Bedder'*)
+### A12. Mealycup Sage 'Blue Bedder' *(Salvia farinacea 'Blue Bedder')*
 
 
 ***Russian:*** *Шалфей мучнистый*
@@ -381,7 +381,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A13. Poached Egg Plant (*Limnanthes douglasii*)
+### A13. Poached Egg Plant *(Limnanthes douglasii)*
 
 
 ***Irish / Russian:*** *Cúr léana · Лимнантес Дугласа*
@@ -407,7 +407,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A14. Poppies (*Papaver spp., e.g. P. rhoeas, Shirley poppies*)
+### A14. Poppies *(Papaver spp., e.g. P. rhoeas, Shirley poppies)*
 
 
 ***Irish / Russian:*** *Cailleach dhearg · Мак самосейка*
@@ -434,7 +434,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A15. Pot Marigold (*Calendula officinalis*)
+### A15. Pot Marigold *(Calendula officinalis)*
 
 
 ***Russian:*** *Календула лекарственная*
@@ -460,7 +460,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A16. Snapdragons (*Antirrhinum majus*)
+### A16. Snapdragons *(Antirrhinum majus)*
 
 
 ***Irish / Russian:*** *Srubh lao · Львиный зев*
@@ -486,7 +486,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A17. Strawflower (*Xerochrysum bracteatum*)
+### A17. Strawflower *(Xerochrysum bracteatum)*
 
 
 ***Russian:*** *Бессмертник прицветниковый*
@@ -512,7 +512,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A18. Sweet Alyssum (*Lobularia maritima*)
+### A18. Sweet Alyssum *(Lobularia maritima)*
 
 
 ***Irish / Russian:*** *Alasam cumhra · Лобулярия приморская (алиссум морской)*
@@ -538,7 +538,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A19. Sweet Peas (*Lathyrus odoratus*)
+### A19. Sweet Peas *(Lathyrus odoratus)*
 
 
 ***Russian:*** *Душистый горошек*
@@ -568,7 +568,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A20. Winged Everlasting (*Ammobium alatum*)
+### A20. Winged Everlasting *(Ammobium alatum)*
 
 
 ***Russian:*** *Аммобиум крылатый*
@@ -594,7 +594,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### A21. Zinnia (*Zinnia elegans*)
+### A21. Zinnia *(Zinnia elegans)*
 
 
 ***Russian:*** *Цинния изящная*
@@ -622,7 +622,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP B: BULBS
 
-### B1. Acidanthera (Abyssinian Gladiolus) (*Gladiolus murielae*)
+### B1. Acidanthera (Abyssinian Gladiolus) *(Gladiolus murielae)*
 
 
 ***Russian:*** *Шпажник Мюриэл*
@@ -645,7 +645,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B2. African Lily (*Agapanthus africanus*)
+### B2. African Lily *(Agapanthus africanus)*
 
 
 ***Russian:*** *Агапантус африканский*
@@ -673,7 +673,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B3. Anemone (*Anemone spp.*)
+### B3. Anemone *(Anemone spp.)*
 
 
 ***Irish / Russian:*** *Lus na gaoithe · Ветреница нежная*
@@ -706,7 +706,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B4. Camassia (*Camassia spp.*)
+### B4. Camassia *(Camassia spp.)*
 
 
 ***Russian:*** *Камассия*
@@ -732,7 +732,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B5. Corn Lily (*Ixia spp.*)
+### B5. Corn Lily *(Ixia spp.)*
 
 
 ***Russian:*** *Иксия*
@@ -759,7 +759,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B6. Crocus (*Crocus spp.*)
+### B6. Crocus *(Crocus spp.)*
 
 
 ***Russian:*** *Крокус*
@@ -796,7 +796,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B7. Daffodils (*Narcissus spp.*)
+### B7. Daffodils *(Narcissus spp.)*
 
 
 ***Irish / Russian:*** *Lus an chromchinn · Нарцисс*
@@ -819,7 +819,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B8. Dwarf Iris (*Iris reticulata*)
+### B8. Dwarf Iris *(Iris reticulata)*
 
 
 ***Russian:*** *Ирис сетчатый*
@@ -846,7 +846,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B27. Dwarf Sword Lily (*Gladiolus nanus*)
+### B27. Dwarf Sword Lily *(Gladiolus nanus)*
 
 📷 **Reference photo:** [Gladiolus nanus — view on Wikipedia](https://en.wikipedia.org/wiki/Gladiolus)
 
@@ -870,7 +870,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B9. Erythronium (Dog's Tooth Violet) (*Erythronium dens-canis*)
+### B9. Erythronium (Dog's Tooth Violet) *(Erythronium dens-canis)*
 
 
 ***Russian:*** *Кандык*
@@ -897,7 +897,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B10. Freesia (*Freesia spp.*)
+### B10. Freesia *(Freesia spp.)*
 
 
 ***Russian:*** *Фрезия*
@@ -924,7 +924,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B11. Fritillaria (*Fritillaria spp.*)
+### B11. Fritillaria *(Fritillaria spp.)*
 
 
 📷 **Reference photos:** [Checkered Lily](https://en.wikipedia.org/wiki/Fritillaria_meleagris) · [Crown Imperial](https://en.wikipedia.org/wiki/Fritillaria_imperialis) · [Fritillaria acmopetala](https://en.wikipedia.org/wiki/Fritillaria_acmopetala) · [Fox's Grape Fritillary](https://en.wikipedia.org/wiki/Fritillaria_uva-vulpis) · [F. michailovskyi](https://en.wikipedia.org/wiki/Fritillaria_michailovskyi) · [Persian Fritillary](https://en.wikipedia.org/wiki/Fritillaria_persica)
@@ -958,7 +958,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B12. Grape Hyacinth (*Muscari spp.*)
+### B12. Grape Hyacinth *(Muscari spp.)*
 
 
 ***Russian:*** *Мышиный гиацинт (мускари)*
@@ -984,7 +984,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B100. Hyacinth (*Hyacinthus orientalis*)
+### B100. Hyacinth *(Hyacinthus orientalis)*
 
 📷 **Reference photo:** [Hyacinthus orientalis — view on Wikipedia](https://en.wikipedia.org/wiki/Hyacinthus_orientalis)
 
@@ -1008,7 +1008,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B13. Iron Cross (*Oxalis tetraphylla 'Iron Cross'*)
+### B13. Iron Cross *(Oxalis tetraphylla 'Iron Cross')*
 
 
 ***Russian:*** *Кислица*
@@ -1035,7 +1035,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B14. Lilies (*Lilium spp.*)
+### B14. Lilies *(Lilium spp.)*
 
 
 ***Russian:*** *Лилия*
@@ -1060,7 +1060,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B15. Martagon Lily (*Lilium martagon*)
+### B15. Martagon Lily *(Lilium martagon)*
 
 
 ***Russian:*** *Лилия кудреватая*
@@ -1087,7 +1087,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B16. Native Bluebells (*Hyacinthoides non-scripta*)
+### B16. Native Bluebells *(Hyacinthoides non-scripta)*
 
 
 ***Irish / Russian:*** *Coinnle corra · Гиацинтоидес неописанный*
@@ -1116,7 +1116,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B17. Ornamental Onion (*Allium spp.*)
+### B17. Ornamental Onion *(Allium spp.)*
 
 
 📷 **Reference photos:** [Allium](https://en.wikipedia.org/wiki/Allium) · [Allium giganteum](https://en.wikipedia.org/wiki/Allium_giganteum) · [Allium moly](https://en.wikipedia.org/wiki/Allium_moly) · [Allium oreophilum](https://en.wikipedia.org/wiki/Allium_oreophilum) · [Allium neapolitanum (cowanii)](https://en.wikipedia.org/wiki/Allium_neapolitanum) · [Allium nigrum](https://en.wikipedia.org/wiki/Allium_nigrum) · [Allium atropurpureum](https://en.wikipedia.org/wiki/Allium_atropurpureum) · [Allium 'Millennium'](https://www.rhs.org.uk/plants/315303/allium-millennium/details)
@@ -1152,7 +1152,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B18. Pineapple Lily (*Eucomis spp.*)
+### B18. Pineapple Lily *(Eucomis spp.)*
 
 
 📷 **Reference photo:** [Eucomis — view on Wikipedia](https://en.wikipedia.org/wiki/Eucomis)
@@ -1179,7 +1179,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B19. Ranunculus (*Ranunculus asiaticus*)
+### B19. Ranunculus *(Ranunculus asiaticus)*
 
 
 ***Russian:*** *Лютик азиатский*
@@ -1206,7 +1206,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B28. River Lily (*Hesperantha coccinea*, syn. *Schizostylis coccinea*)
+### B28. River Lily *(Hesperantha coccinea*, syn. *Schizostylis coccinea)*
 
 📷 **Reference photo:** [Hesperantha coccinea — view on Wikipedia](https://en.wikipedia.org/wiki/Hesperantha_coccinea)
 
@@ -1230,7 +1230,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B20. Siberian Squill (*Scilla siberica*)
+### B20. Siberian Squill *(Scilla siberica)*
 
 
 ***Russian:*** *Пролеска сибирская*
@@ -1256,7 +1256,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B21. Snowdrops (*Galanthus nivalis*)
+### B21. Snowdrops *(Galanthus nivalis)*
 
 
 ***Irish / Russian:*** *Plúirín sneachta · Подснежник белоснежный*
@@ -1280,7 +1280,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B22. Snowflake (Summer) (*Leucojum aestivum*)
+### B22. Snowflake (Summer) *(Leucojum aestivum)*
 
 
 ***Irish / Russian:*** *Plúirín samhraidh · Белоцветник летний*
@@ -1311,7 +1311,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B23. Spring Sowbread (*Cyclamen coum*)
+### B23. Spring Sowbread *(Cyclamen coum)*
 
 
 ***Russian:*** *Цикламен косский (дряква косская)*
@@ -1338,7 +1338,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B24. Tulip (*Tulipa spp.*)
+### B24. Tulip *(Tulipa spp.)*
 
 
 📷 **Reference photos:** [Tulip](https://en.wikipedia.org/wiki/Tulip) · [Turkestan Tulip](https://en.wikipedia.org/wiki/Tulipa_turkestanica) · [Whittall's Tulip](https://en.wikipedia.org/wiki/Tulipa_orphanidea) · [Wild Tulip](https://en.wikipedia.org/wiki/Tulipa_sylvestris) · ['Little Beauty'](https://en.wikipedia.org/wiki/Tulipa_humilis) · [T. saxatilis](https://en.wikipedia.org/wiki/Tulipa_saxatilis) · [T. tarda](https://en.wikipedia.org/wiki/Tulipa_tarda)
@@ -1373,7 +1373,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B25. Winter Aconite (*Eranthis hyemalis*)
+### B25. Winter Aconite *(Eranthis hyemalis)*
 
 
 📷 **Reference photo:** [Eranthis hyemalis — view on Wikipedia](https://en.wikipedia.org/wiki/Eranthis_hyemalis)
@@ -1400,7 +1400,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### B26. Yellow Star-of-Bethlehem (*Gagea lutea*)
+### B26. Yellow Star-of-Bethlehem *(Gagea lutea)*
 
 
 ***Russian:*** *Гусиный лук жёлтый*
@@ -1432,7 +1432,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP C: CLIMBERS & WALL PLANTS
 
-### C1. Blue Passion Flower (*Passiflora caerulea*)
+### C1. Blue Passion Flower *(Passiflora caerulea)*
 
 
 ***Irish / Russian:*** *Lus na páise · Страстоцвет голубой*
@@ -1459,7 +1459,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C2. Chocolate Vine (*Akebia quinata*)
+### C2. Chocolate Vine *(Akebia quinata)*
 
 
 📷 **Reference photo:** [Akebia quinata — view on Wikipedia](https://en.wikipedia.org/wiki/Akebia_quinata)
@@ -1488,7 +1488,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C3. Clematis (*Clematis spp.*)
+### C3. Clematis *(Clematis spp.)*
 
 
 ***Irish / Russian:*** *Gabhrán · Клематис*
@@ -1527,7 +1527,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C4. Climbing Honeysuckle (*Lonicera periclymenum*)
+### C4. Climbing Honeysuckle *(Lonicera periclymenum)*
 
 
 ***Irish / Russian:*** *Féithleann · Жимолость вьющаяся*
@@ -1552,7 +1552,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C5. Climbing Hydrangea (*Hydrangea anomala subsp. petiolaris*)
+### C5. Climbing Hydrangea *(Hydrangea anomala subsp. petiolaris)*
 
 
 ***Russian:*** *Гортензия черешковая*
@@ -1579,7 +1579,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C6. Climbing Roses (*Rosa, climbing cultivars*)
+### C6. Climbing Roses *(Rosa, climbing cultivars)*
 
 
 ***Russian:*** *Плетистая роза*
@@ -1604,7 +1604,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C7. Common Jasmine (*Jasminum officinale*)
+### C7. Common Jasmine *(Jasminum officinale)*
 
 
 📷 **Reference photo:** [Jasminum officinale — view on Wikipedia](https://en.wikipedia.org/wiki/Jasminum_officinale)
@@ -1631,7 +1631,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C8. Hardy Grapes (*Vitis vinifera*)
+### C8. Hardy Grapes *(Vitis vinifera)*
 
 
 ***Irish / Russian:*** *Fíonchaora · Виноград культурный*
@@ -1664,7 +1664,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C9. Hops (*Humulus lupulus*)
+### C9. Hops *(Humulus lupulus)*
 
 
 ***Irish / Russian:*** *Lus an leanna · Хмель обыкновенный*
@@ -1689,7 +1689,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C10. Ivy (*Hedera helix / H. hibernica — native Irish ivy*)
+### C10. Ivy *(Hedera helix / H. hibernica — native Irish ivy)*
 
 
 ***Irish / Russian:*** *Eidhneán · Плющ обыкновенный*
@@ -1714,7 +1714,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C11. Kiwi 'Jenny' (*Actinidia deliciosa 'Jenny'*)
+### C11. Kiwi 'Jenny' *(Actinidia deliciosa 'Jenny')*
 
 
 📷 **Reference photo:** [Kiwi — view source](https://en.wikipedia.org/wiki/Actinidia_deliciosa)
@@ -1743,7 +1743,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C12. Necklace Vine (Maidenhair Vine) (*Muehlenbeckia complexa*)
+### C12. Necklace Vine (Maidenhair Vine) *(Muehlenbeckia complexa)*
 
 
 📷 **Reference photo:** [Muehlenbeckia complexa — view on Wikipedia](https://en.wikipedia.org/wiki/Muehlenbeckia_complexa)
@@ -1770,7 +1770,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C13. Schisandra (*Schisandra spp.*)
+### C13. Schisandra *(Schisandra spp.)*
 
 
 📷 **Reference photos:** [Schisandra chinensis](https://en.wikipedia.org/wiki/Schisandra_chinensis) · [Schisandra rubriflora](https://en.wikipedia.org/wiki/Schisandra_rubriflora)
@@ -1804,7 +1804,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C14. Tufted Vetch (*Vicia cracca*)
+### C14. Tufted Vetch *(Vicia cracca)*
 
 
 ***Irish / Russian:*** *Peasair na luch · Горошек мышиный*
@@ -1831,7 +1831,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C15. Virginia Creeper (*Parthenocissus quinquefolia*)
+### C15. Virginia Creeper *(Parthenocissus quinquefolia)*
 
 
 ***Russian:*** *Виноград девичий пятилисточковый*
@@ -1856,7 +1856,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### C16. Wisteria (*Wisteria sinensis / W. floribunda*)
+### C16. Wisteria *(Wisteria sinensis / W. floribunda)*
 
 
 ***Russian:*** *Глициния китайская*
@@ -1886,7 +1886,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP F: FRUIT TREES & SHRUBS
 
-### F1. Almond (*Prunus dulcis*)
+### F1. Almond *(Prunus dulcis)*
 
 
 📷 **Reference photo:** [Prunus dulcis — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_dulcis)
@@ -1915,7 +1915,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F2. Apple (*Malus domestica*)
+### F2. Apple *(Malus domestica)*
 
 
 ***Irish / Russian:*** *Crann úll · Яблоня домашняя*
@@ -1969,7 +1969,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F3. Blackberries (*Rubus fruticosus agg.*)
+### F3. Blackberries *(Rubus fruticosus agg.)*
 
 
 ***Irish / Russian:*** *Sméara dubha · Ежевика кустистая*
@@ -2003,7 +2003,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F4. Blackcurrant (*Ribes nigrum*)
+### F4. Blackcurrant *(Ribes nigrum)*
 
 
 ***Irish / Russian:*** *Cuiríní dubha · Смородина чёрная*
@@ -2026,7 +2026,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F5. Blueberry (*Vaccinium corymbosum*)
+### F5. Blueberry *(Vaccinium corymbosum)*
 
 
 ***Russian:*** *Голубика высокорослая*
@@ -2060,7 +2060,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F6. Cranberry (*Vaccinium macrocarpon*)
+### F6. Cranberry *(Vaccinium macrocarpon)*
 
 
 ***Russian:*** *Клюква крупноплодная*
@@ -2087,7 +2087,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F7. Fig (*Ficus carica*)
+### F7. Fig *(Ficus carica)*
 
 
 📷 **Reference photo:** [Ficus carica — view on Wikipedia](https://en.wikipedia.org/wiki/Ficus_carica)
@@ -2124,7 +2124,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F8. Garden Plum (*Prunus domestica*)
+### F8. Garden Plum *(Prunus domestica)*
 
 
 ***Irish / Russian:*** *Crann plumaí · Слива домашняя*
@@ -2153,7 +2153,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F9. Gooseberry (*Ribes uva-crispa*)
+### F9. Gooseberry *(Ribes uva-crispa)*
 
 
 ***Irish / Russian:*** *Spíonán · Крыжовник обыкновенный*
@@ -2176,7 +2176,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F10. Green Strawberry (*Fragaria viridis*)
+### F10. Green Strawberry *(Fragaria viridis)*
 
 
 ***Russian:*** *Клубника луговая (клубника степная, клубника лесная, земляника зелёная)*
@@ -2209,7 +2209,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F11. Hazelnut (*Corylus avellana*)
+### F11. Hazelnut *(Corylus avellana)*
 
 
 📷 **Reference photo:** [Corylus avellana — view on Wikipedia](https://en.wikipedia.org/wiki/Corylus_avellana)
@@ -2236,7 +2236,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F12. Honeyberry (Kamchatka) (*Lonicera caerulea var. kamtschatica*)
+### F12. Honeyberry (Kamchatka) *(Lonicera caerulea var. kamtschatica)*
 
 
 ***Russian:*** *Жимолость камчатская*
@@ -2268,7 +2268,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F13. Lingonberry (*Vaccinium vitis-idaea*)
+### F13. Lingonberry *(Vaccinium vitis-idaea)*
 
 
 ***Russian:*** *Брусника обыкновенная*
@@ -2295,7 +2295,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F14. Olive (*Olea europaea*)
+### F14. Olive *(Olea europaea)*
 
 
 📷 **Reference photo:** [Olea europaea — view on Wikipedia](https://en.wikipedia.org/wiki/Olive)
@@ -2322,7 +2322,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F15. Peach (*Prunus persica*)
+### F15. Peach *(Prunus persica)*
 
 
 📷 **Reference photo:** [Prunus persica — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_persica)
@@ -2359,7 +2359,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F16. Pear (*Pyrus communis*)
+### F16. Pear *(Pyrus communis)*
 
 
 📷 **Reference photo:** [Pyrus communis — view on Wikipedia](https://en.wikipedia.org/wiki/Pear)
@@ -2401,7 +2401,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F17. Plum Tree 'Aprimira' (*Prunus domestica 'Aprimira'*)
+### F17. Plum Tree 'Aprimira' *(Prunus domestica 'Aprimira')*
 
 
 📷 **Reference photo:** [Plum — view on Wikipedia](https://en.wikipedia.org/wiki/Plum)
@@ -2432,7 +2432,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F18. Pomegranate (*Punica granatum*)
+### F18. Pomegranate *(Punica granatum)*
 
 
 ***Russian:*** *Гранат обыкновенный*
@@ -2459,7 +2459,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F19. Raspberry (*Rubus idaeus*)
+### F19. Raspberry *(Rubus idaeus)*
 
 
 ***Irish / Russian:*** *Sú craobh · Малина обыкновенная*
@@ -2504,7 +2504,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F20. Redcurrant (*Ribes rubrum*)
+### F20. Redcurrant *(Ribes rubrum)*
 
 
 ***Irish / Russian:*** *Cuirín dearg · Смородина красная*
@@ -2527,7 +2527,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F21. Rhubarb (*Rheum × hybridum*)
+### F21. Rhubarb *(Rheum × hybridum)*
 
 
 ***Irish / Russian:*** *Biabhóg · Ревень*
@@ -2552,7 +2552,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F22. Sea Buckthorn (*Hippophae rhamnoides*)
+### F22. Sea Buckthorn *(Hippophae rhamnoides)*
 
 
 ***Irish / Russian:*** *Draighean mara · Облепиха крушиновидная*
@@ -2580,7 +2580,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F23. Serviceberry (*Amelanchier lamarckii*)
+### F23. Serviceberry *(Amelanchier lamarckii)*
 
 
 ***Russian:*** *Ирга Ламарка*
@@ -2607,7 +2607,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F24. Sour Cherry (*Prunus cerasus*)
+### F24. Sour Cherry *(Prunus cerasus)*
 
 
 ***Irish / Russian:*** *Crann silíní searbha · Вишня обыкновенная*
@@ -2644,7 +2644,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F25. Strawberry (*Fragaria × ananassa*)
+### F25. Strawberry *(Fragaria × ananassa)*
 
 
 ***Irish / Russian:*** *Sú talún · Клубника садовая (земляника ананасная)*
@@ -2677,7 +2677,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F26. Sweet Cherry (*Prunus avium*)
+### F26. Sweet Cherry *(Prunus avium)*
 
 
 📷 **Reference photo:** [Prunus avium — view on Wikipedia](https://en.wikipedia.org/wiki/Prunus_avium)
@@ -2725,7 +2725,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### F27. Woodland Strawberry (*Fragaria vesca*)
+### F27. Woodland Strawberry *(Fragaria vesca)*
 
 
 ***Irish / Russian:*** *Sú talún fiáin · Земляника лесная*
@@ -2759,7 +2759,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP G: GROUNDCOVER & CREEPING PLANTS
 
-### G1. Bellflowers (Rockery) (*Campanula spp.*)
+### G1. Bellflowers (Rockery) *(Campanula spp.)*
 
 
 📷 **Reference photos:** [Campanula saxifraga](https://en.wikipedia.org/wiki/Campanula) · [Adriatic Bellflower](https://en.wikipedia.org/wiki/Campanula_garganica) · [Carpathian Bellflower](https://en.wikipedia.org/wiki/Campanula_carpatica) · [Dalmatian Bellflower](https://en.wikipedia.org/wiki/Campanula_portenschlagiana)
@@ -2791,7 +2791,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G2. Creeping Phlox (Moss Phlox) (*Phlox subulata*)
+### G2. Creeping Phlox (Moss Phlox) *(Phlox subulata)*
 
 
 ***Russian:*** *Флокс шиловидный*
@@ -2820,7 +2820,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G3. Evergreen Candytuft (*Iberis sempervirens*)
+### G3. Evergreen Candytuft *(Iberis sempervirens)*
 
 
 📷 **Reference photo:** [Iberis sempervirens — view on Wikipedia](https://en.wikipedia.org/wiki/Iberis_sempervirens)
@@ -2847,7 +2847,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G4. Heathers (*Calluna / Erica spp.*)
+### G4. Heathers *(Calluna / Erica spp.)*
 
 
 📷 **Reference photos:** [Calluna vulgaris](https://en.wikipedia.org/wiki/Calluna_vulgaris) · [Erica cinerea](https://en.wikipedia.org/wiki/Erica_cinerea) · [Erica carnea](https://en.wikipedia.org/wiki/Erica_carnea) · [Erica erigena](https://en.wikipedia.org/wiki/Erica_erigena) · [Erica arborea](https://en.wikipedia.org/wiki/Erica_arborea)
@@ -2884,7 +2884,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G5. Himalayan Bistort (Fleece Flower, Lesser Knotweed) (*Persicaria affinis 'Superba'*)
+### G5. Himalayan Bistort (Fleece Flower, Lesser Knotweed) *(Persicaria affinis 'Superba')*
 
 
 📷 **Reference photo:** [Persicaria affinis — view on Wikipedia](https://en.wikipedia.org/wiki/Persicaria_affinis)
@@ -2911,7 +2911,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G6. Houseleek (*Sempervivum spp.*)
+### G6. Houseleek *(Sempervivum spp.)*
 
 
 ***Irish / Russian:*** *Lus an tóiteáin · Молодило*
@@ -2938,7 +2938,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G7. Jenny's Stonecrop (Reflexed Stonecrop) (*Petrosedum rupestre 'Angelina'*)
+### G7. Jenny's Stonecrop (Reflexed Stonecrop) *(Petrosedum rupestre 'Angelina')*
 
 
 📷 **Reference photo:** [Sedum rupestre — view on Wikipedia](https://en.wikipedia.org/wiki/Sedum_rupestre)
@@ -2965,7 +2965,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G8. Junipers (Creeping) (*Juniperus spp.*)
+### G8. Junipers (Creeping) *(Juniperus spp.)*
 
 
 📷 **Reference photos:** [Creeping Juniper](https://en.wikipedia.org/wiki/Juniperus_horizontalis) · [Juniperus communis](https://en.wikipedia.org/wiki/Juniperus_communis)
@@ -2997,7 +2997,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G9. Ophiopogon (Mondo Grass) (*Ophiopogon spp.*)
+### G9. Ophiopogon (Mondo Grass) *(Ophiopogon spp.)*
 
 
 📷 **Reference photos:** [Ophiopogon japonicus](https://en.wikipedia.org/wiki/Ophiopogon_japonicus) · [Ophiopogon planiscapus](https://en.wikipedia.org/wiki/Ophiopogon_planiscapus)
@@ -3027,7 +3027,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G10. Periwinkle (*Vinca minor and V. major*)
+### G10. Periwinkle *(Vinca minor and V. major)*
 
 
 ***Irish / Russian:*** *Fincín mór · Барвинок малый*
@@ -3058,7 +3058,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G11. Pickle Plant (*Delosperma echinatum*)
+### G11. Pickle Plant *(Delosperma echinatum)*
 
 
 📷 **Reference photo:** [Delosperma — view on Wikipedia](https://en.wikipedia.org/wiki/Delosperma)
@@ -3083,7 +3083,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G12. Prickly Heath (*Gaultheria mucronata*)
+### G12. Prickly Heath *(Gaultheria mucronata)*
 
 
 ***Irish / Russian:*** *Fraoch deilgneach · Гаультерия остроконечная*
@@ -3110,7 +3110,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G13. Reindeer Lichen (*Cladonia rangiferina*)
+### G13. Reindeer Lichen *(Cladonia rangiferina)*
 
 
 ***Russian:*** *Кладония оленья*
@@ -3137,7 +3137,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G14. Rockcress (*Arabis spp.*)
+### G14. Rockcress *(Arabis spp.)*
 
 
 📷 **Reference photos:** [Arabis ferdinandi-coburgi](https://en.wikipedia.org/wiki/Arabis) · [Arabis blepharophylla](https://en.wikipedia.org/wiki/Arabis_blepharophylla) · [Arabis caucasica](https://en.wikipedia.org/wiki/Arabis_caucasica)
@@ -3168,7 +3168,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G15. Saxifrage (*Saxifraga spp., including Mossy Saxifrage S. × arendsii*)
+### G15. Saxifrage *(Saxifraga spp., including Mossy Saxifrage S. × arendsii)*
 
 
 ***Irish / Russian:*** *Mórán · Камнеломка*
@@ -3195,7 +3195,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G16. Siskiyou Lewisia (*Lewisia cotyledon*)
+### G16. Siskiyou Lewisia *(Lewisia cotyledon)*
 
 
 📷 **Reference photo:** [Lewisia cotyledon — view on Wikipedia](https://en.wikipedia.org/wiki/Lewisia_cotyledon)
@@ -3220,7 +3220,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G17. Thyme (Creeping) (*Thymus spp.*)
+### G17. Thyme (Creeping) *(Thymus spp.)*
 
 
 ***Irish / Russian:*** *Tím · Тимьян обыкновенный*
@@ -3252,7 +3252,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### G18. Wall Pennywort (*Umbilicus rupestris*)
+### G18. Wall Pennywort *(Umbilicus rupestris)*
 
 
 ***Irish / Russian:*** *Lus na pingine · Умбиликус*
@@ -3284,7 +3284,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP H: KITCHEN HERBS & VEGETABLES
 
-### H1. Asparagus (*Asparagus officinalis*)
+### H1. Asparagus *(Asparagus officinalis)*
 
 
 ***Irish / Russian:*** *Asparagas · Спаржа лекарственная*
@@ -3310,7 +3310,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H2. Basil (*Ocimum basilicum*)
+### H2. Basil *(Ocimum basilicum)*
 
 
 ***Irish / Russian:*** *Basal · Базилик душистый*
@@ -3336,7 +3336,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H3. Catnip (*Nepeta cataria*)
+### H3. Catnip *(Nepeta cataria)*
 
 
 ***Russian:*** *Котовник кошачий*
@@ -3363,7 +3363,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H4. Chamomile (*Chamaemelum nobile, Roman; Matricaria chamomilla, German*)
+### H4. Chamomile *(Chamaemelum nobile, Roman; Matricaria chamomilla, German)*
 
 
 ***Irish / Russian:*** *Camán meall · Ромашка римская*
@@ -3389,7 +3389,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H5. Chives (*Allium schoenoprasum*)
+### H5. Chives *(Allium schoenoprasum)*
 
 ***Irish / Russian:*** *Síobhas · Лук скорода*
 
@@ -3415,7 +3415,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H6. Comfrey (*Symphytum officinale*)
+### H6. Comfrey *(Symphytum officinale)*
 
 
 ***Irish / Russian:*** *Compar · Окопник лекарственный*
@@ -3443,7 +3443,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H7. Common Sorrel (*Rumex acetosa*)
+### H7. Common Sorrel *(Rumex acetosa)*
 
 
 ***Irish / Russian:*** *Samhadh bó · Щавель кислый*
@@ -3469,7 +3469,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H8. Coriander (*Coriandrum sativum*)
+### H8. Coriander *(Coriandrum sativum)*
 
 
 ***Irish / Russian:*** *Lus an choire · Кинза (кориандр посевной)*
@@ -3492,7 +3492,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H9. Cucumbers (*Cucumis sativus*)
+### H9. Cucumbers *(Cucumis sativus)*
 
 
 ***Irish / Russian:*** *Cúcamar · Огурец посевной*
@@ -3519,7 +3519,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H10. Culinary Thyme (*Thymus vulgaris*)
+### H10. Culinary Thyme *(Thymus vulgaris)*
 
 ***Irish / Russian:*** *Tím · Тимьян обыкновенный*
 
@@ -3545,7 +3545,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H11. Dill (*Anethum graveolens*)
+### H11. Dill *(Anethum graveolens)*
 
 
 ***Irish / Russian:*** *Lus mín · Укроп пахучий*
@@ -3568,7 +3568,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H12. Garden Cress (*Lepidium sativum*)
+### H12. Garden Cress *(Lepidium sativum)*
 
 
 📷 **Reference photo:** [Garden Cress — view on Wikipedia](https://en.wikipedia.org/wiki/Garden_cress)
@@ -3593,7 +3593,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H13. Garlic (*Allium sativum*)
+### H13. Garlic *(Allium sativum)*
 
 
 📷 **Reference photo:** [Garlic — view on Wikipedia](https://en.wikipedia.org/wiki/Garlic)
@@ -3618,7 +3618,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H14. Green Onions (Scallions) (*Allium fistulosum*)
+### H14. Green Onions (Scallions) *(Allium fistulosum)*
 
 
 ***Irish / Russian:*** *Scailliún · Лук-батун*
@@ -3645,7 +3645,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H102. Horseradish (*Armoracia rusticana*)
+### H102. Horseradish *(Armoracia rusticana)*
 
 📷 **Reference photo:** [Armoracia rusticana — view on Wikipedia](https://en.wikipedia.org/wiki/Armoracia_rusticana)
 
@@ -3671,7 +3671,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H15. Lavender (*Lavandula angustifolia*)
+### H15. Lavender *(Lavandula angustifolia)*
 
 
 ***Irish / Russian:*** *Labhandar · Лаванда узколистная*
@@ -3698,7 +3698,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H16. Lemon Balm (*Melissa officinalis*)
+### H16. Lemon Balm *(Melissa officinalis)*
 
 
 ***Irish / Russian:*** *Lus na meala · Мелисса лекарственная*
@@ -3725,7 +3725,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H17. Lemon Verbena (*Aloysia citrodora*)
+### H17. Lemon Verbena *(Aloysia citrodora)*
 
 
 📷 **Reference photo:** [Aloysia citrodora — view on Wikipedia](https://en.wikipedia.org/wiki/Aloysia_citrodora)
@@ -3752,7 +3752,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H18. Lemongrass (*Cymbopogon citratus*)
+### H18. Lemongrass *(Cymbopogon citratus)*
 
 
 📷 **Reference photo:** [Lemongrass — view on Wikipedia](https://en.wikipedia.org/wiki/Cymbopogon_citratus)
@@ -3779,7 +3779,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H19. Mint (*Mentha spp.*)
+### H19. Mint *(Mentha spp.)*
 
 
 ***Irish / Russian:*** *Miontas · Мята*
@@ -3802,7 +3802,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H100. Mustard Greens (*Brassica juncea*)
+### H100. Mustard Greens *(Brassica juncea)*
 
 📷 **Reference photo:** [Brassica juncea — view on Wikipedia](https://en.wikipedia.org/wiki/Brassica_juncea)
 
@@ -3826,7 +3826,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H20. Nasturtiums (*Tropaeolum majus*)
+### H20. Nasturtiums *(Tropaeolum majus)*
 
 
 ***Irish / Russian:*** *Gleorán · Настурция большая*
@@ -3853,7 +3853,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H21. Oregano (Wild Marjoram) (*Origanum vulgare*)
+### H21. Oregano (Wild Marjoram) *(Origanum vulgare)*
 
 
 ***Irish / Russian:*** *Máirtín fiáin · Душица обыкновенная*
@@ -3878,7 +3878,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H22. Parsley (*Petroselinum crispum*)
+### H22. Parsley *(Petroselinum crispum)*
 
 
 ***Irish / Russian:*** *Peirsil · Петрушка кудрявая*
@@ -3911,7 +3911,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H23. Patio Tomatoes (*Solanum lycopersicum (compact/dwarf cultivars)*)
+### H23. Patio Tomatoes *(Solanum lycopersicum (compact/dwarf cultivars))*
 
 
 📷 **Reference photo:** [Tomato — view on Wikipedia](https://en.wikipedia.org/wiki/Tomato)
@@ -3938,7 +3938,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H24. Peas (*Pisum sativum*)
+### H24. Peas *(Pisum sativum)*
 
 
 📷 **Reference photo:** [Pea — view on Wikipedia](https://en.wikipedia.org/wiki/Pea)
@@ -3963,7 +3963,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H25. Peppermint (*Mentha × piperita*)
+### H25. Peppermint *(Mentha × piperita)*
 
 
 📷 **Reference photo:** [Mentha × piperita — view on Wikipedia](https://en.wikipedia.org/wiki/Mentha_%C3%97_piperita)
@@ -3988,7 +3988,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H26. Radish (*Raphanus sativus*)
+### H26. Radish *(Raphanus sativus)*
 
 
 ***Irish / Russian:*** *Raidis · Редис*
@@ -4015,7 +4015,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H27. Rocket (*Eruca sativa*)
+### H27. Rocket *(Eruca sativa)*
 
 
 ***Irish / Russian:*** *Ruachán · Руккола (гусеничник посевной, индау посевной)*
@@ -4042,7 +4042,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H28. Rosemary (*Salvia rosmarinus, syn. Rosmarinus officinalis*)
+### H28. Rosemary *(Salvia rosmarinus, syn. Rosmarinus officinalis)*
 
 
 ***Irish / Russian:*** *Marós · Розмарин лекарственный*
@@ -4069,7 +4069,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H29. Sage (*Salvia officinalis*)
+### H29. Sage *(Salvia officinalis)*
 
 
 ***Irish / Russian:*** *Sáiste · Шалфей лекарственный*
@@ -4096,7 +4096,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H30. Scurvy Grass (*Cochlearia officinalis*)
+### H30. Scurvy Grass *(Cochlearia officinalis)*
 
 
 ***Irish / Russian:*** *Biolar trá · Ложечница лекарственная*
@@ -4123,7 +4123,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H101. Spring Onions (*Allium cepa*)
+### H101. Spring Onions *(Allium cepa)*
 
 📷 **Reference photo:** [Allium cepa — view on Wikipedia](https://en.wikipedia.org/wiki/Allium_cepa)
 
@@ -4143,11 +4143,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Carrots, roses — alliums are classic companions said to help deter some pests.
 
-**West of Ireland:** Ordinary bulb onions (*Allium cepa*) pulled young, before the bulb swells, for a milder, fresh onion flavour with edible green tops — distinct from Green Onions/Scallions (*A. fistulosum*), already in this guide, which is a separate, non-bulbing species. Easy and quick in the mild Irish climate; sow little and often through spring and summer for a continuous supply, and thin crowded rows to eat as you go.
+**West of Ireland:** Ordinary bulb onions *(Allium cepa)* pulled young, before the bulb swells, for a milder, fresh onion flavour with edible green tops — distinct from Green Onions/Scallions *(A. fistulosum)*, already in this guide, which is a separate, non-bulbing species. Easy and quick in the mild Irish climate; sow little and often through spring and summer for a continuous supply, and thin crowded rows to eat as you go.
 
 ---
 
-### H31. Tarragon (*Artemisia dracunculus*)
+### H31. Tarragon *(Artemisia dracunculus)*
 
 📷 **Reference photo:** [Tarragon — view on Wikipedia](https://en.wikipedia.org/wiki/Artemisia_dracunculus)
 
@@ -4171,7 +4171,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H32. Wild Garlic (*Allium ursinum*)
+### H32. Wild Garlic *(Allium ursinum)*
 
 ***Irish / Russian:*** *Creamh · Лук медвежий*
 
@@ -4199,7 +4199,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### H33. Zucchini (Courgette) (*Cucurbita pepo var. cylindrica, var. giraumontia*)
+### H33. Zucchini (Courgette) *(Cucurbita pepo var. cylindrica, var. giraumontia)*
 
 
 ***Irish / Russian:*** *Cúirséad · Кабачок (Цуккини)*
@@ -4231,7 +4231,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP P: ORNAMENTAL PERENNIALS
 
-### P1. Alstroemeria (*Alstroemeria spp.*)
+### P1. Alstroemeria *(Alstroemeria spp.)*
 
 
 📷 **Reference photo:** [Alstroemeria — view on Wikipedia](https://en.wikipedia.org/wiki/Alstroemeria)
@@ -4256,7 +4256,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P2. Avens (*Geum spp.*)
+### P2. Avens *(Geum spp.)*
 
 
 ***Russian:*** *Гравилат*
@@ -4283,7 +4283,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P3. Balloon Flower (*Platycodon grandiflorus*)
+### P3. Balloon Flower *(Platycodon grandiflorus)*
 
 
 ***Russian:*** *Ширококолокольчик крупноцветковый*
@@ -4309,7 +4309,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P4. Bellflowers (Border) (*Campanula spp.*)
+### P4. Bellflowers (Border) *(Campanula spp.)*
 
 
 📷 **Reference photos:** [Clustered Bellflower](https://en.wikipedia.org/wiki/Campanula_glomerata) · [Spreading Bellflower](https://en.wikipedia.org/wiki/Campanula_patula) · [Peach-leaved Bellflower](https://en.wikipedia.org/wiki/Campanula_persicifolia)
@@ -4340,7 +4340,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P5. Blue Gentian (*Gentiana spp., e.g. G. acaulis, G. sino-ornata*)
+### P5. Blue Gentian *(Gentiana spp., e.g. G. acaulis, G. sino-ornata)*
 
 
 ***Russian:*** *Горечавка*
@@ -4367,7 +4367,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P6. Border Sedum (Stonecrop) (*Hylotelephium spectabile*)
+### P6. Border Sedum (Stonecrop) *(Hylotelephium spectabile)*
 
 
 ***Russian:*** *Очитник видный*
@@ -4393,7 +4393,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P7. Chilean Avens (*Geum chiloense*)
+### P7. Chilean Avens *(Geum chiloense)*
 
 
 📷 **Reference photo:** [Geum chiloense — view on Wikipedia](https://en.wikipedia.org/wiki/Geum_chiloense)
@@ -4418,7 +4418,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P100. Chinese Lantern (*Physalis alkekengi*)
+### P100. Chinese Lantern *(Physalis alkekengi)*
 
 📷 **Reference photo:** [Physalis alkekengi — view on Wikipedia](https://en.wikipedia.org/wiki/Physalis_alkekengi)
 
@@ -4444,7 +4444,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P8. Columbine (*Aquilegia vulgaris and hybrids*)
+### P8. Columbine *(Aquilegia vulgaris and hybrids)*
 
 
 ***Irish / Russian:*** *Colaimbín · Водосбор обыкновенный (аквилегия)*
@@ -4471,7 +4471,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P9. Coneflower (*Echinacea purpurea*)
+### P9. Coneflower *(Echinacea purpurea)*
 
 
 ***Russian:*** *Эхинацея пурпурная*
@@ -4497,7 +4497,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P10. Cutleaf Coneflower 'Goldball' (*Rudbeckia laciniata 'Goldball'*)
+### P10. Cutleaf Coneflower 'Goldball' *(Rudbeckia laciniata 'Goldball')*
 
 
 ***Russian:*** *Рудбекия рассечённая*
@@ -4528,7 +4528,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P11. Daylilies (*Hemerocallis spp.*)
+### P11. Daylilies *(Hemerocallis spp.)*
 
 
 ***Russian:*** *Лилейник*
@@ -4555,7 +4555,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P12. Delphiniums (*Delphinium spp.*)
+### P12. Delphiniums *(Delphinium spp.)*
 
 
 ***Russian:*** *Живокость (дельфиниум)*
@@ -4580,7 +4580,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P13. Edelweiss (*Leontopodium alpinum*)
+### P13. Edelweiss *(Leontopodium alpinum)*
 
 
 ***Russian:*** *Эдельвейс альпийский*
@@ -4607,7 +4607,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P14. Elephant's Ears (*Bergenia spp.*)
+### P14. Elephant's Ears *(Bergenia spp.)*
 
 
 ***Russian:*** *Бадан*
@@ -4632,7 +4632,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P15. Fern-leaf Peony (*Paeonia tenuifolia*)
+### P15. Fern-leaf Peony *(Paeonia tenuifolia)*
 
 
 ***Irish / Russian:*** *Piaine · Пион узколистный*
@@ -4659,7 +4659,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P102. Giant Bellflower (*Campanula latifolia var. macrantha*)
+### P102. Giant Bellflower *(Campanula latifolia var. macrantha)*
 
 📷 **Reference photo:** [Campanula latifolia — view on Wikipedia](https://en.wikipedia.org/wiki/Campanula_latifolia)
 
@@ -4683,7 +4683,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P16. Globe Thistle (*Echinops ritro*)
+### P16. Globe Thistle *(Echinops ritro)*
 
 
 ***Russian:*** *Мордовник обыкновенный*
@@ -4709,7 +4709,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P17. Globeflower (*Trollius europaeus / T. x cultorum*)
+### P17. Globeflower *(Trollius europaeus / T. x cultorum)*
 
 
 ***Russian:*** *Купальница европейская*
@@ -4736,7 +4736,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P18. Honesty (*Lunaria annua*)
+### P18. Honesty *(Lunaria annua)*
 
 
 ***Irish / Russian:*** *Lus na gealaí · Лунник однолетний*
@@ -4762,7 +4762,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P19. Irises (*Iris spp.*)
+### P19. Irises *(Iris spp.)*
 
 
 📷 **Reference photos:** [Bearded Iris](https://en.wikipedia.org/wiki/Iris_germanica) · [Siberian Iris](https://en.wikipedia.org/wiki/Iris_sibirica)
@@ -4794,7 +4794,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P20. Japanese Anemone (*Anemone × hybrida*)
+### P20. Japanese Anemone *(Anemone × hybrida)*
 
 
 ***Russian:*** *Ветреница гибридная*
@@ -4821,7 +4821,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P21. Lady's Bedstraw (*Galium verum*)
+### P21. Lady's Bedstraw *(Galium verum)*
 
 
 ***Irish / Russian:*** *Bolach cnis · Подмаренник настоящий*
@@ -4848,7 +4848,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P22. Lanceleaf Tickseed (*Coreopsis lanceolata*)
+### P22. Lanceleaf Tickseed *(Coreopsis lanceolata)*
 
 
 ***Russian:*** *Кореопсис ланцетовидный*
@@ -4874,7 +4874,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P23. Lilyleaf Ladybells (*Adenophora liliifolia*)
+### P23. Lilyleaf Ladybells *(Adenophora liliifolia)*
 
 
 ***Russian:*** *Бубенчик лилиелистный (колокольчик лилиелистный)*
@@ -4901,7 +4901,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P25. Lungworts (*Pulmonaria spp.*)
+### P25. Lungworts *(Pulmonaria spp.)*
 
 
 ***Russian:*** *Медуница*
@@ -4928,7 +4928,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P26. Lupins (*Lupinus polyphyllus and hybrids*)
+### P26. Lupins *(Lupinus polyphyllus and hybrids)*
 
 
 ***Russian:*** *Люпин многолистный*
@@ -4955,7 +4955,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P27. Masterwort (*Astrantia major*)
+### P27. Masterwort *(Astrantia major)*
 
 
 ***Russian:*** *Астранция крупная*
@@ -4981,7 +4981,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P28. Ornamental Grasses (*various genera*)
+### P28. Ornamental Grasses *(various genera)*
 
 
 📷 **Reference photos:** [Festuca glauca](https://en.wikipedia.org/wiki/Festuca_glauca) · [Pennisetum alopecuroides](https://en.wikipedia.org/wiki/Pennisetum_alopecuroides) · [Calamagrostis × acutiflora](https://en.wikipedia.org/wiki/Calamagrostis_%C3%97_acutiflora) · [Hakonechloa macra](https://en.wikipedia.org/wiki/Hakonechloa) · [Nassella tenuissima](https://en.wikipedia.org/wiki/Nassella_tenuissima) · [Carex oshimensis](https://en.wikipedia.org/wiki/Carex_oshimensis) · [Cortaderia selloana](https://en.wikipedia.org/wiki/Cortaderia_selloana)
@@ -5019,7 +5019,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P29. Pasqueflower (*Pulsatilla vulgaris*)
+### P29. Pasqueflower *(Pulsatilla vulgaris)*
 
 
 ***Russian:*** *Прострел обыкновенный*
@@ -5044,7 +5044,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P30. Penstemon (*Penstemon spp.*)
+### P30. Penstemon *(Penstemon spp.)*
 
 
 ***Russian:*** *Пенстемон*
@@ -5070,7 +5070,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P31. Peonies (*Paeonia spp.*)
+### P31. Peonies *(Paeonia spp.)*
 
 
 ***Russian:*** *Пион*
@@ -5103,7 +5103,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P32. Perennial Flax (*Linum perenne*)
+### P32. Perennial Flax *(Linum perenne)*
 
 
 ***Russian:*** *Лён многолетний*
@@ -5130,7 +5130,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P33. Pheasant's Eye (*Adonis vernalis / A. amurensis*)
+### P33. Pheasant's Eye *(Adonis vernalis / A. amurensis)*
 
 
 ***Russian:*** *Адонис весенний*
@@ -5159,7 +5159,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P34. Pincushion Flower (*Scabiosa columbaria*)
+### P34. Pincushion Flower *(Scabiosa columbaria)*
 
 
 ***Russian:*** *Скабиоза голубиная*
@@ -5185,7 +5185,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P35. Pinks & Sweet Williams (*Dianthus spp.*)
+### P35. Pinks & Sweet Williams *(Dianthus spp.)*
 
 
 📷 **Reference photos:** [Sweet William](https://en.wikipedia.org/wiki/Dianthus_barbatus) · [Carnation](https://en.wikipedia.org/wiki/Dianthus_caryophyllus) · [Chinese Pink](https://en.wikipedia.org/wiki/Dianthus_chinensis) · [Maiden Pink](https://en.wikipedia.org/wiki/Dianthus_deltoides) · [Garden Pink](https://en.wikipedia.org/wiki/Dianthus_plumarius)
@@ -5218,7 +5218,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P101. Purpletop Vervain (*Verbena bonariensis*)
+### P101. Purpletop Vervain *(Verbena bonariensis)*
 
 📷 **Reference photo:** [Verbena bonariensis — view on Wikipedia](https://en.wikipedia.org/wiki/Verbena_bonariensis)
 
@@ -5242,7 +5242,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P36. Sea Holly (*Eryngium spp.*)
+### P36. Sea Holly *(Eryngium spp.)*
 
 
 ***Irish / Russian:*** *Cuilleann trá · Синеголовник*
@@ -5268,7 +5268,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P24. Sea Lavender (Statice) (*Limonium* spp.)
+### P24. Sea Lavender (Statice) *(Limonium spp.)*
 
 📷 **Reference photos:** [Limonium sinuatum](https://en.wikipedia.org/wiki/Limonium_sinuatum) · [Limonium vulgare](https://en.wikipedia.org/wiki/Limonium_vulgare) · [Limonium gmelinii](https://en.wikipedia.org/wiki/Limonium_gmelini)
 
@@ -5292,11 +5292,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Ornamental grasses, achillea, sedum — classic gravel-garden and coastal-planting companions; all three have airy sprays excellent for cutting and drying.
 
-**West of Ireland:** Three tough, drought- and salt-tolerant plants with sprays of small, papery flowers from summer into autumn, all genuinely useful for an exposed coastal west of Ireland garden. *L. sinuatum* (Statice) is the classic florist's cut-and-dried flower, usually treated as an annual here; *L. vulgare* is the true native-range coastal species, most at home in a damp, salty spot; *L. gmelinii* is the largest and most robust of the three, a reliable hardy perennial border plant. Not to be confused with Siberian Statice (*Goniolimon tataricum*), already in this guide, which is a related but distinct genus with a similar airy, dried-flower habit.
+**West of Ireland:** Three tough, drought- and salt-tolerant plants with sprays of small, papery flowers from summer into autumn, all genuinely useful for an exposed coastal west of Ireland garden. *L. sinuatum* (Statice) is the classic florist's cut-and-dried flower, usually treated as an annual here; *L. vulgare* is the true native-range coastal species, most at home in a damp, salty spot; *L. gmelinii* is the largest and most robust of the three, a reliable hardy perennial border plant. Not to be confused with Siberian Statice *(Goniolimon tataricum)*, already in this guide, which is a related but distinct genus with a similar airy, dried-flower habit.
 
 ---
 
-### P37. Siberian Statice (*Goniolimon tataricum*)
+### P37. Siberian Statice *(Goniolimon tataricum)*
 
 
 ***Russian:*** *Кермек татарский*
@@ -5323,7 +5323,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P38. Slender Vervain (*Verbena rigida*)
+### P38. Slender Vervain *(Verbena rigida)*
 
 
 ***Russian:*** *Вербена жёсткая*
@@ -5350,7 +5350,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P39. Sneezeweed (*Helenium autumnale*)
+### P39. Sneezeweed *(Helenium autumnale)*
 
 
 ***Russian:*** *Гелениум осенний*
@@ -5376,7 +5376,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P40. Sneezewort (*Achillea ptarmica 'The Pearl'*)
+### P40. Sneezewort *(Achillea ptarmica 'The Pearl')*
 
 
 ***Irish / Russian:*** *Lus corráin · Тысячелистник птармика*
@@ -5408,7 +5408,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P41. Society Garlic (*Tulbaghia violacea*)
+### P41. Society Garlic *(Tulbaghia violacea)*
 
 
 📷 **Reference photo:** [Tulbaghia violacea — view on Wikipedia](https://en.wikipedia.org/wiki/Tulbaghia_violacea)
@@ -5435,7 +5435,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P42. Stocks (*Matthiola incana / M. longipetala*)
+### P42. Stocks *(Matthiola incana / M. longipetala)*
 
 
 ***Russian:*** *Левкой седой*
@@ -5460,7 +5460,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P43. Toadflax (*Linaria vulgaris*)
+### P43. Toadflax *(Linaria vulgaris)*
 
 
 ***Russian:*** *Льнянка обыкновенная*
@@ -5487,7 +5487,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### P44. Yarrow (*Achillea millefolium*)
+### P44. Yarrow *(Achillea millefolium)*
 
 
 ***Irish / Russian:*** *Athair thalún · Тысячелистник обыкновенный*
@@ -5521,7 +5521,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP S: SHADE & WOODLAND PLANTS
 
-### S1. Asian Bleeding Heart (*Lamprocapnos spectabilis, syn. Dicentra spectabilis*)
+### S1. Asian Bleeding Heart *(Lamprocapnos spectabilis, syn. Dicentra spectabilis)*
 
 
 ***Russian:*** *Дицентра великолепная*
@@ -5549,7 +5549,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S2. Auricula (*Primula auricula*)
+### S2. Auricula *(Primula auricula)*
 
 
 ***Irish / Russian:*** *Lus na mbanríon · Первоцвет ушковый*
@@ -5576,7 +5576,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S3. Common Dog Violet (*Viola riviniana*)
+### S3. Common Dog Violet *(Viola riviniana)*
 
 
 ***Irish / Russian:*** *Fanaigse · Фиалка Ривинуса*
@@ -5603,7 +5603,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S4. Coral Bells (*Heuchera spp.*)
+### S4. Coral Bells *(Heuchera spp.)*
 
 
 ***Russian:*** *Гейхера*
@@ -5630,7 +5630,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S5. Cowslip (*Primula veris*)
+### S5. Cowslip *(Primula veris)*
 
 
 ***Irish / Russian:*** *Bainne bó bleachtáin · Первоцвет весенний*
@@ -5657,7 +5657,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S6. Dusky Cranesbill (*Geranium phaeum*)
+### S6. Dusky Cranesbill *(Geranium phaeum)*
 
 
 ***Irish / Russian:*** *Crobh odhar · Герань тёмно-бурая*
@@ -5683,7 +5683,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S7. Epimedium (Barrenwort) (*Epimedium spp.*)
+### S7. Epimedium (Barrenwort) *(Epimedium spp.)*
 
 
 📷 **Reference photos:** [Epimedium × versicolor 'Sulphureum'](https://en.wikipedia.org/wiki/Epimedium) · [Epimedium × perralchicum 'Frohnleiten'](https://en.wikipedia.org/wiki/Epimedium) · [Epimedium × rubrum](https://en.wikipedia.org/wiki/Epimedium)
@@ -5716,7 +5716,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S8. Forget-me-nots (*Myosotis sylvatica*)
+### S8. Forget-me-nots *(Myosotis sylvatica)*
 
 
 ***Irish / Russian:*** *Lus míonla · Незабудка лесная*
@@ -5743,7 +5743,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S9. Foxgloves (*Digitalis purpurea and perennial species*)
+### S9. Foxgloves *(Digitalis purpurea and perennial species)*
 
 
 ***Irish / Russian:*** *Lus mór · Наперстянка пурпурная*
@@ -5768,7 +5768,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S10. Hellebore (Lenten Rose) (*Helleborus spp.*)
+### S10. Hellebore (Lenten Rose) *(Helleborus spp.)*
 
 
 ***Russian:*** *Морозник*
@@ -5793,7 +5793,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S11. Hosta / Plantain Lily (*Hosta spp.*)
+### S11. Hosta / Plantain Lily *(Hosta spp.)*
 
 
 ***Russian:*** *Хоста*
@@ -5831,7 +5831,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S12. Lily of the Valley (*Convallaria majalis*)
+### S12. Lily of the Valley *(Convallaria majalis)*
 
 
 ***Russian:*** *Ландыш майский*
@@ -5860,7 +5860,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S13. Monkshood (*Aconitum napellus*)
+### S13. Monkshood *(Aconitum napellus)*
 
 
 ***Russian:*** *Борец клобучковый (аконит)*
@@ -5918,7 +5918,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Hostas, astilbe, hellebores, snowdrops, bluebells. Native ferns under deciduous trees is the ideal naturalistic Irish planting. Japanese maple and bamboo make beautiful structural companions. Foxgloves self-seed among ferns magnificently.
 
-**West of Ireland:** You are in prime fern territory. Royal Fern (*Osmunda regalis*) is spectacular in boggy west of Ireland conditions, and Hart's Tongue Fern's unusual undivided fronds and lime tolerance make it a useful, easy native for a shaded wall or bank.
+**West of Ireland:** You are in prime fern territory. Royal Fern *(Osmunda regalis)* is spectacular in boggy west of Ireland conditions, and Hart's Tongue Fern's unusual undivided fronds and lime tolerance make it a useful, easy native for a shaded wall or bank.
 
 ---
 
@@ -5989,11 +5989,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Fortune's Holly Fern var. clivicola** (*Cyrtomium fortunei* var. *clivicola*): A particularly cold-hardy variety of Fortune's holly fern (hardy to -15°C or below), originating in Japan and Korea. Produces bold, glossy, deep green fronds with holly-leaf-shaped pinnae. Fully evergreen. One of the few ferns that genuinely tolerates dry shade — invaluable under trees where moisture competition is fierce, a challenge common in west of Ireland woodland gardens. Grows well in neutral to slightly alkaline soils as well as acidic conditions, giving it wider site flexibility than many ferns. Plant at pot level; the crown should sit at or just below the soil surface. Slug-resistant. Height 30–60cm; spread to 60cm. Pot size: ✅ 30–40cm / 15L+.
 
-**Koidzumi's Wood Fern** (*Dryopteris koidzumiana*): A Japanese species related to the common Male Fern, increasingly grown as a garden fern in the UK and Ireland. Produces upright, broadly lance-shaped fronds with attractive coppery-bronze new growth in spring, maturing to dark green. Semi-evergreen to deciduous depending on exposure; in the mild west of Ireland, usually semi-evergreen. Tolerates clay, moist soils, and shade well. Plant at pot level; crown at soil surface or just below. pH 5.5–7.0. Height 60–90cm; spread 60cm. Pot size: ✅ 40–50cm / 25–30L.
+**Koidzumi's Wood Fern** *(Dryopteris koidzumiana)*: A Japanese species related to the common Male Fern, increasingly grown as a garden fern in the UK and Ireland. Produces upright, broadly lance-shaped fronds with attractive coppery-bronze new growth in spring, maturing to dark green. Semi-evergreen to deciduous depending on exposure; in the mild west of Ireland, usually semi-evergreen. Tolerates clay, moist soils, and shade well. Plant at pot level; crown at soil surface or just below. pH 5.5–7.0. Height 60–90cm; spread 60cm. Pot size: ✅ 40–50cm / 25–30L.
 
 ---
 
-### S17. Primulas (*Primula spp.*)
+### S17. Primulas *(Primula spp.)*
 
 
 ***Irish / Russian:*** *Sabhaircín · Первоцвет*
@@ -6028,7 +6028,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S18. Rough Tree Fern (*Cyathea australis*)
+### S18. Rough Tree Fern *(Cyathea australis)*
 
 
 ***Russian:*** *Циатея южная*
@@ -6056,7 +6056,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S19. Round-Lobed Hepatica (*Hepatica nobilis*)
+### S19. Round-Lobed Hepatica *(Hepatica nobilis)*
 
 
 ***Russian:*** *Печёночница благородная*
@@ -6083,7 +6083,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S20. Silver Fern (*Cyathea dealbata*)
+### S20. Silver Fern *(Cyathea dealbata)*
 
 
 ***Russian:*** *Циатея серебристая*
@@ -6111,7 +6111,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S21. Solomon's Seal (*Polygonatum multiflorum / P. × hybridum*)
+### S21. Solomon's Seal *(Polygonatum multiflorum / P. × hybridum)*
 
 
 ***Russian:*** *Купена многоцветковая*
@@ -6139,7 +6139,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S22. St Patrick's Cabbage (*Saxifraga spathularis*)
+### S22. St Patrick's Cabbage *(Saxifraga spathularis)*
 
 
 ***Irish / Russian:*** *Cabáiste mhadra rua · Камнеломка лопатчатая*
@@ -6166,7 +6166,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S23. Tasmanian Tree Fern (*Dicksonia antarctica*)
+### S23. Tasmanian Tree Fern *(Dicksonia antarctica)*
 
 
 ***Russian:*** *Диксония антарктическая*
@@ -6193,7 +6193,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### S24. Wood Sorrel (*Oxalis acetosella*)
+### S24. Wood Sorrel *(Oxalis acetosella)*
 
 
 ***Irish / Russian:*** *Seamsóg · Кислица обыкновенная*
@@ -6225,7 +6225,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP T: ORNAMENTAL TREES & SHRUBS
 
-### T1. Bald Cypress (*Taxodium distichum*)
+### T1. Bald Cypress *(Taxodium distichum)*
 
 
 ***Russian:*** *Таксодиум двурядный*
@@ -6251,7 +6251,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T2. Balsam Fir (*Abies balsamea*)
+### T2. Balsam Fir *(Abies balsamea)*
 
 
 📷 **Reference photo:** [Abies balsamea — view on Wikipedia](https://en.wikipedia.org/wiki/Abies_balsamea)
@@ -6278,7 +6278,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T3. Bamboo (*clump-forming: Fargesia spp., Chusquea spp.*)
+### T3. Bamboo *(clump-forming: Fargesia spp., Chusquea spp.)*
 
 
 ***Russian:*** *Бамбук*
@@ -6289,7 +6289,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Height/Spread:** 2–5m tall (clump bamboo), 1–2m spread.
 
-**Soil needs:** Most soils including clay; prefers moist, fertile, free-draining. Choose clump-forming species — running bamboo (*Phyllostachys*) requires a 60cm deep root barrier.
+**Soil needs:** Most soils including clay; prefers moist, fertile, free-draining. Choose clump-forming species — running bamboo *(Phyllostachys)* requires a 60cm deep root barrier.
 
 **Soil prep:** Dig hole twice the rootball width. Mix clay 50/50 with compost. Mulch well.
 
@@ -6303,7 +6303,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T4. Black Locust (*Robinia pseudoacacia 'Frisia'*)
+### T4. Black Locust *(Robinia pseudoacacia 'Frisia')*
 
 
 📷 **Reference photo:** [Robinia pseudoacacia — view on Wikipedia](https://en.wikipedia.org/wiki/Robinia_pseudoacacia)
@@ -6330,7 +6330,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T5. Border Forsythia (*Forsythia × intermedia*)
+### T5. Border Forsythia *(Forsythia × intermedia)*
 
 
 ***Russian:*** *Форзиция средняя*
@@ -6355,7 +6355,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T6. Cider Gum (Eucalyptus) (*Eucalyptus gunnii*)
+### T6. Cider Gum (Eucalyptus) *(Eucalyptus gunnii)*
 
 
 ***Russian:*** *Эвкалипт Ганна*
@@ -6381,7 +6381,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T7. Common Hawthorn (*Crataegus monogyna*)
+### T7. Common Hawthorn *(Crataegus monogyna)*
 
 
 ***Irish / Russian:*** *Sceach Gheal · Боярышник однопестичный*
@@ -6408,7 +6408,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T8. Douglas Fir (*Pseudotsuga menziesii*)
+### T8. Douglas Fir *(Pseudotsuga menziesii)*
 
 
 📷 **Reference photo:** [Pseudotsuga menziesii — view on Wikipedia](https://en.wikipedia.org/wiki/Pseudotsuga_menziesii)
@@ -6435,7 +6435,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T10. Dwarf Mountain Pine (*Pinus mugo var. mugo*)
+### T10. Dwarf Mountain Pine *(Pinus mugo var. mugo)*
 
 
 📷 **Reference photo:** [Pinus mugo — view on Wikipedia](https://en.wikipedia.org/wiki/Pinus_mugo)
@@ -6460,7 +6460,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T11. Elder 'Black Lace' (*Sambucus nigra 'Black Lace'*)
+### T11. Elder 'Black Lace' *(Sambucus nigra 'Black Lace')*
 
 
 📷 **Reference photo:** [Sambucus nigra — view on Wikipedia](https://en.wikipedia.org/wiki/Sambucus_nigra)
@@ -6487,7 +6487,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T12. English Oak (*Quercus robur*)
+### T12. English Oak *(Quercus robur)*
 
 
 📷 **Reference photo:** [Quercus robur — view on Wikipedia](https://en.wikipedia.org/wiki/Quercus_robur)
@@ -6512,7 +6512,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T13. False Spiraea (*Sorbaria sorbifolia*)
+### T13. False Spiraea *(Sorbaria sorbifolia)*
 
 
 ***Russian:*** *Рябинник рябинолистный*
@@ -6539,7 +6539,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T14. Fraser Fir (*Abies fraseri*)
+### T14. Fraser Fir *(Abies fraseri)*
 
 
 📷 **Reference photo:** [Abies fraseri — view on Wikipedia](https://en.wikipedia.org/wiki/Fraser_fir)
@@ -6566,7 +6566,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T15. Fuzzy Pride-of-Rochester (*Deutzia scabra*)
+### T15. Fuzzy Pride-of-Rochester *(Deutzia scabra)*
 
 
 ***Russian:*** *Дейция шершавая*
@@ -6593,7 +6593,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T16. Ginkgo (*Ginkgo biloba*)
+### T16. Ginkgo *(Ginkgo biloba)*
 
 
 📷 **Reference photo:** [Ginkgo biloba — view on Wikipedia](https://en.wikipedia.org/wiki/Ginkgo_biloba)
@@ -6618,7 +6618,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T17. Golden Mimosa (*Acacia baileyana*)
+### T17. Golden Mimosa *(Acacia baileyana)*
 
 
 ***Russian:*** *Акация Бейли*
@@ -6645,7 +6645,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T18. Holly (*Ilex aquifolium*)
+### T18. Holly *(Ilex aquifolium)*
 
 
 ***Irish / Russian:*** *Cuileann · Падуб остролистный*
@@ -6672,7 +6672,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T19. Horse Chestnut (*Aesculus hippocastanum*)
+### T19. Horse Chestnut *(Aesculus hippocastanum)*
 
 
 📷 **Reference photo:** [Aesculus hippocastanum — view on Wikipedia](https://en.wikipedia.org/wiki/Aesculus_hippocastanum)
@@ -6697,7 +6697,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T20. Irish Yew (*Taxus baccata 'Fastigiata'*)
+### T20. Irish Yew *(Taxus baccata 'Fastigiata')*
 
 
 ***Irish / Russian:*** *Iúr · Тис ягодный*
@@ -6724,7 +6724,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T21. Japanese Barberry (*Berberis thunbergii 'Atropurpurea'*)
+### T21. Japanese Barberry *(Berberis thunbergii 'Atropurpurea')*
 
 
 📷 **Reference photo:** [Berberis thunbergii — view on Wikipedia](https://en.wikipedia.org/wiki/Berberis_thunbergii)
@@ -6751,7 +6751,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T22. Japanese Camellia (*Camellia japonica*)
+### T22. Japanese Camellia *(Camellia japonica)*
 
 
 ***Russian:*** *Камелия японская*
@@ -6778,7 +6778,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T23. Japanese Cedar (*Cryptomeria japonica*)
+### T23. Japanese Cedar *(Cryptomeria japonica)*
 
 
 📷 **Reference photo:** [Japanese Cedar — view on Wikipedia](https://en.wikipedia.org/wiki/Cryptomeria)
@@ -6805,7 +6805,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T24. Japanese Flowering Cherry (*Prunus serrulata*)
+### T24. Japanese Flowering Cherry *(Prunus serrulata)*
 
 
 ***Russian:*** *Вишня мелкопильчатая*
@@ -6840,7 +6840,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T25. Japanese Maple (*Acer palmatum*)
+### T25. Japanese Maple *(Acer palmatum)*
 
 
 ***Russian:*** *Клён дланевидный*
@@ -6867,7 +6867,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T26. Japanese Skimmia (*Skimmia japonica*)
+### T26. Japanese Skimmia *(Skimmia japonica)*
 
 
 ***Russian:*** *Скиммия японская*
@@ -6896,7 +6896,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T27. Korean Fir (*Abies koreana*)
+### T27. Korean Fir *(Abies koreana)*
 
 
 📷 **Reference photo:** [Abies koreana — view on Wikipedia](https://en.wikipedia.org/wiki/Abies_koreana)
@@ -6923,7 +6923,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T28. Lewis Mock Orange (*Philadelphus lewisii*)
+### T28. Lewis Mock Orange *(Philadelphus lewisii)*
 
 
 ***Russian:*** *Чубушник Льюиса*
@@ -6950,7 +6950,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T29. Lilac (*Syringa vulgaris*)
+### T29. Lilac *(Syringa vulgaris)*
 
 
 ***Irish / Russian:*** *Craobh liathchorcra · Сирень обыкновенная*
@@ -6975,7 +6975,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T101. Magnolias (*Magnolia* spp. and hybrids)
+### T101. Magnolias *(Magnolia spp. and hybrids)*
 
 
 ***Russian:*** *Магнолия*
@@ -7034,7 +7034,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T30. Mophead / Lacecap Hydrangea (*Hydrangea macrophylla*)
+### T30. Mophead / Lacecap Hydrangea *(Hydrangea macrophylla)*
 
 
 ***Russian:*** *Гортензия крупнолистная*
@@ -7065,7 +7065,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T31. Mountain Ash (Rowan) (*Sorbus aucuparia*)
+### T31. Mountain Ash (Rowan) *(Sorbus aucuparia)*
 
 
 ***Irish / Russian:*** *Caorthann · Рябина обыкновенная*
@@ -7092,7 +7092,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T32. Scots Pine (*Pinus sylvestris*)
+### T32. Scots Pine *(Pinus sylvestris)*
 
 
 📷 **Reference photo:** [Pinus sylvestris — view on Wikipedia](https://en.wikipedia.org/wiki/Pinus_sylvestris)
@@ -7119,7 +7119,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T33. Shrub Roses (*Rosa, shrub and old-fashioned cultivars*)
+### T33. Shrub Roses *(Rosa, shrub and old-fashioned cultivars)*
 
 
 ***Irish / Russian:*** *Rós · Роза*
@@ -7155,7 +7155,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T34. Shrubby Cinquefoil (*Potentilla fruticosa (incl. var. aurea)*)
+### T34. Shrubby Cinquefoil *(Potentilla fruticosa (incl. var. aurea))*
 
 
 📷 **Reference photo:** [Potentilla fruticosa — view on Wikipedia](https://en.wikipedia.org/wiki/Dasiphora_fruticosa)
@@ -7180,7 +7180,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T35. Smooth Sumac (*Rhus glabra 'Laciniata'*)
+### T35. Smooth Sumac *(Rhus glabra 'Laciniata')*
 
 
 📷 **Reference photo:** [Rhus glabra — view on Wikipedia](https://en.wikipedia.org/wiki/Rhus_glabra)
@@ -7207,7 +7207,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T36. St John's Wort 'Rowallane' (*Hypericum 'Rowallane'*)
+### T36. St John's Wort 'Rowallane' *(Hypericum 'Rowallane')*
 
 
 ***Russian:*** *Зверобой*
@@ -7237,7 +7237,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T38. Tarentum Myrtle (*Myrtus communis subsp. tarentina*)
+### T38. Tarentum Myrtle *(Myrtus communis subsp. tarentina)*
 
 
 ***Russian:*** *Мирт тарентский*
@@ -7265,7 +7265,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## GROUP W: POND & WATER PLANTS
 
-### W1. Arrowhead (*Sagittaria sagittifolia*)
+### W1. Arrowhead *(Sagittaria sagittifolia)*
 
 
 📷 **Reference photo:** [Arrowhead — view on Wikipedia](https://en.wikipedia.org/wiki/Sagittaria_sagittifolia)
@@ -7290,7 +7290,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W2. Astilbe (*Astilbe spp.*)
+### W2. Astilbe *(Astilbe spp.)*
 
 
 ***Russian:*** *Астильба*
@@ -7320,7 +7320,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W3. Bog Asphodel (*Narthecium ossifragum*)
+### W3. Bog Asphodel *(Narthecium ossifragum)*
 
 
 ***Irish / Russian:*** *Sciollam na móna · Нартециум костоломный*
@@ -7349,7 +7349,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W4. Bog Pimpernel (*Anagallis tenella*)
+### W4. Bog Pimpernel *(Anagallis tenella)*
 
 
 ***Irish / Russian:*** *Falcaire corraigh · Анагаллис нежный*
@@ -7376,7 +7376,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W5. Bogbean (Buckbean) (*Menyanthes trifoliata*)
+### W5. Bogbean (Buckbean) *(Menyanthes trifoliata)*
 
 
 ***Irish / Russian:*** *Báchrán · Вахта трёхлистная*
@@ -7405,7 +7405,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W6. Common Butterwort (*Pinguicula vulgaris*)
+### W6. Common Butterwort *(Pinguicula vulgaris)*
 
 
 📷 **Reference photo:** [Common Butterwort — view on Wikipedia](https://en.wikipedia.org/wiki/Pinguicula_vulgaris)
@@ -7430,7 +7430,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W7. Common Water Crowfoot (*Ranunculus aquatilis*)
+### W7. Common Water Crowfoot *(Ranunculus aquatilis)*
 
 
 📷 **Reference photo:** [Common Water Crowfoot — view on Wikipedia](https://en.wikipedia.org/wiki/Ranunculus_aquatilis)
@@ -7457,7 +7457,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W8. Egyptian Papyrus (*Cyperus papyrus*)
+### W8. Egyptian Papyrus *(Cyperus papyrus)*
 
 
 ***Russian:*** *Сыть папирусная*
@@ -7483,7 +7483,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W9. Flowering Rush (*Butomus umbellatus*)
+### W9. Flowering Rush *(Butomus umbellatus)*
 
 
 📷 **Reference photo:** [Flowering Rush — view on Wikipedia](https://en.wikipedia.org/wiki/Butomus_umbellatus)
@@ -7508,7 +7508,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W10. Fringed Water Lily (*Nymphoides peltata*)
+### W10. Fringed Water Lily *(Nymphoides peltata)*
 
 
 📷 **Reference photo:** [Fringed Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nymphoides_peltata)
@@ -7535,7 +7535,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W11. Frogbit (*Hydrocharis morsus-ranae*)
+### W11. Frogbit *(Hydrocharis morsus-ranae)*
 
 
 📷 **Reference photo:** [Frogbit — view on Wikipedia](https://en.wikipedia.org/wiki/Hydrocharis_morsus-ranae)
@@ -7560,7 +7560,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W12. Greater Bladderwort (*Utricularia vulgaris*)
+### W12. Greater Bladderwort *(Utricularia vulgaris)*
 
 
 📷 **Reference photo:** [Greater Bladderwort — view on Wikipedia](https://en.wikipedia.org/wiki/Utricularia_vulgaris)
@@ -7585,7 +7585,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W13. Hornwort (*Ceratophyllum demersum*)
+### W13. Hornwort *(Ceratophyllum demersum)*
 
 
 📷 **Reference photo:** [Hornwort — view on Wikipedia](https://en.wikipedia.org/wiki/Ceratophyllum_demersum)
@@ -7610,7 +7610,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W14. Loosestrife (*Lysimachia vulgaris and L. punctata*)
+### W14. Loosestrife *(Lysimachia vulgaris and L. punctata)*
 
 
 ***Irish / Russian:*** *Breallán léana (Breallán dlúth) · Вербейник обыкновенный*
@@ -7637,7 +7637,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W15. Lotus (*Nelumbo spp.*)
+### W15. Lotus *(Nelumbo spp.)*
 
 
 📷 **Reference photo:** [Lotus — view on Wikipedia](https://en.wikipedia.org/wiki/Nelumbo)
@@ -7664,7 +7664,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W16. Mare's Tail (*Hippuris vulgaris*)
+### W16. Mare's Tail *(Hippuris vulgaris)*
 
 
 📷 **Reference photo:** [Mare's Tail — view on Wikipedia](https://en.wikipedia.org/wiki/Hippuris_vulgaris)
@@ -7689,7 +7689,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W17. Marsh Marigold (*Caltha palustris*)
+### W17. Marsh Marigold *(Caltha palustris)*
 
 
 ***Irish / Russian:*** *Lus buí Bealtaine · Калужница болотная*
@@ -7716,7 +7716,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W18. Marsh Orchids (*Dactylorhiza spp.*)
+### W18. Marsh Orchids *(Dactylorhiza spp.)*
 
 
 ***Russian:*** *Пальчатокоренник*
@@ -7743,7 +7743,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W19. Meadowsweet (*Filipendula ulmaria*)
+### W19. Meadowsweet *(Filipendula ulmaria)*
 
 
 ***Irish / Russian:*** *Airgead luachra · Лабазник вязолистный*
@@ -7770,7 +7770,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W20. Ragged Robin (*Lychnis flos-cuculi*)
+### W20. Ragged Robin *(Lychnis flos-cuculi)*
 
 
 📷 **Reference photo:** [Ragged Robin — view on Wikipedia](https://en.wikipedia.org/wiki/Silene_flos-cuculi)
@@ -7795,7 +7795,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W21. Round-leaved Sundew (*Drosera rotundifolia*)
+### W21. Round-leaved Sundew *(Drosera rotundifolia)*
 
 
 📷 **Reference photo:** [Round-leaved Sundew — view on Wikipedia](https://en.wikipedia.org/wiki/Drosera_rotundifolia)
@@ -7820,7 +7820,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W22. Umbrella Grass (*Cyperus alternifolius*)
+### W22. Umbrella Grass *(Cyperus alternifolius)*
 
 
 ***Russian:*** *Сыть очерёднолистная*
@@ -7846,7 +7846,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W23. Umbrella Plant (*Darmera peltata*)
+### W23. Umbrella Plant *(Darmera peltata)*
 
 
 📷 **Reference photo:** [Darmera peltata — view on Wikipedia](https://en.wikipedia.org/wiki/Darmera_peltata)
@@ -7871,7 +7871,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W24. Water Forget-me-not (*Myosotis scorpioides*)
+### W24. Water Forget-me-not *(Myosotis scorpioides)*
 
 
 📷 **Reference photo:** [Water Forget-me-not — view on Wikipedia](https://en.wikipedia.org/wiki/Myosotis_scorpioides)
@@ -7896,7 +7896,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W100. Water Hyacinth (*Eichhornia crassipes*, syn. *Pontederia crassipes*)
+### W100. Water Hyacinth *(Eichhornia crassipes*, syn. *Pontederia crassipes)*
 
 📷 **Reference photo:** [Water Hyacinth — view on Wikipedia](https://en.wikipedia.org/wiki/Pontederia_crassipes)
 
@@ -7906,11 +7906,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Why it is banned:** Water Hyacinth is considered one of the world's most damaging invasive aquatic plants. Dense floating mats block light and oxygen exchange, outcompete native aquatic plants and animals, impede boating, fishing and water sport, clog irrigation and drainage channels, and are extremely difficult and costly to eradicate once established in open water. It has caused severe ecological and economic damage in warm-climate regions worldwide, and the EU and Irish authorities have specifically targeted it to prevent establishment in European waterways as the climate warms.
 
-**West of Ireland:** Not a plant for any garden, pond, or water feature here or anywhere in the EU/UK — full stop. If you are looking for a similar-looking, entirely legal floating ornamental for an Irish pond, Frogbit (*Hydrocharis morsus-ranae*), already in this guide, is a genuine native alternative with a comparable floating-rosette habit on a much less aggressive scale.
+**West of Ireland:** Not a plant for any garden, pond, or water feature here or anywhere in the EU/UK — full stop. If you are looking for a similar-looking, entirely legal floating ornamental for an Irish pond, Frogbit *(Hydrocharis morsus-ranae)*, already in this guide, is a genuine native alternative with a comparable floating-rosette habit on a much less aggressive scale.
 
 ---
 
-### W25. Water Irises (*Iris spp.*)
+### W25. Water Irises *(Iris spp.)*
 
 
 📷 **Reference photos:** [Yellow Flag Iris](https://en.wikipedia.org/wiki/Iris_pseudacorus) · [Iris ensata](https://en.wikipedia.org/wiki/Iris_ensata)
@@ -7944,7 +7944,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W26. Water Lilies (*Nymphaea spp.*)
+### W26. Water Lilies *(Nymphaea spp.)*
 
 
 📷 **Reference photos:** [Nymphaea alba](https://en.wikipedia.org/wiki/Nymphaea_alba) · [Nymphaea candida](https://en.wikipedia.org/wiki/Nymphaea_candida) · [Hardy hybrid water lilies](https://en.wikipedia.org/wiki/Nymphaea)
@@ -7975,7 +7975,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W27. Water Mint (*Mentha aquatica*)
+### W27. Water Mint *(Mentha aquatica)*
 
 
 ***Irish / Russian:*** *Miontas · Мята*
@@ -8004,7 +8004,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W28. Water Soldier (*Stratiotes aloides*)
+### W28. Water Soldier *(Stratiotes aloides)*
 
 
 📷 **Reference photo:** [Water Soldier — view on Wikipedia](https://en.wikipedia.org/wiki/Stratiotes_aloides)
@@ -8029,7 +8029,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W29. Water Violet (*Hottonia palustris*)
+### W29. Water Violet *(Hottonia palustris)*
 
 
 📷 **Reference photo:** [Water Violet — view on Wikipedia](https://en.wikipedia.org/wiki/Hottonia_palustris)
@@ -8054,7 +8054,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W30. Watershield (*Brasenia schreberi*)
+### W30. Watershield *(Brasenia schreberi)*
 
 
 📷 **Reference photo:** [Watershield — view on Wikipedia](https://en.wikipedia.org/wiki/Brasenia)
@@ -8081,7 +8081,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W31. Willow Moss (*Fontinalis antipyretica*)
+### W31. Willow Moss *(Fontinalis antipyretica)*
 
 
 📷 **Reference photo:** [Willow Moss — view on Wikipedia](https://en.wikipedia.org/wiki/Fontinalis_antipyretica)
@@ -8106,7 +8106,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### W32. Yellow Water Lily (*Nuphar lutea*)
+### W32. Yellow Water Lily *(Nuphar lutea)*
 
 
 📷 **Reference photo:** [Yellow Water Lily — view on Wikipedia](https://en.wikipedia.org/wiki/Nuphar_lutea)
@@ -8135,31 +8135,31 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 | # | English Name | Latin Name | Height | Planting Depth | Light | Key Companions | Spacing | pH | In Pot? |
 |---|---|---|---|---|---|---|---|---|---|
-| T106 | "Little Girl" Magnolia hybrids | *Magnolia liliiflora* 'Nigra' × *Magnolia stellata* 'Rosea' | 2.5–4m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2.5–4m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container |
+| T106 | "Little Girl" Magnolia hybrids | *Magnolia liliiflora 'Nigra' × Magnolia stellata 'Rosea'* | 2.5–4m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2.5–4m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container |
 | B1 | Acidanthera (Abyssinian Gladiolus) | *Gladiolus murielae* | 70–100cm | 10–16cm on bed of sharp sand; spring | ☀️ | Salvias, gladioli, dahlias, ornamental grasses | 15–20cm between corms | 6.0–7.0 | ✅ 30cm / 15L+ |
-| G19 | Adriatic Bellflower | *C. garganica* | Up to 10cm | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 15–20cm between plants | 6.0–7.0 | ✅ 10–15L container |
-| B2 | African Lily | *Agapanthus africanus* | 60–90cm | At pot level | ☀️ | Crocosmia, ornamental grasses — classic late-summer border companions | 45–60cm between plants | 6.0–7.5 | ✅ Grows very well in a large container |
+| G19 | Adriatic Bellflower | *Campanula garganica* | Up to 10cm | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 15–20cm between plants | 6.0–7.0 | ✅ 10–15L container |
+| B2 | African Lily | *Agapanthus africanus* | 60–90cm | Rhizome just below soil / at pot level; spring | ☀️ | Ornamental grasses, rudbeckias | 40–60cm between plants; tender, overwinter under cover | 5.5–6.5 | ✅ Large 40–50L container, movable |
 | F1 | Almond | *Prunus dulcis* | 4–6m | At nursery soil mark; graft above soil | ☀️ | Chives, garlic; spring bulbs | 4–6m free-standing; 4–5m fan-trained | 6.0–7.5 | ⚠️ Large container |
 | C19 | Alpine Clematis | *Clematis alpina* | 2–3m | 10–15cm DEEPER than pot | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container |
-| G28 | Alpine Tree Heath | *Erica arborea* var. *alpina* | 1–2m | At pot level | ☀️ | Blueberry, lingonberry, ornamental grasses | 1–1.5m between plants; hardier var. *alpina* available | 5.0–6.5 | ⚠️ Large 40–50L container |
+| G28 | Alpine Tree Heath | *Erica arborea var. alpina* | 1–2m | At pot level | ☀️ | Blueberry, lingonberry, ornamental grasses | 1–1.5m between plants; hardier var. *alpina* available | 5.0–6.5 | ⚠️ Large 40–50L container |
 | P1 | Alstroemeria | *Alstroemeria spp.* | 60–90cm | 15–20cm deep (tubers) | ☀️ to 🌤️ | Roses, geraniums, salvias | 30–45cm between plants | 6.0–7.0 | ✅ 15–20L container |
 | C18 | Anemone Clematis | *Clematis montana* | 8–10m | 10–15cm DEEPER than pot | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container |
 | F2 | Apple | *Malus domestica* | 1.2m–4.5m+ | Graft union at/above soil | ☀️ | Chives, garlic, nasturtiums | Depends on rootstock; cvs. 'Baya Marisa', Cox's Orange Pippin, White Transparent, 'Granny Smith', Antonovka, Grushovka Moskovskaya | 6.0–7.0 | ⚠️ Half-barrel (50L+) on dwarfing rootstock |
 | C17 | Armand Clematis | *Clematis armandii* | 5–9m | At pot level (evergreen type) | ☀️ | Climbing roses, honeysuckle | 5–9m between plants against support | 6.5–7.5 | ✅ Large container against support |
 | W1 | Arrowhead | *Sagittaria sagittifolia* | 30–90cm | Crown at soil surface; up to 20cm water above | ☀️ to 🌤️ | Yellow flag iris, bogbean, flowering rush | 30–45cm between plants | 6.0–7.5 | ✅ Aquatic basket or pond-bottom mud |
-| S1 | Asian Bleeding Heart | *Lamprocapnos spectabilis, syn. Dicentra spectabilis* | 60–90cm | Crown at soil level | 🌥️ | Ferns, hostas, hellebores — classic woodland-edge companions that fill in as it dies back | 45–60cm between plants | 6.0–7.5 | ✅ |
-| H1 | Asparagus | *Asparagus officinalis* | 1–1.5m | Plant crowns 15–20cm deep in a trench, spreading roots out, then backfill gradually as shoots grow | ☀️ | Tomatoes, parsley — traditional companions said to help each other | 30–45cm between crowns, rows 45cm apart | 6.5–7.5 | ✅ |
+| S1 | Asian Bleeding Heart | *Lamprocapnos spectabilis, syn. Dicentra spectabilis* | 60–90cm | Crown at/just below soil level | 🌥️ | Ferns, hostas, hellebores, primroses | 45–60cm between plants; dislikes disturbance | 6.0–7.5 | ✅ 30–40L container |
+| H1 | Asparagus | *Asparagus officinalis* | 1–1.5m | Crowns 20cm deep, ridged in trench | ☀️ | Basil, parsley, tomatoes, calendula | 30–45cm between crowns; 90cm–1.5m between rows | 6.5–7.5 | ⚠️ Very large 50L+ container, raised bed better |
 | W2 | Astilbe | *Astilbe spp.* | 40–90cm | At pot level; crown at surface | 🌥️ | Hostas, ferns, hellebores, primulas | 30–45cm between plants | 5.5–7.0 | ✅ 40–50cm / 30L+ |
 | S2 | Auricula | *Primula auricula* | 15–20cm | Crown at soil level | 🌥️ | Saxifrage, sempervivum, other alpines | 15–20cm between plants | 6.5–7.5 | ✅ 3–5L pot/trough |
 | B33 | Autumn Crocus (Bieberstein's) | *Crocus speciosus* | 10–15cm | 8–10cm deep; plant August | ☀️ to 🌤️ | Autumn-flowering companions | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ |
-| P2 | Avens | *Geum spp.* | 45–60cm | Crown at soil level | ☀️🌤️ | Alliums, irises, roses, hardy geraniums — classic sunny border companions | 30–40cm between plants | 6.0–7.5. | ⚠️ |
-| T1 | Bald Cypress | *Taxodium distichum* | 15–25m | At nursery soil mark | ☀️ to 🌤️ | Astilbe, ferns, yellow flag iris and other moisture-loving plants at its base | 4–6m minimum from structures for a young tree; considerably more given its eventual size | 5.5–7.5 | ✅ |
+| P2 | Avens | *Geum spp.* | 45–60cm | Crown at soil level | ☀️ to 🌥️ | Roses, hardy geraniums, alliums | 30–45cm between plants; divide every 3–4 yrs | 5.5–7.0 | ✅ 15–20L container |
+| T1 | Bald Cypress | *Taxodium distichum* | 15–25m | At nursery soil mark | ☀️ to 🌤️ | Astilbe, ferns, yellow flag iris; moisture-lovers | 4–6m from structures; tolerates wet clay better than most trees in this guide | 5.5–7.5 | ⚠️ Large 80–100L container (young plants only) |
 | B27 | Balkan Anemone | *Anemone blanda* | 10–15cm | 5–8cm deep; autumn | 🌥️ | Snowdrops, bluebells, wood anemone | 10cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ |
-| P3 | Balloon Flower | *Platycodon grandiflorus* | 40–60cm | Crown at soil level; resents root disturbance once established | ☀️ to 🌥️ | Ornamental grasses, sedum — classic late-summer border companions | 30cm between plants | 6.0–7.5 | ✅ |
+| P3 | Balloon Flower | *Platycodon grandiflorus* | 40–60cm | Crown at soil level | ☀️ to 🌥️ | Astilbe, campanula, heuchera, hosta | 30–60cm between plants; dislikes disturbance | 5.6–7.3 | ✅ 20–25L container |
 | T2 | Balsam Fir | *Abies balsamea* | 15–20m | At nursery soil mark | ☀️ to 🌥️ | Ferns, hostas | 4–6m; dwarf cultivars much closer | 5.0–6.5 | ⚠️ Large container for dwarf cultivars |
 | T3 | Bamboo | *clump-forming: Fargesia spp., Chusquea spp.* | 2–5m | At pot level | 🌤️ | Ferns, hostas, astilbe | 1.5–3m from structures; root barrier for running types | 5.5–7.0 | ⚠️ Very large tub (100L+) |
-| H2 | Basil | *Ocimum basilicum* | 30–60cm | Sow under cover in spring, plant out/pot on only once nights are reliably warm, at pot level | ☀️ | Tomatoes, peppers — classic companion planting, said to improve tomato flavour and deter some pests | 20–25cm between plants | 6.0–7.5 | ✅ |
-| P48 | Bearded Iris (Border Iris) | *I. germanica* | 60–90cm | Rhizome at/just above soil surface | ☀️ | Roses, peonies, alliums | 30–45cm between rhizomes; divide every 3–4 yrs | 6.5–7.5 | ⚠️ Wide shallow container, 30L+ |
+| H2 | Basil | *Ocimum basilicum* | 30–60cm | At pot level (after frost) | ☀️ | Tomatoes, peppers | 20–25cm between plants; tender, grow sheltered | 6.0–7.5 | ✅ 10–15L container, best under cover |
+| P48 | Bearded Iris (Border Iris) | *Iris germanica* | 60–90cm | Rhizome at/just above soil surface | ☀️ | Roses, peonies, alliums | 30–45cm between rhizomes; divide every 3–4 yrs | 6.5–7.5 | ⚠️ Wide shallow container, 30L+ |
 | G24 | Bell Heather | *Erica cinerea* | 15–50cm | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants | 4.5–6.5 | ✅ 20–25cm / 5–10L ericaceous compost |
 | B45 | Black Garlic | *Allium nigrum* | 60–90cm | 15cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 20–25cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
 | T4 | Black Locust | *Robinia pseudoacacia* | 10–15m | At nursery soil mark | ☀️ | Shade-tolerant bulbs and perennials | 6–8m between plants | 6.0–7.5 | ⚠️ Large container for young trees |
@@ -8173,68 +8173,68 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | W3 | Bog Asphodel | *Narthecium ossifragum* | 15–45cm | Crown at soil surface, permanently wet | ☀️ | Bogbean, bog pimpernel | 20–30cm between plants; needs permanently wet acid soil | 4.5–6.0 | ⚠️ Bog garden/boggy pot only |
 | W4 | Bog Pimpernel | *Anagallis tenella* | 5–10cm | Crown at soil surface; bog margin to waterline | ☀️ | Bogbean, yellow flag iris, water mint | 30–40cm apart; spreads as carpet | 5.0–6.5 | ✅ Small shallow container at margin |
 | W5 | Bogbean (Buckbean) | *Menyanthes trifoliata* | 15–30cm | Roots + 5cm stem in soil; 5–25cm water above | ☀️ | White water lily, yellow flag iris, bog pimpernel | 60cm between plants; spreads indefinitely without basket | 5.0–7.5 | ✅ 19–24cm+ aquatic basket |
-| W36 | Bohemian/Shining Water Lily | *N. candida* | Leaves float; flowers just above surface | Crown just below basket surface; 20–50cm water above | ☀️ | Bogbean, yellow flag iris, oxygenating plants | 50cm spread; ideal for small ponds | 6.5–7.5 (water) | ✅ Small 2L basket; ideal for tubs |
-| A1 | Borage | *Borago officinalis* | 60–90cm | Sow direct, 1cm deep, spring | ☀️ to 🌥️ | Strawberries, tomatoes — traditional companion, said to attract pollinators and deter some pests; excellent for bees | 30–45cm between plants; self-seeds very freely | 6.0–7.5 | ✅ |
+| W36 | Bohemian/Shining Water Lily | *Nymphaea candida* | Leaves float; flowers just above surface | Crown just below basket surface; 20–50cm water above | ☀️ | Bogbean, yellow flag iris, oxygenating plants | 50cm spread; ideal for small ponds | 6.5–7.5 (water) | ✅ Small 2L basket; ideal for tubs |
+| A1 | Borage | *Borago officinalis* | 60–90cm | 1cm deep (seed) | ☀️ | Strawberries, tomatoes, squash, cucumbers | 45–60cm between plants; annual, self-seeds freely | 6.0–7.0 | ✅ 20–30L container |
 | T5 | Border Forsythia | *Forsythia × intermedia* | 2–3m | At pot level | 🌤️ | Spring tulips, Vinca, holly backdrop | 1.5m between; 2m from walls | 6.0–8.0 | ❌ Too large |
-| P6 | Border Sedum (Stonecrop) | *Hylotelephium spectabile* | 45–60cm | Crown at soil level | ☀️ | Ornamental grasses, echinacea, achillea — classic late-season border companions; flowers are a magnet for butterflies and bees | 45cm between plants | 6.0–7.5 | ✅ |
+| P6 | Border Sedum (Stonecrop) | *Hylotelephium spectabile* | 45–60cm | At pot level | ☀️ | Ornamental grasses, asters, late perennials | 30–45cm between plants | 6.0–6.5 | ✅ 15–20L container |
 | S37 | Broad Buckler Fern | *Dryopteris dilatata* | 60–100cm | At pot level; crown at/just below surface | 🌥️ to 🌑 | Hostas, astilbe, hellebores, bamboo | 60cm between plants | 5.5–7.0 | ✅ 40–50cm / 25–30L |
-| A2 | Bush Slipperwort | *Calceolaria integrifolia* | 20cm–1m | At pot level | ☀️ to 🌥️ | Other tender summer bedding and container plants with similar sun/acid-soil needs | 30–40cm between plants | 5.5–6.5 | ✅ |
-| A3 | California Poppy | *Eschscholzia californica* | 30–45cm | Sow direct, 3–5mm deep, spring; dislikes root disturbance from transplanting | ☀️ | Cornflower, love-in-a-mist and other easy hardy annuals sharing its sunny, well-drained preference | 15–20cm between plants; self-seeds freely | 6.0–7.0 | ✅ |
-| B4 | Camassia | *Camassia spp.* | 60–100cm | 10–15cm deep, autumn | ☀️ to 🌤️ | Alliums, late tulips, ornamental grasses — a good bridge between spring bulbs and early-summer perennials | 15–20cm between bulbs | 6.0–7.5 | ✅ |
+| A2 | Bush Slipperwort | *Calceolaria integrifolia* | 20–30cm | At pot level | ☀️ to 🌥️ | Fuchsias, other tender summer bedding | 15–20cm between plants; sheltered, frost-free spot only | 5.0–6.5 | ✅ 5–10L container |
+| A3 | California Poppy | *Eschscholzia californica* | 30–45cm | Surface-sown (seed) | ☀️ | Cornflower, love-in-a-mist, lavender | 15–23cm between plants; annual, self-seeds | 6.5–7.5 | ✅ 5L+ container |
+| B4 | Camassia | *Camassia spp.* | 60–100cm | 10–15cm deep; autumn | ☀️ to 🌥️ | Solomon's Seal, Asian Bleeding Heart, later perennials | 15–20cm between bulbs; dislikes disturbance | 6.0–7.0 | ⚠️ Large 20L+ container (short-term only) |
 | S46 | Candelabra Primula | *Primula japonica* | 30–60cm | Crown at soil level | 🌥️ | Astilbe, rodgersia, bog-garden perennials | 30–40cm between plants | 5.5–7.0 | ⚠️ Large container, keep very moist |
 | B50 | Candia Tulip | *Tulipa saxatilis* | 15–20cm | 10–12cm deep; autumn | ☀️ | Crocus, dwarf iris, sempervivum | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
-| P59 | Carnation (Border Carnation) | *D. caryophyllus* | 45–60cm | At pot level | ☀️ | Roses, stocks, alliums, lavender | 45–60cm between plants | 6.0–7.5 | ✅ 20–25cm / 10L+ |
-| G20 | Carpathian Bellflower | *C. carpatica* | 15–25cm | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 25–35cm between plants | 6.0–7.0 | ✅ 15–20L container |
+| P59 | Carnation (Border Carnation) | *Dianthus caryophyllus* | 45–60cm | At pot level | ☀️ | Roses, stocks, alliums, lavender | 45–60cm between plants | 6.0–7.5 | ✅ 20–25cm / 10L+ |
+| G20 | Carpathian Bellflower | *Campanula carpatica* | 15–25cm | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 25–35cm between plants | 6.0–7.0 | ✅ 15–20L container |
 | H3 | Catnip | *Nepeta cataria* | 60–90cm | At pot level | ☀️ to 🌤️ | Brassicas, roses | 30–45cm between plants | 6.0–7.5 | ✅ 15–20L container |
-| H4 | Chamomile | *Chamaemelum nobile, Roman; Matricaria chamomilla, German* | 15–30cm | At pot level, or sow seed on the surface in spring | ☀️ to 🌤️ | Traditional companion for roses and other herbs; said to improve the health of plants grown nearby | 15–20cm between plants if grown as a lawn/groundcover; wider if grown as an individual herb plant | 5.5–7.5 | ✅ |
-| B35 | Checkered Lily (Snake's Head Fritillary) | *F. meleagris* | 20–30cm | 10cm deep; autumn | 🌤️ | Snowdrops, daffodils, damp border/pond-margin planting | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container |
-| P7 | Chilean Avens | *Geum chiloense* | 45–60cm | Crown at soil level | ☀️ to 🌥️ | Alliums, irises, roses, hardy geraniums | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container |
-| P100 | Chinese Lantern | *Physalis alkekengi* | 45–60cm | Crown at soil level; sunken container or root barrier | ☀️ to 🌥️ | Best given its own contained space | 60–90cm between plants | 6.0–7.5 | ⚠️ Large sunken pot essential to contain spread |
-| P60 | Chinese Pink | *D. chinensis* | 15–30cm | 3mm deep (seed) / at pot level | ☀️ | Cornflower, love-in-a-mist | 15–20cm between plants; grow as annual/biennial | 6.5–7.5 | ✅ 5L+ container |
-| H5 | Chives | *Allium schoenoprasum* | 20cm–1.2m | Plant all in autumn (mid to late autumn is ideal). Roughly 2–3× the bulb's own depth, pointed end up (about 20cm for Giant Onion's large bulbs, 8–10cm for the smaller species). Space bulbs about twice the bulb's diameter apart. All are fully hardy and, once planted, are left in the ground permanently — none need lifting in the west of Ireland climate. *A. cowanii* is the one partial exception: as a Mediterranean species it is slightly less robustly hardy than the others, so in colder inland gardens (rather than the milder coastal west) it benefits from a sheltered spot or a winter mulch, though it is not usually necessary to lift it | ☀️ | Roses (alliums are classic rose-border companions and can help deter some pests), peoni... | 10–20cm between bulbs for the smaller species; 25–30cm for Giant Onion and *A.* 'Nigrum'/atropurpureum | 6.0–7.5 | ⚠️ |
+| H4 | Chamomile | *Chamaemelum nobile, Roman; Matricaria chamomilla, German* | 15–30cm | Crown at soil level (Roman) / surface-sown (German) | ☀️ to 🌥️ | Brassicas, onions, other Mediterranean herbs | 20–30cm between plants | 5.6–7.8 | ✅ 10–15L container |
+| B35 | Checkered Lily (Snake's Head Fritillary) | *Fritillaria meleagris* | 20–30cm | 10cm deep; autumn | 🌤️ | Snowdrops, daffodils, damp border/pond-margin planting | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container |
+| P7 | Chilean Avens | *Geum chiloense* | 45–60cm | Crown at soil level | ☀️ to 🌤️ | Alliums, irises, roses, hardy geraniums | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container |
+| P100 | Chinese Lantern | *Physalis alkekengi* | 45–60cm | Crown at soil level; sunken container or root barrier | ☀️ to 🌤️ | Best given its own contained space | 60–90cm between plants | 6.0–7.5 | ⚠️ Large sunken pot essential |
+| P60 | Chinese Pink | *Dianthus chinensis* | 6–9m | 3mm deep (seed) / at pot level | ☀️ | Cornflower, love-in-a-mist | 15–20cm between plants; grow as annual/biennial | 6.5–7.5 | ✅ 5L+ container |
+| H5 | Chives | *Allium schoenoprasum* | 25–30cm | At pot level / divide clumps | ☀️ to 🌤️ | Carrots, roses, apples | 15–20cm between plants; divide every 2–3 yrs | 6.0–7.0 | ✅ 10–15L container |
 | C2 | Chocolate Vine | *Akebia quinata* | 3–5m | At nursery soil mark | ☀️ to 🌥️ | Best given its own robust structure | 3–5m between plants against support | 6.0–7.5 | ⚠️ Large container against sturdy support |
-| T6 | Cider Gum (Eucalyptus) | *Eucalyptus gunnii* | 10–20m | At pot level | ☀️ | Ornamental grasses, hardy geraniums — good foliage-contrast companions if kept coppiced | 2–4m between plants if coppiced annually; considerably more if left to grow as a full tree | 5.5–7.5 | ✅ |
+| T6 | Cider Gum (Eucalyptus) | *Eucalyptus gunnii* | 10–20m (or 2–4m if coppiced annually) | At pot level | ☀️ | Ornamental grasses, hardy geraniums | 2–4m between plants if coppiced annually; more if left as a tree | 5.5–7.0 | ✅ 40–60L container |
 | C4 | Climbing Honeysuckle | *Lonicera periclymenum* | 4–7m | At pot level | 🌤️ | Climbing roses, clematis; near windows | 1.5m between plants | 5.5–8.0 | ⚠️ 30L+ (not ideal, deep roots) |
 | C5 | Climbing Hydrangea | *Hydrangea anomala subsp. petiolaris* | 8–15m | At pot level | 🌑 to 🌤️ | Ivy, ferns, hostas, shade-tolerant plants | 45cm from wall; 60cm+ between plants | 6.0–7.0 | ⚠️ 50L+ (not ideal) |
 | C6 | Climbing Roses | *Rosa, climbing cultivars* | 2–5m | Graft union just below soil | ☀️ | Clematis (same wall), lavender, geraniums | 45cm from wall; 2–3m between plants | 6.0–7.0 | ⚠️ 50L+ large container |
-| P45 | Clustered Bellflower | *C. glomerata* | 30–60cm | Crown at soil level | ☀️ to 🌥️ | Roses, peonies, ornamental grasses | 30–40cm between plants; divide every 3–4 yrs | 6.5–7.5 | ✅ 15–20L container |
-| A4 | Cockscomb | *Celosia argentea (Cristata & Plumosa Groups)* | 20–60cm | Sow under cover in spring, plant out after frost risk has passed, at pot level | ☀️ | Other tender summer bedding annuals; good as a cut flower | 20–30cm between plants | 6.0–7.0 | ✅ |
+| P45 | Clustered Bellflower | *Campanula glomerata* | 30–60cm | Crown at soil level | ☀️ to 🌥️ | Roses, peonies, ornamental grasses | 30–40cm between plants; divide every 3–4 yrs | 6.5–7.5 | ✅ 15–20L container |
+| A4 | Cockscomb | *Celosia argentea (Cristata & Plumosa Groups)* | 20–40cm | At pot level; dislikes root disturbance | ☀️ to 🌤️ | Zinnias, gomphrena, marigolds | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container |
 | P8 | Columbine | *Aquilegia vulgaris and hybrids* | 20–50cm | Crown at soil level | ☀️ to 🌥️ | Foxgloves, hardy geraniums, roses | 30–45cm between plants; self-seeds freely | 6.0–7.5 | ✅ 15–20L container |
-| H6 | Comfrey | *Symphytum officinale* | 60cm–1.2m | Crown at soil level, or plant root cuttings | ☀️ to 🌥️ | Grown near fruit trees/vegetable beds as a "dynamic accumulator" — leaves cut and used as mulch or steeped for liquid feed | 60–90cm between plants | 5.5–7.5 | ✅ |
+| H6 | Comfrey | *Symphytum officinale* | 60cm–1.2m | Crown at/just below soil level | ☀️ to 🌥️ | Fruit trees, vegetable beds (as mulch/liquid feed) | 60–90cm between plants; can be invasive | 6.1–7.3 | ⚠️ 30L+ container (vigorous) |
 | W6 | Common Butterwort | *Pinguicula vulgaris* | 20–50cm | Crown at soil surface, permanently wet | ☀️ to 🌤️ | Round-leaved sundew, bog asphodel | 10–15cm between plants | 4.5–6.0 | ✅ Boggy container |
 | S3 | Common Dog Violet | *Viola riviniana* | 10–15cm | Crown at soil level | 🌥️ | Primroses, wood sorrel, ferns | 15–20cm between plants | 5.5–7.0 | ✅ 5L+ container |
 | T7 | Common Hawthorn | *Crataegus monogyna* | 5–8m | At nursery soil mark | ☀️ to 🌤️ | Blackthorn, holly, hazel; primroses, bluebells beneath | As hedge: 30–45cm; as tree: 4–6m from structures | 5.5–7.5 | ❌ Too large for pots |
-| G23 | Common Heather / Ling | *Calluna vulgaris* (syn. *Erica vulgaris*) | 20–50cm | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost |
+| G23 | Common Heather / Ling | *Calluna vulgaris (syn. Erica vulgaris)* | 20–50cm | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost |
 | C7 | Common Jasmine | *Jasminum officinale* | 5–9m | At nursery soil mark | ☀️ to 🌤️ | Climbing roses, clematis, honeysuckle | 2–3m between plants against wall/pergola | 6.0–7.5 | ⚠️ Large container against support |
 | P67 | Common Sea Lavender | *Limonium vulgare* | 30–40cm | Crown at soil level | ☀️ | Ornamental grasses, achillea, sedum | 30–40cm between plants | 6.0–8.0 | ✅ 10–15L container |
-| H7 | Common Sorrel | *Rumex acetosa* | 30–60cm | Crown at soil level, or sow direct in spring | ☀️ to 🌥️ | Grows well in a herb bed; young leaves used in salads for a lemony tang | 25–30cm between plants; self-seeds | 5.5–7.5 | ✅ |
+| H7 | Common Sorrel | *Rumex acetosa* | 30–60cm | 5–6mm deep (seed) / at pot level | ☀️ to 🌥️ | Other salad/leaf herbs | 30–40cm between plants; divide every 3–4 yrs | 5.5–6.8 | ✅ 15–20L container |
 | W7 | Common Water Crowfoot | *Ranunculus aquatilis* | Trailing to 60cm | Muddy margins or submerged, 15–60cm deep | ☀️ | Hornwort, water lilies | 30–45cm between plants | 6.0–7.5 | ✅ Aquatic basket or pond-bottom mud |
-| P9 | Coneflower | *Echinacea purpurea* | 60–90cm | Crown at soil level | ☀️ | Rudbeckia, ornamental grasses, sedum — classic prairie-style late-summer border | 40–45cm between plants | 6.0–7.5 | ✅ |
+| P9 | Coneflower | *Echinacea purpurea* | 60–90cm | Crown at soil level | ☀️ | Rudbeckia, ornamental grasses, yarrow, penstemon | 40–60cm between plants; needs sharp drainage | 5.8–7.0 | ✅ 20–30L container |
 | S4 | Coral Bells | *Heuchera spp.* | 30–45cm | Crown at soil level | 🌥️ | Hostas, astilbe, ferns, hellebores | 30–45cm between plants | 6.0–7.0 | ✅ 20–30L container |
 | H8 | Coriander | *Coriandrum sativum* | 45–60cm | Sow 5mm deep; do not transplant | 🌤️ | Parsley, brassicas; away from dill & fennel | 15–20cm between plants | 6.0–7.0 | ✅ 20cm+ deep / 5L+ |
 | B5 | Corn Lily | *Ixia spp.* | 30–50cm | 8–10cm deep; spring, lift & store | ☀️ | Freesia and other tender corms | 5–8cm between corms | 6.0–7.0 | ✅ Best in containers (borderline hardy) |
 | A5 | Cornflower | *Centaurea cyanus* | 60–90cm | 1–2cm deep (seed) | ☀️ | Poppies, love-in-a-mist, briza maxima | 20–30cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container |
-| A6 | Cosmos | *Cosmos bipinnatus* | 60cm–1.2m | Sow direct or under cover, 1cm deep, spring once frost risk has passed | ☀️ | Zinnia, cornflower and other sunny cutting-garden annuals; attractive to pollinators | 30–45cm between plants | 6.0–7.5 | ✅ |
-| S5 | Cowslip | *Primula veris* | 15–20cm | Crown at soil level; do not bury | 🌥️ | Other alpine/trough plants such as saxifrage and sempervivum; traditionally displayed i... | 15–20cm between plants | 6.5–7.5. | ⚠️ |
+| A6 | Cosmos | *Cosmos bipinnatus* | 60cm–1.2m | 5–6mm deep (seed) / at pot level | ☀️ | Zinnias, dahlias, ornamental grasses | 30–45cm between plants | 6.0–7.5 | ✅ 15–20L container |
+| S5 | Cowslip | *Primula veris* | 15–25cm | Crown just above soil level | 🌥️ | Primroses, wood anemones, native bluebells | 20–30cm between plants | 6.5–7.5 | ✅ 10–15L container |
 | F6 | Cranberry | *Vaccinium macrocarpon* | 10–20cm | At pot level | 🌤️ | Heather, lingonberry, blueberry (ericaceous) | 30–45cm in acidic bed | 4.0–5.0 | ✅ Essential: 30–45cm / 10–20L |
-| G30 | Creeping Juniper | *J. horizontalis* | 10–30cm, spreading | At pot level or slightly raised | ☀️ (essential) | Heather, sedum, ornamental grasses, thyme | 1–1.5m for ground cover | 4.5–8.5 | ✅ 30–40cm/20L+ |
+| G30 | Creeping Juniper | *Juniperus horizontalis* | 10–30cm, spreading | At pot level or slightly raised | ☀️ (essential) | Heather, sedum, ornamental grasses, thyme | 1–1.5m for ground cover | 4.5–8.5 | ✅ 30–40cm/20L+ |
 | G2 | Creeping Phlox (Moss Phlox) | *Phlox subulata* | 10–15cm | At pot level; shoots above soil | ☀️ | Tulips, daffodils underplanted; thyme, sedum, dianthus | 30–45cm for ground cover | 5.5–7.7 | ✅ 20–30cm / 5–10L + grit |
-| B37 | Crown Imperial | *F. imperialis* | 80cm–1.2m | 20–30cm deep, on its side; autumn | ☀️ | Tulips, alliums, wallflowers, euphorbia | 25cm between bulbs | 6.5–8.0 | ⚠️ 40cm / 30L+ deep pot |
+| B37 | Crown Imperial | *Fritillaria imperialis* | 80cm–1.2m | 20–30cm deep, planted on its side; autumn | ☀️ | Tulips, alliums, wallflowers, euphorbia | 25cm between bulbs | 6.5–8.0 | ⚠️ 40cm / 30L+ deep pot |
 | H9 | Cucumbers | *Cucumis sativus* | 10–15cm | At pot level (after frost) | ☀️ | Nasturtiums, dill, sweetcorn | 45–60cm between plants | 6.0–7.0 | ✅ Large 30–40L container with support |
-| H10 | Culinary Thyme | *Thymus vulgaris* | 5–15cm | At pot level for both | ☀️ | Mother of Thyme: rosemary, oregano, lavender, creeping juniper; grows beautifully betwe... | Mother of Thyme: 20–30cm between plants. Wild Thyme: 20–30cm between plants; spreads by runners to form a dense, low mat | 6.0–8.0 | ⚠️ |
+| H10 | Culinary Thyme | *Thymus vulgaris* | 15–30cm | At pot level | ☀️ | Rosemary, sage, lavender | 25–40cm between plants; replace every 3–4 yrs | 6.0–8.0 | ✅ Terracotta 15–20L, with grit |
 | P10 | Cutleaf Coneflower | *Rudbeckia laciniata* | 1.5–2m | At pot level | ☀️ | Helenium, echinacea, salvias, ornamental grasses, asters | 60–90cm between; divide every 2–3 yrs | 5.5–7.0 | ⚠️ 40–50cm / 40L+ (very tall — better in ground) |
 | B7 | Daffodils | *Narcissus spp.* | 15–45cm | 15cm (3× bulb height); autumn | 🌤️ | Snowdrops, tulips, forget-me-nots, Muscari | 10–15cm between bulbs | 6.0–7.0 | ✅ 20–30cm / 5L+ |
-| G21 | Dalmatian Bellflower | *C. portenschlagiana* | 10–15cm, spreading to 50cm+ | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 30–40cm between plants | 6.0–7.5 | ✅ 15–20L container |
+| G21 | Dalmatian Bellflower | *Campanula portenschlagiana* | 10–15cm, spreading to 50cm+ | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 30–40cm between plants | 6.0–7.5 | ✅ 15–20L container |
 | P11 | Daylilies | *Hemerocallis spp.* | 45–90cm | Crown at soil level | ☀️ to 🌥️ | Roses, ornamental grasses, yarrow | 45–60cm between plants; divide every 3–4 yrs | 6.0–7.5 | ✅ 20–30L container |
 | S41 | Deer Fern | *Blechnum spicant* | 30–60cm | At pot level | 🌥️ to 🌑 | Lingonberry, heather, foxgloves | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ |
 | P12 | Delphiniums | *Delphinium spp.* | 1–2m | At pot level; buds 2–5cm below | ☀️ | Roses, lupins, peonies, alliums | 60–90cm between plants; stake essential | 6.5–7.5 | ⚠️ 40–50cm / 40L+ |
 | H11 | Dill | *Anethum graveolens* | 60–90cm | Sow 3–5mm deep; do not transplant | ☀️ | Brassicas, lettuce; away from coriander & fennel | 20–30cm between plants | 5.5–7.0 | ✅ 30cm+ deep / 8L+ |
 | T8 | Douglas Fir | *Pseudotsuga menziesii* | 20m+ | At nursery soil mark | ☀️ to 🌥️ | Best alone (full size); conifers/heathers (dwarf) | Very large tree; use dwarf cultivars in most gardens | 5.0–6.5 | ⚠️ Large container for dwarf cultivars |
 | C20 | Downy Clematis | *Clematis macropetala* | 2–3m | 10–15cm DEEPER than pot | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container |
-| A7 | Drumstick Flower | *Craspedia globosa* | 45–60cm | At pot level, or sow under cover in spring | ☀️ | Strawflower, statice — classic dried/everlasting flower bed companions | 25–30cm between plants | 6.0–7.5 | ✅ |
-| S47 | Drumstick Primula | *P. denticulata* | 20–45cm | Crown at soil level | 🌥️ | Bluebells, wood anemones, spring bulbs | 20–30cm between plants | 5.5–7.0 | ✅ 10–15L container |
-| S6 | Dusky Cranesbill | *Geranium phaeum* | 60–80cm | Crown at soil level | 🌥️ | Hellebores, ferns, foxgloves — classic woodland-edge hardy geranium companions | 40–45cm between plants | 6.0–7.5 | ✅ |
-| B32 | Dutch/Large-flowered Crocus | *Crocus* spp. (Dutch hybrids) | 10–15cm | 10–12cm deep; autumn | ☀️ | Snowdrops, daffodils, muscari | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ |
+| A7 | Drumstick Flower | *Craspedia globosa* | 45–60cm | At pot level | ☀️ | Statice, strawflower, ammobium | 20–30cm between plants | 5.8–7.0 | ✅ 10–15L container |
+| S47 | Drumstick Primula | *Primula denticulata* | 20–45cm | Crown at soil level | 🌥️ | Bluebells, wood anemones, spring bulbs | 20–30cm between plants | 5.5–7.0 | ✅ 10–15L container |
+| S6 | Dusky Cranesbill | *Geranium phaeum* | 60–80cm | Crown at soil level | 🌑 to ☀️ | Ferns, hostas, hellebores | 40–60cm between plants | 6.0–7.5 | ✅ 20–25L container |
+| B32 | Dutch/Large-flowered Crocus | *Crocus spp. (Dutch hybrids)* | 10–15cm | 10–12cm deep; autumn | ☀️ | Snowdrops, daffodils, muscari | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ |
 | P51 | Dwarf Fountain Grass | *Pennisetum alopecuroides* | 50–60cm | At pot level | ☀️ | Sedum, echinacea, rudbeckia | 45–50cm between plants | 6.0–7.5 | ✅ 15–20L container |
 | B8 | Dwarf Iris | *Iris reticulata* | 10–15cm | 8–10cm deep; autumn | ☀️ | Snowdrops, crocus, dwarf daffodils | 5–8cm between bulbs | 6.0–7.5 | ✅ 3–5L pot/trough |
 | G32 | Dwarf Mondo Grass | *Ophiopogon japonicus* | 5–10cm | At pot level | ☀️ to 🌥️ | Ferns, hostas | 10–15cm between plants | 5.5–7.0 | ✅ 10–15L container |
@@ -8242,12 +8242,12 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | B70 | Dwarf Sword Lily | *Gladiolus nanus* | 40–70cm | 10–16cm deep; spring | ☀️ | Freesia, ixia | 10–15cm between corms | 6.0–7.5 | ✅ 15–20L container |
 | B30 | Early Crocus ('Tommie') | *Crocus tommasinianus* | 7–10cm | 7–10cm deep; autumn | ☀️ | Snowdrops, daffodils, muscari, aconites | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ |
 | P13 | Edelweiss | *Leontopodium alpinum* | 10–15cm | Crown at soil level | ☀️ | Sempervivum, saxifrage, other alpines | 15–20cm between plants | 6.5–7.5 | ✅ Trough/rockery, 5L |
-| W8 | Egyptian Papyrus | *Cyperus papyrus* | 1.5–2.5m | Crown at or just below the water/soil surface | ☀️ | Best given its own container/basket as a dramatic architectural specimen at a pond edge | 60–90cm between plants | 6.0–7.5 | ✅ |
+| W8 | Egyptian Papyrus | *Cyperus papyrus* | 1.5–2.5m | Boggy soil / standing water to 15cm | ☀️ to 🌥️ | Yellow flag iris, other marginals | 1–1.5m between plants; not hardy, overwinter under glass | 6.0–7.5 | ⚠️ Large 30–40L aquatic basket, tender |
 | T11 | Elder | *Sambucus nigra* | 2–3m | At nursery soil mark | ☀️ | Golden/lime-green foliage plants | 2–3m between plants | 5.5–7.5 | ✅ 40–50L container |
 | P14 | Elephant's Ears | *Bergenia spp.* | 30–45cm | Rhizome at/just below surface | 🌑 to ☀️ | Hostas, hellebores, snowdrops, ferns | 30–60cm between plants | 5.5–8.0 | ✅ 25–35cm / 10L+ |
 | T12 | English Oak | *Quercus robur* | 20–35m | At nursery soil mark | ☀️ to 🌤️ | Bluebells, wood anemones | 8–10m+ minimum; very large, long-lived tree | 5.0–8.0 | ❌ Too large for pots |
 | S27 | Epimedium × perralchicum | *Epimedium × perralchicum* | 30–40cm | Crown at soil level | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container |
-| S28 | Epimedium × rubrum | *E.* × *rubrum* | 20–30cm | Crown at soil level | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container |
+| S28 | Epimedium × rubrum | *Epimedium × rubrum* | 20–30cm | Crown at soil level | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container |
 | S26 | Epimedium × versicolor | *Epimedium × versicolor* | 30cm | Crown at soil level | 🌥️ to 🌑 | Ferns, hellebores, hostas, snowdrops | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container |
 | B9 | Erythronium (Dog's Tooth Violet) | *Erythronium dens-canis* | 15–25cm | 10cm deep; autumn | 🌥️ | Ferns, hellebores, woodland-floor perennials | 10–15cm between bulbs | 5.5–7.0 | ✅ 5L+ container |
 | P55 | Evergold Sedge | *Carex oshimensis* | 25–35cm | At pot level | 🌥️ to ☀️ | Hostas, ferns, hellebores | 25–35cm between plants | 6.0–7.5 | ✅ 10–15L container |
@@ -8256,57 +8256,57 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | P52 | Feather Reed Grass | *Calamagrostis × acutiflora* | 1.2–1.5m | At pot level | ☀️ | Sedum, echinacea, rudbeckia | 45–60cm between plants | 6.0–7.5 | ✅ 20–25L container |
 | P15 | Fern-leaf Peony | *Paeonia tenuifolia* | 45–60cm | Eyes 2–3cm below soil | ☀️ | Alliums, bearded iris, catmint | 45–60cm between plants | 6.5–7.5 | ⚠️ 30–40L container |
 | F7 | Fig | *Ficus carica* | 3–4m | At nursery soil mark; restrict roots | ☀️ | Best given its own space | 3–4m; cvs. 'Brown Turkey', 'Brunswick', 'White Marseilles' | 6.0–7.5 | ✅ Large container (35–45cm) |
-| C26 | Five-Flavour Berry (Magnolia Vine) | *S. chinensis* | 6–9m | At nursery soil mark | 🌥️ | Climbing hydrangea, ivy | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container |
+| C26 | Five-Flavour Berry (Magnolia Vine) | *Schisandra chinensis* | 6–9m | At nursery soil mark | 🌥️ | Climbing hydrangea, ivy | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container |
 | W9 | Flowering Rush | *Butomus umbellatus* | 60–90cm | Crown at soil surface; up to 25cm water above | ☀️ | Yellow flag iris, arrowhead, bogbean | 30–45cm between plants | 6.0–7.5 | ✅ Aquatic basket |
-| S8 | Forget-me-nots | *Myosotis sylvatica* | 15–20cm | At pot level, or sow seed on the surface in late spring/summer to flower the following year (usually grown as a biennial) | 🌥️ | Tulips, wallflowers, foxgloves — a classic spring bedding partner, especially with spri... | 15–20cm between plants; self-seeds freely | 6.0–7.5. | ⚠️ |
-| S42 | Fortune's Holly Fern (var. clivicola) | *Cyrtomium fortunei* var. *clivicola* | 30–60cm | At pot level; crown at/just below surface | 🌥️ to 🌑 | Hostas, hellebores, snowdrops; tolerates dry shade | 45–60cm between plants | 6.0–8.0 | ✅ 30–40cm / 15L+ |
-| B38 | Fox's Grape Fritillary | *F. uva-vulpis* | 15–30cm | 10cm deep; autumn | ☀️ to 🌤️ | Other species fritillarias, dwarf iris, crocus | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/trough/pot |
+| S8 | Forget-me-nots | *Myosotis sylvatica* | 15–30cm | Crown at soil level / surface-sown seed | 🌥️ | Tulips, wallflowers, daffodils | 15–20cm between plants; biennial, self-seeds freely | 6.0–7.5 | ✅ 10–15L container |
+| S42 | Fortune's Holly Fern (var. clivicola) | *Cyrtomium fortunei var. clivicola* | 30–60cm | At pot level; crown at/just below surface | 🌥️ to 🌑 | Hostas, hellebores, snowdrops; tolerates dry shade | 45–60cm between plants | 6.0–8.0 | ✅ 30–40cm / 15L+ |
+| B38 | Fox's Grape Fritillary | *Fritillaria uva-vulpis* | 15–30cm | 10cm deep; autumn | ☀️ to 🌤️ | Other species fritillarias, dwarf iris, crocus | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/trough/pot |
 | S9 | Foxgloves | *Digitalis purpurea and perennial species* | 1–2m | At pot level; seeds on surface | 🌥️ | Ferns, hostas, roses, alliums; self-seeds | 30–45cm between plants | 5.5–7.5 | ✅ 30cm / 10L+ deep |
 | T14 | Fraser Fir | *Abies fraseri* | 9–17m | At nursery soil mark | ☀️ to 🌤️ | Ferns, hostas | 4–6m between plants | 5.0–6.0 | ⚠️ Large container for young plants |
 | B10 | Freesia | *Freesia spp.* | 30–45cm | 5–8cm deep; spring, lift & store | ☀️ | Ixia and other tender corms | 5–8cm between corms | 6.0–7.0 | ✅ Best in containers (tender) |
 | W10 | Fringed Water Lily | *Nymphoides peltata* | Floating at surface | Crown at basket surface; 15–90cm water above | ☀️ to 🌤️ | Water lilies, hornwort | 40–60cm between plants; ⚠️ vigorous, keep contained | 6.0–7.5 (water) | ✅ Aquatic basket essential |
-| B39 | Fritillaria michailovskyi | *F. michailovskyi* | 10–20cm | 8–10cm deep; autumn | ☀️ | Dwarf iris, crocus, other alpine bulbs | 8–10cm between bulbs | 6.0–7.5 | ✅ Trough/raised bed/pot |
+| B39 | Fritillaria michailovskyi | *Fritillaria michailovskyi* | 10–20cm | 8–10cm deep; autumn | ☀️ | Dwarf iris, crocus, other alpine bulbs | 8–10cm between bulbs | 6.0–7.5 | ✅ Trough/raised bed/pot |
 | W11 | Frogbit | *Hydrocharis morsus-ranae* | Floating at surface | Floats freely on surface | ☀️ | Water soldier, native water lilies | Spreads freely by runners; thin as needed | 7.0–8.0 (water) | ✅ No planting needed; free-floating |
 | T15 | Fuzzy Pride-of-Rochester | *Deutzia scabra* | 2–3m | At nursery soil mark | ☀️ to 🌤️ | Mock orange, lilac, weigela, spring bulbs | 1.5–2m between plants; grows 1.8–3m tall | 6.0–7.5 | ⚠️ Large 80–100L container |
 | H12 | Garden Cress | *Lepidium sativum* | 5–10cm | Surface-sown or 1–1.5cm deep | ☀️ to 🌤️ | Radishes, tomatoes | Sow thickly in a broad row or tray | 6.0–7.5 | ✅ Tray/pot/windowsill |
-| P62 | Garden Pink | *D. plumarius* | 25–35cm | At pot level | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants | 5.8–6.5 | ✅ 25–35cm / 10L+ |
+| P62 | Garden Pink | *Dianthus plumarius (garden pinks)* | 25–35cm | At pot level | ☀️ | Roses, stocks, alliums, lavender, Phlox subulata | 25–35cm between plants | 5.8–6.5 | ✅ 25–35cm / 10L+ |
 | F8 | Garden Plum | *Prunus domestica* | 3–5m | Graft union at/above soil | ☀️ | Chives, garlic, comfrey, nasturtiums | 3–5m between trees depending on rootstock; permanent stake | 6.0–7.0 | ⚠️ Half-barrel (50L+) |
 | H13 | Garlic | *Allium sativum* | 25–30cm | Tip 2.5cm below soil; autumn (or spring in modules) | ☀️ | Roses, fruit trees; avoid near peas/beans | 15cm between cloves; 30cm between rows | 6.0–7.0 | ✅ 20–30cm / 10L+ container |
-| P102 | Giant Bellflower | *Campanula latifolia var. macrantha* | Up to 1m | Crown at soil level | ☀️ to 🌥️ | Ferns, roses, taller border perennials | 45–60cm between plants | 6.0–7.5 | ✅ 20–30L container |
-| B41 | Giant Onion | *A. giganteum* | 1.2–1.5m | 20cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
+| P102 | Giant Bellflower | *Campanula latifolia var. macrantha* | Up to 1m | Crown at soil level | 🌥️ to ☀️ | Ferns, roses, taller border perennials | 45–60cm between plants | 6.0–7.5 | ✅ 20–30L container |
+| B41 | Giant Onion | *Allium giganteum* | 1.2–1.5m | 20cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
 | T16 | Ginkgo | *Ginkgo biloba* | 15–25m | At nursery soil mark | ☀️ to 🌤️ | Spring bulbs, shade-tolerant perennials | 6–8m between plants | 5.0–8.0 | ✅ Large container for young trees |
-| A8 | Globe Amaranth | *Gomphrena globosa* | 30–60cm | Sow under cover in spring, plant out after frost risk has passed, at pot level | ☀️ | Other tender summer bedding annuals sharing its need for warmth and sun | 20–30cm between plants | 6.0–7.0 | ✅ |
-| P16 | Globe Thistle | *Echinops ritro* | 90cm–1.2m | Crown at soil level | ☀️ | Sedum, ornamental grasses, achillea — classic dry, sunny border companions; excellent for pollinators | 45–60cm between plants | 6.0–7.5 | ✅ |
+| A8 | Globe Amaranth | *Gomphrena globosa* | 30–45cm | At pot level | ☀️ | Zinnias, celosia, cosmos | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container |
+| P16 | Globe Thistle | *Echinops ritro* | 90cm–1.2m | Crown at soil level | ☀️ | Ornamental grasses, echinacea, rudbeckia, sedum | 45–60cm between plants | 6.0–7.5 | ✅ 15–20L container |
 | P17 | Globeflower | *Trollius europaeus / T. x cultorum* | 60–90cm | Crown at soil level | ☀️ to 🌥️ | Astilbe, hosta, candelabra primulas | 30–40cm between plants | 5.5–7.0 | ✅ 20–30L container, keep moist |
 | P68 | Gmelin's Sea Lavender | *Limonium gmelinii* | 50–90cm | Crown at soil level | ☀️ | Ornamental grasses, achillea, sedum | 45–60cm between plants | 6.0–8.0 | ✅ 15–20L container |
 | C22 | Golden Clematis | *Clematis tangutica* | 3.5–4.5m | 10–15cm DEEPER than pot | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container |
-| B42 | Golden Garlic | *A. moly* | 25–30cm | 8–10cm deep; autumn | ☀️ | Dwarf iris, crocus, other rockery bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
-| T17 | Golden Mimosa | *Acacia baileyana* | 3–5m | At nursery soil mark | ☀️ | Rosemary, lavender | 3–4m between plants | 6.0–7.5 | ⚠️ Large container, borderline hardy |
+| B42 | Golden Garlic | *Allium moly* | 25–30cm | 8–10cm deep; autumn | ☀️ | Dwarf iris, crocus, other rockery bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
+| T17 | Golden Mimosa | *Acacia baileyana* | 3–5m | At nursery soil mark | ☀️ | Rosemary, lavender, Mediterranean shrubs | 3–4m from structures; needs sheltered, frost-free spot | 5.5–7.5 | ⚠️ Large 50–60L container, sheltered |
 | F9 | Gooseberry | *Ribes uva-crispa* | 1.2–1.5m | At nursery mark; roots 5cm | 🌤️ | Redcurrant, whitecurrant, tansy | 1.5m between plants | 6.0–7.5 | ⚠️ 30L+ large pot |
-| B12 | Grape Hyacinth | *Muscari spp.* | 15–20cm | 8–10cm deep, autumn | ☀️ to 🌤️ | Daffodils, tulips, crocus — classic layered spring bulb display | 5–8cm between bulbs | 6.0–7.5 | ✅ |
+| B12 | Grape Hyacinth | *Muscari spp.* | 15–20cm | 7–10cm deep; autumn | ☀️ to 🌤️ | Tulips, daffodils, crocus | 5–8cm between bulbs; spreads readily | 6.0–7.5 | ✅ 5L+ container |
 | W12 | Greater Bladderwort | *Utricularia vulgaris* | 20–50cm | Fully submerged, free-floating | ☀️ to 🌤️ | Frogbit, hornwort | Allow to spread loosely; thin if congested | 6.0–7.5 (water) | ✅ No planting needed; free-floating |
 | A9 | Greater Quaking Grass | *Briza maxima* | 30–50cm | 5mm deep (seed) | ☀️ | Cornflower, poppies, love-in-a-mist | 15–20cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container |
 | H14 | Green Onions (Scallions) | *Allium fistulosum* | 30–45cm | 1cm deep (seed) / at pot level | ☀️ to 🌤️ | Carrots, rocket, radish | 5–8cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container |
-| F10 | Green Strawberry | *Fragaria viridis* | 20–30cm | Crown exactly at soil level — too deep = crown rot; too shallow = roots dry out | ☀️ | Borage, garlic, chives, marigolds. Avoid planting near brassicas | 30–45cm between plants (or 45cm × 75cm rows if in open ground) | 5.5–6.8 | ⚠️ |
-| T107 | Gresham Magnolia hybrids | *Magnolia liliiflora* 'Nigra' × *Magnolia × veitchii* | 5–8m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
+| F10 | Green Strawberry | *Fragaria viridis* | 20–30cm | Crown at soil level | ☀️ to 🌥️ | Woodland Strawberry, ferns, low herbs | 25–30cm between plants; spreads by runners | 5.5–7.5 | ✅ 20–30L container |
+| T107 | Gresham Magnolia hybrids | *Magnolia liliiflora 'Nigra' × Magnolia × veitchii* | 5–8m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
 | S38 | Hard Shield Fern | *Polystichum aculeatum* | 45–60cm | At pot level | 🌥️ to 🌑 | Lingonberry, heather, foxgloves | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ |
 | C8 | Hardy Grapes (Phoenix / Regent / Boskoop Glory) | *Vitis vinifera* | 6–9m | At pot depth; graft above soil | ☀️ (essential) | Lavender, rosemary, garlic, hyssop | 1.2–1.5m between vines; 20cm from wall | 6.0–6.5 | ⚠️ 40L+ container |
-| W37 | Hardy Hybrid Water Lily | *N.* × *hybrida* and other garden hybrids | Leaves float; flowers just above surface | Crown at basket surface; 15–90cm+ water above depending on cultivar | ☀️ | Bogbean, yellow flag iris, oxygenating plants | Spread depends on cultivar; check label | 6.5–7.5 (water) | ✅ Basket sized to cultivar, 20–40cm |
-| S56 | Hart's Tongue Fern | *Asplenium scolopendrium* | 30–60cm | At pot level | 🌥️ to 🌑 | Hostas, astilbe, hellebores, bergenia | 30–45cm between plants | 6.0–7.5 | ✅ 30–40cm / 15L+ |
+| W37 | Hardy Hybrid Water Lily | *Nymphaea × hybrida and other garden hybrids* | Leaves float; flowers just above surface | Crown at basket surface; 15–90cm+ water above depending on cultivar | ☀️ | Bogbean, yellow flag iris, oxygenating plants | Spread depends on cultivar; check label | 6.5–7.5 (water) | ✅ Basket sized to cultivar, 20–40cm |
+| S56 | Hart's Tongue Fern | *Asplenium scolopendrium* | 30–60cm | At pot level | 🌥️ to 🌑 | Ferns, hostas, hellebores, snowdrops | 20–30cm between plants | 6.5–8.0 | ✅ 20–25cm / 10L+ |
 | F11 | Hazelnut | *Corylus avellana* | 4–5m | At nursery soil mark | ☀️ to 🌥️ | Blackthorn, hawthorn, primroses, bluebells | 4–5m; 2m if coppiced hedge | 6.0–7.5 | ❌ Too large for pots |
 | G29 | Heather | *Calluna vulgaris* | 30cm, spread 30cm | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost |
 | S10 | Hellebore (Lenten Rose) | *Helleborus spp.* | 30–45cm | At pot level; crown at/just below | 🌥️ to 🌑 | Snowdrops, cyclamen, pulmonaria, hostas | 45–60cm between plants | 6.0–8.0 | ✅ 25–35cm / 10L+ |
 | G5 | Himalayan Bistort (Fleece Flower, Lesser Knotweed) | *Persicaria affinis* | 20–30cm | At pot level | ☀️ to 🌥️ | Ornamental grasses, sedum | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container |
 | T18 | Holly | *Ilex aquifolium* | 30–60cm | At pot level (shallow roots) | 🌑 to ☀️ | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | 1.5–3m between; slow-growing hedge | 4.5–8.0 | ⚠️ 50L+ container |
-| P18 | Honesty | *Lunaria annua* | 60–90cm | Sow direct, 1cm deep, late spring/summer to flower the following year (biennial) | 🌥️ | Foxgloves, forget-me-nots — classic cottage-garden/woodland-edge biennial border | 25–30cm between plants; self-seeds freely | 6.0–7.5 | ✅ |
-| B47 | Honey Garlic (Sicilian Honey Lily) | *A. siculum* (syn. *Nectaroscordum siculum*) | Up to 1.2m | 15–20cm deep; autumn | ☀️ | Roses, peonies, ornamental grasses | 20–25cm between bulbs; self-seeds | 6.0–7.5 | ✅ Large 5L+ container |
+| P18 | Honesty | *Lunaria annua* | 60–90cm | Crown at soil level | ☀️ to 🌥️ | Tulips, ferns, hostas | 30–45cm between plants; biennial, self-seeds | 6.0–7.5 | ✅ 15–20L container |
+| B47 | Honey Garlic (Sicilian Honey Lily) | *Allium siculum (syn. Nectaroscordum siculum)* | Up to 1.2m | 15–20cm deep; autumn | ☀️ | Roses, peonies, ornamental grasses | 20–25cm between bulbs; self-seeds | 6.0–7.5 | ✅ Large 5L+ container |
 | F70 | Honeyberry (Kamchatka) | *Lonicera caerulea var. kamtschatica* | 1.5–2m | At pot level | 🌤️ | Blueberry, lingonberry; needs 2+ varieties | 1–1.5m between plants | 4.5–7.5 | ⚠️ 50–75L (15–20 gal.) |
 | C9 | Hops | *Humulus lupulus* | 6m | Rhizome 5–8cm / pot level | 🌤️ | Climbing roses, clematis, ornamental grasses | 1–1.5m between plants | 6.0–8.0 | ✅ 50L+ large container |
 | W13 | Hornwort | *Ceratophyllum demersum* | Submerged | Fully submerged, free-floating | ☀️ to 🌥️ | Water lilies, frogbit | Introduce 1–2 bunches per m² of pond surface | 6.0–8.0 (water) | ✅ No planting needed; free-floating |
 | T19 | Horse Chestnut | *Aesculus hippocastanum* | 20–25m | At nursery soil mark | ☀️ to 🌤️ | Best given its own space | 10m+ minimum; very large tree | 5.5–7.5 | ❌ Too large for pots |
 | H103 | Horseradish | *Armoracia rusticana* | Up to 90cm | Root cuttings/crowns at pot level; spring | ☀️ to 🌤️ | Best given its own contained space | 45–60cm between plants | 6.0–7.5 | ⚠️ Large container essential (contains spread) |
 | S58 | Hosta fortunei | *Hosta fortunei* | 40–60cm | At pot level; crown at surface | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 40–60cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ |
-| S29 | Hosta sieboldiana | *Hosta sieboldiana* | 60–90cm | At pot level; crown at surface | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 60–90cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ |
+| S29 | Hosta sieboldiana | *Hosta sieboldiana* | 10–90cm | At pot level; crown at surface | 🌥️ to 🌑 | Astilbe, ferns, hellebores, bergenia | 60–90cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ |
 | G6 | Houseleek | *Sempervivum spp.* | 5–15cm | At pot level | ☀️ | Saxifrage, wall pennywort, thyme, sedum | 10–15cm between rosettes | 6.0–7.5 | ✅ Shallow pot/trough, 3–5L |
 | B101 | Hyacinth | *Hyacinthus orientalis* | 20–30cm | 10cm deep; autumn | ☀️ to 🌤️ | Daffodils, tulips, forget-me-nots | 8–10cm between bulbs | 6.0–7.0 | ✅ 10–15L container |
 | G26 | Irish Heath | *Erica erigena* | 45–75cm (some cultivars to 1.2m) | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 45–60cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost |
@@ -8314,7 +8314,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | B13 | Iron Cross | *Oxalis tetraphylla 'Iron Cross'* | 10–15cm | 5cm deep; spring, lift & store | ☀️ to 🌤️ | Ixia, dwarf dahlias, other summer bulbs | 10–15cm between tubers; lift over winter | 6.0–7.0 | ✅ 3–5L container |
 | C21 | Italian Clematis | *Clematis viticella* | 3–4m | 10–15cm DEEPER than pot | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container |
 | C10 | Ivy | *Hedera helix / H. hibernica — native Irish ivy* | 10–20m | At pot level | 🌑 to ☀️ | Virginia creeper, ferns, snowdrops, bluebells | 30–50cm between plants | 5.0–8.0 | ✅ 20L+ (25–35cm pot) |
-| P20 | Japanese Anemone | *Anemone × hybrida* | Leaves float; flowers just above surface | At pot level; spring | 🌥️ | Hostas, astilbe, hellebores | 45–60cm between plants; can spread | 6.0–7.5 | ✅ 40–50cm / 30L+ |
+| P20 | Japanese Anemone | *Anemone × hybrida* | Leaves float; flowers just above surface | At pot level | 🌥️ | Hostas, astilbe, hellebores | 45–60cm between plants; can spread | 6.0–7.5 | ✅ 40–50cm / 30L+ |
 | T21 | Japanese Barberry | *Berberis thunbergii* | 1–1.2m | At nursery soil mark | ☀️ | Golden/lime-green shrubs, spring bulbs | 60–90cm hedge; 1–1.2m specimen | 6.0–7.5 | ✅ 40–50L container |
 | P56 | Japanese Blood Grass | *Imperata cylindrica* | 40–60cm | At pot level | ☀️ | Sedum, echinacea, rudbeckia | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | T22 | Japanese Camellia | *Camellia japonica* | 30–60cm | At nursery soil mark | 🌥️ | Skimmia, hydrangea macrophylla, Japanese maple | 1–1.5m between plants | 5.0–6.5 | ✅ 40–50L ericaceous compost |
@@ -8324,7 +8324,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S45 | Japanese Painted Fern | *Athyrium niponicum* | 30–45cm | At pot level; crown at/just below surface | 🌥️ to 🌑 | Hostas, hellebores, astilbe | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ |
 | T26 | Japanese Skimmia | *Skimmia japonica* | 30–60cm | At nursery soil mark | 🌑 to ☀️ | Hellebores, ferns, hostas, Japanese maple | 60–90cm between plants; ♂+♀ within a few metres for berries | 5.5–6.5 | ✅ 30–40L container |
 | W33 | Japanese Water Iris | *Iris ensata* | 50–90cm | Rhizome at soil level; moist to wet soil | ☀️ to 🌤️ | Bogbean, yellow flag iris | 30–40cm between plants | 5.5–6.5 | ✅ Large container, kept constantly moist |
-| S52 | Japanese Wood Fern | *Dryopteris erythrosora* | 45–60cm | At pot level | 🌥️ to 🌑 | Hostas, astilbe, hellebores, bamboo | 45–60cm between plants | 5.0–6.0 | ✅ 30–40cm / 15L+ |
+| S52 | Japanese Wood Fern | *Dryopteris erythrosora* | 45–60cm | At pot level | 🌥️ to 🌑 | Hostas, heuchera, hellebores | 45–60cm between plants | 5.0–6.0 | ✅ 20–30L container |
 | G7 | Jenny's Stonecrop (Reflexed Stonecrop) | *Petrosedum rupestre* | 10–15cm | At pot level | ☀️ | Sempervivum, other sedums, ornamental grasses | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | G31 | Juniper | *Juniperus communis* | 20–40cm, spreading | At pot level, ~15cm deep | ☀️ | Heather, sempervivum, saxifrage | 1–1.5m for ground cover | 4.5–7.5 | ⚠️ Large shallow container |
 | C11 | Kiwi | *Actinidia deliciosa* | 4–9m | At pot level; do not bury crown | ☀️ | Climbing roses, wisteria, lavender, garlic | 3–5m between plants; needs permanent support | 6.0–7.0 | ⚠️ Min. 60–80L (better in ground) |
@@ -8334,127 +8334,127 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S36 | Lady Fern | *Athyrium filix-femina* | 60–120cm | At pot level; crown at/just below surface | 🌥️ to 🌑 | Hostas, hellebores, astilbe | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ |
 | P21 | Lady's Bedstraw | *Galium verum* | 20–30cm | Crown at soil level | ☀️ | Ox-eye daisy, yarrow, wild grasses | 20–30cm between plants | 6.0–7.5 | ✅ 5L+ container |
 | A100 | Lambs Tails | *Ptilotus exaltatus* | 30cm–1.2m | Sow under cover, spring; at pot level | ☀️ | Other drought-tolerant annuals, gravel-garden plants | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container |
-| P22 | Lanceleaf Tickseed | *Coreopsis lanceolata* | 45–60cm | Crown at soil level | ☀️ | Achillea, ornamental grasses, echinacea — classic dry prairie-style border companions | 30–45cm between plants | 6.0–7.5 | ✅ |
+| P22 | Lanceleaf Tickseed | *Coreopsis lanceolata* | 45–60cm | Crown at soil level | ☀️ | Yarrow, dianthus, ornamental grasses | 30–45cm between plants; self-seeds freely | 5.5–7.0 | ✅ 15–20L container |
 | H15 | Lavender | *Lavandula angustifolia* | 45–60cm | At pot level | ☀️ | Roses, rosemary, thyme | 30–45cm between plants | 6.5–8.0 | ✅ Terracotta 20–30L, with grit |
 | H16 | Lemon Balm | *Melissa officinalis* | 60–90cm | At pot level | ☀️ to 🌥️ | Brassicas, tomatoes | 30–45cm between plants; spreads readily | 6.0–7.5 | ✅ 15–20L container (to contain spread) |
 | H17 | Lemon Verbena | *Aloysia citrodora* | 1–2m | At pot level | ☀️ | Best grown alone in own container | One plant per pot; 60–90cm if grown in a bed | 6.0–7.5 | ✅ Essential; move under cover for winter |
 | H18 | Lemongrass | *Cymbopogon citratus* | 60cm–1m | At pot level | ☀️ | Best grown alone in own container | One plant per pot; 40–50cm if grown in a bed | 6.0–7.5 | ✅ Essential; move under cover for winter |
 | T28 | Lewis Mock Orange | *Philadelphus lewisii* | 2–3m | At nursery soil mark | ☀️ to 🌤️ | Deutzia, lilac, roses, spring bulbs | 1.5–2m between plants | 6.0–7.5 | ⚠️ 50L+ container |
 | T29 | Lilac | *Syringa vulgaris* | 20–50cm | At nursery soil mark | ☀️ | Roses, alliums, peonies, irises | 1.5m between; 2m from walls | 6.5–8.0 | ❌ Too large |
-| B14 | Lilies | *Lilium spp.* | 60cm–1.8m | 15cm (3× bulb height) on a bed of grit, in autumn (September–October) or early spring. Fully hardy — never needs lifting | 🌤️ | Hostas, geraniums, low salvias (shade the soil around bulbs). Roses (lilies fill the mi... | 15–30cm between bulbs | 6.0–7.0. | ⚠️ |
+| B14 | Lilies | *Lilium spp.* | 20–30cm | 15cm (3× bulb height) on grit; autumn/spring | 🌤️ | Hostas, geraniums, roses, alliums | 15–30cm between bulbs | 6.0–7.0 | ✅ 30–40cm / 15–25L |
 | T101 | Lily Magnolia | *Magnolia liliiflora* | 2.5–3m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 2–3m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container |
 | S12 | Lily of the Valley | *Convallaria majalis* | 15–20cm | 2–3cm deep (rhizome) | 🌥️ | Ferns, hostas, hellebores | 15–20cm between plants; ⚠️ toxic, spreads | 6.0–7.5 | ✅ 15–20L container |
 | P23 | Lilyleaf Ladybells | *Adenophora liliifolia* | 60–90cm | Crown at soil level | ☀️ to 🌥️ | Bellflowers, delphiniums, phlox | 30–40cm between plants | 6.0–7.5 | ⚠️ 20L+ container (dislikes disturbance) |
 | F13 | Lingonberry | *Vaccinium vitis-idaea* | 15–20cm | At pot level | 🌥️ | Blueberry, heather, cranberry, deer fern | 30cm between plants | 4.2–5.5 | ✅ 25–30cm / 10–15L |
 | T104 | Loebner Magnolia | *Magnolia × loebneri* | 4–6m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
-| W14 | Loosestrife | *Lysimachia vulgaris and L. punctata* | 20–50cm | Crown at soil level | ☀️ to 🌥️ | Meadowsweet, yellow flag iris, marsh marigold | 40–50cm between plants; spreads by rhizome | 6.0–7.5 | ✅ 20L+ container, keep moist |
+| W14 | Loosestrife | *Lysimachia vulgaris and L. punctata* | 20–50cm | Crown at soil level | ☀️ to 🌥️ | Yellow Flag Iris, Meadowsweet, Marsh Marigold | 30–50cm between plants; spreads vigorously | 6.0–7.5 | ✅ 20L+ container (to contain spread) |
 | W15 | Lotus | *Nelumbo spp.* | 30–60cm above water | Tuber horizontal, just under soil; 5–60cm water above | ☀️ | Best grown alone in own container | One tuber per large container | 6.0–7.0 (water) | ✅ Essential: large container acting as mini-pond |
 | A11 | Love-in-a-Mist | *Nigella damascena* | 30–60cm | 1cm deep (seed) | ☀️ to 🌤️ | Cornflower, poppies, briza maxima | 20cm between plants; annual, self-seeds freely | 6.0–7.5 | ✅ 5L+ container |
 | P25 | Lungworts | *Pulmonaria spp.* | 25–30cm | Crown at soil level | 🌥️ | Hellebores, ferns, hostas | 30–40cm between plants; divide every 3–4 yrs | 6.0–7.5 | ✅ 15–20L container |
 | P26 | Lupins | *Lupinus polyphyllus and hybrids* | 90cm–1.5m | Crown at soil level | ☀️ to 🌤️ | Delphiniums, roses, foxgloves | 45–60cm between plants | 5.5–6.5 | ⚠️ 20L+ container (dislikes disturbance) |
-| P61 | Maiden Pink | *D. deltoides* | 15–20cm | At pot level | ☀️ | Phlox subulata, sempervivum, saxifrage | 20–30cm between plants | 6.0–7.5 | ✅ 15–20cm / 5L+ |
-| S44 | Maidenhair Fern (Himalayan) | *Adiantum venustum* | 15–25cm | At pot level | 🌥️ to 🌑 | Hostas, hellebores, primroses, other woodland ferns | 20–30cm between plants | 5.5–7.0 | ✅ 25–30cm / 10–15L |
+| P61 | Maiden Pink | *Dianthus deltoides* | 15–20cm | At pot level | ☀️ | Phlox subulata, sempervivum, saxifrage | 20–30cm between plants | 6.0–7.5 | ✅ 15–20cm / 5L+ |
+| S44 | Maidenhair Fern (Himalayan) | *Adiantum venustum* | 15–25cm | At pot level | 🌥️ to 🌑 | Hostas, hellebores, primroses | 20–30cm between plants | 5.5–7.0 | ✅ 25–30cm / 10–15L |
 | S35 | Male Fern | *Dryopteris filix-mas* | 60–100cm | Crown 7–12cm above soil | 🌥️ to 🌑 | Hostas, astilbe, bamboo, snowdrops | 60–90cm between plants | 5.0–7.0 | ✅ 40–50cm / 30L+ |
 | W16 | Mare's Tail | *Hippuris vulgaris* | 20–50cm | Crown at soil surface; shallow water/wet mud | ☀️ to 🌤️ | Water mint, water forget-me-not | 20–30cm between plants | 6.5–7.5 | ✅ Aquatic basket |
 | W17 | Marsh Marigold | *Caltha palustris* | 15–30cm | Crown at soil level / shallow water | ☀️ to 🌥️ | Yellow flag iris, bogbean, ferns | 30–40cm between plants | 6.0–7.5 | ✅ Aquatic basket, 3–5L |
 | W18 | Marsh Orchids | *Dactylorhiza spp.* | 20–50cm | 5–8cm deep (tuber) / at pot level | ☀️ to 🌥️ | Yellow flag iris, meadowsweet, ragged robin | 15–20cm between plants; buy nursery stock only | 6.0–7.0 | ⚠️ Large container, kept constantly moist |
 | B15 | Martagon Lily | *Lilium martagon* | 90–150cm | 15cm deep (3× bulb height); autumn/spring | 🌥️ | Hostas, ferns, hellebores; light woodland edge | 20–30cm between bulbs | 6.0–7.5 | ✅ Large 20L+ container |
-| P27 | Masterwort | *Astrantia major* | 60–90cm | Crown at soil level | 🌥️ | Hardy geraniums, ferns, hostas — classic cottage-garden/woodland-edge companions | 40–45cm between plants | 6.0–7.5 | ✅ |
+| P27 | Masterwort | *Astrantia major* | 60–90cm | Crown at soil level | ☀️ to 🌥️ | Roses, ferns, hostas | 30–45cm between plants | 5.5–7.5 | ✅ 20–25L container |
 | W19 | Meadowsweet | *Filipendula ulmaria* | 1–1.5m | Crown at soil level | ☀️ to 🌤️ | Yellow flag iris, bogbean, royal fern, astilbe | 60cm between plants; can self-seed | 5.0–6.5 | ⚠️ Large 40–50cm / 30L+ |
-| A12 | Mealycup Sage | *Salvia farinacea* | 1–1.5m | At pot level; do not bury the woody base | ☀️ | Classic companion for brassicas (deters cabbage moth), carrots and beans in the vegetab... | 45–60cm between plants | 6.0–7.5. | ⚠️ |
-| P54 | Mexican Feather Grass | *Nassella tenuissima* (syn. *Stipa tenuissima*) | 40–60cm | At pot level | ☀️ | Sedum, echinacea, rudbeckia | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
+| A12 | Mealycup Sage | *Salvia farinacea* | 45–60cm | At pot level | ☀️ | Zinnias, cosmos, gomphrena | 25–30cm between plants | 5.5–7.5 | ✅ 10–15L container |
+| P54 | Mexican Feather Grass | *Nassella tenuissima (syn. Stipa tenuissima)* | 40–60cm | At pot level | ☀️ | Sedum, echinacea, rudbeckia | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | H19 | Mint | *Mentha spp.* | 30–90cm | At pot level | 🌤️ | Near brassicas/tomatoes as repellent (in pots) | 60cm if in ground with root barrier | 6.0–7.0 | ✅ Essential (contains spread): 30cm / 10L+ |
 | S13 | Monkshood | *Aconitum napellus* | 90cm–1.5m | Crown at soil level | 🌥️ to ☀️ | Delphiniums, hostas, astilbe | 45–60cm between plants; ⚠️ toxic, wear gloves | 6.0–7.5 | ⚠️ 20–30L container |
 | T30 | Mophead / Lacecap Hydrangea | *Hydrangea macrophylla* | 1–2m | At pot level; rootball top slightly raised | 🌥️ | Astilbe, hostas, ferns, yarrow, heucheras | 90cm–2.4m between (check label for variety size) | 5.0–7.0 (blue 5.0–6.0; pink 6.0–7.0) | ✅ Excellent: 40cm compact / 50–60cm standard |
-| G37 | Mother of Thyme (Creeping Thyme) | *T. serpyllum* | 5–10cm, mat-forming | At pot level | ☀️ | Rosemary, oregano, lavender, creeping juniper | 20–30cm between plants | 6.0–8.0 | ✅ Terracotta 20cm / 5L+ with grit |
+| G37 | Mother of Thyme (Creeping Thyme) | *Thymus serpyllum* | 5–10cm, mat-forming | At pot level | ☀️ | Rosemary, oregano, lavender, creeping juniper | 20–30cm between plants | 6.0–8.0 | ✅ Terracotta 20cm / 5L+ with grit |
 | T31 | Mountain Ash (Rowan) | *Sorbus aucuparia* | 10–15m | At nursery soil mark | ☀️ to 🌤️ | Holly, hawthorn, ferns, foxgloves, hellebores | 3–5m from structures | 5.0–7.0 | ⚠️ 80–100L container |
-| G36 | Mountain/Caucasian Rock Cress | *A. caucasica* | 25–30cm | At pot level | ☀️ | Aubretia, alyssum, spring bulbs | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
+| G36 | Mountain/Caucasian Rock Cress | *Arabis caucasica* | 25–30cm | At pot level | ☀️ | Aubretia, alyssum, spring bulbs | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | H100 | Mustard Greens | *Brassica juncea* | 30–60cm | Sow direct/modules, 1cm deep | ☀️ to 🌥️ | Other brassicas (rotate); legumes | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
-| B44 | Naples Garlic | *A. cowanii* (syn. *A. neapolitanum*) | 20–30cm | 8–10cm deep; autumn | ☀️ | Crocus, dwarf iris, other small spring bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
+| B44 | Naples Garlic | *Allium cowanii (syn. Allium neapolitanum)* | 20–30cm | 8–10cm deep; autumn | ☀️ | Crocus, dwarf iris, other small spring bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
 | H20 | Nasturtiums | *Tropaeolum majus* | 20–30cm | 1–2cm deep (seed) | ☀️ to 🌤️ | Apples, brassicas, cucumbers (trap crop) | 20–30cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container |
 | B16 | Native Bluebells | *Hyacinthoides non-scripta* | 20–40cm | 8cm deep; autumn | 🌥️ | Ferns, hostas, primroses, wood anemones | 8–10cm between bulbs | 6.0–6.8 | ✅ 5L+ container |
-| S15 | Native Irish Mosses |  | 1–5cm | Surface transplant, not buried | 🌥️ to 🌑 | Ferns, wood sorrel, primroses | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot |
-| W35 | Native White Water Lily | *N. alba* | Leaves float; flowers just above surface | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | ☀️ | Yellow flag iris, bogbean, oxygenating plants | 1.5–2m between plants; large ponds only | 6.5–7.5 (water) | ✅ (pond basket essential): 30–40cm+ basket |
+| S15 | Native Irish Mosses | *various spp.* | 1–5cm | Surface transplant, not buried | 🌥️ to 🌑 | Ferns, wood sorrel, primroses | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot |
+| W35 | Native White Water Lily | *Nymphaea alba* | Leaves float; flowers just above surface | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | ☀️ | Yellow flag iris, bogbean, oxygenating plants | 1.5–2m between plants; large ponds only | 6.5–7.5 (water) | ✅ (pond basket essential): 30–40cm+ basket |
 | C12 | Necklace Vine (Maidenhair Vine) | *Muehlenbeckia complexa* | 3–4m | At nursery soil mark | ☀️ to 🌤️ | Ornamental grasses, topiary frames | 1–1.5m between plants | 5.5–7.5 | ✅ Large container or ground |
 | F14 | Olive | *Olea europaea* | 2–3m | At nursery soil mark | ☀️ | Lavender, rosemary | 2–3m between plants | 6.0–8.5 | ✅ Strongly recommended |
 | H21 | Oregano (Wild Marjoram) | *Origanum vulgare* | 15–40cm | At pot level | ☀️ | Thyme, rosemary; pollinator attractor for fruit | 30–45cm between plants | 6.5–8.0 | ✅ 25cm / 8L+ |
-| S54 | Ostrich Fern | *Matteuccia struthiopteris* | 1–1.8m | At pot level | 🌥️ to 🌑, tolerates sun if kept moist | Hostas, astilbe, hellebores, bamboo | 90cm–1.2m between plants; spreads by runners | 5.0–7.0 | ✅ Large 40–60L, keep moist |
-| B43 | Ostrowsky's Onion | *A. oreophilum* | 15–20cm | 8–10cm deep; autumn | ☀️ | Dwarf iris, crocus, other rockery bulbs | 8–10cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
+| S54 | Ostrich Fern | *Matteuccia struthiopteris* | 1–1.8m | Crown at soil surface | 🌥️ to 🌑 | Bog-garden and damp-border companions | 45–90cm between plants; spreads by runners | 5.0–7.0 | ⚠️ Large 30L+ container, keep very moist |
+| B43 | Ostrowsky's Onion | *Allium oreophilum* | 15–20cm | 8–10cm deep; autumn | ☀️ | Dwarf iris, crocus, other rockery bulbs | 8–10cm between bulbs | 6.0–7.5 | ✅ 3–5L container |
 | P57 | Pampas Grass | *Cortaderia selloana* | 2–3m | At pot level | ☀️ | Best as a solo specimen | 2–3m between plants | 6.0–7.5 | ❌ Too large for pots |
-| H22 | Parsley | *Petroselinum crispum* | 20–30cm | Sow direct or in modules, 1cm deep, spring to summer for successional crops | ☀️ to 🌥️ | Tomatoes, carrots, roses — classic kitchen-garden companion, attractive to beneficial insects when allowed to flower | 20–23cm between plants | 6.0–7.5 | ✅ |
+| H22 | Parsley | *Petroselinum crispum* | 20–30cm | 1cm deep (seed) | ☀️ to 🌤️ | Tomatoes, asparagus, roses | 20–30cm between plants; sow successionally | 6.0–7.0 | ✅ 10–15L container |
 | P29 | Pasqueflower | *Pulsatilla vulgaris* | 20–50cm | At pot level; do not disturb | ☀️ | Dianthus, Eryngium, Achillea, ornamental grasses | 20–30cm between plants | 6.5–8.0 | ✅ Essential on clay: 25–30cm / 10L+ |
 | H23 | Patio Tomatoes | *Solanum lycopersicum (compact/dwarf cultivars)* | 30–45cm | Deep; bury to lowest leaves | ☀️ | Basil, marigolds, chives | One plant per 30–40cm pot | 6.0–6.8 | ✅ 30–40cm/10L+ pot; essential |
 | F15 | Peach | *Prunus persica* | 60cm+ | At nursery soil mark; graft above soil | ☀️ | Chives, garlic | 2–4m; cvs. 'Peregrine', 'Rochester', 'Melred' | 6.0–7.0 | ✅ Large container (compact cvs.) |
-| P47 | Peach-leaved Bellflower | *C. persicifolia* | 60cm–1m | Crown at soil level | ☀️ to 🌥️ | Delphiniums, roses, lupins | 30–45cm between plants; divide every 2–4 yrs | 6.0–7.5 | ✅ 15–20L container |
+| P47 | Peach-leaved Bellflower | *Campanula persicifolia* | 60cm–1m | Crown at soil level | ☀️ to 🌥️ | Delphiniums, roses, lupins | 30–45cm between plants; divide every 2–4 yrs | 6.0–7.5 | ✅ 15–20L container |
 | F16 | Pear | *Pyrus communis* | 20–40cm, spreading | Graft union at/above soil | ☀️ | Chives, garlic | Depends on rootstock; cvs. 'Conference', 'Concorde', 'Doyenné du Comice' | 6.0–7.5 | ✅ Container on Quince C |
 | H24 | Peas | *Pisum sativum* | 45cm–1.8m | Sow 2–5cm deep | ☀️ | Carrots, radishes, cucumbers, beans | 5–7cm between seeds; 45–60cm between rows | 6.0–7.5 | ✅ 30–40cm / 10L+ container |
-| P30 | Penstemon | *Penstemon spp.* | 45–75cm | At pot level | ☀️ | Salvias, achillea, ornamental grasses — classic sunny border companions with similar drainage needs | 30–45cm between plants | 6.0–7.5 | ✅ |
-| P31 | Peonies | *Paeonia spp.* | 60–90cm |  | ☀️🌤️ | Alliums (flower as peonies fade — elegant combination). Salvia, irises, delphiniums in ... | 90cm between plants | 6.5–7.0. | ⚠️ |
+| P30 | Penstemon | *Penstemon spp.* | 45–75cm | Crown at soil level | ☀️ | Salvia, echinacea, rudbeckia, lavender | 30–45cm between plants | 5.5–7.0 | ✅ 20–30L container |
+| P31 | Peonies | *Paeonia spp.* | 60–90cm | Eyes MAX 2.5–5cm below soil | ☀️ to 🌤️ | Alliums, irises, salvia, roses, foxgloves | 90cm between plants | 6.5–7.0 | ⚠️ 50L+ large tub |
 | H25 | Peppermint | *Mentha × piperita* | 30–90cm | At pot level | 🌤️ | Roses, brassicas, tomatoes | 45–60cm between plants; ⚠️ vigorous | 6.0–7.0 | ✅ 30cm+ container (or root barrier) |
 | P32 | Perennial Flax | *Linum perenne* | 30–45cm | Crown at soil level | ☀️ | Yarrow, lavender, drought-tolerant perennials | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | G10 | Periwinkle | *Vinca minor and V. major* | 15–20cm | At pot level | 🌑 to ☀️ | Hellebores, snowdrops, ivy; under trees/shrubs | 30–45cm between plants; can spread | 5.5–8.0 | ✅ 25–35cm / 10L+ |
-| B40 | Persian Fritillary | *F. persica* | 60cm+ | 15–20cm deep, on its side; autumn | ☀️ | Tulips, alliums, euphorbia | 20–25cm between bulbs | 6.5–8.0 | ⚠️ Large gritty container |
+| B40 | Persian Fritillary | *Fritillaria persica* | 60cm+ | 15–20cm deep, on its side; autumn | ☀️ | Tulips, alliums, euphorbia | 20–25cm between bulbs | 6.5–8.0 | ⚠️ Large gritty container |
 | P33 | Pheasant's Eye | *Adonis vernalis / A. amurensis* | 30–40cm | Crown at soil level | ☀️ to 🌥️ | Snowdrops, hellebores | 20–30cm between plants; ⚠️ toxic | 6.5–7.5 | ✅ 10–15L container |
 | G11 | Pickle Plant | *Delosperma echinatum* | 15–20cm | At pot level | ☀️ | Sempervivum, saxifrage | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
-| P34 | Pincushion Flower | *Scabiosa columbaria* | 30–60cm | Crown at soil level | ☀️ | Achillea, ornamental grasses — classic dry, sunny border companions; excellent for pollinators and as a cut flower | 30cm between plants | 6.0–8.0 | ✅ |
+| P34 | Pincushion Flower | *Scabiosa columbaria* | 30–60cm | Crown at soil level | ☀️ | Roses, salvias, ornamental grasses | 30–40cm between plants; divide every 2–3 yrs | 6.2–7.5 | ✅ 15–20L container |
 | B18 | Pineapple Lily | *Eucomis spp.* | 30–60cm | 10–15cm deep; spring | ☀️ | Alliums, crocosmia, dahlias | 25–30cm between bulbs | 6.0–7.5 | ✅ Large container ideal |
 | F17 | Plum Tree | *Prunus domestica* | 3–4m | Top of rootball just below surface | ☀️ | Chives, garlic | 1–1.5m from structures; self-fertile | 6.0–7.0 | ✅ 25cm+ pot, standard form |
-| A13 | Poached Egg Plant | *Limnanthes douglasii* | 15–20cm | Sow direct, 5mm deep, spring or autumn | ☀️ to 🌤️ | Excellent for attracting bees and hoverflies; good edging for a vegetable bed | 15–20cm between plants; self-seeds freely | 6.0–7.5 | ✅ |
+| A13 | Poached Egg Plant | *Limnanthes douglasii* | 15–20cm | Surface-sown (seed) | ☀️ | Vegetable beds, cornflower, love-in-a-mist | 10–20cm between plants; annual, self-seeds | 5.5–7.5 | ✅ 5L+ container |
 | B36 | Pointed-Petal Fritillary | *Fritillaria acmopetala* | 30–70cm | 10cm deep; autumn | ☀️ | Other species fritillarias, dwarf iris, crocus | 8–10cm between bulbs | 6.0–8.0 | ✅ Raised bed/trough/pot |
 | S39 | Polypody | *Polypodium vulgare* | 15–40cm | Surface transplant, not buried | 🌥️ to 🌑 | Ferns, wood sorrel, primroses | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot |
 | F18 | Pomegranate | *Punica granatum* | 1.5–3m | At nursery soil mark | ☀️ | Passiflora, grapevine on same warm wall | 2–3m against wall; borderline hardy, best in a container | 5.5–7.0 | ✅ Large 50L+ container, movable |
 | A14 | Poppies | *Papaver spp., e.g. P. rhoeas, Shirley poppies* | 45–90cm | Surface-sown (seed) | ☀️ | Cornflower, love-in-a-mist, briza maxima | 15–20cm between plants; annual, self-seeds freely | 6.0–7.5 | ✅ 5L+ container |
 | B28 | Poppy Anemone | *Anemone coronaria* | 20–40cm | 5–8cm deep; autumn | ☀️ | Ranunculus, other spring corms | 10–15cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ |
-| A15 | Pot Marigold | *Calendula officinalis* | 30–50cm | Sow direct, 1cm deep, spring or autumn | ☀️ to 🌤️ | Vegetable beds — traditional companion said to deter aphids and attract pollinators/beneficial insects | 30cm between plants; self-seeds freely | 6.0–7.5 | ✅ |
+| A15 | Pot Marigold | *Calendula officinalis* | 30–50cm | 1cm deep (seed) | ☀️ to 🌤️ | Brassicas, tomatoes, carrots | 15–30cm between plants; annual, self-seeds | 6.0–7.0 | ✅ 10–15L container |
 | G12 | Prickly Heath | *Gaultheria mucronata* | 60cm–1m | At nursery soil mark | ☀️ to 🌥️ | Heather, blueberry, lingonberry, dwarf conifers | 45–60cm between plants; ♂+♀ for berries | 4.5–6.0 | ✅ 20–30L ericaceous compost |
-| S48 | Primroses | *P. vulgaris* | 10–15cm | Crown at soil level | 🌥️ | Bluebells, wood anemones, violets, ferns | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container |
-| B46 | Purple-flowered Onion | *A. atropurpureum* | 80cm–1m | 20cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
+| S48 | Primroses | *Primula vulgaris* | 10–15cm | Crown at soil level | 🌥️ | Bluebells, wood anemones, violets, ferns | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container |
+| B46 | Purple-flowered Onion | *Allium atropurpureum* | 80cm–1m | 20cm deep (2–3× bulb depth); autumn | ☀️ | Roses, peonies, ornamental grasses | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container |
 | P101 | Purpletop Vervain | *Verbena bonariensis* | 1.5–2m | At pot level | ☀️ | Ornamental grasses, echinacea, rudbeckia | 45–60cm between plants; self-seeds freely | 6.0–7.5 | ✅ 15–20L container |
 | H26 | Radish | *Raphanus sativus* | 10–15cm | 1cm deep (seed) | ☀️ to 🌤️ | Carrots, lettuce, green onions | 2–3cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container |
 | W20 | Ragged Robin | *Lychnis flos-cuculi* | 30–45cm | Crown at soil level; damp meadow, not standing water | ☀️ to 🌤️ | Meadowsweet, yellow flag iris, marsh orchids | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | B19 | Ranunculus | *Ranunculus asiaticus* | 30–45cm | 5–8cm deep; claws down; spring, lift & store | 🌤️ | Pansies, muscari, spring anemones | 15–20cm between tubers | 6.0–7.0 | ✅ Better in pots: 25–30cm / 10L+ |
-| F19 | Raspberry (Glen Ample / Zefa Herbsternte / Autumn Bliss / Heritage / Good as Gold / Lucky Berry) | *Rubus idaeus* | 1.5–1.75m | Crown 5–7cm below soil | 🌤️ | Garlic, marigolds, tansy; away from potatoes | 45–60cm between canes; 1.8m between rows | 5.8–6.5 | ❌ |
-| C27 | Red-Flowered Magnolia Vine | *S. rubriflora* | 6–9m | At nursery soil mark | 🌥️ | Climbing hydrangea, ivy | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container |
+| F19 | Raspberry (Glen Ample / Zefa Herbsternte / Autumn Bliss / Heritage / Good as Gold / Lucky Berry) | *Rubus idaeus* | 1.5–1.75m | Crown 5–7cm below soil | 🌤️ | Garlic, marigolds, tansy; away from potatoes | 45–60cm between canes; 1.8m between rows | 5.8–6.5 | ❌ (patio cvs: ✅ 45–60cm wide deep pot) |
+| C27 | Red-Flowered Magnolia Vine | *Schisandra rubriflora* | 6–9m | At nursery soil mark | 🌥️ | Climbing hydrangea, ivy | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container |
 | F20 | Redcurrant | *Ribes rubrum* | 20–30cm | At nursery mark; roots 5cm | 🌥️ (north fence ok) | Gooseberry, whitecurrant | 1.5m between plants | 6.0–7.5 | ⚠️ 30L+ large pot |
 | G13 | Reindeer Lichen | *Cladonia rangiferina* | 3–8cm | Surface only, not buried | ☀️ to 🌥️ | Heather, sempervivum, open heath planting | Establishes slowly; avoid disturbance | 4.0–5.5 | ⚠️ Shallow tray/rockery |
 | F21 | Rhubarb | *Rheum × hybridum* | 60–90cm | Buds 1–2cm below soil | 🌤️ | Beans, peas nearby; away from fennel | 90cm between crowns | 6.0–7.0 | ⚠️ 50cm / 50L+ deep pot |
-| B71 | River Lily | *Hesperantha coccinea* (syn. *Schizostylis coccinea*) | 60cm | Rhizome at soil level; spring | ☀️ to 🌤️ | Astilbe, Japanese anemone, ornamental grasses | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container |
+| B71 | River Lily | *Hesperantha coccinea (syn. Schizostylis coccinea)* | 60cm | Rhizome at soil level; spring | ☀️ to 🌤️ | Astilbe, Japanese anemone, ornamental grasses | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container |
 | G34 | Rockcress | *Arabis ferdinandi-coburgi* | 10–15cm | At pot level | ☀️ | Aubretia, alyssum, spring bulbs | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | H27 | Rocket | *Eruca sativa* | 20–30cm | 1cm deep (seed) | ☀️ to 🌥️ | Radish, green onions, lettuce | 15–20cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container |
-| G35 | Rose/Coast Rock Cress | *A. blepharophylla* | 15–20cm | At pot level | ☀️ | Aubretia, alyssum, spring bulbs | 20–25cm between plants | 6.0–7.5 | ✅ 10–15L container |
+| G35 | Rose/Coast Rock Cress | *Arabis blepharophylla* | 15–20cm | At pot level | ☀️ | Aubretia, alyssum, spring bulbs | 20–25cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | H28 | Rosemary | *Salvia rosmarinus, syn. Rosmarinus officinalis* | 1–1.5m | At pot level | ☀️ | Brassicas, carrots, beans, thyme, lavender | 45–60cm between plants | 6.0–7.5 | ✅ Terracotta 20–30L, with grit |
-| S18 | Rough Tree Fern | *Cyathea australis* | 2–4m | At the same depth as in the nursery pot | 🌥️ | Hostas, ferns, hellebores — classic shaded woodland-garden companions | 2–3m from structures and other large plants | 5.5–6.5 | ✅ |
+| S18 | Rough Tree Fern | *Cyathea australis* | 2–4m | Trunk at same depth as grown | 🌥️ | Hostas, camellias, rhododendrons, mosses | 1.5–3m between plants; wrap crown in hard frost | 5.5–7.0 | ✅ Large 50L+ container |
 | W21 | Round-leaved Sundew | *Drosera rotundifolia* | 3–8cm | Crown at soil surface, permanently wet | ☀️ to 🌤️ | Common butterwort, bog asphodel | 10–15cm between plants | 4.0–5.5 | ✅ Boggy container |
 | S19 | Round-Lobed Hepatica | *Hepatica nobilis* | 10–15cm | Crown at soil level | 🌥️ | Snowdrops, hellebores, wood anemones | 15–20cm between plants | 6.0–7.5 | ✅ 10–15L container |
 | S40 | Royal Fern | *Osmunda regalis* | 1–2m | Crown slightly above soil | ☀️ to 🌥️ | Hostas, iris, marginal aquatics, bamboo | 1–1.5m between plants | 4.5–6.5 | ❌ Too large |
 | B34 | Saffron Crocus | *Crocus sativus* | 10–15cm | 8–10cm deep; plant August | ☀️ | Best grown alone for easy harvest | 8–9cm between corms | 6.0–7.5 | ✅ Best in containers |
-| H29 | Sage | *Salvia officinalis* | 1–1.5m | At pot level; do not bury the woody base | ☀️ | Classic companion for brassicas (deters cabbage moth), carrots and beans in the vegetab... | 45–60cm between plants | 6.0–7.5. | ⚠️ |
+| H29 | Sage | *Salvia officinalis* | 30–60cm | At pot level | ☀️ | Rosemary, lavender, thyme, cabbages, carrots | 45–60cm between plants | 5.6–7.8 | ✅ Terracotta 20–30L, with grit |
 | T103 | Saucer Magnolia | *Magnolia × soulangeana* | 4.5–6m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
-| G15 | Saxifrage | *Saxifraga spp., including Mossy Saxifrage S. × arendsii* | 10–15cm, trailing | At pot level | ☀️ to 🌥️ | Sempervivum, campanula saxifraga, dwarf bulbs | 15–20cm between plants | 6.0–7.5 | ✅ Trough/rockery, 3–5L |
+| G15 | Saxifrage | *Saxifraga spp., including Mossy Saxifrage S. × arendsii* | 10–15cm, trailing | At pot level | ☀️ to 🌥️ | Sempervivum, campanula saxifraga, dwarf bulbs | 15–25cm between plants | 5.5–7.5 | ✅ Trough/rockery, 3–5L |
 | T32 | Scots Pine | *Pinus sylvestris* | 20–30cm | At nursery soil mark | ☀️ | Heather, gorse | 6–10m between plants | 4.5–7.0 | ❌ Too large for pots |
 | H30 | Scurvy Grass | *Cochlearia officinalis* | 10–20cm | At pot level / surface-sown seed | ☀️ to 🌥️ | Sea kale, coastal edible plants | 15–20cm between plants | 6.5–7.5 | ✅ 5L+ container |
-| F22 | Sea Buckthorn | *Hippophae rhamnoides* | 2–4m | At nursery soil mark | ☀️ | Best given its own space given its suckering habit; useful as a windbreak/coastal hedge | 2–3m between plants; spreads by suckers | 5.5–7.5 | ✅ |
-| P36 | Sea Holly | *Eryngium spp.* | 60–90cm | Crown at soil level; deep taproot resents disturbance/division once established | ☀️ | Ornamental grasses, achillea — classic dry gravel-garden companions; excellent for pollinators and dried arrangements | 30–45cm between plants | 6.0–7.5 | ✅ |
+| F22 | Sea Buckthorn | *Hippophae rhamnoides* | 2–4m | At nursery soil mark | ☀️ | Other coastal shrubs; windbreak planting | 1.5–2m between plants; ♂+♀ for berries | 5.5–8.0 | ⚠️ Large 50–80L container |
+| P36 | Sea Holly | *Eryngium spp.* | 30–60cm | Crown at soil level | ☀️ | Roses, ornamental grasses, taller perennials | 40–90cm between plants; dislikes disturbance | 5.0–7.5 | ⚠️ Large 20–30L container, sharp drainage |
 | F23 | Serviceberry | *Amelanchier lamarckii* | 4–8m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, snowdrops, ferns, Japanese maple | 2–4m between plants/structures | 5.5–7.0 | ⚠️ 50–80L container |
-| T33 | Shrub Roses | *Rosa, shrub and old-fashioned cultivars* | 2–5m | Graft union just below soil level | ☀️ | Clematis (trained together on the same wall). Lavender at base. Alliums, salvia, hardy ... | 45cm from wall; 2–3m between plants | 6.0–7.0. | ⚠️ |
+| T33 | Shrub Roses | *Rosa, shrub and old-fashioned cultivars* | 1–2m | Bud union at/just below soil level | ☀️ | Alliums, catmint, hardy geraniums, lavender | 75cm–1m between plants | 5.5–7.0 | ⚠️ Large 40–50L container |
 | T34 | Shrubby Cinquefoil | *Potentilla fruticosa (incl. var. aurea)* | 60cm–1m | At nursery soil mark | ☀️ | Lavender, catmint, ornamental grasses | 60–90cm hedge; 1m specimen | 5.5–8.0 | ✅ 20–30L container |
-| P49 | Siberian Iris | *I. sibirica* | 60–100cm | Rhizome at/just below surface (2–3cm max) | ☀️ to 🌤️ | Astilbe, hostas, yellow flag iris, daylilies, royal fern | 30–45cm between plants; divide every 3–5 yrs | 5.8–7.0 | ✅ 35–40cm / 15–20L |
-| B20 | Siberian Squill | *Scilla siberica* | 10–15cm | 8–10cm deep, autumn | ☀️ to 🌥️ | Snowdrops, crocus, daffodils — classic early spring bulb layering | 5–8cm between bulbs | 6.0–7.5 | ✅ |
+| P49 | Siberian Iris | *Iris sibirica* | 60–100cm | Rhizome at soil level or 2–3cm below | ☀️ to 🌤️ | Astilbe, hostas, yellow flag iris, daylilies, royal fern | 30–45cm between plants; divide every 3–5 yrs | 5.8–7.0 | ✅ 35–40cm / 15–20L |
+| B20 | Siberian Squill | *Scilla siberica* | 10–15cm | 7–10cm deep; autumn | ☀️ to 🌥️ | Snowdrops, crocus, dwarf daffodils, chionodoxa | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container |
 | P37 | Siberian Statice | *Goniolimon tataricum* | 45–60cm | Crown at soil level | ☀️ | Ornamental grasses, achillea, sedum | 30–40cm between plants | 6.0–7.5 | ✅ 15–20L container |
-| S20 | Silver Fern | *Cyathea dealbata* | 2–4m | At the same depth as in the nursery pot | 🌥️ | Hostas, ferns, hellebores — classic shaded woodland-garden companions | 2–3m from structures and other large plants | 5.5–6.5 | ✅ |
+| S20 | Silver Fern | *Cyathea dealbata* | 2–4m | Trunk at same depth as grown | 🌥️ | Hostas, ferns, hellebores, camellias | 1.5–3m between plants; tender, overwinter under cover | 5.5–6.5 | ✅ Large 50L+ container, movable |
 | G16 | Siskiyou Lewisia | *Lewisia cotyledon* | 10–15cm | Rosette proud of soil, grit collar | ☀️ to 🌤️ | Sempervivum, saxifrage, houseleek | 20–25cm between plants | 6.0–7.0 | ✅ Trough/rockery, 3–5L |
-| P38 | Slender Vervain | *Verbena rigida* | 1–1.5m | Crown at soil level | ☀️ to 🌤️ | Lavender, catmint, ornamental grasses | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
+| P38 | Slender Vervain | *Verbena rigida* | 1–1.5m | At pot level | ☀️ | Ornamental grasses, other verbenas, sedum | 25–35cm between plants; borderline hardy, mulch for winter | 6.0–7.2 | ✅ 15–20L container |
 | T35 | Smooth Sumac | *Rhus glabra* | 1–1.5m | At nursery soil mark | ☀️ | Ornamental grasses | 2–3m between plants | 5.5–7.5 | ⚠️ Large container, controls suckering |
-| A16 | Snapdragons | *Antirrhinum majus* | 30–90cm | Sow under cover in spring, plant out at pot level | ☀️ | Cosmos, zinnia — classic cutting-garden annual bed companions | 25–30cm between plants | 6.0–7.5 | ✅ |
-| P39 | Sneezeweed | *Helenium autumnale* | 90cm–1.2m | Crown at soil level | ☀️ | Rudbeckia, ornamental grasses, sedum — classic late-summer border companions | 45–60cm between plants | 6.0–7.5 | ✅ |
-| P40 | Sneezewort | *Achillea ptarmica* | 30–60cm | At pot level; bare-root crowns with buds 2–3cm below soil surface. Space 30–60cm apart | ☀️ | Yarrow helps deter unwanted pests, attracts native insects and predators like those tha... | 30–60cm between plants; divide every 2–3 yrs | 5.5–7.0. | ⚠️ |
+| A16 | Snapdragons | *Antirrhinum majus* | 30–90cm | Surface-sown (seed) / at pot level | ☀️ to 🌤️ | Wallflowers, sweet William, forget-me-nots | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container |
+| P39 | Sneezeweed | *Helenium autumnale* | 90cm–1.2m | Crown at soil level | ☀️ | Rudbeckia, echinacea, asters, ornamental grasses | 45–60cm between plants; divide every 2–3 yrs | 5.5–7.0 | ✅ 20–25L container |
+| P40 | Sneezewort | *Achillea ptarmica* | 45–60cm | Crown at soil level | ☀️ to 🌥️ | Yarrow, ornamental grasses, sedum | 30–45cm between plants; avoid heavy waterlogged clay | 5.5–7.5 | ✅ 15–20L container |
 | B31 | Snow Crocus | *Crocus chrysanthus* | 7–10cm | 7–10cm deep; autumn | ☀️ | Snowdrops, daffodils, muscari, aconites | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ |
 | B21 | Snowdrops | *Galanthus nivalis* | 10–20cm | 10cm dry (autumn) / at growing depth in the green (spring) | 🌥️ to 🌑 | Hellebores, aconites, early narcissus, cyclamen coum | 8–10cm between bulbs | 5.5–7.0 | ✅ 20–25cm / 5L+ |
 | B22 | Snowflake (Summer) | *Leucojum aestivum* | 15–45cm | 8–10cm deep; autumn | 🌤️ | Daffodils, snowdrops, hellebores; pond edges | 8–10cm between bulbs | 5.5–7.0 | ✅ 30–40cm / 15L+ |
 | P41 | Society Garlic | *Tulbaghia violacea* | 30–45cm | Crown at soil level | ☀️ | Lavender, rosemary | 25–30cm between plants | 6.0–7.5 | ✅ 10–15L container |
-| S21 | Solomon's Seal | *Polygonatum multiflorum / P. × hybridum* | 60–90cm | Rhizome 5–8cm deep, autumn or spring | 🌥️ | Ferns, hostas, hellebores — classic woodland-floor companions; arching stems look best rising through or behind lower groundcover | 30–40cm between plants | 5.5–7.5 | ✅ |
-| F24 | Sour Cherry | *Prunus cerasus* | 2.5–4m | Graft union at/above soil | ☀️ to 🌥️ | Chives, garlic | Up to 4m; cvs. 'Morello', 'Nabella', 'Kentish Red' | 5.5–7.5 | ✅ Large container |
-| P46 | Spreading Bellflower | *C. patula* | 30–60cm | Crown at soil level / surface-sown seed | ☀️ to 🌥️ | Ox-eye daisy, wild grasses | 20–30cm between plants; biennial/short-lived | 6.0–7.5 | ✅ 10–15L container |
+| S21 | Solomon's Seal | *Polygonatum multiflorum / P. × hybridum* | 60–90cm | Rhizome 5cm deep | 🌑 to ☀️ | Ferns, hostas, hellebores, cyclamen, primroses | 20–30cm between plants; spreads slowly | 6.0–7.5 | ✅ 20–30L container |
+| F24 | Sour Cherry | *Prunus cerasus* | 2.5–4m | At nursery soil mark | 🌥️ | Chives, garlic, spring bulbs | Up to 4m; cvs. 'Morello', 'Nabella', 'Kentish Red' | 6.0–7.0 | ✅ Large container |
+| P46 | Spreading Bellflower | *Campanula patula* | 30–60cm | Crown at soil level / surface-sown seed | ☀️ to 🌥️ | Ox-eye daisy, wild grasses | 20–30cm between plants; biennial/short-lived | 6.0–7.5 | ✅ 10–15L container |
 | H101 | Spring Onions | *Allium cepa* | 30–45cm | Sow direct, 1cm deep, or plant sets | ☀️ to 🌤️ | Carrots, roses | 2.5–5cm between plants in rows | 6.0–7.0 | ✅ 10–15L container |
 | B23 | Spring Sowbread | *Cyclamen coum* | 5–8cm | 2–3cm deep, flat side down; late summer/autumn | 🌥️ | Snowdrops, winter aconite, hellebores | 10–15cm between tubers | 6.0–7.5 | ✅ 3–5L container |
 | T36 | St John's Wort | *Hypericum calycinum* | 1–1.5m | At nursery soil mark | ☀️ to 🌤️ | Heather, skimmia, roses, late perennials | 1–1.5m between plants | 5.5–7.5 | ⚠️ 40–50L container |
@@ -8462,41 +8462,41 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | T102 | Star Magnolia | *Magnolia stellata* | 2–3m | At pot level; no deeper | 🌤️ | Snowdrops, daffodils, hellebores, hardy geraniums | 2.5m spread; shelter from N/E winds | 5.0–6.5 | ✅ 80–100L stone/terracotta |
 | P24 | Statice | *Limonium sinuatum* | 30–45cm | Crown at soil level | ☀️ | Ornamental grasses, achillea, sedum | 30–45cm between plants | 6.0–8.0 | ✅ 10–15L container |
 | P42 | Stocks | *Matthiola incana / M. longipetala* | 30–90cm | At pot level; seeds on surface | 🌤️ | Wallflowers, sweet William, pansies | 20–30cm between plants | 6.5–7.5 | ✅ 25–30cm / 10L+ |
-| F25 | Strawberry (Korona / Ostara / Summer Breeze) | *Fragaria × ananassa* | 20–30cm | Crown exactly at soil level | ☀️ | Borage, garlic, chives, marigolds | 30–45cm between plants | 5.5–6.8 | ✅ 30–35cm / 15–20L per plant |
-| A17 | Strawflower | *Xerochrysum bracteatum* | 20–80cm | Sow under cover in spring, plant out after frost risk, at pot level | ☀️ | Other everlasting/dried-flower annuals; cornflower, statice | 25–30cm between plants | 6.0–7.5 | ✅ |
-| S55 | Sunset Fern | *Dryopteris lepidopoda* | 60–75cm | At pot level | 🌥️ to 🌑 | Hostas, astilbe, hellebores, bamboo | 45–60cm between plants | 5.0–7.0 | ✅ 40–50cm / 25–30L |
-| A18 | Sweet Alyssum | *Lobularia maritima* | 10–15cm | Sow direct, 3mm deep, spring | ☀️ to 🌤️ | Edging for beds and containers; excellent for attracting pollinators | 15–20cm between plants; self-seeds freely | 6.0–7.5 | ✅ |
+| F25 | Strawberry (Korona / Ostara / Summer Breeze) | *Fragaria × ananassa* | 20–30cm | Crown exactly at soil level | ☀️ | Borage, garlic, chives, marigolds | 30–45cm between plants (or 45cm × 75cm rows) | 5.5–6.8 | ✅ 30–35cm / 15–20L per plant |
+| A17 | Strawflower | *Xerochrysum bracteatum* | 45–75cm | Surface-sown (seed) / at pot level | ☀️ | Cosmos, zinnias, ammobium | 20–30cm between plants | 5.5–7.0 | ✅ 10–15L container |
+| S55 | Sunset Fern | *Dryopteris lepidopoda* | 60–75cm | At pot level | 🌥️ to 🌑 | Heuchera, tiarella, hostas | 45–60cm between plants | 5.5–7.0 | ✅ 20–25L container |
+| A18 | Sweet Alyssum | *Lobularia maritima* | 10–15cm | 1–2mm deep (seed) | ☀️ to 🌤️ | Roses, snapdragons, vegetable-bed edging | 15–25cm between plants; annual, self-seeds | 6.0–7.0 | ✅ 5L+ container |
 | C23 | Sweet Autumn Clematis | *Clematis terniflora* | 3–6m | 10–15cm DEEPER than pot | 🌤️ (roots shaded) | Climbing roses, other clematis | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container |
 | F26 | Sweet Cherry | *Prunus avium* | 1–4m | Graft union at/above soil (own-root cvs. at pot level) | ☀️ | Chives, garlic | 1–4m depending on rootstock; cvs. 'Athos', 'Stella', 'Sunburst', 'Lapins', 'Sweetheart', 'Sylvia' | 5.5–7.5 | ✅ 30–40cm+ container |
 | A19 | Sweet Peas | *Lathyrus odoratus* | 1.8–2.5m | 2cm deep (seed) | ☀️ | Climbing roses, clematis; vegetable garden | 15–20cm between plants against support | 6.0–7.5 | ✅ Large 20L+ container with support |
-| P58 | Sweet William | *D. barbatus* | 30–60cm | At pot level | ☀️ | Pinks, stocks, foxgloves, wallflowers, roses | 30cm between plants | 5.8–6.5 | ✅ 25–30cm / 10L+ |
+| P58 | Sweet William | *Dianthus barbatus* | 30–60cm | At pot level | ☀️ | Pinks, stocks, foxgloves, wallflowers, roses | 30cm between plants | 5.8–6.5 | ✅ 25–30cm / 10L+ |
 | B51 | Tarda Tulip | *Tulipa tarda* | 10–15cm | 8–10cm deep; autumn | ☀️ | Crocus, dwarf iris, sempervivum | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
-| T38 | Tarentum Myrtle | *Myrtus communis subsp. tarentina* | 1–2m | At nursery soil mark | ☀️ | Lavender, rosemary — classic Mediterranean-style border companions | 1–1.5m between plants | 6.0–7.5 | ✅ |
+| T38 | Tarentum Myrtle | *Myrtus communis subsp. tarentina* | 1–2m | At nursery soil mark | ☀️ to 🌤️ | Lavender, rosemary, Mediterranean shrubs | 1–1.5m between plants; needs sheltered spot | 6.0–7.5 | ✅ 30–40L container |
 | H31 | Tarragon | *Artemisia dracunculus* | 50–100cm | At pot level | ☀️ | Rosemary, sage, lavender | 30–50cm between plants | 6.5–7.0 | ✅ 10–15L container |
 | S23 | Tasmanian Tree Fern | *Dicksonia antarctica* | 2–4m | Trunk at same depth as grown | 🌥️ to 🌑 | Hostas, ferns, hellebores, snowdrops | 1.5–3m between plants; wrap crown in hard frost | 5.5–6.5 | ✅ Large 50L+ container |
 | P43 | Toadflax | *Linaria vulgaris* | 20–50cm | Crown at soil level / surface-sown seed | ☀️ to 🌤️ | Ox-eye daisy, yarrow, wildflower meadow | 20–30cm between plants; spreads readily | 6.0–7.5 | ✅ 5L+ container |
-| G22 | Trailing Rock Bellflower | *C. saxifraga* | 10–15cm, trailing | At pot level | ☀️ to 🌥️ | Sempervivum, saxifrage, dianthus pinks | 15–20cm between plants | 6.0–7.0 | ✅ 10–15L container |
-| G27 | Tree Heath | *Erica arborea* | 1–2m in cultivation (to 7m in the wild) | At pot level | ☀️ | Blueberry, lingonberry, ornamental grasses | 1–1.5m between plants; hardier var. *alpina* available | 5.0–6.5 | ⚠️ Large 40–50L container |
+| G22 | Trailing Rock Bellflower | *Campanula saxifraga* | 10–15cm, trailing | At pot level | ☀️ | Sempervivum, saxifrage, wall pennywort | 15–20cm between plants | 6.5–7.5 | ✅ Trough/rockery, 3–5L |
+| G27 | Tree Heath | *Erica arborea* | 1–2m in cultivation (to 7m in the wild) | At pot level | ☀️ | Blueberry, lingonberry, ornamental grasses | 1–1.5m between plants; hardier var. alpina available | 5.0–6.5 | ⚠️ Large 40–50L container |
 | C14 | Tufted Vetch | *Vicia cracca* | 1–2m | 1–2cm (seed) / at pot level | ☀️ to 🌤️ | Grasses, wildflower meadow species, hedgerow shrubs | 20–30cm between plants; scrambles via tendrils | 6.0–7.5 | ✅ 5L+ container |
-| B48 | Tulip (garden hybrids) | *Tulipa* spp. | 30–60cm | 20cm (3× bulb height); autumn | ☀️ | Forget-me-nots, daffodils, alliums, wallflowers | 10–15cm between bulbs | 6.0–7.0 | ✅ Excellent: 25–30cm / 10L+ |
-| B52 | Turkestan Tulip | *T. turkestanica* | 10–15cm | 10cm deep; autumn | ☀️ | Crocus, dwarf iris, other early species bulbs | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
-| W22 | Umbrella Grass | *Cyperus alternifolius* | 60cm–1m | Crown at or just below the water/soil surface | ☀️ to 🌥️ | Best given its own container/basket as an architectural pond-margin feature | 45–60cm between plants | 6.0–7.5 | ✅ |
+| B48 | Tulip (garden hybrids) | *Tulipa spp.* | 30–60cm | 20cm (3× bulb height); autumn | ☀️ | Forget-me-nots, daffodils, alliums, wallflowers | 10–15cm between bulbs | 6.0–7.0 | ✅ Excellent: 25–30cm / 10L+ |
+| B52 | Turkestan Tulip | *Tulipa turkestanica* | 10–15cm | 10cm deep; autumn | ☀️ | Crocus, dwarf iris, other early species bulbs | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
+| W22 | Umbrella Grass | *Cyperus alternifolius (syn. Cyperus involucratus)* | 60cm–1m | Crown just above water / max 5cm below water | ☀️ to 🌥️ | Egyptian papyrus, yellow flag iris | 40–60cm between plants; borderline hardy, protect crown in winter | 6.0–7.5 | ✅ 10–20L aquatic basket |
 | W23 | Umbrella Plant | *Darmera peltata* | 1–1.8m | Rhizome at/just below soil level | ☀️ to 🌥️ | Rodgersia, candelabra primula, astilbe, ferns | 60–90cm between plants | 5.5–7.0 | ⚠️ Large container, keep very moist |
 | C15 | Virginia Creeper | *Parthenocissus quinquefolia* | 10–20m | At pot level | 🌤️ | Ivy (same wall), late clematis | 1.5–3m between plants | 5.5–7.5 | ✅ 30–40L container |
 | G18 | Wall Pennywort | *Umbilicus rupestris* | 5–10cm | At pot level / wall crevice | 🌥️ | Ivy, ferns, sempervivum, saxifrage | 15–20cm between plants | 6.0–7.5 | ✅ Small pot or wall crevice |
 | W24 | Water Forget-me-not | *Myosotis scorpioides* | 10–40cm | Crown at soil surface; up to 10cm water above | ☀️ to 🌤️ | Yellow flag iris, marsh marigold, bogbean | 15–30cm between plants | 6.0–7.5 | ✅ Aquatic basket |
-| W100 | Water Hyacinth | *Eichhornia crassipes* (syn. *Pontederia crassipes*) | Up to 1m above water | ⚠️ ILLEGAL TO GROW/SELL — EU/Irish invasive species ban | ☀️ | N/A — not for cultivation | N/A — not for cultivation | N/A | ❌ Illegal — do not buy or keep |
+| W100 | Water Hyacinth | *Eichhornia crassipes (syn. Pontederia crassipes)* | Up to 1m above water | ILLEGAL — EU/Irish invasive species ban | ☀️ | N/A — not for cultivation | N/A — not for cultivation | N/A | ❌ Illegal — do not buy or keep |
 | W27 | Water Mint | *Mentha aquatica* | 15–25cm above water | Crown at soil surface; up to 25cm water above | ☀️ | Bog pimpernel, yellow flag iris | 30–45cm between plants; ⚠️ vigorous | 6.0–7.5 | ✅ Aquatic basket |
 | W28 | Water Soldier | *Stratiotes aloides* | Floating rosette 15–25cm | Floats just below surface, sinks in winter | ☀️ | Frogbit, native water lilies | Allow to spread; thin if congested | 6.0–7.5 (water) | ✅ No planting needed; free-floating |
 | W29 | Water Violet | *Hottonia palustris* | 10–15cm above water | Mostly submerged; do not disturb in summer | ☀️ to 🌤️ | Hornwort, common water crowfoot | Allow to spread loosely | 6.0–7.5 (water) | ✅ No planting needed; free-floating |
 | W30 | Watershield | *Brasenia schreberi* | Floating at surface | Rhizome in mud; floating leaves | ☀️ to 🌤️ | Water lilies | Allow room to spread | 6.0–7.5 (water, estimated) | ⚠️ Aquatic basket; limited Irish availability |
-| S53 | Western Sword Fern | *Polystichum munitum* | 60–120cm | At pot level | 🌥️ to 🌑 | Hostas, astilbe, hellebores, bamboo | 60–90cm between plants | 5.0–7.0 | ✅ 40–60cm / 20–30L |
-| B53 | Whittall's Tulip | *T. orphanidea* | 15–20cm | 10–15cm deep; autumn | ☀️ | Crocus, grape hyacinth, other species tulips | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
-| H32 | Wild Garlic | *Allium ursinum* | 45–60cm | Bulbs 2.5cm deep; autumn | 🌑 | Native bluebells, ferns, primroses | 15–20cm between bulbs | 5.5–7.0 | ✅ 10–15L container |
-| G38 | Wild Thyme | *T. polytrichus* | 2–5cm, mat-forming | At pot level | ☀️ | Sempervivum, saxifrage, wall pennywort | 20–30cm between plants; spreads by runners | 6.5–7.5 | ✅ Trough/rockery, 3–5L |
-| B54 | Wild Tulip | *T. sylvestris* | 20–30cm | 10–15cm deep; autumn | 🌤️ to ☀️ | Daffodils, other naturalising bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 5L+ container |
+| S53 | Western Sword Fern | *Polystichum munitum* | 60–120cm | At pot level | 🌥️ to 🌑 | Hostas, astilbe, snowdrops | 60cm–1m between plants | 5.0–7.0 | ✅ 30–40L container |
+| B53 | Whittall's Tulip | *Tulipa orphanidea* | 15–20cm | 10–15cm deep; autumn | ☀️ | Crocus, grape hyacinth, other species tulips | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot |
+| H32 | Wild Garlic | *Allium ursinum* | 25–30cm | 2.5cm deep | 🌑 | Native bluebells, ferns, primroses | 15–20cm between bulbs; spreads vigorously | 5.5–7.0 | ✅ 10–15L container (to contain spread) |
+| G38 | Wild Thyme | *Thymus polytrichus* | 2–5cm, mat-forming | At pot level | ☀️ | Sempervivum, saxifrage, wall pennywort | 20–30cm between plants; spreads by runners | 6.5–7.5 | ✅ Trough/rockery, 3–5L |
+| B54 | Wild Tulip | *Tulipa sylvestris* | 20–30cm | 10–15cm deep; autumn | 🌤️ to ☀️ | Daffodils, other naturalising bulbs | 10–15cm between bulbs | 6.0–7.5 | ✅ 5L+ container |
 | W31 | Willow Moss | *Fontinalis antipyretica* | Submerged mats | Attach to submerged stone/wood | 🌥️ to ☀️ | Hornwort, common water crowfoot | Space stones/clumps as desired | 6.0–7.5 (water) | ✅ No soil needed; attach to stone |
-| A20 | Winged Everlasting | *Ammobium alatum* | 60–100cm | Sow direct or under cover, spring, at pot level once transplanted | ☀️ | Strawflower, statice and other papery-flowered everlastings for a dried-flower bed | 30cm between plants | 6.0–7.5 | ✅ |
+| A20 | Winged Everlasting | *Ammobium alatum* | 45–60cm | At pot level; lightly cover seed | ☀️ | Strawflower, statice | 30–40cm between plants | 5.5–7.0 | ✅ 10–15L container |
 | B25 | Winter Aconite | *Eranthis hyemalis* | 5–15cm | 5cm deep; early autumn | ☀️ to 🌥️ | Snowdrops, crocus | 5–8cm between tubers | 6.5–7.5 | ✅ 5L+ container |
 | C24 | Winter Clematis | *Clematis cirrhosa* | 2.5–4m | At pot level (evergreen type) | ☀️ | Climbing roses, honeysuckle | 2.5–4m between plants against support | 6.5–7.5 | ✅ Large container against support |
 | G25 | Winter Heath | *Erica carnea* | 10–25cm | At pot level | ☀️ | Blueberry, lingonberry, deer fern, ornamental grasses | 30–45cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost |
@@ -8506,11 +8506,11 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | S24 | Wood Sorrel | *Oxalis acetosella* | 5–10cm | Crown at soil level | 🌑 to 🌥️ | Ferns, native mosses, primroses | 10–15cm between plants | 5.0–6.5 | ✅ 5L+ container |
 | F27 | Woodland Strawberry | *Fragaria vesca* | 10–15cm | Crown at soil level | ☀️ to 🌥️ | Ferns, hostas, primroses | 25–30cm between plants; spreads by runners | 5.5–7.0 | ✅ 20–30L container |
 | P44 | Yarrow | *Achillea millefolium* | 30–60cm | At pot level; bare-root buds 2–3cm below | ☀️ | Roses, salvia, echinacea, hydrangea, ornamental grasses | 30–60cm between plants; divide every 2–3 yrs | 5.5–7.0 | ✅ 30cm / 10L+ |
-| W34 | Yellow Flag Iris | *I. pseudacorus* | 90cm–1.5m | Crown at soil level; 0–20cm water above | ☀️ | White water lily, bogbean, bog pimpernel | 30–60cm between plants; divide every 2–3 yrs | 5.5–8.0 | ✅ 19–24cm aquatic basket |
+| W34 | Yellow Flag Iris | *Iris pseudacorus* | 90cm–1.5m | Crown at soil level; 0–20cm water above | ☀️ | White water lily, bogbean, bog pimpernel | 30–60cm between plants; divide every 2–3 yrs | 5.5–8.0 | ✅ 19–24cm aquatic basket |
 | B26 | Yellow Star-of-Bethlehem | *Gagea lutea* | 5–15cm | 5–8cm deep; autumn | 🌥️ | Snowdrops, wood anemones | 5–8cm between bulbs | 6.5–7.5 | ✅ 5L+ container |
 | W32 | Yellow Water Lily | *Nuphar lutea* | 45–150cm+ above water | Crown at basket surface; 45–150cm+ water above | ☀️ to 🌤️ | Native white water lily, bogbean | 1–2m ultimate spread | 6.5–7.5 (water) | ⚠️ Large ponds/lakes only, not for small pots |
 | T105 | Yulan Magnolia | *Magnolia denudata* | 6–9m | At nursery soil mark | ☀️ to 🌤️ | Hellebores, ferns, snowdrops, Japanese maple | 5–8m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term |
-| A21 | Zinnia | *Zinnia elegans* | 30–90cm | Sow under cover in spring, plant out after frost risk, at pot level; dislikes root disturbance | ☀️ | Cosmos, cornflower and other sunny cutting-garden annuals; excellent for pollinators | 25–30cm between plants; good air circulation reduces powdery mildew risk | 6.0–7.5 | ✅ |
+| A21 | Zinnia | *Zinnia elegans* | 30–90cm | 5–6mm deep (seed) / at pot level | ☀️ | Cosmos, dahlias, cornflower | 20–30cm between plants | 5.5–7.5 | ✅ 15–20L container |
 | H33 | Zucchini (Courgette) | *Cucurbita pepo var. cylindrica, var. giraumontia* | 45–60cm | At pot level (after frost) | ☀️ | Nasturtiums, sweetcorn, beans | 60–90cm between plants | 6.0–7.0 | ✅ Large 30–40L container |
 
 ---
@@ -8518,7 +8518,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ## KEY GROUPS
 
 ### Ericaceous plants (acid-lovers — never add lime near these):
-Blueberry · Heather (*Calluna vulgaris*) · Heather (*Erica* spp.) · Lingonberry · Cranberry · Japanese Maple (partial) · Deer Fern · Royal Fern · Japanese Skimmia · Dicksonia antarctica (partial) · Japanese Camellia · Prickly Heath · St Patrick's Cabbage
+Blueberry · Heather *(Calluna vulgaris)* · Heather (*Erica* spp.) · Lingonberry · Cranberry · Japanese Maple (partial) · Deer Fern · Royal Fern · Japanese Skimmia · Dicksonia antarctica (partial) · Japanese Camellia · Prickly Heath · St Patrick's Cabbage
 
 ### Best clay-tolerant plants on your list:
 Virginia Creeper · Ivy · Hops · Bamboo (clump-forming) · Astilbe · Japanese Anemone · Bergenia · Hellebore · Male Fern · Royal Fern · Forsythia · Blackcurrant · Blackberries · Honeyberry · Hostas · Holly · Irish Yew · Climbing Hydrangea · Hydrangea macrophylla · Meadowsweet · Yellow Flag Iris · Snowflake (Leucojum) · Periwinkle · Native Bluebells · Daylilies · Common Hawthorn · Mountain Ash (Rowan) · Sorbaria sorbifolia · Marsh Marigold · Trollius · Yellow Loosestrife
@@ -8530,7 +8530,7 @@ Rosemary · Lavender · Pasqueflower · Fritillaria imperialis · Acidanthera ·
 Blueberry · Cranberry · Lingonberry (unless naturally acidic area) · Mint (to contain spread) · Melissa/Lemon Balm (to contain spread) · Pasqueflower (strongly recommended) · Ranunculus (best practice) · Rosemary (or raised bed) · Lavender (or raised bed) · Heather (if clay is not acidic enough) · Freesia (tender) · Ixia (borderline hardy) · Iron Cross Oxalis (lift over winter)
 
 ### Pond/water plants — water depth guide:
-- **Deep water (90–150cm):** Native White Water Lily (*Nymphaea alba*)
+- **Deep water (90–150cm):** Native White Water Lily *(Nymphaea alba)*
 - **Shallow water (0–25cm) / pond margin:** Yellow Flag Iris, Bogbean, Bog Pimpernel, Marsh Marigold
 - **Bog/damp margin (not submerged but consistently moist):** Meadowsweet, Bog Pimpernel, Royal Fern, Astilbe, Trollius, Yellow Loosestrife, Marsh Orchids
 - **Permanently wet, acid bog only:** Bog Asphodel
