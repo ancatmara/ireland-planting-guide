@@ -1,22 +1,18 @@
 # Galway Garden Calendar: A Month-by-Month Plan
 
-*Built from the "West of Ireland Planting Guide" (README.md), checked against Galway and Irish climate data, and written for heavy clay, high rainfall and Atlantic wind.*
-
 ---
 
 ## 1. How to read this plan
 
-**Plant references.** Each plant is named with the code from its section heading in the guide, for example *Apple (F2)* or *Hosta (S11)*. These are the codes on the plant headings (A1, B28, T36 and so on). The "Complete Reference Table" at the end of the guide uses a different numbering for individual species (for example Tulip is B46 there), so use the names if the codes ever disagree.
+**Plant references.** Each plant is named with the code from its section heading in the guide, for example *Apple (F2)* or *Hosta (S11)*. These are the codes on the plant headings (A1, B28, T36 and so on).
 
 **What is from the guide and what is not.**
 
 - Anything unmarked comes from the guide: its planting seasons, feeding advice, pruning notes, hardiness warnings and "West of Ireland" notes.
-- **†** marks a timing or technique that the guide does *not* state, which I have added from standard UK and Irish horticultural practice (RHS guidance and similar). These are sensible defaults. Check them against your plant labels and supplier's advice.
-- Where the guide gives only a season (for example "spring"), I have placed the task in the month that suits Galway conditions and marked it †.
+- **†** marks a timing or technique that the guide does *not* state, added from standard UK and Irish horticultural practice (RHS guidance and similar). These are sensible defaults. Check them against your plant labels and supplier's advice.
+- Where the guide gives only a season (for example "spring"), the task is placed in the month that suits Galway conditions and marked it †.
 
-**Coast or inland?** Galway gardens differ a lot. Where a task depends on frost risk, I give two timings: **coast** (Galway Bay, Connemara and Clare-side shores) and **inland** (Athenry, Loughrea, Tuam and higher ground). Use whichever matches your garden, and lean towards the later date if your garden is exposed or in a hollow where cold air collects.
-
-**How much to do.** The plan covers every plant in the guide, so no single garden will do everything. Skip entries for plants you do not grow.
+**Coast or inland?** Galway gardens differ a lot. Where a task depends on frost risk, two timings are provided: **coast** (Galway Bay, Connemara and Clare-side shores) and **inland** (Athenry, Loughrea, Tuam and higher ground). Use whichever matches your garden, and lean towards the later date if your garden is exposed or in a hollow where cold air collects.
 
 ---
 
@@ -76,26 +72,23 @@
 - Tomato feed is the guide's standard high-potash feed for fruiting and flowering plants.
 - Avoid high-nitrogen feeds on plants grown for flowers or fruit. The guide repeats this for raspberries on wet clay, wisteria, clematis, honeysuckle, lilac and others.
 
-### Safety and legal points
+### Safety
 
 - **Wear gloves** for Colchicum corms (B18, highly toxic), Monkshood (S13), Winter Aconite (B29), Yellow Flag Iris (W25), Water Crowfoot (W7), Chinese Lantern (P100), and thorny plants: Sea Buckthorn (F22) and Japanese Barberry (T21).
 - **Keep away from children, pets and livestock:** holly berries, Irish yew, snowdrops, daffodils, bluebells, fritillaria, monkshood, lily of the valley and the other plants in the guide's toxic list.
-- **Water Hyacinth (W100) is excluded from this plan.** The guide states it is banned and must not be bought or grown.
-- **Fringed Water Lily (W10):** see the checks below before you plant it.
 
 ---
 
 ## 4. Points in the guide to check before you rely on it
 
-Reading the whole guide closely turned up a few issues that affect the plan:
-
-1. **Fringed Water Lily (W10) is legally restricted in the Republic of Ireland as well.** The guide mentions only Northern Ireland. In my searches, the National Parks and Wildlife Service's list of Third Schedule species (S.I. 477/2011) includes *Nymphoides peltata*, and Regulation 49 makes it an offence to plant, disperse or cause such a plant to grow. One plant retailer says the listing does not stop gardeners growing it, so the sources disagree. I am not a lawyer. My advice is **not to plant it**, and to check with the NPWS if you already have it.
-2. **Water Soldier (W28):** it appears in a Northern Ireland schedule of invasive non-native plants. I did not find it on the Republic's list in my searches, but I did not check the full list. Check before planting, and never let any escape into open water.
-3. **Plum 'Aprimira' (F17) contradicts itself.** It says to prune only in summer and never in winter, but also to prune lightly each February. This plan follows the summer-only rule, because of silver leaf.
-4. **Cowslip (S5) repeats the Auricula (S2) text**, which describes alpine primulas needing pots or raised troughs. Cowslip is a meadow primula. † Treat it as a tolerant garden plant in reasonably drained ground. The plan gives it the guide's one stated task, which is dividing after flowering.
-5. **Mealycup Sage 'Blue Bedder' (A12)** has text copied from the Mediterranean herb entries. † It is a tender perennial normally grown as a half-hardy annual, so the plan treats it that way.
-6. **Plant codes differ** between the plant headings and the reference table (see section 1).
-7. **Tender plants described as "borderline"** (Agapanthus, Eucomis, Society Garlic, Pickle Plant, Golden Mimosa, Lemon Verbena and others) are at most risk inland. Athenry reached −7.6 °C in January 2025. The plan treats them as containers that can be moved under cover unless you have a very sheltered coastal garden.
+1. **Water Hyacinth (W100) is excluded from this plan.** The guide states it is banned and must not be bought or grown.
+2. **Fringed Water Lily (W10) is legally restricted in the Republic of Ireland as well.** The guide mentions only Northern Ireland. In my searches, the National Parks and Wildlife Service's list of Third Schedule species (S.I. 477/2011) includes *Nymphoides peltata*, and Regulation 49 makes it an offence to plant, disperse or cause such a plant to grow. One plant retailer says the listing does not stop gardeners growing it, so the sources disagree. I am not a lawyer. My advice is **not to plant it**, and to check with the NPWS if you already have it.
+3. **Water Soldier (W28):** it appears in a Northern Ireland schedule of invasive non-native plants. I did not find it on the Republic's list in my searches, but I did not check the full list. Check before planting, and never let any escape into open water.
+4. **Plum 'Aprimira' (F17) contradicts itself.** It says to prune only in summer and never in winter, but also to prune lightly each February. This plan follows the summer-only rule, because of silver leaf.
+5. **Cowslip (S5) repeats the Auricula (S2) text**, which describes alpine primulas needing pots or raised troughs. Cowslip is a meadow primula. † Treat it as a tolerant garden plant in reasonably drained ground. The plan gives it the guide's one stated task, which is dividing after flowering.
+6. **Mealycup Sage 'Blue Bedder' (A12)** has text copied from the Mediterranean herb entries. † It is a tender perennial normally grown as a half-hardy annual, so the plan treats it that way.
+7. **Plant codes differ** between the plant headings and the reference table (see section 1).
+8. **Tender plants described as "borderline"** (Agapanthus, Eucomis, Society Garlic, Pickle Plant, Golden Mimosa, Lemon Verbena and others) are at most risk inland. Athenry reached −7.6 °C in January 2025. The plan treats them as containers that can be moved under cover unless you have a very sheltered coastal garden.
 
 ---
 
@@ -774,31 +767,3 @@ Reading the whole guide closely turned up a few issues that affect the plan:
 | **Perlite and pebbles** | Spring repotting and pot drainage (10–20% perlite; pebbles at the base). Autumn: re-check that pots drain freely before winter. |
 | **Vermiculite** | Seed sowing, February to May. |
 | **Multipurpose compost** | Planting-hole mix (50/50 with clay) in autumn and spring. Mulches in autumn. |
-
----
-
-## 8. Sources
-
-**Guide:** *West of Ireland Planting Guide* (README.md), supplied with the request. All unmarked advice comes from it.
-
-**Climate and weather**
-- Galway Tourism, "Weather Galway": https://www.galwaytourism.ie/local/weather/
-- "Climate of Ireland" (Met Éireann data, west-of-Ireland rainfall): https://en.wikipedia.org/wiki/Climate_of_Ireland
-- Met Éireann climate bulletins (Athenry figures): winter 2024/25 https://cli.fusio.net/cli/bulletin/data/2025/13/sum_132025.pdf · April 2025 https://cli.fusio.net/cli/bulletin/data/2025/04/sum_042025.pdf · June 2025 https://cli.fusio.net/cli/bulletin/data/2025/06/sum_062025.pdf · August 2019 https://cli.fusio.net/cli/bulletin/data/2019/08/sum_082019.pdf
-- EPA Hydrology Bulletin, July 2025 (Athenry rainfall): https://www.catchments.ie/wp-content/uploads/2025/08/EPA-Hydrology-Bulletin-July-2025.pdf
-- Met Éireann 2025 annual statement, as reported by Agriland (Mace Head wind, Connemara 32.2 °C): https://develop.agriland.ie/farming-news/2025-was-second-warmest-year-on-record-for-ireland-met-eireann/
-- Irish Times, frost timing: https://www.irishtimes.com/news/first-frost-of-autumn-last-frost-of-spring-1.218221 and https://www.irishtimes.com/news/feeling-final-frosty-touch-1.36755
-- Farmers Forum, county frost windows (indicative only): https://www.farmersforum.ie/trends/?p=601
-
-**Law and wildlife**
-- NPWS, hedgerows and the 1 March to 31 August restriction: https://www.npws.ie/news/hedgerows and https://www.npws.ie/news/minister-o%E2%80%99sullivan-calls-public-protect-our-birds-nesting-season-approaches
-- BirdWatch Ireland via Agriland (ban applies to gardens): https://www.agriland.ie/farming-news/hedge-cutting-ban-applies-to-gardens-as-much-as-it-does-to-farms/
-- NPWS, Third Schedule invasive species list (S.I. 477/2011): https://www.npws.ie/node/46636
-- GardenTags (retailer's view on *Nymphoides peltata*): https://www.gardentags.com/plant-encyclopedia/nymphoides-peltata-synvillarsia-nymphoides-peltata/10891
-- Northern Ireland schedule (Water Soldier): https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9?view=plain
-
-**Horticultural practice (for † items)**
-- RHS, wisteria: https://www.rhs.org.uk/advice/profile?pid=173
-- RHS, raspberries: https://www.rhs.org.uk/advice/profile?PID=148
-
-Other † items (clematis pruning groups, hydrangea and heather pruning, asparagus and rhubarb planting times, pond planting season, and similar) reflect standard UK and Irish horticultural practice and were not individually re-verified for this plan.
