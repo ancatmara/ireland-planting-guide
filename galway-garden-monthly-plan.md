@@ -1,18 +1,24 @@
 # Galway Garden Calendar: A Month-by-Month Plan
 
+*Built from the "West of Ireland Planting Guide" (README.md), checked against Galway and Irish climate data, and written for heavy clay, high rainfall and Atlantic wind.*
+
 ---
 
 ## 1. How to read this plan
 
-**Plant references.** Each plant is named with the code from its section heading in the guide, for example *Apple (F2)* or *Hosta (S11)*. These are the codes on the plant headings (A1, B28, T36 and so on).
+**Plant references.** Each plant is named with the code from its section heading in the guide, for example *Apple (F2)* or *Hosta (S11)*. These are the codes on the plant headings (A1, B28, T36 and so on). The "Complete Reference Table" at the end of the guide uses the same codes. Where one section covers several species or cultivars (for example Tulip, B28), its rows share that section's code.
 
 **What is from the guide and what is not.**
 
 - Anything unmarked comes from the guide: its planting seasons, feeding advice, pruning notes, hardiness warnings and "West of Ireland" notes.
-- **†** marks a timing or technique that the guide does *not* state, added from standard UK and Irish horticultural practice (RHS guidance and similar). These are sensible defaults. Check them against your plant labels and supplier's advice.
-- Where the guide gives only a season (for example "spring"), the task is placed in the month that suits Galway conditions and marked it †.
+- **†** marks a timing or technique that the guide does *not* state, and which comes from standard UK and Irish horticultural practice (RHS guidance and similar). These are sensible defaults. They are best checked against plant labels and the supplier's advice.
+- Where the guide gives only a season (for example "spring"), the task is placed in the month that suits Galway conditions and marked †.
 
-**Coast or inland?** Galway gardens differ a lot. Where a task depends on frost risk, two timings are provided: **coast** (Galway Bay, Connemara and Clare-side shores) and **inland** (Athenry, Loughrea, Tuam and higher ground). Use whichever matches your garden, and lean towards the later date if your garden is exposed or in a hollow where cold air collects.
+**Galway city.** This plan is written for a garden in Galway city. The city is on the coast, so it is generally milder than inland Co. Galway, but it is wet, windy and not frost-free. Where a task depends on frost risk, lean towards the later date if your garden is exposed or sits in a hollow where cold air collects.
+
+**Materials.** Section 6 covers the materials named in the guide and a wider list of garden materials that the guide does not name (marked †, or described as named in plant cards where the guide does mention them), with the months in which each matters.
+
+**How much to do.** The plan covers every plant in the guide, so no single garden will do everything. Skip entries for plants you do not grow.
 
 ---
 
@@ -24,11 +30,10 @@
 |---|---|
 | **Temperature** | Maritime and mild. Galway city averages about 6.8 °C in January and about 16 °C in July (Galway Tourism). |
 | **Rainfall** | About 1,100 mm a year in Galway city, compared with about 680 mm in Dublin. Rainfall in the west generally runs between 1,000 and 1,250 mm, and December and January are usually the wettest months. |
-| **Wet summers happen** | Athenry had 165 mm in June 2025 (206% of its long-term average, its wettest June since 2012) and 297.3 mm in August 2019 (276% of average). Summer is not reliably dry. |
-| **Frost, coast** | Historically, the coastal strip sees its last air frost in late March or early April, and coastal areas are generally frost-free until December. |
-| **Frost, inland** | In the midlands the last air frost typically falls in the first half of May, and the first autumn frost arrives in October. A regional guide puts Galway's typical last frost at mid-April on the coast and late April to early May inland (indicative only). |
-| **Cold snaps still happen** | Athenry recorded −7.6 °C on 9 January 2025 and had 28 days of air frost in winter 2024/25. Borderline plants inland are at real risk in a bad winter. |
-| **Warm spells happen too** | Athenry reached 25.9 °C on 30 April 2025, the highest April temperature on record for Ireland. Early warmth followed by frost is a trap for early growth and blossom. |
+| **Wet days** | Wet days are frequent. Ireland's average runs from about 151 a year on the east and south-east coasts to about 225 in parts of the west, so summer is not reliably dry. |
+| **Frost** | Galway city is coastal. Coastal areas have historically been generally frost-free until December, with the last air frost in late March or early April (Irish Times). Met Éireann's Galway (University College) station is closed, so no city-specific frost statistics are available from it. The nearest coastal reference, Mace Head, recorded no air frost at all in November 2020. |
+| **Cold snaps still happen** | Met Éireann issued Status Orange low-temperature and ice warnings covering Galway in the January 2025 cold snap (Galway City Council, RSA). Borderline plants can still be hit in a bad winter. |
+| **Warm spells happen too** | Connemara National Park reached 32.2 °C on 13 July 2025 (Met Éireann). Pots and new plantings can dry out fast even in the wet west. |
 | **Wind** | Mace Head on the Galway coast had the highest annual mean wind speed of Met Éireann's stations in 2025, at 26.9 km/h. Staking and shelter matter. |
 
 ### What this means in practice
@@ -51,6 +56,7 @@
 - **Mulch:** horticultural bark, 5–7 cm deep, kept away from stems and crowns.
 - **Test the soil pH** before planting. The guide notes that west of Ireland soils vary considerably. Retest each spring if you grow acid-lovers. †
 - **Ericaceous plants** (blueberry, cranberry, lingonberry, heathers, camellia, skimmia, prickly heath, deer fern and similar) get ericaceous compost and ericaceous feed. Never add lime nearby.
+- **Other materials:** well-rotted manure, leaf mould, sharp sand, John Innes composts, fleece, supports and slug controls all have a place in a Galway garden. Section 6 lists them by use and by month.
 - **Containers:** pebbles for the drainage layer, perlite at 10–20% in potting mixes, and grit-rich mixes for rosemary, lavender, thyme and alpines. Stand pots on feet so they never sit in water. †
 
 ### Pruning rules by type
@@ -72,33 +78,25 @@
 - Tomato feed is the guide's standard high-potash feed for fruiting and flowering plants.
 - Avoid high-nitrogen feeds on plants grown for flowers or fruit. The guide repeats this for raspberries on wet clay, wisteria, clematis, honeysuckle, lilac and others.
 
-### Safety
+### Safety and legal points
 
 - **Wear gloves** for Colchicum corms (B18, highly toxic), Monkshood (S13), Winter Aconite (B29), Yellow Flag Iris (W25), Water Crowfoot (W7), Chinese Lantern (P100), and thorny plants: Sea Buckthorn (F22) and Japanese Barberry (T21).
 - **Keep away from children, pets and livestock:** holly berries, Irish yew, snowdrops, daffodils, bluebells, fritillaria, monkshood, lily of the valley and the other plants in the guide's toxic list.
+- **Water Hyacinth (W100) is excluded from this plan.** The guide states it is banned and must not be bought or grown.
+- **Fringed Water Lily (W10) is legally restricted in the Republic of Ireland as well.** The guide mentions only Northern Ireland. Invasives Ireland lists *Nymphoides peltata* among the species restricted under Regulations 49 and 50 of S.I. No. 477/2011 (the Third Schedule list kept by the National Parks and Wildlife Service, NPWS), applying "throughout the State". Regulation 49 makes it an offence to plant, disperse or cause such a plant to grow. At least one plant retailer states that the listing does not prevent gardeners from growing it, which conflicts with the NPWS listing. The cautious course is **not to plant it**. Where a plant is already present, the NPWS can confirm the position. This is general information, not legal advice.
+- **Water Soldier (W28):** listed in Schedule 9 of the Wildlife (Northern Ireland) Order 1985, where it is an offence to plant it or cause it to grow in the wild. It does not appear on the Invasives Ireland list of plants restricted in the Republic under Regulations 49 and 50 of S.I. No. 477/2011, but restrictions can change, so the NPWS is the place to confirm the current position before planting. No part of it should ever escape into open water.
 
 ---
 
-## 4. Points in the guide to check before you rely on it
-
-1. **Water Hyacinth (W100) is excluded from this plan.** The guide states it is banned and must not be bought or grown.
-2. **Fringed Water Lily (W10) is legally restricted in the Republic of Ireland as well.** The guide mentions only Northern Ireland. In my searches, the National Parks and Wildlife Service's list of Third Schedule species (S.I. 477/2011) includes *Nymphoides peltata*, and Regulation 49 makes it an offence to plant, disperse or cause such a plant to grow. One plant retailer says the listing does not stop gardeners growing it, so the sources disagree. I am not a lawyer. My advice is **not to plant it**, and to check with the NPWS if you already have it.
-3. **Water Soldier (W28):** it appears in a Northern Ireland schedule of invasive non-native plants. I did not find it on the Republic's list in my searches, but I did not check the full list. Check before planting, and never let any escape into open water.
-4. **Plum 'Aprimira' (F17) contradicts itself.** It says to prune only in summer and never in winter, but also to prune lightly each February. This plan follows the summer-only rule, because of silver leaf.
-5. **Cowslip (S5) repeats the Auricula (S2) text**, which describes alpine primulas needing pots or raised troughs. Cowslip is a meadow primula. † Treat it as a tolerant garden plant in reasonably drained ground. The plan gives it the guide's one stated task, which is dividing after flowering.
-6. **Mealycup Sage 'Blue Bedder' (A12)** has text copied from the Mediterranean herb entries. † It is a tender perennial normally grown as a half-hardy annual, so the plan treats it that way.
-7. **Plant codes differ** between the plant headings and the reference table (see section 1).
-8. **Tender plants described as "borderline"** (Agapanthus, Eucomis, Society Garlic, Pickle Plant, Golden Mimosa, Lemon Verbena and others) are at most risk inland. Athenry reached −7.6 °C in January 2025. The plan treats them as containers that can be moved under cover unless you have a very sheltered coastal garden.
-
 ---
 
-## 5. The monthly plan
+## 4. The monthly plan
 
 ---
 
 ### JANUARY
 
-**Galway conditions.** The coldest and one of the wettest months. Mean temperature is about 6–7 °C, daylight is short, and the clay is usually saturated. Inland frosts can be hard (Athenry fell to −7.6 °C in January 2025). This is a month for protecting, pruning and planning, not for digging.
+**Galway conditions.** The coldest and one of the wettest months. Mean temperature is about 6–7 °C, daylight is short, and the clay is usually saturated. Frosts are usually lighter in the city than inland, but a hard cold snap can still happen (Met Éireann Status Orange low-temperature warnings covered Galway in January 2025). This is a month for protecting, pruning and planning, not for digging.
 
 **Priorities:** (1) stay off wet clay, (2) check stakes and winter protection after gales, (3) prune what is meant to be pruned now, and (4) check stored tubers and overwintering pots.
 
@@ -171,12 +169,12 @@
 
 ### MARCH
 
-**Galway conditions.** Mean about 7–8 °C. Soils warm slowly, and clay stays cold and wet for much of the month. Frosts remain possible on the coast until early April and inland into May. Wind and heavy showers are common. **The hedge-cutting ban starts on 1 March.**
+**Galway conditions.** Mean about 7–8 °C. Soils warm slowly, and clay stays cold and wet for much of the month. Late frosts remain possible into early or mid-April. Wind and heavy showers are common. **The hedge-cutting ban starts on 1 March.**
 
 **Priorities:** (1) first plantings and sowings once the clay is workable, (2) the main spring feed, (3) the last big pruning jobs, and (4) slug defence from the first shoots.
 
 **Sow and plant**
-- **Cornflower, Poppies, Pot Marigold, Poached Egg Plant, California Poppy, Love-in-a-Mist and Quaking Grass** (A5, A14, A15, A13, A3, A11, A9): direct sow where they are to flower once the soil is workable (March in a mild coastal garden, April on cold inland clay †). Poppies need light, so barely cover the seed. California Poppy and Love-in-a-Mist dislike root disturbance.
+- **Cornflower, Poppies, Pot Marigold, Poached Egg Plant, California Poppy, Love-in-a-Mist and Quaking Grass** (A5, A14, A15, A13, A3, A11, A9): direct sow where they are to flower once the soil is workable (March if the clay is workable, otherwise April †). Poppies need light, so barely cover the seed. California Poppy and Love-in-a-Mist dislike root disturbance.
 - **Half-hardy annuals under cover:** Cockscomb (A4), Globe Amaranth (A8), Lambs Tails (A100), Strawflower (A17), Zinnia (A21), Snapdragons (A16), Drumstick Flower (A7), Winged Everlasting (A20). Sow in March or April † and plant out only after frost risk has passed.
 - **Basil (H2):** sow under cover. Keep it in pots on a warm sill, patio or in a greenhouse, because direct sowing outdoors is unreliable here.
 - **Peas (H24):** on heavy, cold clay the guide recommends starting seed in modules under cover. Sow successionally every few weeks from now into early summer.
@@ -219,7 +217,7 @@
 
 **Divide and move (when the clay is crumbly) †:** Hostas (S11), Daylilies (P11, every 3–4 years), Avens (P2, P7, every 2–3 years), Heuchera (S4, every 3 years, spring or autumn), Helenium (P39), Bearded Iris (P19, hold until after flowering).
 
-**Enjoy** Daffodils (B7), Crocus (B6), Hyacinth (B14), Dwarf Iris (B8), Siberian Squill (B24), Marsh Marigold (W17), Umbrella Plant (W23, March to April), Almond (F1) and Peach (F15) blossom, and Magnolias (T30).
+**Enjoy** Daffodils (B7), Crocus (B6), Hyacinth (B14), Dwarf Iris (B8), Siberian Squill (B24), Primroses (S17, including the garden hybrid primroses, from late winter), Marsh Marigold (W17), Umbrella Plant (W23, March to April), Almond (F1) and Peach (F15) blossom, and Magnolias (T30).
 
 **If it is too wet.** Sow in modules under cover, and prune, tie in and feed. Wait to plant out until the clay crumbles in the hand.
 
@@ -227,7 +225,7 @@
 
 ### APRIL
 
-**Galway conditions.** Mean about 9–10 °C. The soil is warming and growth takes off, but frost is not finished: coastal gardens usually lose it by mid-April, inland gardens often not until early May. April can swing from record warmth (25.9 °C at Athenry on 30 April 2025) to hard night frost, so keep fleece handy.
+**Galway conditions.** Mean about 9–10 °C. The soil is warming and growth takes off, but frost is not finished: coastal areas typically lose it by about mid-April. April can swing from warm, sunny spells to a sharp night frost, so keep fleece handy.
 
 **Priorities:** (1) the main planting month for hardy plants in the ground, (2) sowing, (3) starting the regular feeding schedule, and (4) pruning spring-flowering shrubs as soon as the flowers fade.
 
@@ -236,7 +234,7 @@
 - **Sweet Peas (A19):** plant out hardened-off plants against canes, a trellis or wigwam. †
 - **Perennial vegetables:** Asparagus crowns (H1) and Rhubarb (F21) if not already planted.
 - **Peas (H24), Radish (H26), Rocket (H27), Spring Onions (H101, H14), Mustard Greens (H100), Parsley (H22 †), Coriander and Dill (H8, H11):** sow in short rows every few weeks. Coriander and Dill bolt if overfed, so feed little.
-- **Tender bulbs, in pots or the ground after frost risk (coast: now; inland: late April to May):** Acidanthera (B1, 10–16 cm on a bed of sharp sand, April to May), Iron Cross (B15, 5 cm, April to May), Dwarf Sword Lily (B9, 10–16 cm), Ixia (B5) and Freesia (B11) if not yet planted, and Pineapple Lily (B21, 10–15 cm, after frost).
+- **Tender bulbs, in pots or the ground after frost risk (from about mid-April †):** Acidanthera (B1, 10–16 cm on a bed of sharp sand, April to May), Iron Cross (B15, 5 cm, April to May), Dwarf Sword Lily (B9, 10–16 cm), Ixia (B5) and Freesia (B11) if not yet planted, and Pineapple Lily (B21, 10–15 cm, after frost).
 - **River Lily (B23):** plant rhizomes at soil level in spring.
 - **Kiwi 'Jenny' (C11):** plant in April or May once frost risk has passed. Give it a sheltered, sun-warmed wall.
 - **Japanese Anemone (P20):** plant potted rhizomes in spring. **Siberian Iris (P19):** at soil level or 2–3 cm below, in spring or early autumn.
@@ -271,7 +269,7 @@
 - **Rhubarb (F21) †:** pull stems from established crowns, but not in the first year after planting.
 - **Wild Garlic (H32):** leaves and flowers from April to June. Check identity by crushing a leaf: it must smell strongly of garlic, because the leaves can be confused with Lily of the Valley and Lords-and-Ladies.
 - **Scurvy Grass (H30), Common Sorrel (H7), Chives (H5):** snip leaves sparingly.
-- **In flower:** Tulips (B28), Fritillaria meleagris (B12), Grape Hyacinth (B13), Bluebells (B19, late April), Wood Anemone (B3), Primulas (S17), Forget-me-nots (S8), Bleeding Heart (S1), Lungwort (P25), Magnolias (T30), Camellia (T22), Skimmia (T26) and Hawthorn blossom (T7, May).
+- **In flower:** Tulips (B28), Fritillaria meleagris (B12), Grape Hyacinth (B13), Bluebells (B19, late April), Wood Anemone (B3), Primulas (S17), Forget-me-nots (S8), Bleeding Heart (S1), Lungwort (P25), Magnolias (T30), Camellia (T22), Skimmia (T26), Japanese Flowering Cherry (T24, mid-spring) and Hawthorn blossom (T7, May).
 
 **Leave alone.** Let daffodil, bluebell, tulip and other bulb foliage yellow naturally. Daffodil foliage needs at least six weeks before removal (guide).
 
@@ -283,12 +281,12 @@
 
 ### MAY
 
-**Galway conditions.** Mean about 11–12 °C, with mild days (highs about 15 °C). Frost risk is nearly over on the coast and falling inland, but cold nights remain possible, so keep fleece until the last week of the month. Wind is still a constant.
+**Galway conditions.** Mean about 11–12 °C, with mild days (highs about 15 °C). Frost risk is nearly over, but cold nights remain possible, so keep fleece until the last week of the month. Wind is still a constant.
 
 **Priorities:** (1) planting out tender plants after hardening off, (2) sowing biennials and successional crops, (3) supports, and (4) slug control at its peak.
 
 **Plant out (after frost risk)**
-- **Patio Tomatoes (H23):** plant out in mid-May on the coast (the guide's date for most of Ireland), or late May inland and in exposed spots †. Bury the stem to the lowest pair of leaves. Choose a sheltered, sunny spot under eaves or by a warm wall, which also cuts blight risk.
+- **Patio Tomatoes (H23):** plant out in mid-May (the guide's date for most of Ireland), or later in the month in an exposed spot †. Bury the stem to the lowest pair of leaves. Choose a sheltered, sunny spot under eaves or by a warm wall, which also cuts blight risk.
 - **Courgettes (H33) and Cucumbers (H9):** plant out after all frost risk has passed. Outdoor ridge cucumbers cope reasonably but crop best in a sheltered, sunny spot or a polytunnel.
 - **Half-hardy annuals:** Cockscomb (A4), Globe Amaranth (A8), Lambs Tails (A100), Strawflower (A17), Zinnia (A21, needs a warm, sheltered spot and good airflow to avoid mildew), Snapdragons (A16), Mealycup Sage (A12 †), Slipperwort (A2 †).
 - **Tender perennials and pots:** Lemon Verbena (H17), Lemongrass (H18, needs at least 13 °C), Pineapple Lily (B21), Dwarf Sword Lily (B9), Iron Cross (B15). Move Egyptian Papyrus (W8) and Umbrella Grass (W22) back outdoors late in the month.
@@ -305,6 +303,7 @@
 - **Clematis montana (C3, Group 1):** finish pruning after flowering. †
 - **Lilac (T29) †:** deadhead and thin after flowering.
 - **Lungwort (P25) †:** cut back after flowering to refresh foliage.
+- **Primulas (S17) †:** divide congested primroses (including the garden hybrids) after flowering, preferably in a wet spell, and replant at once.
 - **Candytuft (G5):** shear back by about a third straight after flowering for a compact second flush.
 - **Rosemary (H28):** trim lightly after flowering and never into old bare wood. †
 - **Bleeding Heart (S1):** goes dormant by midsummer. Mark its position so you do not dig it up.
@@ -335,7 +334,7 @@
 
 ### JUNE
 
-**Galway conditions.** The longest days of the year, mean about 13–14 °C. Showers can be heavy (Athenry recorded 206% of its average June rainfall in 2025), but dry spells also occur. Pots dry out surprisingly quickly in warm, windy weather.
+**Galway conditions.** The longest days of the year, mean about 13–14 °C. Showers can be heavy, but dry spells also occur. Pots dry out surprisingly quickly in warm, windy weather.
 
 **Priorities:** (1) deadheading and cutting back, (2) the second rose feed, (3) summer sowing of biennials, and (4) watching for blight, mildew and slugs.
 
@@ -390,7 +389,7 @@
 
 ### JULY
 
-**Galway conditions.** The warmest month, with a mean of about 15–16 °C and highs of 18–19 °C. It can still be wet (Athenry had 144% of its average July rainfall in 2025), and heat spikes do happen (Connemara National Park reached 32.2 °C on 13 July 2025). Watch for both drought stress in pots and fungal disease after rain.
+**Galway conditions.** The warmest month, with a mean of about 15–16 °C and highs of 18–19 °C. It can still be wet, and heat spikes do happen (Connemara National Park reached 32.2 °C on 13 July 2025). Watch for both drought stress in pots and fungal disease after rain.
 
 **Priorities:** (1) summer pruning of stone fruit, (2) harvesting, (3) the last feeds of the year for many plants, and (4) ordering autumn bulbs.
 
@@ -445,7 +444,7 @@
 
 ### AUGUST
 
-**Galway conditions.** Mean about 15 °C. August can be very wet (Athenry had 276% of its average in August 2019) or dry. Nights lengthen and the soil is still warm, so autumn planting preparation can begin.
+**Galway conditions.** Mean about 15 °C. August can be very wet or quite dry. Nights lengthen and the soil is still warm, so autumn planting preparation can begin.
 
 **Priorities:** (1) the last summer pruning, (2) stopping feeds, (3) harvesting, and (4) planting autumn-flowering bulbs.
 
@@ -555,7 +554,7 @@
 
 ### OCTOBER
 
-**Galway conditions.** Mean about 11 °C, with frequent rain, gales and falling leaves. Inland, the first air frost can arrive this month, while coastal gardens usually stay frost-free until December. This is the key month for **bringing tender plants in** and for planting the last bulbs.
+**Galway conditions.** Mean about 11 °C, with frequent rain, gales and falling leaves. Coastal areas such as Galway city have historically stayed generally frost-free until December, though a clear, still night can bring an early frost †. This is the key month for **bringing tender plants in** and for planting the last bulbs.
 
 **Priorities:** (1) rescue tender plants before the first frost, (2) plant alliums and garlic, (3) lift tender bulbs, and (4) mulch and tidy.
 
@@ -687,9 +686,9 @@
 
 ---
 
-## 6. At-a-glance tables
+## 5. At-a-glance tables
 
-### 6.1 Feeding calendar (from the guide)
+### 5.1 Feeding calendar (from the guide)
 
 | Month | What to feed |
 |---|---|
@@ -702,7 +701,7 @@
 | **August** | Blackcurrant (F4) and Sweet and Sour Cherry (F26, F24): feed after harvest. **Stop** by the end of the month: Roses, Clematis, Kiwi, Hosta, Hydrangea. Ericaceous feeds end (April–August). |
 | **September–January** | No feeding. Apply mulches instead: compost on daffodil drifts, manure or compost on rhubarb and fruit bushes, leaf mould on woodland bulbs. |
 
-### 6.2 Pruning calendar
+### 5.2 Pruning calendar
 
 | Month | Prune |
 |---|---|
@@ -718,7 +717,7 @@
 | **Oct** | Asparagus ferns, Hops †, Fig (remove larger fruit) † |
 | **Nov–Dec** | Apple †, Pear, Hardy Grapes †, currants †, climbing roses † |
 
-### 6.3 Bulb planting guide (from the guide)
+### 5.3 Bulb planting guide (from the guide)
 
 | Bulb | When | Depth |
 |---|---|---|
@@ -746,7 +745,7 @@
 | Iron Cross (B15) | April to May | 5 cm |
 | Dwarf Sword Lily (B9), Pineapple Lily (B21) | Spring, after frost | 10–16 cm, 10–15 cm |
 
-### 6.4 Annual flowers at a glance
+### 5.4 Annual flowers at a glance
 
 | Group | Plants | How and when |
 |---|---|---|
@@ -755,15 +754,159 @@
 | **Sow direct after frost risk** | Cosmos (A6), Nasturtiums (H20) | Late April to May. |
 | **Climber** | Sweet Peas (A19) | Spring, or autumn under cover for stronger plants. |
 
+### 5.5 Low-maintenance, specimen and specialist plants
+
+These plants need little seasonal work, so they do not have their own entries in the monthly plan. Their routine care, taken from the guide, is collected here. "Spring" means March to April in Galway †. Plant in early autumn or spring †, unless stated.
+
+**Trees, conifers and shrubs**
+
+| Plant | Routine care |
+|---|---|
+| Bald Cypress (T1) | Tolerates wet, poorly drained clay. No feeding once established. Large, long-lived and slow-growing. |
+| Douglas Fir (T9) | Mix clay 50/50 with compost and grit. Balanced slow-release feed in spring while young. A tree for a large garden. Dwarf and compact cultivars suit a city plot. |
+| English Oak (T12) | No soil amendment and no feeding once established. Needs room, well away from buildings and drains. |
+| Horse Chestnut (T19) | No feeding once established. Large garden only. Leaf miner and bleeding canker can shorten the leaf display. |
+| Japanese Cedar (T23) | A site sheltered from strong wind is essential. Clay 50/50 with compost and about 20% grit. Slow-release feed in early spring. Keep evenly moist while young. Unsuited to exposed coastal sites, so dwarf cultivars are the better choice there. |
+| Korean Fir (T27) | Shelter and gritty, compost-enriched soil. Slow-release feed in spring while young. Dislikes unamended heavy clay. |
+| Monkey Puzzle Tree (T31) | Wide planting hole, generous compost and grit, and no later root disturbance. Balanced feed in spring for the first few years only. Tolerates coastal salt spray and cold to about −20 °C. |
+| Scots Pine (T35) | About 30% grit in the clay and full sun. No feeding once established. |
+| False Spiraea (T13) | Balanced feed in spring and an annual compost mulch. Remove unwanted suckers. |
+| Shrubby Cinquefoil (T37) | Very tolerant of clay and coastal wind. A light balanced feed in spring on a poor site is enough. |
+| Smooth Sumac (T38) | No feeding, because feeding encourages suckers. Remove suckers regularly. |
+| St John's Wort 'Rowallane' (T39) | Balanced feed in spring and an annual compost mulch. No feeding late in the season. A warm wall suits it better than an open border. |
+| Tarentum Myrtle (T40) | Clay with 25–30% grit. Balanced feed in spring. Borderline hardy: a container that can be moved under cover for winter, or the most sheltered south-facing wall. |
+
+**Climbers, fruit and herbs**
+
+| Plant | Routine care |
+|---|---|
+| Necklace Vine (C12) | Grit on waterlogged clay. Little feeding. Tolerates salt-laden wind. Its spread needs occasional control. |
+| Tufted Vetch (C14) | Sow seed 1–2 cm deep in spring, or plant at pot level. No feeding, as it fixes its own nitrogen. Suits a wildflower area rather than a formal border. |
+| Green Strawberry (F10) | Raised bed 20–25 cm high with compost and grit. Crown exactly at soil level. Balanced granular feed in early spring (March). Tomato feed fortnightly from first flowers until fruiting ends. |
+| Comfrey (H6) | No feeding and no special soil. Plant only where its vigour is welcome. The leaves are traditionally used to make "comfrey tea" fertiliser. |
+
+**Groundcover and rockery**
+
+| Plant | Routine care |
+|---|---|
+| Blue Star Creeper (G2) | Humus-rich, gritty mix. Light balanced feed in spring if growth is weak. A well-drained spot avoids winter rot. |
+| Creeping Jenny (G3) | Moisture-retentive soil. No feeding. Invasive in a border, so best in containers or a contained bog bed. |
+| Himalayan Bistort (G7) | Very clay-tolerant. Little feeding once established. Good for a difficult bank. |
+| Irish Moss (G9) | Compost and grit. Little feeding. Tolerates light foot traffic. |
+| Jenny's Stonecrop (G10) | 30–40% grit, raised bed or gritty border edge. No feeding, as feeding gives lax, less colourful growth. |
+| Mondo Grass (Ophiopogon, G12) | Compost-enriched clay. Light balanced feed in spring. |
+| Periwinkle (G13) | Even unamended clay is usually tolerated. An annual bark mulch matters more than feeding. Spacing 30–45 cm for ground cover. |
+| Reindeer Lichen (G16) | Never planted into amended clay and never fed, since feeding kills lichens. Best treated as a feature to preserve where already present. |
+| Wall Pennywort (G21) | Wall crevice or dry-stone gap with a little compost. No feeding. |
+
+**Perennials and wildflowers**
+
+| Plant | Routine care |
+|---|---|
+| Balloon Flower (P3) | 25–30% grit. Light balanced feed in spring. Slow to emerge, so its position needs marking. Leave undisturbed. |
+| Blue Gentian (P5) | Raised bed or rockery. Light balanced or ericaceous feed in spring and an annual compost or leaf mould mulch. |
+| Cutleaf Coneflower 'Goldball' (P10) | Compost 50/50 with clay. Well-rotted manure or compost mulch each spring, and no nitrogen-rich feed. Divide regularly to stop it spreading. |
+| Edelweiss (P13) | 30–40% grit in a raised bed, trough or rockery. Very little feeding. |
+| Fern-leaf Peony (P15) | 20–30% grit. Crown no more than 2–3 cm below the surface. Balanced feed in spring and a light high-potash feed as buds form (May). |
+| Lady's Bedstraw (P21) | Lean soil. No feeding. Suits a meadow area or dry, sunny bank. |
+| Lilyleaf Ladybells (P23) | Clay 50/50 with compost. Light balanced feed in spring and an annual compost mulch. Leave undisturbed. |
+| Perennial Flax (P32) | Grit for drainage. Light balanced feed in spring. Rich soil shortens its life. |
+| Pheasant's Eye (P33) | Compost and grit. Light balanced feed in spring and an annual compost mulch. Slow to establish and resents disturbance. |
+| Slender Vervain (P38) | Compost and grit. Little feeding. Sunny, well-drained spot. |
+| Sneezewort 'The Pearl' (P40) and Yarrow (P44) | Loosen soil to 30–40 cm and add 15–20% grit. A thin layer of compost each spring is enough. Over-feeding makes stems floppy. |
+| Toadflax (P43) | No feeding. Spreads by rhizomes and seed, so it suits a wildflower area or informal bank. |
+
+**Shade and woodland**
+
+| Plant | Routine care |
+|---|---|
+| Auricula (S2) | Raised bed, trough or pot. Balanced liquid feed monthly through the growing season, none in winter. Divide congested clumps every 2–3 years after flowering. |
+| Common Dog Violet (S3) | Minimal care. No feeding. Self-seeds gently. |
+| Cowslip (S5) | Compost and a little grit. Little feeding. Divide congested clumps every 2–3 years after flowering. |
+| Dusky Cranesbill (S6) | Compost-enriched clay. Little feeding once established. |
+| Native Irish Ferns (S14) and Non-Native Ornamental Ferns (S16) | Generous compost, with extra moisture retention for Royal, Lady and Ostrich Ferns. Light balanced feed in spring or an annual compost top-dressing. Bark mulch around the base. |
+| Wood Sorrel (S25) | Leaf mould or compost. No feeding. Suits deep shade. |
+
+**Pond, bog and carnivorous plants**
+
+| Plant | Routine care |
+|---|---|
+| Astilbe (W2) | Generous compost. Balanced feed in spring. Compost or bark mulch is the key task, and the plant must not dry out. |
+| Bog Asphodel (W3) | No compost, no fertiliser. Permanently wet, acid, nutrient-poor ground. |
+| Common Butterwort (W6) and Round-leaved Sundew (W21) | Boggy container or bed of sphagnum moss, peat-free ericaceous compost and sharp sand. No fertiliser. Sundew needs rainwater, not tap water. |
+| Greater Bladderwort (W12) | Free-floating and rootless. No planting and no feeding. |
+| Watershield (W30) and Yellow Water Lily (W32) | Aquatic compost in a planting basket. Aquatic fertiliser tablets at the start of the growing season (April). Yellow Water Lily suits only large ponds. |
+| Willow Moss (W31) | Tie or wedge onto a stone or log and submerge. No feeding. |
+
 ---
 
-## 7. Materials by season (using what the guide lists)
+## 6. Materials by season
 
-| Material | When it matters most |
+Materials fall into three groups. The first group is the materials listed in the guide. The second is materials that the guide's plant cards mention but its materials list omits. The third is materials the guide does not mention at all (marked †). Timings follow the monthly plan.
+
+### 6.1 Materials listed in the guide
+
+| Material | Use and when it matters most |
 |---|---|
-| **Horticultural grit** | Autumn and spring planting (20–30% into the clay mix). Spring top-dressing for pasqueflower, houseleek, lewisia and thyme. Lily beds in September. |
-| **Ericaceous compost** | Spring: top-dress blueberry (fresh compost each spring), and pot up cranberry, lingonberry, camellia and skimmia. |
-| **Horticultural bark** | April mulching (5–7 cm). Autumn top-up. Pine bark for lingonberry and heathers. |
-| **Perlite and pebbles** | Spring repotting and pot drainage (10–20% perlite; pebbles at the base). Autumn: re-check that pots drain freely before winter. |
-| **Vermiculite** | Seed sowing, February to May. |
-| **Multipurpose compost** | Planting-hole mix (50/50 with clay) in autumn and spring. Mulches in autumn. |
+| **Clay soil** | The base for all in-ground planting. Work it only when a handful crumbles. Never dig or walk on saturated clay. Mix 50/50 with multipurpose compost and 20–30% grit at every autumn and spring planting. |
+| **Horticultural grit** | Autumn and spring planting (20–30% into the clay mix). Spring top-dressing for pasqueflower, houseleek, lewisia and thyme. Lily beds in September (bulbs set on grit). Up to 30–40% for alpines such as Edelweiss (P13) and Jenny's Stonecrop (G10). |
+| **Ericaceous compost** | Spring: top-dress blueberry (fresh compost each spring), and pot up cranberry, lingonberry, camellia and skimmia. Also used in the bog mix for butterwort and sundew (W6, W21). |
+| **Horticultural bark** | April mulching (5–7 cm), clear of stems and crowns. Autumn top-up. Pine bark for lingonberry and heathers. Also an annual mulch for periwinkle (G13), ferns (S14, S16) and Astilbe (W2). |
+| **Small pebbles** | Drainage layer at the base of pots (spring repotting, and a check in autumn that pots drain freely). Decorative surface mulch for Mediterranean herbs and rock plants. |
+| **Perlite** | Spring repotting: 10–20% in potting mixes for rosemary, lavender, blueberry, acidanthera and herbs. |
+| **Vermiculite** | Seed sowing, February to May, and moisture retention in potting compost. |
+| **Multipurpose compost** | Planting-hole mix (50/50 with clay) in autumn and spring. Mulches in autumn. Potting up in spring. |
+
+### 6.2 Materials named in the plant cards but not in the guide's materials list
+
+| Material | Use | When | Plants and notes |
+|---|---|---|---|
+| **Well-rotted manure** (or garden compost) | Mulch and soil conditioner | Autumn to winter, and again in spring | Rhubarb (F21, autumn after the leaves die back), Blackcurrant (F4, each winter), Roses (T36, C6), Hops (C9), Honeysuckle (C4), Asparagus (H1), Garlic (H13) and Peas (H24) beds, Cutleaf Coneflower (P10) and Yarrow (P44, spring). Kept clear of stems. Not for lean-soil plants such as Jenny's Stonecrop (G10), Lady's Bedstraw (P21), Edelweiss (P13) and Bog Asphodel (W3). |
+| **Leaf mould** | Moisture-retentive mulch and soil improver for woodland plants | Autumn mulch; top-dress through winter | Snowdrops (B25), Cyclamen coum (B27), Bluebells (B19), Erythronium (B10), Yellow Star-of-Bethlehem (B30), Anemone (B3), Woodland Strawberry (F27), Wood Sorrel (S25), Blue Gentian (P5). Autumn leaves bagged or stacked in a bin take about one to two years to rot down †. |
+| **Sharp sand** | Drainage bed beneath bulbs; bog-garden mix | April to May for bulbs; spring for bog beds | Acidanthera (B1, bulbs set on a bed of sharp sand) and Dwarf Sword Lily (B9). Mixed with sphagnum moss and ericaceous compost for Butterwort and Sundew (W6, W21). |
+| **Rainwater** (water butt) | Watering and pond top-ups | All year, especially summer | Sundew (W21) needs rainwater, not tap water. Rainwater is also preferred for the pond and for acid-lovers such as blueberry †. |
+| **Sphagnum moss** (and peat-free ericaceous compost) | Bog and carnivorous-plant substrate | Spring | Butterwort and Sundew (W6, W21). |
+| **Horticultural fleece** | Frost protection | Wrap tree ferns in hard frost (December to February). Cover Peach blossom in March and April. Keep to hand until late May for half-hardy annuals and tender plants †. | Tree ferns (the guide names fleece or straw for S23 and S18; S20 † as well), Peach (F15, blossom). Almond (F1) blossom and other borderline plants †. |
+| **Straw** | Winter wrap and mulch | December to February | Tree fern crowns (S23, S18; S20 †). Dry thick mulch over borderline plants left in the ground (B21, B2, B23, P1, P41, B9). |
+| **Netting** | Bird protection | From fruit set to harvest (May to August) | Sweet Cherry (F26, the guide names netting for ripening fruit). Also useful on Sour Cherry (F24), currants and blueberries †. |
+| **Root barrier** (paving slabs, buried bottomless container) | Containment | At planting | Mint and Peppermint (H19, H25), which are invasive spreaders, and Fig (F7), where restricted roots are essential for fruiting. |
+| **Canes, wires, trellis and twiggy sticks** | Support | Put in before growth starts (March to April) | Sweet Peas (A19), Blackberry (F3) and Raspberry (F19) on support wires, Common Jasmine (C7) on a sturdy trellis or wires, tall Peas (H24) on twiggy sticks. Wisteria (C16) and Climbing Honeysuckle (C4) also need a strong support †. |
+| **Crocks** (broken pot) | Keep pot drainage holes clear | At potting | Plum 'Aprimira' in pots (F17), and any pot with a large drainage hole. |
+| **Feeds the guide names** | See section 5.1 for timings | February to August | Balanced fruit-tree fertiliser (F2, F8, F15, F16, F1), sulphate of potash (F20, F9), conifer feed (G11, T10), rose fertiliser (T36, C6), Growmore (C4), tomato feed (the guide's standard high-potash feed), ericaceous liquid feed (F5, F6, F13), slow-release balanced feed for young conifers (T9, T23, T27), cow manure pellets or potash-rich granular feed (F17), aquatic fertiliser tablets (W26, W30, W32). |
+| **Aquatic compost and planting baskets** | Planting pond plants | From late April | Water lilies (W26), Watershield (W30), Yellow Water Lily (W32) and marginals in baskets. |
+| **Green manure seed** | Soil improvement | Sown spring to summer | Lacy Phacelia (A10) can be dug in as a green manure. |
+
+### 6.3 Other materials worth keeping (not in the guide) †
+
+| Material | Use | When | Notes |
+|---|---|---|---|
+| **John Innes composts** | Loam-based potting compost for long-term containers. No. 1 for seedlings and cuttings, No. 2 for general potting, No. 3 for mature shrubs and trees in pots. Also sold as John Innes ericaceous. | Spring repotting | The weight steadies tall pots in wind. Suits container Olive (F14), Pomegranate (F18), Fig (F7), Japanese Maple (T25), Camellia (T22) and Plum 'Aprimira' (F17). Grit or perlite is still added for drainage. |
+| **Seed compost, seed trays, modules and labels** | Sowing under cover | February to May | Half-hardy annuals (section 5.4), tomatoes (H23), courgettes (H33), cucumbers (H9). Used with vermiculite. |
+| **Propagator, cloches and cold frame** | Warmth and shelter for early sowings, hardening off and overwintering | February to May; autumn for cuttings and tender pots | Half-hardy annuals, Sweet Peas (A19), tender herbs. |
+| **Tree stakes and rubber tree ties** | Permanent staking | At planting; check ties each winter | Dwarf-rootstock Apple (F2), Plum (F8) and Pear (F16), and young trees such as Black Locust (T4). The guide requires staking but does not name materials. Ties are loosened as the trunk thickens. |
+| **Slug and snail controls** | Protect soft growth | Mid-March to October | Ferric phosphate pellets, biological nematode control (applied to warm, moist soil, following the supplier's minimum soil temperature), copper tape on pots, and evening hand-picking. For Hostas (S11), Lupins (P26), Delphiniums (P12) and seedlings. |
+| **Plant supports** (pea sticks, peony rings, linking stakes) | Hold tall perennials upright | Put in place in April to May, before growth is tall | Delphiniums (P12), Peonies (P31), Lupins (P26) and other tall perennials in Atlantic wind. |
+| **Pot feet, hessian and bubble wrap** | Keep pots out of standing water and insulate roots | Pot feet all year. Wrap from November | Container Olive (F14), Pomegranate (F18), Plum 'Aprimira' (F17) and other borderline potted plants. |
+| **Pea gravel or washed gravel** | Top layer on aquatic compost | At planting | Keeps compost in the baskets and limits disturbance by fish. |
+| **Pond net** | Catch autumn leaves | October to November | Keeps decaying leaves out of the pond. Fitted over a small pond before leaf fall. |
+| **Soil pH test kit** | Check acidity | Autumn before planting; each spring for acid-lovers | The guide says to test pH before planting. A kit or meter is the simple way. |
+| **Secateurs, loppers, pruning saw and gloves** | Pruning and handling | As in the monthly plan | Clean sharp tools make clean cuts. Gloves are needed for the toxic and thorny plants listed in section 3. |
+
+### 6.4 What to have in stock, month by month
+
+| Month | Have ready |
+|---|---|
+| **January** | Fleece, straw and hessian for protection. Pot feet. Seed compost, vermiculite and tubers on order. |
+| **February** | Seed compost, vermiculite, trays and a propagator. Balanced fruit-tree fertiliser, sulphate of potash and conifer feed. Grit. |
+| **March** | Rose fertiliser and balanced feeds (Growmore). Fleece for blossom. Slug controls. Canes and supports. Manure or compost for spring mulching. |
+| **April** | Bark for mulching. Ericaceous compost and ericaceous feed. Tomato feed. Aquatic compost, baskets and fertiliser tablets. Sharp sand for Acidanthera. Potting compost, perlite and pebbles. |
+| **May** | High-potash tomato feed. Ties and supports. Fleece for late frost. Potting compost for planting out half-hardy annuals. |
+| **June** | Weekly tomato feed. Ties. Netting for cherries and fruit bushes. Mulch to hold moisture. |
+| **July** | Netting. Potash feed for Plum 'Aprimira'. Rainwater stored for pots. |
+| **August** | Grit and sharp sand for bulb planting (Cyclamen coum, Colchicum, autumn Crocus). Containers for leaf mould. |
+| **September** | Bulbs. Grit for lily beds. Manure or compost for mulching. Pond net. |
+| **October** | Leaf mould bins filled. Garden compost or manure mulch. Bark top-up. Fleece and straw ready. |
+| **November** | Tulip bulbs. Mulch for borderline plants. Stakes and ties checked. Pot feet and wrap for pots. |
+| **December** | Fleece, straw and hessian in place. Seed and tuber orders. |
+
+---
