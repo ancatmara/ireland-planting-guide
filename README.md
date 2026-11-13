@@ -5682,6 +5682,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 📷 **Reference photo:** [Auricula — view source](https://en.wikipedia.org/wiki/Primula_auricula)
 
+**Related:** see S5 Cowslip and S17 Primulas.
+
 **Light:** 🌥️ Partial shade; protect from strong midday sun.
 
 **Height/Spread:** 15–20cm tall, 20–25cm spread.
@@ -5762,6 +5764,8 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ***Irish / Russian:*** *Bainne bó bleachtáin · Первоцвет весенний*
 
 📷 **Reference photo:** [Cowslip — view source](https://en.wikipedia.org/wiki/Primula_veris)
+
+**Related:** see S2 Auricula and S17 Primulas.
 
 **Light:** 🌥️ Partial shade; tolerates full sun in the cooler, moister west of Ireland climate.
 
@@ -6126,6 +6130,10 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ***Irish / Russian:*** *Sabhaircín · Первоцвет*
 
 📷 **Reference photos:** [Primroses](https://en.wikipedia.org/wiki/Primula_vulgaris) · [Drumstick Primula](https://en.wikipedia.org/wiki/Primula_denticulata) · [Candelabra Primula](https://en.wikipedia.org/wiki/Primula_japonica) · [Primrose (Garden Hybrids)](https://www.rhs.org.uk/plants/13901/primula-vulgaris/details)
+
+**Related:** see S2 Auricula and S5 Cowslip.
+
+**Scope:** This card covers the moisture-loving primulas (primroses, garden hybrids, drumstick and candelabra). Auricula and cowslip have their own cards because they need drier, more alkaline, better-drained conditions.
 
 | Species | Latin name | Height | Flowering | Planting depth | Notes |
 |---|---|---|---|---|---|
