@@ -88,7 +88,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Other tender summer bedding and container plants with similar sun/acid-soil needs.
 
-**West of Ireland:** RHS AGM (species). A bushy evergreen sub-shrub from Chile/Argentina, grown for its clusters of bright yellow, slipper-shaped flowers through spring and summer. Borderline hardy — needs a sheltered, frost-free spot, or treat as summer bedding/container plant lifted or replaced each year in most of Ireland.
+**West of Ireland:** RHS AGM (species). A bushy evergreen sub-shrub from Chile/Argentina, grown for its clusters of bright yellow, slipper-shaped flowers through spring and summer. Borderline hardy — needs a sheltered, frost-free spot, or treat as summer bedding/container plant lifted or replaced each year in most of Ireland. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so assume it will not survive outdoors and bring it under cover or replace it each year.
 
 ---
 
@@ -359,25 +359,25 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ***Russian:*** *Шалфей мучнистый*
 
-📷 **Reference photo:** [Rosemary — view source](https://en.wikipedia.org/wiki/Salvia_rosmarinus)
+📷 **Reference photo:** [Salvia farinacea — view on Wikipedia](https://en.wikipedia.org/wiki/Salvia_farinacea)
 
-**Light:** ☀️ Full sun essential — at least 6 hours daily. Poor, leggy growth and reduced flavour in shade.
+**Light:** ☀️ Full sun essential.
 
-**Height/Spread:** 1–1.5m tall, 1–1.5m spread.
+**Height/Spread:** 45–60cm tall, 25–30cm spread.
 
-**Soil needs:** Free-draining, poor to moderately fertile soil; pH 6.0–7.5. Excellent drainage is essential — rosemary is Mediterranean in origin and will not tolerate sitting in wet clay, especially over winter.
+**Soil needs:** Free-draining, moderately fertile soil; pH 5.5–7.5. Dislikes cold, wet ground.
 
-**Soil prep:** Mix clay generously with 30%+ horticultural grit, or plant on a raised mound/bed. Add a layer of grit or pebbles as surface mulch to keep the crown dry.
+**Soil prep:** Mix clay with compost and grit for drainage; a raised bed or container gives the best results on wet clay.
 
-**Planting depth:** At pot level; do not bury the woody base.
+**Planting depth:** Sow under cover in spring, plant out after frost risk has passed, at pot level.
 
-**Spacing:** 45–60cm between plants
+**Spacing:** 25–30cm between plants.
 
-**Fertiliser:** Very little required — rich soil produces soft, less aromatic growth. A light balanced feed in spring is sufficient. Container plants: occasional liquid feed through summer.
+**Fertiliser:** Balanced liquid feed monthly through the growing season; avoid overfeeding, which gives leafy growth at the expense of flowers.
 
-**Companions:** Classic companion for brassicas (deters cabbage moth), carrots and beans in the vegetable garden; also thyme, lavender and other Mediterranean herbs with the same sun/drainage needs.
+**Companions:** Zinnias, cosmos and gomphrena — sunny cutting-garden annuals that enjoy the same warm, sheltered position.
 
-**West of Ireland:** One of the herbs most likely to struggle on wet west of Ireland clay in winter — a raised bed, gritty mound, or a large terracotta container that can be given a sheltered spot is strongly recommended over open ground. Trim lightly after flowering to keep compact; avoid cutting into old bare wood.
+**West of Ireland:** A tender perennial from Texas and Mexico, grown in Ireland as a half-hardy annual, with upright spikes of violet-blue flowers from summer into autumn. It will not survive a west of Ireland winter outdoors on wet clay, so sow or buy fresh plants each spring and give them a warm, sheltered, sunny spot or a 10–15L container. The flowers cut well and dry reasonably. Deadhead regularly for continued flowering, and allow good airflow in the region's damp climate.
 
 ---
 
@@ -669,7 +669,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Pot/container:** ✅ Grows very well in a large container, which also makes winter protection straightforward on wet clay.
 
-**West of Ireland:** A striking South African bulb with tall stems topped by rounded clusters of blue or white trumpet flowers in mid-to-late summer. Borderline hardy — reliable outdoors in mild, sheltered coastal gardens with sharp drainage, or grown in a container that can be given winter protection elsewhere.
+**West of Ireland:** A striking South African bulb with tall stems topped by rounded clusters of blue or white trumpet flowers in mid-to-late summer. Borderline hardy — reliable outdoors in mild, sheltered coastal gardens with sharp drainage, or grown in a container that can be given winter protection elsewhere. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so unless your garden is very sheltered, grow it in a container and move it under cover for winter.
 
 ---
 
@@ -755,7 +755,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Freesia and other South African corms with similar sun and drainage needs.
 
-**West of Ireland:** Borderline hardy (RHS H3) — in most of the west of Ireland best grown in pots that can be given a sheltered, dry position over winter, or lifted after the foliage dies down in autumn and stored dry and frost-free like gladioli, replanting the following spring. Wiry stems of star-shaped flowers in early summer.
+**West of Ireland:** Borderline hardy (RHS H3) — in most of the west of Ireland best grown in pots that can be given a sheltered, dry position over winter, or lifted after the foliage dies down in autumn and stored dry and frost-free like gladioli, replanting the following spring. Wiry stems of star-shaped flowers in early summer. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so do not leave the corms outdoors over winter: lift and store them, or keep the pots under cover.
 
 ---
 
@@ -1201,7 +1201,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Pot/container:** ✅ Grows very well in a large container, which makes lifting for winter storage in colder areas straightforward.
 
-**West of Ireland:** A dramatic, exotic-looking bulb from South Africa with rosettes of strap-shaped leaves and tall, densely packed flower spikes topped with a tuft of leafy bracts (resembling a pineapple, hence the name), in white, green, pink or maroon depending on species/cultivar, from mid-to-late summer. Borderline hardy (RHS H3–H4 depending on species) — in most of the west of Ireland, mulch the dormant bulb thickly over winter if left in the ground, or lift and store dry and frost-free, similar to a dahlia tuber; a large container that can be moved to a sheltered spot for winter is the most reliable approach on wet clay.
+**West of Ireland:** A dramatic, exotic-looking bulb from South Africa with rosettes of strap-shaped leaves and tall, densely packed flower spikes topped with a tuft of leafy bracts (resembling a pineapple, hence the name), in white, green, pink or maroon depending on species/cultivar, from mid-to-late summer. Borderline hardy (RHS H3–H4 depending on species) — in most of the west of Ireland, mulch the dormant bulb thickly over winter if left in the ground, or lift and store dry and frost-free, similar to a dahlia tuber; a large container that can be moved to a sheltered spot for winter is the most reliable approach on wet clay. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so a container moved under cover, or bulbs lifted and stored, is safer than leaving them in the ground under mulch.
 
 ---
 
@@ -2344,7 +2344,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Pot/container:** ✅ Strongly recommended in this climate — growing in a large container allows the plant to be moved to a sheltered spot, porch or unheated glasshouse during the coldest, wettest spells of winter, which it tolerates far better than being left out in waterlogged ground.
 
-**West of Ireland:** Borderline hardy (RHS H4, roughly to -5°C, though damage typically comes from wet cold rather than dry cold) — reliably surviving outdoors only in the very mildest, most sheltered coastal west of Ireland gardens, and even then rarely ripening a useful crop of fruit given the lack of sustained summer heat. Best treated as a handsome, silvery-leaved evergreen container specimen for its foliage and gnarled form, with any olives a curiosity rather than a realistic harvest. Winter wet, far more than winter cold, is what usually kills an olive in this climate — sharp drainage is essential.
+**West of Ireland:** Borderline hardy (RHS H4, roughly to -5°C, though damage typically comes from wet cold rather than dry cold) — reliably surviving outdoors only in the very mildest, most sheltered coastal west of Ireland gardens, and even then rarely ripening a useful crop of fruit given the lack of sustained summer heat. Best treated as a handsome, silvery-leaved evergreen container specimen for its foliage and gnarled form, with any olives a curiosity rather than a realistic harvest. Winter wet, far more than winter cold, is what usually kills an olive in this climate — sharp drainage is essential. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so unless your garden is very sheltered, grow it in a container and move it under cover for winter.
 
 ---
 
@@ -2450,7 +2450,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Chives and garlic at the base help deter aphids. In a container, underplant with low, shallow-rooted plants only, to avoid competing with the tree's roots.
 
-**Pruning:** Prune only in summer, during or just after flowering — never in winter, when open wounds on stone fruit are vulnerable to silver leaf disease. Prune lightly each February to maintain shape while flower buds are visible, working around them where possible.
+**Pruning:** Prune only in summer, during or just after flowering — never in winter, when open wounds on stone fruit are vulnerable to silver leaf disease. Keep pruning light, just enough to maintain shape.
 
 **Pot/container:** ✅ Bred and sold as a compact standard specifically for patio pots and small gardens; in winter, move container-grown plants to a cool, sheltered spot (a shed or a wall-sheltered corner) and wrap the pot in jute sacking or fleece to protect the roots from hard frost.
 
@@ -2481,7 +2481,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Other wall-trained sun-lovers such as passiflora or grapevine on the same warm wall.
 
-**West of Ireland:** Borderline hardy (RHS H4, roughly to −5 to −10°C) — reliable fruiting in the west of Ireland's cooler, shorter summers is uncertain, and pomegranate is best treated primarily as an ornamental flowering wall shrub here, grown against a warm wall or in a large container that can be moved under cover in winter, with any fruit a bonus rather than a certainty.
+**West of Ireland:** Borderline hardy (RHS H4, roughly to −5 to −10°C) — reliable fruiting in the west of Ireland's cooler, shorter summers is uncertain, and pomegranate is best treated primarily as an ornamental flowering wall shrub here, grown against a warm wall or in a large container that can be moved under cover in winter, with any fruit a bonus rather than a certainty. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so a large container moved under cover is safer than a wall position outdoors.
 
 ---
 
@@ -3182,7 +3182,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Sempervivum, saxifrage and other sharply-drained rockery succulents.
 
-**West of Ireland:** A South African succulent groundcover with fleshy, bristly, cucumber-like leaves and bright yellow daisy flowers in summer. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in a very sheltered, sharply drained west of Ireland spot, or best grown in a pot that can be moved under cover for winter given the region's wet conditions.
+**West of Ireland:** A South African succulent groundcover with fleshy, bristly, cucumber-like leaves and bright yellow daisy flowers in summer. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in a very sheltered, sharply drained west of Ireland spot, or best grown in a pot that can be moved under cover for winter given the region's wet conditions. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so grow it in a pot and move it under cover for winter.
 
 ---
 
@@ -3874,7 +3874,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Pot/container:** ✅ Essential in this climate. Move outdoors to a warm, sheltered, sunny spot only once frost risk has passed; bring under cover — a bright, frost-free spot such as a porch, conservatory or unheated greenhouse — before the first autumn frosts, keeping it on the dry side over winter, since it is naturally deciduous and drops its leaves.
 
-**West of Ireland:** A tender, deciduous, intensely lemon-scented shrub from South America, popular for herbal tea and flavouring. Borderline hardy at best (RHS H2–H3) — it will not reliably survive an Irish winter outdoors, even in the mildest coastal areas, so treat it as a container plant that summers outside and overwinters somewhere frost-free and on the dry side, since wet, cold roots are what usually kill it rather than cold air alone.
+**West of Ireland:** A tender, deciduous, intensely lemon-scented shrub from South America, popular for herbal tea and flavouring. Borderline hardy at best (RHS H2–H3) — it will not reliably survive an Irish winter outdoors, even in the mildest coastal areas, so treat it as a container plant that summers outside and overwinters somewhere frost-free and on the dry side, since wet, cold roots are what usually kill it rather than cold air alone. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so there is no safe outdoor option: always overwinter it under cover.
 
 ---
 
@@ -5557,7 +5557,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Pot/container:** ✅ Grows very well in a container, which also makes winter protection straightforward.
 
-**West of Ireland:** An evergreen, clump-forming, garlic-scented perennial from South Africa with grey-green strappy leaves and clusters of star-shaped lilac flowers held on tall stems through summer into autumn. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in the mildest, most sheltered coastal west of Ireland gardens; elsewhere, best grown in a container that can be moved to a frost-free spot for winter, or given a thick dry mulch if left in the ground.
+**West of Ireland:** An evergreen, clump-forming, garlic-scented perennial from South Africa with grey-green strappy leaves and clusters of star-shaped lilac flowers held on tall stems through summer into autumn. Borderline hardy (RHS H3, roughly to -5°C) — reliable outdoors only in the mildest, most sheltered coastal west of Ireland gardens; elsewhere, best grown in a container that can be moved to a frost-free spot for winter, or given a thick dry mulch if left in the ground. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so a container moved to a frost-free spot is safer than relying on a thick dry mulch alone.
 
 ---
 
@@ -5761,25 +5761,25 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ***Irish / Russian:*** *Bainne bó bleachtáin · Первоцвет весенний*
 
-📷 **Reference photo:** [Auricula — view source](https://en.wikipedia.org/wiki/Primula_auricula)
+📷 **Reference photo:** [Cowslip — view source](https://en.wikipedia.org/wiki/Primula_veris)
 
-**Light:** 🌥️ Partial shade; protect from strong midday sun.
+**Light:** 🌥️ Partial shade; tolerates full sun in the cooler, moister west of Ireland climate.
 
-**Height/Spread:** 15–20cm tall, 20–25cm spread.
+**Height/Spread:** 15–25cm tall, 20–30cm spread.
 
-**Soil needs:** Free-draining, humus-rich soil; neutral to slightly alkaline, pH 6.5–7.5.
+**Soil needs:** Moist but well-drained soil, including clay that does not stay waterlogged; neutral to slightly alkaline, pH 6.5–7.5.
 
-**Soil prep:** Improve clay generously with grit and compost; best in a raised bed, trough or pot given its need for sharp drainage.
+**Soil prep:** Mix clay with compost and a little grit so winter water drains away. As a native grassland and hedgerow plant, cowslip does not need the sharp drainage or raised trough that its alpine relative, auricula (S2), requires.
 
-**Planting depth:** Crown at soil level; do not bury.
+**Planting depth:** Crown just above soil level; do not bury.
 
-**Spacing:** 15–20cm between plants
+**Spacing:** 20–30cm between plants.
 
-**Fertiliser:** Balanced liquid feed monthly through the growing season, stopping in winter.
+**Fertiliser:** Little needed; rich, heavily fed soil favours leafy growth over flowers.
 
-**Companions:** Other alpine/trough plants such as saxifrage and sempervivum; traditionally displayed in individual pots on a shelf ("auricula theatre").
+**Companions:** Primroses, wood anemones and native bluebells — a natural partner in a native spring planting.
 
-**West of Ireland:** Alpine primula relative, best grown in pots or a raised trough rather than open clay, since winter wet is the main threat. Divide congested clumps every 2–3 years after flowering.
+**West of Ireland:** A native Irish wildflower of grassland and hedge banks, with nodding clusters of fragrant yellow flowers on short stems in spring. Much tougher than the auricula, it copes with reasonably drained clay in a border or at a sunny woodland edge, and also grows well in a 10–15L container; avoid spots where water stands in winter. Self-seeds gently. Divide congested clumps every 2–3 years after flowering.
 
 ---
 
@@ -6125,33 +6125,34 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ***Irish / Russian:*** *Sabhaircín · Первоцвет*
 
-📷 **Reference photos:** [Primroses](https://en.wikipedia.org/wiki/Primula_vulgaris) · [Drumstick Primula](https://en.wikipedia.org/wiki/Primula_denticulata) · [Candelabra Primula](https://en.wikipedia.org/wiki/Primula_japonica)
+📷 **Reference photos:** [Primroses](https://en.wikipedia.org/wiki/Primula_vulgaris) · [Drumstick Primula](https://en.wikipedia.org/wiki/Primula_denticulata) · [Candelabra Primula](https://en.wikipedia.org/wiki/Primula_japonica) · [Primrose (Garden Hybrids)](https://www.rhs.org.uk/plants/13901/primula-vulgaris/details)
 
 | Species | Latin name | Height | Flowering | Planting depth | Notes |
 |---|---|---|---|---|---|
 | Candelabra Primula | *P. japonica* | 30–60cm | Late spring–early summer | Crown at soil level | Tiered whorls of flowers in pink, red, purple or white; RHS AGM cultivars available; wants genuinely wet, pond-margin-type conditions; self-seeds into colonies |
 | Drumstick Primula | *P. denticulata* | 20–45cm | Mid-spring–early summer (April–June) | Crown at soil level | Spherical "drumstick" flowerheads in purple, lilac, pink, blue or white; RHS AGM; native to Himalayan/Chinese alpine meadows |
 | Primroses | *P. vulgaris* | 10–15cm | Late winter–spring | Crown at soil level | Native Irish wildflower; pale yellow flowers; self-seeds gently to form drifts |
+| Primrose (Garden Hybrids) | *P. acaulis* | 10–20cm | Late winter–mid-spring | Crown at soil level | Bedding and garden hybrids of the common primrose; one flower per short stem (unlike polyanthus, which carry clusters on a taller stem), in a wide colour range and often scented; evergreen to semi-evergreen; named cultivars typically hardy to RHS H5 |
 
-**Light:** 🌥️ Partial shade for all three; Primroses tolerate more sun in the cooler, moister west of Ireland climate than in drier regions, while Candelabra Primula actually prefers a degree of shade — full sun can drain its flower colour.
+**Light:** 🌥️ Partial shade for all four; Primroses and the garden hybrids tolerate more sun in the cooler, moister west of Ireland climate than in drier regions, while Candelabra Primula actually prefers a degree of shade — full sun can drain its flower colour.
 
 **Height/Spread:** 10–60cm tall depending on species (see table), 20–40cm spread.
 
-**Soil needs:** Moist, humus-rich soil for all three; pH 5.5–7.0. Primroses and Drumstick Primula tolerate clay well provided it is not permanently waterlogged. Candelabra Primula is the most water-demanding of the three, genuinely wanting the reliably wet, pond-margin-type conditions of a bog garden — this is closer to a marginal water plant than a normal border perennial.
+**Soil needs:** Moist, humus-rich soil for all four; pH 5.5–7.0. Primroses and Drumstick Primula tolerate clay well provided it is not permanently waterlogged; garden hybrid primroses like the same cool, damp soil and, where happy, form large clumps. Candelabra Primula is the most water-demanding of the four, genuinely wanting the reliably wet, pond-margin-type conditions of a bog garden — this is closer to a marginal water plant than a normal border perennial.
 
-**Soil prep:** Mix clay with compost/leaf mould for Primroses and Drumstick Primula. For Candelabra Primula, dig in generous compost or leaf mould at a genuinely damp or pond-edge site rather than trying to improve a dry border to suit it.
+**Soil prep:** Mix clay with compost/leaf mould for Primroses (including the garden hybrids) and Drumstick Primula. For Candelabra Primula, dig in generous compost or leaf mould at a genuinely damp or pond-edge site rather than trying to improve a dry border to suit it.
 
-**Planting depth:** Crown at soil level for all three.
+**Planting depth:** Crown at soil level for all four.
 
-**Spacing:** Candelabra Primula: 30–40cm between plants. Drumstick Primula: 20–30cm between plants. Primroses: 20–25cm between plants.
+**Spacing:** Candelabra Primula: 30–40cm between plants. Drumstick Primula: 20–30cm between plants. Primroses: 20–25cm between plants. Primrose (Garden Hybrids): 20–25cm between plants, as for Primroses.
 
-**Fertiliser:** Light balanced feed in spring for all three. Annual leaf mould/compost mulch.
+**Fertiliser:** Light balanced feed in spring for all four. Annual leaf mould/compost mulch.
 
-**Companions:** Bluebells, wood anemones, violets, ferns — classic native woodland-floor and hedge-bank planting for Primroses. Drumstick Primula combines well with other spring bulbs and moisture-loving woodland-edge perennials. Candelabra Primula belongs at the pond edge alongside astilbe, rodgersia, and other bog-garden perennials.
+**Companions:** Bluebells, wood anemones, violets, ferns — classic native woodland-floor and hedge-bank planting for Primroses. Drumstick Primula combines well with other spring bulbs and moisture-loving woodland-edge perennials. Candelabra Primula belongs at the pond edge alongside astilbe, rodgersia, and other bog-garden perennials. Garden hybrid primroses suit spring bulbs, pots, window boxes and mixed spring bedding.
 
 **Warnings ⚠️:** Drumstick Primula's leaves and stems can cause mild skin irritation in sensitive individuals — wear gloves if handling a lot of foliage.
 
-**West of Ireland:** Primroses are one of Ireland's most familiar native spring wildflowers, found throughout hedge banks and woodland, easy and long-lived. Drumstick Primula is not native but thrives in the same cool, consistently moist Atlantic climate that suits its Himalayan origins, self-sowing readily once established to form good-sized colonies — best given reliably moist soil rather than a border that dries out in summer. Candelabra Primula is best reserved for a genuine pond margin or bog bed here; given that moisture, it self-seeds generously into striking tiered colonies.
+**West of Ireland:** Primroses are one of Ireland's most familiar native spring wildflowers, found throughout hedge banks and woodland, easy and long-lived. Drumstick Primula is not native but thrives in the same cool, consistently moist Atlantic climate that suits its Himalayan origins, self-sowing readily once established to form good-sized colonies — best given reliably moist soil rather than a border that dries out in summer. Candelabra Primula is best reserved for a genuine pond margin or bog bed here; given that moisture, it self-seeds generously into striking tiered colonies. Garden primrose hybrids (sold under an older botanical name for the common primrose) bring larger flowers in a wide colour range from late winter. They suit cool, partly shaded beds, pots and window boxes; the RHS notes they are often grown as biennials for bedding, but where they are happy they form large clumps that can be divided after flowering or in autumn. Like other primulas they are prone to slugs and vine weevil, so check pots and the base of plants.
 
 ---
 
@@ -6234,7 +6235,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Warnings ⚠️:** Less cold-hardy than Dicksonia antarctica — needs a very sheltered spot and crown protection in hard frost.
 
-**West of Ireland:** New Zealand's iconic silver fern, named for the distinctive white-silvery underside of its fronds (the emblem on the All Blacks jersey). Borderline hardy at best in Ireland — reliable only in the mildest, most sheltered coastal gardens with winter crown protection; a real specialist's choice compared with the tougher Tasmanian Tree Fern.
+**West of Ireland:** New Zealand's iconic silver fern, named for the distinctive white-silvery underside of its fronds (the emblem on the All Blacks jersey). Borderline hardy at best in Ireland — reliable only in the mildest, most sheltered coastal gardens with winter crown protection; a real specialist's choice compared with the tougher Tasmanian Tree Fern. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so give it the most sheltered position available, wrap the crown thoroughly every winter, and accept that it may not survive a hard one.
 
 ---
 
@@ -6316,7 +6317,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Hostas, ferns, hellebores, snowdrops — classic damp, shaded woodland-garden planting.
 
-**West of Ireland:** RHS hardiness H4–H5 (borderline, roughly to −5°C, less with protection); the mild, humid west of Ireland climate suits it well in a sheltered spot, but in harder winters wrap the crown with fleece or straw. Water the crown regularly in the growing season — this is the single most common cause of failure when it is allowed to dry out.
+**West of Ireland:** RHS hardiness H4–H5 (borderline, roughly to −5°C, less with protection); the mild, humid west of Ireland climate suits it well in a sheltered spot, but in harder winters wrap the crown with fleece or straw. Water the crown regularly in the growing season — this is the single most common cause of failure when it is allowed to dry out. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so wrap the crown with fleece or straw every winter, not only in harder ones.
 
 ---
 
@@ -6816,7 +6817,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Rosemary, lavender and other Mediterranean-style plants sharing its need for sun and sharp drainage.
 
-**West of Ireland:** A fast-growing evergreen with feathery, purple-flushed young foliage (ageing to blue-grey) and masses of fragrant yellow, mimosa-type flowers in late winter. Borderline hardy (RHS H3, roughly to -5°C) — reliably survives only in the mildest, most sheltered coastal west of Ireland gardens; elsewhere, best grown in a large container that can be moved under cover for winter.
+**West of Ireland:** A fast-growing evergreen with feathery, purple-flushed young foliage (ageing to blue-grey) and masses of fragrant yellow, mimosa-type flowers in late winter. Borderline hardy (RHS H3, roughly to -5°C) — reliably survives only in the mildest, most sheltered coastal west of Ireland gardens; elsewhere, best grown in a large container that can be moved under cover for winter. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so unless your garden is very sheltered, grow it in a large container and move it under cover for winter.
 
 ---
 
@@ -6899,14 +6900,19 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ---
 
-### T21. Japanese Barberry *(Berberis thunbergii 'Atropurpurea')*
+### T21. Japanese Barberry *(Berberis thunbergii 'Atropurpurea', 'Atropurpurea Nana')*
 
 
 📷 **Reference photo:** [Berberis thunbergii — view on Wikipedia](https://en.wikipedia.org/wiki/Berberis_thunbergii)
 
+| Variety | Height/Spread | Notes |
+|---|---|---|
+| 'Atropurpurea' | 1–1.2m / 1–1.2m | Rounded to upright shrub with reddish-purple leaves all season; red autumn colour and berries; the standard choice for a hedge or barrier |
+| 'Atropurpurea Nana' | Max 60cm / 75cm | Dwarf, rounded shrub with purple-red leaves, red-tinged pale yellow flowers in March–April and glossy red fruit; full sun or partial shade; hardy; suits low edging, borders and containers |
+
 **Light:** ☀️ Full sun for the best deep purple leaf colour; tolerates partial shade but foliage turns greener.
 
-**Height/Spread:** 1–1.2m tall, 1–1.2m spread.
+**Height/Spread:** 'Atropurpurea': 1–1.2m tall, 1–1.2m spread. 'Atropurpurea Nana': up to 60cm tall, 75cm spread.
 
 **Soil needs:** Any reasonably drained soil, including clay; pH 6.0–7.5. Very adaptable and tolerant of poor soil.
 
@@ -6914,7 +6920,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Planting depth:** At nursery soil mark.
 
-**Spacing:** 60–90cm between plants for a hedge; 1–1.2m as a specimen.
+**Spacing:** 'Atropurpurea': 60–90cm between plants for a hedge; 1–1.2m as a specimen. 'Atropurpurea Nana': roughly 60–75cm apart, in line with its mature size.
 
 **Fertiliser:** None needed once established.
 
@@ -7021,6 +7027,19 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ***Russian:*** *Клён дланевидный*
 
 📷 **Reference photo:** [Japanese Maple — view on Wikipedia](https://en.wikipedia.org/wiki/Acer_palmatum)
+
+| Cultivar | Height/Spread | Notes |
+|---|---|---|
+| 'Atropurpurea' | 4–8m / 4–8m | Bushy; bronze-crimson leaves turning brilliant red in autumn; seed-raised, so plants vary |
+| 'Bloodgood' | 2.5–4m / 2.5–4m | RHS AGM; one of the most widely grown purple-leaved maples |
+| 'Burgundy Lace' | 2.5–4m / 2.5–4m | RHS AGM; red-purple, deeply cut leaves |
+| 'Inaba-shidare' | 1.5–2.5m / 1.5–2.5m | RHS AGM; compact, weeping dissected form with red-purple foliage; suited to containers |
+| 'Katsura' | 2.5–4m / 2.5–4m | RHS AGM; spring foliage orange-yellow, later green, then orange-yellow in autumn |
+| 'Meigetsu' | About 2–3m after 10 years | Strictly *Acer japonicum* (downy Japanese maple), not *A. palmatum*; upright, strong grower; red, orange and yellow autumn colour |
+| 'Orange Dream' | 2.5–4m / 2.5–4m | RHS AGM; bright yellow-green spring leaves with orange tints, golden in autumn |
+| 'Phoenix' | to ~5m / 2.5–4m | Leaves emerge pink with yellow-green veins, then yellow, then shiny green; orange, red and yellow in autumn; columnar upright and spreading; best colour in partial shade |
+| 'Sango-kaku' | 4–8m / 2.5–4m | RHS AGM; coral-bark maple, young stems bright coral-red in winter; yellow autumn leaves |
+| 'Seiryu' | 2.5–4m / 2.5–4m | RHS AGM; light green, deeply cut leaves on a broadly columnar, upright form; orange, yellow and red autumn colour |
 
 **Light:** 🌥️ Partial shade preferred. Morning sun with afternoon shade is ideal. Variegated and dissectum types especially wind-sensitive. Avoid open exposed positions.
 
@@ -7463,7 +7482,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Heathers, skimmia and other evergreen structure shrubs; also pairs well with roses and late perennials for a long season of interest.
 
-**West of Ireland:** Large, showy golden-yellow flowers from midsummer into autumn. Semi-evergreen to evergreen in mild areas. Site against a warm wall or in a sheltered border, away from the coldest exposure.
+**West of Ireland:** Large, showy golden-yellow flowers from midsummer into autumn. Semi-evergreen to evergreen in mild areas. Site against a warm wall or in a sheltered border, away from the coldest exposure. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so choose a warm wall over an open border.
 
 ---
 
@@ -7492,7 +7511,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Lavender, rosemary — classic Mediterranean-style border companions.
 
-**West of Ireland:** A compact, aromatic evergreen shrub with small glossy leaves and fragrant white flowers in summer followed by white berries — a more compact, smaller-leaved form than common myrtle. Borderline hardy — best given a warm, sheltered spot such as a south-facing wall in the west of Ireland, with sharp drainage.
+**West of Ireland:** A compact, aromatic evergreen shrub with small glossy leaves and fragrant white flowers in summer followed by white berries — a more compact, smaller-leaved form than common myrtle. Borderline hardy — best given a warm, sheltered spot such as a south-facing wall in the west of Ireland, with sharp drainage. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so grow it in a container that can be moved under cover for winter, or choose the most sheltered south-facing wall available.
 
 ---
 
@@ -7501,6 +7520,14 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 ***Russian:*** *Гамамелис*
 
 📷 **Reference photo:** [Hamamelis — view on Wikipedia](https://en.wikipedia.org/wiki/Hamamelis)
+
+| Cultivar | Flower colour | Notes |
+|---|---|---|
+| 'Arnold Promise' (*H.* × *intermedia*) | Bright yellow | RHS AGM; fragrant; flowers late winter; 2.5–4m / 2.5–4m |
+| 'Barmstedt Gold' (*H.* × *intermedia*) | Large, deep golden-yellow | RHS AGM; fragrant; flowers late winter to early spring; 2.5–4m / 2.5–4m |
+| 'Diane' (*H.* × *intermedia*) | Deep orange-red | RHS AGM; fragrant; mid to late winter; leaves turn red and yellow in autumn; 2.5–4m / 2.5–4m |
+| 'Magic Fire' (*H.* × *intermedia* 'Feuerzauber') | Bright coppery orange suffused with red | Faint but sweet scent; midwinter to late winter; full sun or partial shade; hardy (H5); up to 3.5m |
+| 'Wisley Supreme' (*H. mollis*) | Golden-yellow | RHS AGM; fragrant; mid to late winter; 2.5–4m / 2.5–4m |
 
 **Light:** ☀️ Full sun to 🌥️ light shade, in an open but sheltered site.
 
@@ -8103,7 +8130,7 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 **Companions:** Best given its own container/basket as an architectural pond-margin feature.
 
-**West of Ireland:** A striking marginal plant with tufted, umbrella-like whorls of narrow leaf-like bracts atop tall stems. Borderline hardy — reliable outdoors only in the mildest, most sheltered spots; more commonly grown as a container plant that can be moved under cover for winter, or treated as a seasonal pond-edge feature.
+**West of Ireland:** A striking marginal plant with tufted, umbrella-like whorls of narrow leaf-like bracts atop tall stems. Borderline hardy — reliable outdoors only in the mildest, most sheltered spots; more commonly grown as a container plant that can be moved under cover for winter, or treated as a seasonal pond-edge feature. Galway city is milder than inland Co. Galway, but a cold snap such as January 2025 (Met Éireann Status Orange low-temperature warnings covered Galway) can still reach borderline plants, so treat it as a container plant and move it under cover each winter.
 
 ---
 
@@ -8394,209 +8421,212 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 
 ## COMPLETE REFERENCE TABLE
 
-| # | English Name | Latin Name | Light | Height | Planting Depth | Spacing | pH | In Pot? | Cutflowers | Key Companions | Russian Name | Irish Name |
+*Code = the plant's section code in the headings above (for example A1 or B28). Where one section covers several species or cultivars, their rows share that section's code.*
+
+| Code | English Name | Latin Name | Light | Height | Planting Depth | Spacing | pH | In Pot? | Cutflowers | Key Companions | Russian Name | Irish Name |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | B1 | Acidanthera (Abyssinian Gladiolus) | *Gladiolus murielae* | ☀️ | 70–100cm | 10–16cm on bed of sharp sand; spring | 15–20cm between corms | 6.0–7.0 | ✅ 30cm / 15L+ | Good | Salvias, gladioli, dahlias, ornamental grasses | Шпажник Мюриэл | — |
 | G1 | Adriatic Bellflower | *Campanula garganica* | ☀️ to 🌥️ | Up to 10cm | At pot level | 15–20cm between plants | 6.0–7.0 | ✅ 10–15L container | No | Sempervivum, saxifrage, dianthus pinks | — | — |
 | B2 | African Lily | *Agapanthus africanus* | ☀️ | 60–90cm | Rhizome just below soil / at pot level; spring | 40–60cm between plants; tender, overwinter under cover | 5.5–6.5 | ✅ Large 40–50L container, movable | Good | Ornamental grasses, rudbeckias | Агапантус африканский | — |
 | F1 | Almond | *Prunus dulcis* | ☀️ | 4–6m | At nursery soil mark; graft above soil | 4–6m free-standing; 4–5m fan-trained | 6.0–7.5 | ⚠️ Large container | No | Chives, garlic; spring bulbs | — | — |
-| C19 | Alpine Clematis | *Clematis alpina* | 🌤️ (roots shaded) | 2–3m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
-| G2 | Alpine Tree Heath | *Erica arborea var. alpina* | ☀️ | 1–2m | At pot level | 1–1.5m between plants; hardier var. *alpina* available | 5.0–6.5 | ⚠️ Large 40–50L container | No | Blueberry, lingonberry, ornamental grasses | — | — |
+| C3 | Alpine Clematis | *Clematis alpina* | 🌤️ (roots shaded) | 2–3m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
+| G6 | Alpine Tree Heath | *Erica arborea var. alpina* | ☀️ | 1–2m | At pot level | 1–1.5m between plants; hardier var. *alpina* available | 5.0–6.5 | ⚠️ Large 40–50L container | No | Blueberry, lingonberry, ornamental grasses | — | — |
 | P1 | Alstroemeria | *Alstroemeria spp.* | ☀️ to 🌤️ | 60–90cm | 15–20cm deep (tubers) | 30–45cm between plants | 6.0–7.0 | ✅ 15–20L container | Good, classic cut flower | Roses, geraniums, salvias | — | — |
-| C18 | Anemone Clematis | *Clematis montana* | 🌤️ (roots shaded) | 8–10m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
+| C3 | Anemone Clematis | *Clematis montana* | 🌤️ (roots shaded) | 8–10m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
 | F2 | Apple | *Malus domestica* | ☀️ | 1.2m–4.5m+ | Graft union at/above soil | Depends on rootstock; cvs. 'Baya Marisa', Cox's Orange Pippin, White Transparent, 'Granny Smith', Antonovka, Grushovka Moskovskaya | 6.0–7.0 | ⚠️ Half-barrel (50L+) on dwarfing rootstock | No | Chives, garlic, nasturtiums | Яблоня домашняя | Crann úll |
-| C17 | Armand Clematis | *Clematis armandii* | ☀️ | 5–9m | At pot level (evergreen type) | 5–9m between plants against support | 6.5–7.5 | ✅ Large container against support | No | Climbing roses, honeysuckle | — | — |
+| C3 | Armand Clematis | *Clematis armandii* | ☀️ | 5–9m | At pot level (evergreen type) | 5–9m between plants against support | 6.5–7.5 | ✅ Large container against support | No | Climbing roses, honeysuckle | — | — |
 | W1 | Arrowhead | *Sagittaria sagittifolia* | ☀️ to 🌤️ | 30–90cm | Crown at soil surface; up to 20cm water above | 30–45cm between plants | 6.0–7.5 | ✅ Aquatic basket or pond-bottom mud | No | Yellow flag iris, bogbean, flowering rush | — | — |
 | S1 | Asian Bleeding Heart | *Lamprocapnos spectabilis, syn. Dicentra spectabilis* | 🌥️ | 60–90cm | Crown at/just below soil level | 45–60cm between plants; dislikes disturbance | 6.0–7.5 | ✅ 30–40L container | Good | Ferns, hostas, hellebores, primroses | Дицентра великолепная | — |
 | H1 | Asparagus | *Asparagus officinalis* | ☀️ | 1–1.5m | Crowns 20cm deep, ridged in trench | 30–45cm between crowns; 90cm–1.5m between rows | 6.5–7.5 | ⚠️ Very large 50L+ container, raised bed better | No | Basil, parsley, tomatoes, calendula | Спаржа лекарственная | Asparagas |
 | W2 | Astilbe | *Astilbe spp.* | 🌥️ | 40–90cm | At pot level; crown at surface | 30–45cm between plants | 5.5–7.0 | ✅ 40–50cm / 30L+ | Good, dries well | Hostas, ferns, hellebores, primulas | Астильба | — |
 | S2 | Auricula | *Primula auricula* | 🌥️ | 15–20cm | Crown at soil level | 15–20cm between plants | 6.5–7.5 | ✅ 3–5L pot/trough | No | Saxifrage, sempervivum, other alpines | Первоцвет ушковый | Lus na mbanríon |
-| B3 | Autumn Crocus (Bieberstein's) | *Crocus speciosus* | ☀️ to 🌤️ | 10–15cm | 8–10cm deep; plant August | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Autumn-flowering companions | — | — |
+| B6 | Autumn Crocus (Bieberstein's) | *Crocus speciosus* | ☀️ to 🌤️ | 10–15cm | 8–10cm deep; plant August | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Autumn-flowering companions | — | — |
 | P2 | Avens | *Geum spp.* | ☀️ to 🌥️ | 45–60cm | Crown at soil level | 30–45cm between plants; divide every 3–4 yrs | 5.5–7.0 | ✅ 15–20L container | Good | Roses, hardy geraniums, alliums | Гравилат | — |
-| T2 | Bald Cypress | *Taxodium distichum* | ☀️ to 🌤️ | 15–25m | At nursery soil mark | 4–6m from structures; tolerates wet clay better than most trees in this guide | 5.5–7.5 | ⚠️ Large 80–100L container (young plants only) | No | Astilbe, ferns, yellow flag iris; moisture-lovers | Таксодиум двурядный | — |
-| B4 | Balkan Anemone | *Anemone blanda* | 🌥️ | 10–15cm | 5–8cm deep; autumn | 10cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ | No | Snowdrops, bluebells, wood anemone | — | — |
+| T1 | Bald Cypress | *Taxodium distichum* | ☀️ to 🌤️ | 15–25m | At nursery soil mark | 4–6m from structures; tolerates wet clay better than most trees in this guide | 5.5–7.5 | ⚠️ Large 80–100L container (young plants only) | No | Astilbe, ferns, yellow flag iris; moisture-lovers | Таксодиум двурядный | — |
+| B3 | Balkan Anemone | *Anemone blanda* | 🌥️ | 10–15cm | 5–8cm deep; autumn | 10cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ | No | Snowdrops, bluebells, wood anemone | — | — |
 | P3 | Balloon Flower | *Platycodon grandiflorus* | ☀️ to 🌥️ | 40–60cm | Crown at soil level | 30–60cm between plants; dislikes disturbance | 5.6–7.3 | ✅ 20–25L container | Good | Astilbe, campanula, heuchera, hosta | Ширококолокольчик крупноцветковый | — |
-| T3 | Balsam Fir | *Abies balsamea* | ☀️ to 🌥️ | 15–20m | At nursery soil mark | 4–6m; dwarf cultivars much closer | 5.0–6.5 | ⚠️ Large container for dwarf cultivars | No | Ferns, hostas | — | — |
-| T4 | Bamboo | *clump-forming: Fargesia spp., Chusquea spp.* | 🌤️ | 2–5m | At pot level | 1.5–3m from structures; root barrier for running types | 5.5–7.0 | ⚠️ Very large tub (100L+) | No | Ferns, hostas, astilbe | Бамбук | — |
+| T2 | Balsam Fir | *Abies balsamea* | ☀️ to 🌥️ | 15–20m | At nursery soil mark | 4–6m; dwarf cultivars much closer | 5.0–6.5 | ⚠️ Large container for dwarf cultivars | No | Ferns, hostas | — | — |
+| T3 | Bamboo | *clump-forming: Fargesia spp., Chusquea spp.* | 🌤️ | 2–5m | At pot level | 1.5–3m from structures; root barrier for running types | 5.5–7.0 | ⚠️ Very large tub (100L+) | No | Ferns, hostas, astilbe | Бамбук | — |
 | H2 | Basil | *Ocimum basilicum* | ☀️ | 30–60cm | At pot level (after frost) | 20–25cm between plants; tender, grow sheltered | 6.0–7.5 | ✅ 10–15L container, best under cover | No | Tomatoes, peppers | Базилик душистый | Basal |
-| P48 | Bearded Iris (Border Iris) | *Iris germanica* | ☀️ | 60–90cm | Rhizome at/just above soil surface | 30–45cm between rhizomes; divide every 3–4 yrs | 6.5–7.5 | ⚠️ Wide shallow container, 30L+ | Good | Roses, peonies, alliums | Ирис германский | — |
-| G3 | Bell Heather | *Erica cinerea* | ☀️ | 15–50cm | At pot level | 30–45cm between plants | 4.5–6.5 | ✅ 20–25cm / 5–10L ericaceous compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
-| B5 | Black Garlic | *Allium nigrum* | ☀️ | 60–90cm | 15cm deep (2–3× bulb depth); autumn | 20–25cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container | No | Roses, peonies, ornamental grasses | — | — |
-| T5 | Black Locust | *Robinia pseudoacacia* | ☀️ | 10–15m | At nursery soil mark | 6–8m between plants | 6.0–7.5 | ⚠️ Large container for young trees | No | Shade-tolerant bulbs and perennials | — | — |
-| G4 | Black Mondo Grass | *Ophiopogon planiscapus* | ☀️ to 🌥️ | 15–20cm | At pot level | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Sedum 'Angelina', golden sedges | — | — |
+| P19 | Bearded Iris (Border Iris) | *Iris germanica* | ☀️ | 60–90cm | Rhizome at/just above soil surface | 30–45cm between rhizomes; divide every 3–4 yrs | 6.5–7.5 | ⚠️ Wide shallow container, 30L+ | Good | Roses, peonies, alliums | Ирис германский | — |
+| G6 | Bell Heather | *Erica cinerea* | ☀️ | 15–50cm | At pot level | 30–45cm between plants | 4.5–6.5 | ✅ 20–25cm / 5–10L ericaceous compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
+| B20 | Black Garlic | *Allium nigrum* | ☀️ | 60–90cm | 15cm deep (2–3× bulb depth); autumn | 20–25cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container | No | Roses, peonies, ornamental grasses | — | — |
+| T4 | Black Locust | *Robinia pseudoacacia* | ☀️ | 10–15m | At nursery soil mark | 6–8m between plants | 6.0–7.5 | ⚠️ Large container for young trees | No | Shade-tolerant bulbs and perennials | — | — |
+| G12 | Black Mondo Grass | *Ophiopogon planiscapus* | ☀️ to 🌥️ | 15–20cm | At pot level | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Sedum 'Angelina', golden sedges | — | — |
 | F3 | Blackberries | *Rubus fruticosus agg.* | ☀️ to 🌤️ | 1.8–3m | At nursery soil mark | 2–3m between plants against wires | 5.5–7.0 | ⚠️ 40–50L container against support | No | Raspberries, other cane fruit | Ежевика кустистая | Sméara dubha |
 | F4 | Blackcurrant | *Ribes nigrum* | 🌤️ | 1.2–1.5m | 5–7cm deeper than nursery mark | 1.2–1.5m between plants | 6.0–7.0 | ⚠️ 30L+ large pot | No | Alliums, garlic, nasturtiums, redcurrant | Смородина чёрная | Cuiríní dubha |
-| P50 | Blue Fescue | *Festuca glauca* | ☀️ | 20–30cm | At pot level | 25–35cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Sedum, echinacea, rudbeckia | — | — |
+| P28 | Blue Fescue | *Festuca glauca* | ☀️ | 20–30cm | At pot level | 25–35cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Sedum, echinacea, rudbeckia | — | — |
 | P5 | Blue Gentian | *Gentiana spp., e.g. G. acaulis, G. sino-ornata* | ☀️ to 🌥️ | 10–15cm | Crown at soil level | 20–30cm between plants | 5.5–6.5 | ✅ 10–15L container | No | Heather, dwarf conifers, saxifrage | Горечавка | — |
 | C1 | Blue Passion Flower | *Passiflora caerulea* | ☀️ | 3–4m | At nursery soil mark | 2–3m between plants against wall/fence | 6.0–7.5 | ⚠️ 40–50L container against support | Good, short vase life | Climbing roses, clematis, honeysuckle | Страстоцвет голубой | Lus na páise |
-| G5 | Blue Star Creeper | *Isotoma fluviatilis* (syn. *Laurentia fluviatilis*, *Pratia pedunculata*) | ☀️ to 🌥️ | 2–5cm | At pot level | 20–30cm between plants; spreads by runners | 6.0–7.5 | ✅ 10–15L container | No | Thyme, saxifrage, other paving/rockery plants | — | — |
+| G2 | Blue Star Creeper | *Isotoma fluviatilis* (syn. *Laurentia fluviatilis*, *Pratia pedunculata*) | ☀️ to 🌥️ | 2–5cm | At pot level | 20–30cm between plants; spreads by runners | 6.0–7.5 | ✅ 10–15L container | No | Thyme, saxifrage, other paving/rockery plants | — | — |
 | F5 | Blueberry | *Vaccinium corymbosum* | 🌤️ | 1–1.8m | At pot level | 1 plant per pot; 60cm between pots | 4.0–5.5 | ✅ Essential: 40–60cm / 30–50L+ | No | Heather, lingonberry (same ericaceous trough) | Голубика высокорослая | — |
 | W3 | Bog Asphodel | *Narthecium ossifragum* | ☀️ | 15–45cm | Crown at soil surface, permanently wet | 20–30cm between plants; needs permanently wet acid soil | 4.5–6.0 | ⚠️ Bog garden/boggy pot only | No | Bogbean, bog pimpernel | Нартециум костоломный | Sciollam na móna |
 | W4 | Bog Pimpernel | *Anagallis tenella* | ☀️ | 5–10cm | Crown at soil surface; bog margin to waterline | 30–40cm apart; spreads as carpet | 5.0–6.5 | ✅ Small shallow container at margin | No | Bogbean, yellow flag iris, water mint | Анагаллис нежный | Falcaire corraigh |
 | W5 | Bogbean (Buckbean) | *Menyanthes trifoliata* | ☀️ | 15–30cm | Roots + 5cm stem in soil; 5–25cm water above | 60cm between plants; spreads indefinitely without basket | 5.0–7.5 | ✅ 19–24cm+ aquatic basket | No | White water lily, yellow flag iris, bog pimpernel | Вахта трёхлистная | Báchrán |
-| W36 | Bohemian/Shining Water Lily | *Nymphaea candida* | ☀️ | Leaves float; flowers just above surface | Crown just below basket surface; 20–50cm water above | 50cm spread; ideal for small ponds | 6.5–7.5 (water) | ✅ Small 2L basket; ideal for tubs | No | Bogbean, yellow flag iris, oxygenating plants | — | — |
+| W26 | Bohemian/Shining Water Lily | *Nymphaea candida* | ☀️ | Leaves float; flowers just above surface | Crown just below basket surface; 20–50cm water above | 50cm spread; ideal for small ponds | 6.5–7.5 (water) | ✅ Small 2L basket; ideal for tubs | No | Bogbean, yellow flag iris, oxygenating plants | — | — |
 | A1 | Borage | *Borago officinalis* | ☀️ | 60–90cm | 1cm deep (seed) | 45–60cm between plants; annual, self-seeds freely | 6.0–7.0 | ✅ 20–30L container | No | Strawberries, tomatoes, squash, cucumbers | Бурачник лекарственный | Borráiste gorm |
-| T6 | Border Forsythia | *Forsythia × intermedia* | 🌤️ | 2–3m | At pot level | 1.5m between; 2m from walls | 6.0–8.0 | ❌ Too large | Good, forced branches | Spring tulips, Vinca, holly backdrop | Форзиция средняя | — |
+| T5 | Border Forsythia | *Forsythia × intermedia* | 🌤️ | 2–3m | At pot level | 1.5m between; 2m from walls | 6.0–8.0 | ❌ Too large | Good, forced branches | Spring tulips, Vinca, holly backdrop | Форзиция средняя | — |
 | P6 | Border Sedum (Stonecrop) | *Hylotelephium spectabile* | ☀️ | 45–60cm | At pot level | 30–45cm between plants | 6.0–6.5 | ✅ 15–20L container | Good, dries well | Ornamental grasses, asters, late perennials | Очитник видный | — |
-| S3 | Broad Buckler Fern | *Dryopteris dilatata* | 🌥️ to 🌑 | 60–100cm | At pot level; crown at/just below surface | 60cm between plants | 5.5–7.0 | ✅ 40–50cm / 25–30L | No | Hostas, astilbe, hellebores, bamboo | — | — |
+| S14 | Broad Buckler Fern | *Dryopteris dilatata* | 🌥️ to 🌑 | 60–100cm | At pot level; crown at/just below surface | 60cm between plants | 5.5–7.0 | ✅ 40–50cm / 25–30L | No | Hostas, astilbe, hellebores, bamboo | — | — |
 | A2 | Bush Slipperwort | *Calceolaria integrifolia* | ☀️ to 🌥️ | 20–30cm | At pot level | 15–20cm between plants; sheltered, frost-free spot only | 5.0–6.5 | ✅ 5–10L container | No | Fuchsias, other tender summer bedding | Кальцеолярия | — |
 | A3 | California Poppy | *Eschscholzia californica* | ☀️ | 30–45cm | Surface-sown (seed) | 15–23cm between plants; annual, self-seeds | 6.5–7.5 | ✅ 5L+ container | No | Cornflower, love-in-a-mist, lavender | Эшшольция калифорнийская | — |
-| B6 | Camassia | *Camassia spp.* | ☀️ to 🌥️ | 60–100cm | 10–15cm deep; autumn | 15–20cm between bulbs; dislikes disturbance | 6.0–7.0 | ⚠️ Large 20L+ container (short-term only) | Good | Solomon's Seal, Asian Bleeding Heart, later perennials | Камассия | — |
-| S4 | Candelabra Primula | *Primula japonica* | 🌥️ | 30–60cm | Crown at soil level | 30–40cm between plants | 5.5–7.0 | ⚠️ Large container, keep very moist | No | Astilbe, rodgersia, bog-garden perennials | — | — |
-| B7 | Candia Tulip | *Tulipa saxatilis* | ☀️ | 15–20cm | 10–12cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, dwarf iris, sempervivum | — | — |
+| B4 | Camassia | *Camassia spp.* | ☀️ to 🌥️ | 60–100cm | 10–15cm deep; autumn | 15–20cm between bulbs; dislikes disturbance | 6.0–7.0 | ⚠️ Large 20L+ container (short-term only) | Good | Solomon's Seal, Asian Bleeding Heart, later perennials | Камассия | — |
+| S17 | Candelabra Primula | *Primula japonica* | 🌥️ | 30–60cm | Crown at soil level | 30–40cm between plants | 5.5–7.0 | ⚠️ Large container, keep very moist | No | Astilbe, rodgersia, bog-garden perennials | — | — |
+| B28 | Candia Tulip | *Tulipa saxatilis* | ☀️ | 15–20cm | 10–12cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, dwarf iris, sempervivum | — | — |
 | G6 | Cape Heath | *Erica gracilis* | ☀️ to 🌥️ | 30–50cm | At pot level | 30–40cm between plants | 5.0–6.0 | ✅ 10–15L container | Good | Other autumn-bedding/container plants sharing its acid, sheltered needs | — | — |
-| P59 | Carnation (Border Carnation) | *Dianthus caryophyllus* | ☀️ | 45–60cm | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ 20–25cm / 10L+ | Good | Roses, stocks, alliums, lavender | — | — |
-| G7 | Carpathian Bellflower | *Campanula carpatica* | ☀️ to 🌥️ | 15–25cm | At pot level | 25–35cm between plants | 6.0–7.0 | ✅ 15–20L container | No | Sempervivum, saxifrage, dianthus pinks | Колокольчик карпатский | — |
+| P35 | Carnation (Border Carnation) | *Dianthus caryophyllus* | ☀️ | 45–60cm | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ 20–25cm / 10L+ | Good | Roses, stocks, alliums, lavender | — | — |
+| G1 | Carpathian Bellflower | *Campanula carpatica* | ☀️ to 🌥️ | 15–25cm | At pot level | 25–35cm between plants | 6.0–7.0 | ✅ 15–20L container | No | Sempervivum, saxifrage, dianthus pinks | Колокольчик карпатский | — |
 | H3 | Catnip | *Nepeta cataria* | ☀️ to 🌤️ | 60–90cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Brassicas, roses | Котовник кошачий | — |
 | H4 | Chamomile | *Chamaemelum nobile, Roman; Matricaria chamomilla, German* | ☀️ to 🌥️ | 15–30cm | Crown at soil level (Roman) / surface-sown (German) | 20–30cm between plants | 5.6–7.8 | ✅ 10–15L container | Good | Brassicas, onions, other Mediterranean herbs | Ромашка римская | Camán meall |
-| B8 | Checkered Lily (Snake's Head Fritillary) | *Fritillaria meleagris* | 🌤️ | 20–30cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container | Good | Snowdrops, daffodils, damp border/pond-margin planting | Рябчик шахматный | — |
+| B12 | Checkered Lily (Snake's Head Fritillary) | *Fritillaria meleagris* | 🌤️ | 20–30cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container | Good | Snowdrops, daffodils, damp border/pond-margin planting | Рябчик шахматный | — |
 | P7 | Chilean Avens | *Geum chiloense* | ☀️ to 🌤️ | 45–60cm | Crown at soil level | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container | Good | Alliums, irises, roses, hardy geraniums | — | — |
 | P100 | Chinese Lantern | *Physalis alkekengi* | ☀️ to 🌤️ | 45–60cm | Crown at soil level; sunken container or root barrier | 60–90cm between plants | 6.0–7.5 | ⚠️ Large sunken pot essential | Good, dries well | Best given its own contained space | — | — |
-| P60 | Chinese Pink | *Dianthus chinensis* | ☀️ | 6–9m | 3mm deep (seed) / at pot level | 15–20cm between plants; grow as annual/biennial | 6.5–7.5 | ✅ 5L+ container | Good | Cornflower, love-in-a-mist | Гвоздика китайская | — |
+| P35 | Chinese Pink | *Dianthus chinensis* | ☀️ | 6–9m | 3mm deep (seed) / at pot level | 15–20cm between plants; grow as annual/biennial | 6.5–7.5 | ✅ 5L+ container | Good | Cornflower, love-in-a-mist | Гвоздика китайская | — |
 | H5 | Chives | *Allium schoenoprasum* | ☀️ to 🌤️ | 25–30cm | At pot level / divide clumps | 15–20cm between plants; divide every 2–3 yrs | 6.0–7.0 | ✅ 10–15L container | Good, flowerheads | Carrots, roses, apples | Лук скорода | Síobhas |
 | C2 | Chocolate Vine | *Akebia quinata* | ☀️ to 🌥️ | 3–5m | At nursery soil mark | 3–5m between plants against support | 6.0–7.5 | ⚠️ Large container against sturdy support | No | Best given its own robust structure | — | — |
-| T7 | Cider Gum (Eucalyptus) | *Eucalyptus gunnii* | ☀️ | 10–20m (or 2–4m if coppiced annually) | At pot level | 2–4m between plants if coppiced annually; more if left as a tree | 5.5–7.0 | ✅ 40–60L container | Good, dries well | Ornamental grasses, hardy geraniums | Эвкалипт Ганна | — |
+| T6 | Cider Gum (Eucalyptus) | *Eucalyptus gunnii* | ☀️ | 10–20m (or 2–4m if coppiced annually) | At pot level | 2–4m between plants if coppiced annually; more if left as a tree | 5.5–7.0 | ✅ 40–60L container | Good, dries well | Ornamental grasses, hardy geraniums | Эвкалипт Ганна | — |
 | C4 | Climbing Honeysuckle | *Lonicera periclymenum* | 🌤️ | 4–7m | At pot level | 1.5m between plants | 5.5–8.0 | ⚠️ 30L+ (not ideal, deep roots) | Good, short vase life | Climbing roses, clematis; near windows | Жимолость вьющаяся | Féithleann |
 | C5 | Climbing Hydrangea | *Hydrangea anomala subsp. petiolaris* | 🌑 to 🌤️ | 8–15m | At pot level | 45cm from wall; 60cm+ between plants | 6.0–7.0 | ⚠️ 50L+ (not ideal) | Good, dries well | Ivy, ferns, hostas, shade-tolerant plants | Гортензия черешковая | — |
 | C6 | Climbing Roses | *Rosa, climbing cultivars* | ☀️ | 2–5m | Graft union just below soil | 45cm from wall; 2–3m between plants | 6.0–7.0 | ⚠️ 50L+ large container | Good | Clematis (same wall), lavender, geraniums | Плетистая роза | — |
-| P45 | Clustered Bellflower | *Campanula glomerata* | ☀️ to 🌥️ | 30–60cm | Crown at soil level | 30–40cm between plants; divide every 3–4 yrs | 6.5–7.5 | ✅ 15–20L container | Good | Roses, peonies, ornamental grasses | Колокольчик сборный | — |
+| P4 | Clustered Bellflower | *Campanula glomerata* | ☀️ to 🌥️ | 30–60cm | Crown at soil level | 30–40cm between plants; divide every 3–4 yrs | 6.5–7.5 | ✅ 15–20L container | Good | Roses, peonies, ornamental grasses | Колокольчик сборный | — |
 | A4 | Cockscomb | *Celosia argentea (Cristata & Plumosa Groups)* | ☀️ to 🌤️ | 20–40cm | At pot level; dislikes root disturbance | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container | Good, dries well | Zinnias, gomphrena, marigolds | Целозия серебристая | — |
 | P8 | Columbine | *Aquilegia vulgaris and hybrids* | ☀️ to 🌥️ | 20–50cm | Crown at soil level | 30–45cm between plants; self-seeds freely | 6.0–7.5 | ✅ 15–20L container | Good | Foxgloves, hardy geraniums, roses | Водосбор обыкновенный (аквилегия) | Colaimbín |
 | H6 | Comfrey | *Symphytum officinale* | ☀️ to 🌥️ | 60cm–1.2m | Crown at/just below soil level | 60–90cm between plants; can be invasive | 6.1–7.3 | ⚠️ 30L+ container (vigorous) | No | Fruit trees, vegetable beds (as mulch/liquid feed) | Окопник лекарственный | Compar |
 | W6 | Common Butterwort | *Pinguicula vulgaris* | ☀️ to 🌤️ | 20–50cm | Crown at soil surface, permanently wet | 10–15cm between plants | 4.5–6.0 | ✅ Boggy container | No | Round-leaved sundew, bog asphodel | — | — |
-| S5 | Common Dog Violet | *Viola riviniana* | 🌥️ | 10–15cm | Crown at soil level | 15–20cm between plants | 5.5–7.0 | ✅ 5L+ container | No | Primroses, wood sorrel, ferns | Фиалка Ривинуса | Fanaigse |
-| T8 | Common Hawthorn | *Crataegus monogyna* | ☀️ to 🌤️ | 5–8m | At nursery soil mark | As hedge: 30–45cm; as tree: 4–6m from structures | 5.5–7.5 | ❌ Too large for pots | No | Blackthorn, holly, hazel; primroses, bluebells beneath | Боярышник однопестичный | Sceach Gheal |
-| G8 | Common Heather / Ling | *Calluna vulgaris (syn. Erica vulgaris)* | ☀️ | 20–50cm | At pot level | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | Вереск обыкновенный | Fraoch mór |
+| S3 | Common Dog Violet | *Viola riviniana* | 🌥️ | 10–15cm | Crown at soil level | 15–20cm between plants | 5.5–7.0 | ✅ 5L+ container | No | Primroses, wood sorrel, ferns | Фиалка Ривинуса | Fanaigse |
+| T7 | Common Hawthorn | *Crataegus monogyna* | ☀️ to 🌤️ | 5–8m | At nursery soil mark | As hedge: 30–45cm; as tree: 4–6m from structures | 5.5–7.5 | ❌ Too large for pots | No | Blackthorn, holly, hazel; primroses, bluebells beneath | Боярышник однопестичный | Sceach Gheal |
+| G6 | Common Heather / Ling | *Calluna vulgaris (syn. Erica vulgaris)* | ☀️ | 20–50cm | At pot level | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | Вереск обыкновенный | Fraoch mór |
 | C7 | Common Jasmine | *Jasminum officinale* | ☀️ to 🌤️ | 5–9m | At nursery soil mark | 2–3m between plants against wall/pergola | 6.0–7.5 | ⚠️ Large container against support | Good, fragrant | Climbing roses, clematis, honeysuckle | — | — |
-| P67 | Common Sea Lavender | *Limonium vulgare* | ☀️ | 30–40cm | Crown at soil level | 30–40cm between plants | 6.0–8.0 | ✅ 10–15L container | Good, dries well | Ornamental grasses, achillea, sedum | — | — |
+| P24 | Common Sea Lavender | *Limonium vulgare* | ☀️ | 30–40cm | Crown at soil level | 30–40cm between plants | 6.0–8.0 | ✅ 10–15L container | Good, dries well | Ornamental grasses, achillea, sedum | — | — |
 | H7 | Common Sorrel | *Rumex acetosa* | ☀️ to 🌥️ | 30–60cm | 5–6mm deep (seed) / at pot level | 30–40cm between plants; divide every 3–4 yrs | 5.5–6.8 | ✅ 15–20L container | No | Other salad/leaf herbs | Щавель кислый | Samhadh bó |
 | W7 | Common Water Crowfoot | *Ranunculus aquatilis* | ☀️ | Trailing to 60cm | Muddy margins or submerged, 15–60cm deep | 30–45cm between plants | 6.0–7.5 | ✅ Aquatic basket or pond-bottom mud | No | Hornwort, water lilies | — | — |
 | P9 | Coneflower | *Echinacea purpurea* | ☀️ | 60–90cm | Crown at soil level | 40–60cm between plants; needs sharp drainage | 5.8–7.0 | ✅ 20–30L container | Good, dries well | Rudbeckia, ornamental grasses, yarrow, penstemon | Эхинацея пурпурная | — |
-| S6 | Coral Bells | *Heuchera spp.* | 🌥️ | 30–45cm | Crown at soil level | 30–45cm between plants | 6.0–7.0 | ✅ 20–30L container | Good, flower spikes | Hostas, astilbe, ferns, hellebores | Гейхера | — |
+| S4 | Coral Bells | *Heuchera spp.* | 🌥️ | 30–45cm | Crown at soil level | 30–45cm between plants | 6.0–7.0 | ✅ 20–30L container | Good, flower spikes | Hostas, astilbe, ferns, hellebores | Гейхера | — |
 | H8 | Coriander | *Coriandrum sativum* | 🌤️ | 45–60cm | Sow 5mm deep; do not transplant | 15–20cm between plants | 6.0–7.0 | ✅ 20cm+ deep / 5L+ | No | Parsley, brassicas; away from dill & fennel | Кинза (кориандр посевной) | Lus an choire |
-| B9 | Corn Lily | *Ixia spp.* | ☀️ | 30–50cm | 8–10cm deep; spring, lift & store | 5–8cm between corms | 6.0–7.0 | ✅ Best in containers (borderline hardy) | Good | Freesia and other tender corms | Иксия | — |
+| B5 | Corn Lily | *Ixia spp.* | ☀️ | 30–50cm | 8–10cm deep; spring, lift & store | 5–8cm between corms | 6.0–7.0 | ✅ Best in containers (borderline hardy) | Good | Freesia and other tender corms | Иксия | — |
 | A5 | Cornflower | *Centaurea cyanus* | ☀️ | 60–90cm | 1–2cm deep (seed) | 20–30cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container | Good, dries fairly well | Poppies, love-in-a-mist, briza maxima | Василёк синий | — |
 | A6 | Cosmos | *Cosmos bipinnatus* | ☀️ | 60cm–1.2m | 5–6mm deep (seed) / at pot level | 30–45cm between plants | 6.0–7.5 | ✅ 15–20L container | Good | Zinnias, dahlias, ornamental grasses | Космея дваждыперистая | — |
-| S7 | Cowslip | *Primula veris* | 🌥️ | 15–25cm | Crown just above soil level | 20–30cm between plants | 6.5–7.5 | ✅ 10–15L container | No | Primroses, wood anemones, native bluebells | Первоцвет весенний | Bainne bó bleachtáin |
+| S5 | Cowslip | *Primula veris* | 🌥️ | 15–25cm | Crown just above soil level | 20–30cm between plants | 6.5–7.5 | ✅ 10–15L container | No | Primroses, wood anemones, native bluebells | Первоцвет весенний | Bainne bó bleachtáin |
 | F6 | Cranberry | *Vaccinium macrocarpon* | 🌤️ | 10–20cm | At pot level | 30–45cm in acidic bed | 4.0–5.0 | ✅ Essential: 30–45cm / 10–20L | No | Heather, lingonberry, blueberry (ericaceous) | Клюква крупноплодная | — |
-| G9 | Creeping Jenny | *Lysimachia nummularia* | ☀️ to 🌥️ | 5–10cm | At pot level | 30–45cm between plants; vigorous, spreads by runners | 6.0–7.5 | ✅ 10–15L container | No | Hostas, ferns, astilbe; good pond-margin/bog-garden plant | Вербейник монетчатый | — |
-| G10 | Creeping Juniper | *Juniperus horizontalis* | ☀️ (essential) | 10–30cm, spreading | At pot level or slightly raised | 1–1.5m for ground cover | 4.5–8.5 | ✅ 30–40cm/20L+ | No | Heather, sedum, ornamental grasses, thyme | Можжевельник распростёртый | — |
-| G11 | Creeping Phlox (Moss Phlox) | *Phlox subulata* | ☀️ | 10–15cm | At pot level; shoots above soil | 30–45cm for ground cover | 5.5–7.7 | ✅ 20–30cm / 5–10L + grit | No | Tulips, daffodils underplanted; thyme, sedum, dianthus | Флокс шиловидный | — |
-| B10 | Crown Imperial | *Fritillaria imperialis* | ☀️ | 80cm–1.2m | 20–30cm deep, planted on its side; autumn | 25cm between bulbs | 6.5–8.0 | ⚠️ 40cm / 30L+ deep pot | Good | Tulips, alliums, wallflowers, euphorbia | Рябчик императорский | — |
+| G3 | Creeping Jenny | *Lysimachia nummularia* | ☀️ to 🌥️ | 5–10cm | At pot level | 30–45cm between plants; vigorous, spreads by runners | 6.0–7.5 | ✅ 10–15L container | No | Hostas, ferns, astilbe; good pond-margin/bog-garden plant | Вербейник монетчатый | — |
+| G11 | Creeping Juniper | *Juniperus horizontalis* | ☀️ (essential) | 10–30cm, spreading | At pot level or slightly raised | 1–1.5m for ground cover | 4.5–8.5 | ✅ 30–40cm/20L+ | No | Heather, sedum, ornamental grasses, thyme | Можжевельник распростёртый | — |
+| G4 | Creeping Phlox (Moss Phlox) | *Phlox subulata* | ☀️ | 10–15cm | At pot level; shoots above soil | 30–45cm for ground cover | 5.5–7.7 | ✅ 20–30cm / 5–10L + grit | No | Tulips, daffodils underplanted; thyme, sedum, dianthus | Флокс шиловидный | — |
+| B12 | Crown Imperial | *Fritillaria imperialis* | ☀️ | 80cm–1.2m | 20–30cm deep, planted on its side; autumn | 25cm between bulbs | 6.5–8.0 | ⚠️ 40cm / 30L+ deep pot | Good | Tulips, alliums, wallflowers, euphorbia | Рябчик императорский | — |
 | H9 | Cucumbers | *Cucumis sativus* | ☀️ | 10–15cm | At pot level (after frost) | 45–60cm between plants | 6.0–7.0 | ✅ Large 30–40L container with support | No | Nasturtiums, dill, sweetcorn | Огурец посевной | Cúcamar |
 | H10 | Culinary Thyme | *Thymus vulgaris* | ☀️ | 15–30cm | At pot level | 25–40cm between plants; replace every 3–4 yrs | 6.0–8.0 | ✅ Terracotta 15–20L, with grit | No | Rosemary, sage, lavender | Тимьян обыкновенный | Tím |
-| T9 | Cushion Bush | *Leucophyta brownii* (syn. *Calocephalus brownii*) | ☀️ | 30–90cm | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ 10–15L container | Good, foliage | Other silver-foliage and coastal/gravel-garden plants | — | — |
+| T8 | Cushion Bush | *Leucophyta brownii* (syn. *Calocephalus brownii*) | ☀️ | 30–90cm | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ 10–15L container | Good, foliage | Other silver-foliage and coastal/gravel-garden plants | — | — |
 | P10 | Cutleaf Coneflower | *Rudbeckia laciniata* | ☀️ | 1.5–2m | At pot level | 60–90cm between; divide every 2–3 yrs | 5.5–7.0 | ⚠️ 40–50cm / 40L+ (very tall — better in ground) | Good | Helenium, echinacea, salvias, ornamental grasses, asters | Рудбекия рассечённая | — |
-| B11 | Daffodils | *Narcissus spp.* | 🌤️ | 15–45cm | 15cm (3× bulb height); autumn | 10–15cm between bulbs | 6.0–7.0 | ✅ 20–30cm / 5L+ | Good | Snowdrops, tulips, forget-me-nots, Muscari | Нарцисс | Lus an chromchinn |
-| G12 | Dalmatian Bellflower | *Campanula portenschlagiana* | ☀️ to 🌥️ | 10–15cm, spreading to 50cm+ | At pot level | 30–40cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Sempervivum, saxifrage, dianthus pinks | — | — |
+| B7 | Daffodils | *Narcissus spp.* | 🌤️ | 15–45cm | 15cm (3× bulb height); autumn | 10–15cm between bulbs | 6.0–7.0 | ✅ 20–30cm / 5L+ | Good | Snowdrops, tulips, forget-me-nots, Muscari | Нарцисс | Lus an chromchinn |
+| G1 | Dalmatian Bellflower | *Campanula portenschlagiana* | ☀️ to 🌥️ | 10–15cm, spreading to 50cm+ | At pot level | 30–40cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Sempervivum, saxifrage, dianthus pinks | — | — |
 | P11 | Daylilies | *Hemerocallis spp.* | ☀️ to 🌥️ | 45–90cm | Crown at soil level | 45–60cm between plants; divide every 3–4 yrs | 6.0–7.5 | ✅ 20–30L container | Good, 1-day blooms | Roses, ornamental grasses, yarrow | Лилейник | — |
-| S8 | Deer Fern | *Blechnum spicant* | 🌥️ to 🌑 | 30–60cm | At pot level | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ | Good, foliage filler | Lingonberry, heather, foxgloves | Дербянка колосистая | Raithneach chrua |
+| S14 | Deer Fern | *Blechnum spicant* | 🌥️ to 🌑 | 30–60cm | At pot level | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ | Good, foliage filler | Lingonberry, heather, foxgloves | Дербянка колосистая | Raithneach chrua |
 | P12 | Delphiniums | *Delphinium spp.* | ☀️ | 1–2m | At pot level; buds 2–5cm below | 60–90cm between plants; stake essential | 6.5–7.5 | ⚠️ 40–50cm / 40L+ | Good, dries well | Roses, lupins, peonies, alliums | Живокость (дельфиниум) | — |
 | H11 | Dill | *Anethum graveolens* | ☀️ | 60–90cm | Sow 3–5mm deep; do not transplant | 20–30cm between plants | 5.5–7.0 | ✅ 30cm+ deep / 8L+ | Good, flower/foliage filler | Brassicas, lettuce; away from coriander & fennel | Укроп пахучий | Lus mín |
-| T10 | Douglas Fir | *Pseudotsuga menziesii* | ☀️ to 🌥️ | 20m+ | At nursery soil mark | Very large tree; use dwarf cultivars in most gardens | 5.0–6.5 | ⚠️ Large container for dwarf cultivars | No | Best alone (full size); conifers/heathers (dwarf) | — | — |
-| C20 | Downy Clematis | *Clematis macropetala* | 🌤️ (roots shaded) | 2–3m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
+| T9 | Douglas Fir | *Pseudotsuga menziesii* | ☀️ to 🌥️ | 20m+ | At nursery soil mark | Very large tree; use dwarf cultivars in most gardens | 5.0–6.5 | ⚠️ Large container for dwarf cultivars | No | Best alone (full size); conifers/heathers (dwarf) | — | — |
+| C3 | Downy Clematis | *Clematis macropetala* | 🌤️ (roots shaded) | 2–3m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
 | A7 | Drumstick Flower | *Craspedia globosa* | ☀️ | 45–60cm | At pot level | 20–30cm between plants | 5.8–7.0 | ✅ 10–15L container | Good, dries excellently | Statice, strawflower, ammobium | Краспедия шаровидная | — |
-| S9 | Drumstick Primula | *Primula denticulata* | 🌥️ | 20–45cm | Crown at soil level | 20–30cm between plants | 5.5–7.0 | ✅ 10–15L container | Good | Bluebells, wood anemones, spring bulbs | — | — |
-| S10 | Dusky Cranesbill | *Geranium phaeum* | 🌑 to ☀️ | 60–80cm | Crown at soil level | 40–60cm between plants | 6.0–7.5 | ✅ 20–25L container | No | Ferns, hostas, hellebores | Герань тёмно-бурая | Crobh odhar |
-| B12 | Dutch/Large-flowered Crocus | *Crocus spp. (Dutch hybrids)* | ☀️ | 10–15cm | 10–12cm deep; autumn | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Snowdrops, daffodils, muscari | — | — |
-| P51 | Dwarf Fountain Grass | *Pennisetum alopecuroides* | ☀️ | 50–60cm | At pot level | 45–50cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Sedum, echinacea, rudbeckia | — | — |
-| B13 | Dwarf Iris | *Iris reticulata* | ☀️ | 10–15cm | 8–10cm deep; autumn | 5–8cm between bulbs | 6.0–7.5 | ✅ 3–5L pot/trough | No | Snowdrops, crocus, dwarf daffodils | Ирис сетчатый | — |
-| G13 | Dwarf Mondo Grass | *Ophiopogon japonicus* | ☀️ to 🌥️ | 5–10cm | At pot level | 10–15cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Ferns, hostas | — | — |
-| T11 | Dwarf Mountain Pine | *Pinus mugo var. mugo* | ☀️ | 1–1.5m | At pot level | 1.5–2m between plants | 5.0–7.5 | ⚠️ Large gritty container | No | Heather, dwarf junipers, sempervivum | — | — |
-| B14 | Dwarf Sword Lily | *Gladiolus nanus* | ☀️ | 40–70cm | 10–16cm deep; spring | 10–15cm between corms | 6.0–7.5 | ✅ 15–20L container | Good | Freesia, ixia | — | — |
-| B15 | Early Crocus ('Tommie') | *Crocus tommasinianus* | ☀️ | 7–10cm | 7–10cm deep; autumn | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Snowdrops, daffodils, muscari, aconites | — | — |
+| S17 | Drumstick Primula | *Primula denticulata* | 🌥️ | 20–45cm | Crown at soil level | 20–30cm between plants | 5.5–7.0 | ✅ 10–15L container | Good | Bluebells, wood anemones, spring bulbs | — | — |
+| S6 | Dusky Cranesbill | *Geranium phaeum* | 🌑 to ☀️ | 60–80cm | Crown at soil level | 40–60cm between plants | 6.0–7.5 | ✅ 20–25L container | No | Ferns, hostas, hellebores | Герань тёмно-бурая | Crobh odhar |
+| B6 | Dutch/Large-flowered Crocus | *Crocus spp. (Dutch hybrids)* | ☀️ | 10–15cm | 10–12cm deep; autumn | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Snowdrops, daffodils, muscari | — | — |
+| P28 | Dwarf Fountain Grass | *Pennisetum alopecuroides* | ☀️ | 50–60cm | At pot level | 45–50cm between plants | 6.0–7.5 | ✅ 15–20L container | No | Sedum, echinacea, rudbeckia | — | — |
+| B8 | Dwarf Iris | *Iris reticulata* | ☀️ | 10–15cm | 8–10cm deep; autumn | 5–8cm between bulbs | 6.0–7.5 | ✅ 3–5L pot/trough | No | Snowdrops, crocus, dwarf daffodils | Ирис сетчатый | — |
+| G12 | Dwarf Mondo Grass | *Ophiopogon japonicus* | ☀️ to 🌥️ | 5–10cm | At pot level | 10–15cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Ferns, hostas | — | — |
+| T10 | Dwarf Mountain Pine | *Pinus mugo var. mugo* | ☀️ | 1–1.5m | At pot level | 1.5–2m between plants | 5.0–7.5 | ⚠️ Large gritty container | No | Heather, dwarf junipers, sempervivum | — | — |
+| B9 | Dwarf Sword Lily | *Gladiolus nanus* | ☀️ | 40–70cm | 10–16cm deep; spring | 10–15cm between corms | 6.0–7.5 | ✅ 15–20L container | Good | Freesia, ixia | — | — |
+| B6 | Early Crocus ('Tommie') | *Crocus tommasinianus* | ☀️ | 7–10cm | 7–10cm deep; autumn | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Snowdrops, daffodils, muscari, aconites | — | — |
 | P13 | Edelweiss | *Leontopodium alpinum* | ☀️ | 10–15cm | Crown at soil level | 15–20cm between plants | 6.5–7.5 | ✅ Trough/rockery, 5L | No | Sempervivum, saxifrage, other alpines | Эдельвейс альпийский | — |
 | W8 | Egyptian Papyrus | *Cyperus papyrus* | ☀️ to 🌥️ | 1.5–2.5m | Boggy soil / standing water to 15cm | 1–1.5m between plants; not hardy, overwinter under glass | 6.0–7.5 | ⚠️ Large 30–40L aquatic basket, tender | Good, foliage (fresh, architectural) | Yellow flag iris, other marginals | Сыть папирусная | — |
-| T12 | Elder | *Sambucus nigra* | ☀️ | 2–3m | At nursery soil mark | 2–3m between plants | 5.5–7.5 | ✅ 40–50L container | Good, flowers and foliage | Golden/lime-green foliage plants | — | — |
+| T11 | Elder | *Sambucus nigra* | ☀️ | 2–3m | At nursery soil mark | 2–3m between plants | 5.5–7.5 | ✅ 40–50L container | Good, flowers and foliage | Golden/lime-green foliage plants | — | — |
 | P14 | Elephant's Ears | *Bergenia spp.* | 🌑 to ☀️ | 30–45cm | Rhizome at/just below surface | 30–60cm between plants | 5.5–8.0 | ✅ 25–35cm / 10L+ | Good, early foliage | Hostas, hellebores, snowdrops, ferns | Бадан | — |
-| T13 | English Oak | *Quercus robur* | ☀️ to 🌤️ | 20–35m | At nursery soil mark | 8–10m+ minimum; very large, long-lived tree | 5.0–8.0 | ❌ Too large for pots | No | Bluebells, wood anemones | — | — |
-| S11 | Epimedium × perralchicum | *Epimedium × perralchicum* | 🌥️ to 🌑 | 30–40cm | Crown at soil level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ferns, hellebores, hostas, snowdrops | — | — |
-| S12 | Epimedium × rubrum | *Epimedium × rubrum* | 🌥️ to 🌑 | 20–30cm | Crown at soil level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ferns, hellebores, hostas, snowdrops | — | — |
-| S13 | Epimedium × versicolor | *Epimedium × versicolor* | 🌥️ to 🌑 | 30cm | Crown at soil level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ferns, hellebores, hostas, snowdrops | — | — |
-| B16 | Erythronium (Dog's Tooth Violet) | *Erythronium dens-canis* | 🌥️ | 15–25cm | 10cm deep; autumn | 10–15cm between bulbs | 5.5–7.0 | ✅ 5L+ container | No | Ferns, hellebores, woodland-floor perennials | — | — |
-| P55 | Evergold Sedge | *Carex oshimensis* | 🌥️ to ☀️ | 25–35cm | At pot level | 25–35cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Hostas, ferns, hellebores | — | — |
-| G14 | Evergreen Candytuft | *Iberis sempervirens* | ☀️ | 20–30cm | At pot level | 30–45cm between plants | 6.5–8.0 | ✅ 10–15L container | No | Aubretia, arabis, alyssum | — | — |
-| T14 | False Spiraea | *Sorbaria sorbifolia* | ☀️ to 🌥️ | 1.5–2.5m | At nursery soil mark | 1–1.5m between plants; spreads by suckers | 5.5–7.5 | ⚠️ 40–50L container | Good | Hydrangea, deutzia; good bank stabiliser | Рябинник рябинолистный | — |
-| P52 | Feather Reed Grass | *Calamagrostis × acutiflora* | ☀️ | 1.2–1.5m | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ 20–25L container | No | Sedum, echinacea, rudbeckia | — | — |
+| T12 | English Oak | *Quercus robur* | ☀️ to 🌤️ | 20–35m | At nursery soil mark | 8–10m+ minimum; very large, long-lived tree | 5.0–8.0 | ❌ Too large for pots | No | Bluebells, wood anemones | — | — |
+| S7 | Epimedium × perralchicum | *Epimedium × perralchicum* | 🌥️ to 🌑 | 30–40cm | Crown at soil level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ferns, hellebores, hostas, snowdrops | — | — |
+| S7 | Epimedium × rubrum | *Epimedium × rubrum* | 🌥️ to 🌑 | 20–30cm | Crown at soil level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ferns, hellebores, hostas, snowdrops | — | — |
+| S7 | Epimedium × versicolor | *Epimedium × versicolor* | 🌥️ to 🌑 | 30cm | Crown at soil level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ferns, hellebores, hostas, snowdrops | — | — |
+| B10 | Erythronium (Dog's Tooth Violet) | *Erythronium dens-canis* | 🌥️ | 15–25cm | 10cm deep; autumn | 10–15cm between bulbs | 5.5–7.0 | ✅ 5L+ container | No | Ferns, hellebores, woodland-floor perennials | — | — |
+| P28 | Evergold Sedge | *Carex oshimensis* | 🌥️ to ☀️ | 25–35cm | At pot level | 25–35cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Hostas, ferns, hellebores | — | — |
+| G5 | Evergreen Candytuft | *Iberis sempervirens* | ☀️ | 20–30cm | At pot level | 30–45cm between plants | 6.5–8.0 | ✅ 10–15L container | No | Aubretia, arabis, alyssum | — | — |
+| T13 | False Spiraea | *Sorbaria sorbifolia* | ☀️ to 🌥️ | 1.5–2.5m | At nursery soil mark | 1–1.5m between plants; spreads by suckers | 5.5–7.5 | ⚠️ 40–50L container | Good | Hydrangea, deutzia; good bank stabiliser | Рябинник рябинолистный | — |
+| P28 | Feather Reed Grass | *Calamagrostis × acutiflora* | ☀️ | 1.2–1.5m | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ 20–25L container | No | Sedum, echinacea, rudbeckia | — | — |
 | P15 | Fern-leaf Peony | *Paeonia tenuifolia* | ☀️ | 45–60cm | Eyes 2–3cm below soil | 45–60cm between plants | 6.5–7.5 | ⚠️ 30–40L container | Good | Alliums, bearded iris, catmint | Пион узколистный | Piaine |
 | F7 | Fig | *Ficus carica* | ☀️ | 3–4m | At nursery soil mark; restrict roots | 3–4m; cvs. 'Brown Turkey', 'Brunswick', 'White Marseilles' | 6.0–7.5 | ✅ Large container (35–45cm) | No | Best given its own space | — | — |
-| C26 | Five-Flavour Berry (Magnolia Vine) | *Schisandra chinensis* | 🌥️ | 6–9m | At nursery soil mark | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container | No | Climbing hydrangea, ivy | — | — |
+| C13 | Five-Flavour Berry (Magnolia Vine) | *Schisandra chinensis* | 🌥️ | 6–9m | At nursery soil mark | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container | No | Climbing hydrangea, ivy | — | — |
 | W9 | Flowering Rush | *Butomus umbellatus* | ☀️ | 60–90cm | Crown at soil surface; up to 25cm water above | 30–45cm between plants | 6.0–7.5 | ✅ Aquatic basket | No | Yellow flag iris, arrowhead, bogbean | — | — |
-| S14 | Forget-me-nots | *Myosotis sylvatica* | 🌥️ | 15–30cm | Crown at soil level / surface-sown seed | 15–20cm between plants; biennial, self-seeds freely | 6.0–7.5 | ✅ 10–15L container | No | Tulips, wallflowers, daffodils | Незабудка лесная | Lus míonla |
-| S15 | Fortune's Holly Fern (var. clivicola) | *Cyrtomium fortunei var. clivicola* | 🌥️ to 🌑 | 30–60cm | At pot level; crown at/just below surface | 45–60cm between plants | 6.0–8.0 | ✅ 30–40cm / 15L+ | No | Hostas, hellebores, snowdrops; tolerates dry shade | — | — |
-| B17 | Fox's Grape Fritillary | *Fritillaria uva-vulpis* | ☀️ to 🌤️ | 15–30cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/trough/pot | No | Other species fritillarias, dwarf iris, crocus | — | — |
-| S16 | Foxgloves | *Digitalis purpurea and perennial species* | 🌥️ | 1–2m | At pot level; seeds on surface | 30–45cm between plants | 5.5–7.5 | ✅ 30cm / 10L+ deep | Good ⚠️ toxic, handle with care | Ferns, hostas, roses, alliums; self-seeds | Наперстянка пурпурная | Lus mór |
-| T15 | Fraser Fir | *Abies fraseri* | ☀️ to 🌤️ | 9–17m | At nursery soil mark | 4–6m between plants | 5.0–6.0 | ⚠️ Large container for young plants | No | Ferns, hostas | — | — |
-| B18 | Freesia | *Freesia spp.* | ☀️ | 30–45cm | 5–8cm deep; spring, lift & store | 5–8cm between corms | 6.0–7.0 | ✅ Best in containers (tender) | Good | Ixia and other tender corms | Фрезия | — |
+| S8 | Forget-me-nots | *Myosotis sylvatica* | 🌥️ | 15–30cm | Crown at soil level / surface-sown seed | 15–20cm between plants; biennial, self-seeds freely | 6.0–7.5 | ✅ 10–15L container | No | Tulips, wallflowers, daffodils | Незабудка лесная | Lus míonla |
+| S16 | Fortune's Holly Fern (var. clivicola) | *Cyrtomium fortunei var. clivicola* | 🌥️ to 🌑 | 30–60cm | At pot level; crown at/just below surface | 45–60cm between plants | 6.0–8.0 | ✅ 30–40cm / 15L+ | No | Hostas, hellebores, snowdrops; tolerates dry shade | — | — |
+| B12 | Fox's Grape Fritillary | *Fritillaria uva-vulpis* | ☀️ to 🌤️ | 15–30cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/trough/pot | No | Other species fritillarias, dwarf iris, crocus | — | — |
+| S9 | Foxgloves | *Digitalis purpurea and perennial species* | 🌥️ | 1–2m | At pot level; seeds on surface | 30–45cm between plants | 5.5–7.5 | ✅ 30cm / 10L+ deep | Good ⚠️ toxic, handle with care | Ferns, hostas, roses, alliums; self-seeds | Наперстянка пурпурная | Lus mór |
+| T14 | Fraser Fir | *Abies fraseri* | ☀️ to 🌤️ | 9–17m | At nursery soil mark | 4–6m between plants | 5.0–6.0 | ⚠️ Large container for young plants | No | Ferns, hostas | — | — |
+| B11 | Freesia | *Freesia spp.* | ☀️ | 30–45cm | 5–8cm deep; spring, lift & store | 5–8cm between corms | 6.0–7.0 | ✅ Best in containers (tender) | Good | Ixia and other tender corms | Фрезия | — |
 | W10 | Fringed Water Lily | *Nymphoides peltata* | ☀️ to 🌤️ | Floating at surface | Crown at basket surface; 15–90cm water above | 40–60cm between plants; ⚠️ vigorous, keep contained | 6.0–7.5 (water) | ✅ Aquatic basket essential | No | Water lilies, hornwort | — | — |
-| B19 | Fritillaria michailovskyi | *Fritillaria michailovskyi* | ☀️ | 10–20cm | 8–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Trough/raised bed/pot | No | Dwarf iris, crocus, other alpine bulbs | — | — |
+| B12 | Fritillaria michailovskyi | *Fritillaria michailovskyi* | ☀️ | 10–20cm | 8–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Trough/raised bed/pot | No | Dwarf iris, crocus, other alpine bulbs | — | — |
 | W11 | Frogbit | *Hydrocharis morsus-ranae* | ☀️ | Floating at surface | Floats freely on surface | Spreads freely by runners; thin as needed | 7.0–8.0 (water) | ✅ No planting needed; free-floating | No | Water soldier, native water lilies | — | — |
-| T16 | Fuzzy Pride-of-Rochester | *Deutzia scabra* | ☀️ to 🌤️ | 2–3m | At nursery soil mark | 1.5–2m between plants; grows 1.8–3m tall | 6.0–7.5 | ⚠️ Large 80–100L container | Good, flowering branches | Mock orange, lilac, weigela, spring bulbs | Дейция шершавая | — |
+| T15 | Fuzzy Pride-of-Rochester | *Deutzia scabra* | ☀️ to 🌤️ | 2–3m | At nursery soil mark | 1.5–2m between plants; grows 1.8–3m tall | 6.0–7.5 | ⚠️ Large 80–100L container | Good, flowering branches | Mock orange, lilac, weigela, spring bulbs | Дейция шершавая | — |
 | H12 | Garden Cress | *Lepidium sativum* | ☀️ to 🌤️ | 5–10cm | Surface-sown or 1–1.5cm deep | Sow thickly in a broad row or tray | 6.0–7.5 | ✅ Tray/pot/windowsill | No | Radishes, tomatoes | — | — |
-| P62 | Garden Pink | *Dianthus plumarius (garden pinks)* | ☀️ | 25–35cm | At pot level | 25–35cm between plants | 5.8–6.5 | ✅ 25–35cm / 10L+ | Good | Roses, stocks, alliums, lavender, Phlox subulata | Гвоздика перистая | — |
+| P35 | Garden Pink | *Dianthus plumarius (garden pinks)* | ☀️ | 25–35cm | At pot level | 25–35cm between plants | 5.8–6.5 | ✅ 25–35cm / 10L+ | Good | Roses, stocks, alliums, lavender, Phlox subulata | Гвоздика перистая | — |
 | F8 | Garden Plum | *Prunus domestica* | ☀️ | 3–5m | Graft union at/above soil | 3–5m between trees depending on rootstock; permanent stake | 6.0–7.0 | ⚠️ Half-barrel (50L+) | No | Chives, garlic, comfrey, nasturtiums | Слива домашняя | Crann plumaí |
 | H13 | Garlic | *Allium sativum* | ☀️ | 25–30cm | Tip 2.5cm below soil; autumn (or spring in modules) | 15cm between cloves; 30cm between rows | 6.0–7.0 | ✅ 20–30cm / 10L+ container | No | Roses, fruit trees; avoid near peas/beans | — | — |
 | P102 | Giant Bellflower | *Campanula latifolia var. macrantha* | 🌥️ to ☀️ | Up to 1m | Crown at soil level | 45–60cm between plants | 6.0–7.5 | ✅ 20–30L container | Good | Ferns, roses, taller border perennials | — | — |
 | B20 | Giant Onion | *Allium giganteum* | ☀️ | 1.2–1.5m | 20cm deep (2–3× bulb depth); autumn | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container | Good, dries well | Roses, peonies, ornamental grasses | — | — |
-| T17 | Ginkgo | *Ginkgo biloba* | ☀️ to 🌤️ | 15–25m | At nursery soil mark | 6–8m between plants | 5.0–8.0 | ✅ Large container for young trees | No | Spring bulbs, shade-tolerant perennials | — | — |
+| T16 | Ginkgo | *Ginkgo biloba* | ☀️ to 🌤️ | 15–25m | At nursery soil mark | 6–8m between plants | 5.0–8.0 | ✅ Large container for young trees | No | Spring bulbs, shade-tolerant perennials | — | — |
 | A8 | Globe Amaranth | *Gomphrena globosa* | ☀️ | 30–45cm | At pot level | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container | Good, dries excellently | Zinnias, celosia, cosmos | Гомфрена шаровидная | — |
 | P16 | Globe Thistle | *Echinops ritro* | ☀️ | 90cm–1.2m | Crown at soil level | 45–60cm between plants | 6.0–7.5 | ✅ 15–20L container | Good, dries well | Ornamental grasses, echinacea, rudbeckia, sedum | Мордовник обыкновенный | — |
 | P17 | Globeflower | *Trollius europaeus / T. x cultorum* | ☀️ to 🌥️ | 60–90cm | Crown at soil level | 30–40cm between plants | 5.5–7.0 | ✅ 20–30L container, keep moist | Good | Astilbe, hosta, candelabra primulas | Купальница европейская | — |
-| P68 | Gmelin's Sea Lavender | *Limonium gmelinii* | ☀️ | 50–90cm | Crown at soil level | 45–60cm between plants | 6.0–8.0 | ✅ 15–20L container | Good, dries well | Ornamental grasses, achillea, sedum | — | — |
-| C22 | Golden Clematis | *Clematis tangutica* | 🌤️ (roots shaded) | 3.5–4.5m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
-| B21 | Golden Garlic | *Allium moly* | ☀️ | 25–30cm | 8–10cm deep; autumn | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container | No | Dwarf iris, crocus, other rockery bulbs | — | — |
-| T18 | Golden Mimosa | *Acacia baileyana* | ☀️ | 3–5m | At nursery soil mark | 3–4m from structures; needs sheltered, frost-free spot | 5.5–7.5 | ⚠️ Large 50–60L container, sheltered | Good, dries well | Rosemary, lavender, Mediterranean shrubs | Акация Бейли | — |
+| P24 | Gmelin's Sea Lavender | *Limonium gmelinii* | ☀️ | 50–90cm | Crown at soil level | 45–60cm between plants | 6.0–8.0 | ✅ 15–20L container | Good, dries well | Ornamental grasses, achillea, sedum | — | — |
+| C3 | Golden Clematis | *Clematis tangutica* | 🌤️ (roots shaded) | 3.5–4.5m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
+| B20 | Golden Garlic | *Allium moly* | ☀️ | 25–30cm | 8–10cm deep; autumn | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container | No | Dwarf iris, crocus, other rockery bulbs | — | — |
+| T17 | Golden Mimosa | *Acacia baileyana* | ☀️ | 3–5m | At nursery soil mark | 3–4m from structures; needs sheltered, frost-free spot | 5.5–7.5 | ⚠️ Large 50–60L container, sheltered | Good, dries well | Rosemary, lavender, Mediterranean shrubs | Акация Бейли | — |
 | F9 | Gooseberry | *Ribes uva-crispa* | 🌤️ | 1.2–1.5m | At nursery mark; roots 5cm | 1.5m between plants | 6.0–7.5 | ⚠️ 30L+ large pot | No | Redcurrant, whitecurrant, tansy | Крыжовник обыкновенный | Spíonán |
-| B22 | Grape Hyacinth | *Muscari spp.* | ☀️ to 🌤️ | 15–20cm | 7–10cm deep; autumn | 5–8cm between bulbs; spreads readily | 6.0–7.5 | ✅ 5L+ container | No | Tulips, daffodils, crocus | Мышиный гиацинт (мускари) | — |
+| B13 | Grape Hyacinth | *Muscari spp.* | ☀️ to 🌤️ | 15–20cm | 7–10cm deep; autumn | 5–8cm between bulbs; spreads readily | 6.0–7.5 | ✅ 5L+ container | No | Tulips, daffodils, crocus | Мышиный гиацинт (мускари) | — |
 | W12 | Greater Bladderwort | *Utricularia vulgaris* | ☀️ to 🌤️ | 20–50cm | Fully submerged, free-floating | Allow to spread loosely; thin if congested | 6.0–7.5 (water) | ✅ No planting needed; free-floating | No | Frogbit, hornwort | — | — |
 | A9 | Greater Quaking Grass | *Briza maxima* | ☀️ | 30–50cm | 5mm deep (seed) | 15–20cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container | Good, dries well | Cornflower, poppies, love-in-a-mist | Трясунка большая | — |
 | H14 | Green Onions (Scallions) | *Allium fistulosum* | ☀️ to 🌤️ | 30–45cm | 1cm deep (seed) / at pot level | 5–8cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container | No | Carrots, rocket, radish | Лук-батун | Scailliún |
 | F10 | Green Strawberry | *Fragaria viridis* | ☀️ to 🌥️ | 20–30cm | Crown at soil level | 25–30cm between plants; spreads by runners | 5.5–7.5 | ✅ 20–30L container | No | Woodland Strawberry, ferns, low herbs | Клубника луговая (клубника степная, клубника лесная, земляника зелёная) | — |
-| T19 | Gresham Magnolia hybrids | *Magnolia liliiflora 'Nigra' × Magnolia × veitchii* | ☀️ to 🌤️ | 5–8m | At nursery soil mark | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
-| S17 | Hard Shield Fern | *Polystichum aculeatum* | 🌥️ to 🌑 | 45–60cm | At pot level | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ | No | Lingonberry, heather, foxgloves | — | — |
+| T30 | Gresham Magnolia hybrids | *Magnolia liliiflora 'Nigra' × Magnolia × veitchii* | ☀️ to 🌤️ | 5–8m | At nursery soil mark | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
+| S14 | Hard Shield Fern | *Polystichum aculeatum* | 🌥️ to 🌑 | 45–60cm | At pot level | 30–45cm between plants | 4.5–6.0 | ✅ 30cm / 10L+ | No | Lingonberry, heather, foxgloves | — | — |
 | C8 | Hardy Grapes (Phoenix / Regent / Boskoop Glory) | *Vitis vinifera* | ☀️ (essential) | 6–9m | At pot depth; graft above soil | 1.2–1.5m between vines; 20cm from wall | 6.0–6.5 | ⚠️ 40L+ container | No | Lavender, rosemary, garlic, hyssop | Виноград культурный | Fíonchaora |
-| W37 | Hardy Hybrid Water Lily | *Nymphaea × hybrida and other garden hybrids* | ☀️ | Leaves float; flowers just above surface | Crown at basket surface; 15–90cm+ water above depending on cultivar | Spread depends on cultivar; check label | 6.5–7.5 (water) | ✅ Basket sized to cultivar, 20–40cm | No | Bogbean, yellow flag iris, oxygenating plants | — | — |
-| S18 | Hart's Tongue Fern | *Asplenium scolopendrium* | 🌥️ to 🌑 | 30–60cm | At pot level | 20–30cm between plants | 6.5–8.0 | ✅ 20–25cm / 10L+ | Good, foliage filler | Ferns, hostas, hellebores, snowdrops | Листовик сколопендровый | Creamh na muice fia |
+| W26 | Hardy Hybrid Water Lily | *Nymphaea × hybrida and other garden hybrids* | ☀️ | Leaves float; flowers just above surface | Crown at basket surface; 15–90cm+ water above depending on cultivar | Spread depends on cultivar; check label | 6.5–7.5 (water) | ✅ Basket sized to cultivar, 20–40cm | No | Bogbean, yellow flag iris, oxygenating plants | — | — |
+| S14 | Hart's Tongue Fern | *Asplenium scolopendrium* | 🌥️ to 🌑 | 30–60cm | At pot level | 20–30cm between plants | 6.5–8.0 | ✅ 20–25cm / 10L+ | Good, foliage filler | Ferns, hostas, hellebores, snowdrops | Листовик сколопендровый | Creamh na muice fia |
 | F11 | Hazelnut | *Corylus avellana* | ☀️ to 🌥️ | 4–5m | At nursery soil mark | 4–5m; 2m if coppiced hedge | 6.0–7.5 | ❌ Too large for pots | No | Blackthorn, hawthorn, primroses, bluebells | — | — |
-| G15 | Heather | *Calluna vulgaris* | ☀️ | 30cm, spread 30cm | At pot level | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost | No | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
-| S19 | Hellebore (Lenten Rose) | *Helleborus spp.* | 🌥️ to 🌑 | 30–45cm | At pot level; crown at/just below | 45–60cm between plants | 6.0–8.0 | ✅ 25–35cm / 10L+ | Good, sear stems | Snowdrops, cyclamen, pulmonaria, hostas | Морозник | — |
-| G16 | Himalayan Bistort (Fleece Flower, Lesser Knotweed) | *Persicaria affinis* | ☀️ to 🌥️ | 20–30cm | At pot level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ornamental grasses, sedum | — | — |
-| T20 | Holly | *Ilex aquifolium* | 🌑 to ☀️ | 30–60cm | At pot level (shallow roots) | 1.5–3m between; slow-growing hedge | 4.5–8.0 | ⚠️ 50L+ container | Good, foliage; dries/preserves well | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | Падуб остролистный | Cuileann |
+| G6 | Heather | *Calluna vulgaris* | ☀️ | 30cm, spread 30cm | At pot level | 30–45cm between plants; cv. 'Zilly' available | 4.5–6.5 (ideally 5.5) | ✅ 20–25cm / 5–10L ericaceous compost | No | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
+| S10 | Hellebore (Lenten Rose) | *Helleborus spp.* | 🌥️ to 🌑 | 30–45cm | At pot level; crown at/just below | 45–60cm between plants | 6.0–8.0 | ✅ 25–35cm / 10L+ | Good, sear stems | Snowdrops, cyclamen, pulmonaria, hostas | Морозник | — |
+| G7 | Himalayan Bistort (Fleece Flower, Lesser Knotweed) | *Persicaria affinis* | ☀️ to 🌥️ | 20–30cm | At pot level | 30–40cm between plants | 5.5–7.5 | ✅ 10–15L container | No | Ornamental grasses, sedum | — | — |
+| T18 | Holly | *Ilex aquifolium* | 🌑 to ☀️ | 30–60cm | At pot level (shallow roots) | 1.5–3m between; slow-growing hedge | 4.5–8.0 | ⚠️ 50L+ container | Good, foliage; dries/preserves well | Yew, forsythia, hellebores; plant ♂ + ♀ for berries | Падуб остролистный | Cuileann |
 | P18 | Honesty | *Lunaria annua* | ☀️ to 🌥️ | 60–90cm | Crown at soil level | 30–45cm between plants; biennial, self-seeds | 6.0–7.5 | ✅ 15–20L container | Good, seed pods dry beautifully | Tulips, ferns, hostas | Лунник однолетний | Lus na gealaí |
-| B23 | Honey Garlic (Sicilian Honey Lily) | *Allium siculum (syn. Nectaroscordum siculum)* | ☀️ | Up to 1.2m | 15–20cm deep; autumn | 20–25cm between bulbs; self-seeds | 6.0–7.5 | ✅ Large 5L+ container | No | Roses, peonies, ornamental grasses | — | — |
-| F70 | Honeyberry (Kamchatka) | *Lonicera caerulea var. kamtschatica* | 🌤️ | 1.5–2m | At pot level | 1–1.5m between plants | 4.5–7.5 | ⚠️ 50–75L (15–20 gal.) | No | Blueberry, lingonberry; needs 2+ varieties | Жимолость камчатская | — |
+| B20 | Honey Garlic (Sicilian Honey Lily) | *Allium siculum (syn. Nectaroscordum siculum)* | ☀️ | Up to 1.2m | 15–20cm deep; autumn | 20–25cm between bulbs; self-seeds | 6.0–7.5 | ✅ Large 5L+ container | No | Roses, peonies, ornamental grasses | — | — |
+| F12 | Honeyberry (Kamchatka) | *Lonicera caerulea var. kamtschatica* | 🌤️ | 1.5–2m | At pot level | 1–1.5m between plants | 4.5–7.5 | ⚠️ 50–75L (15–20 gal.) | No | Blueberry, lingonberry; needs 2+ varieties | Жимолость камчатская | — |
 | C9 | Hops | *Humulus lupulus* | 🌤️ | 6m | Rhizome 5–8cm / pot level | 1–1.5m between plants | 6.0–8.0 | ✅ 50L+ large container | Dried, decorative | Climbing roses, clematis, ornamental grasses | Хмель обыкновенный | Lus an leanna |
 | W13 | Hornwort | *Ceratophyllum demersum* | ☀️ to 🌥️ | Submerged | Fully submerged, free-floating | Introduce 1–2 bunches per m² of pond surface | 6.0–8.0 (water) | ✅ No planting needed; free-floating | No | Water lilies, frogbit | — | — |
-| T21 | Horse Chestnut | *Aesculus hippocastanum* | ☀️ to 🌤️ | 20–25m | At nursery soil mark | 10m+ minimum; very large tree | 5.5–7.5 | ❌ Too large for pots | No | Best given its own space | — | — |
-| H103 | Horseradish | *Armoracia rusticana* | ☀️ to 🌤️ | Up to 90cm | Root cuttings/crowns at pot level; spring | 45–60cm between plants | 6.0–7.5 | ⚠️ Large container essential (contains spread) | No | Best given its own contained space | — | — |
-| S20 | Hosta fortunei | *Hosta fortunei* | 🌥️ to 🌑 | 40–60cm | At pot level; crown at surface | 40–60cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ | Good | Astilbe, ferns, hellebores, bergenia | — | — |
-| S21 | Hosta sieboldiana | *Hosta sieboldiana* | 🌥️ to 🌑 | 10–90cm | At pot level; crown at surface | 60–90cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ | Good | Astilbe, ferns, hellebores, bergenia | Хоста | — |
-| G17 | Houseleek | *Sempervivum spp.* | ☀️ | 5–15cm | At pot level | 10–15cm between rosettes | 6.0–7.5 | ✅ Shallow pot/trough, 3–5L | No | Saxifrage, wall pennywort, thyme, sedum | Молодило | Lus an tóiteáin |
-| B24 | Hyacinth | *Hyacinthus orientalis* | ☀️ to 🌤️ | 20–30cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.0 | ✅ 10–15L container | Good, fragrant | Daffodils, tulips, forget-me-nots | — | — |
-| G18 | Irish Heath | *Erica erigena* | ☀️ | 45–75cm (some cultivars to 1.2m) | At pot level | 45–60cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
-| G19 | Irish Moss | *Sagina subulata* | ☀️ to 🌥️ | 2–5cm | At pot level | 20–30cm between plants; self-seeds readily | 6.0–7.5 | ✅ 5–10L container/trough | No | Thyme, sempervivum, other paving/rockery plants | — | — |
-| T22 | Irish Yew | *Taxus baccata 'Fastigiata'* | 🌑 to ☀️ | 3–5m | At pot level | Column 1m wide eventually; 1m from structures | 5.0–8.0 | ⚠️ 50L+ container | No ⚠️ toxic | Holly, peonies, roses (backdrop), hellebores | Тис ягодный | Iúr |
-| B25 | Iron Cross | *Oxalis tetraphylla 'Iron Cross'* | ☀️ to 🌤️ | 10–15cm | 5cm deep; spring, lift & store | 10–15cm between tubers; lift over winter | 6.0–7.0 | ✅ 3–5L container | No | Ixia, dwarf dahlias, other summer bulbs | Кислица | — |
-| C21 | Italian Clematis | *Clematis viticella* | 🌤️ (roots shaded) | 3–4m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
+| T19 | Horse Chestnut | *Aesculus hippocastanum* | ☀️ to 🌤️ | 20–25m | At nursery soil mark | 10m+ minimum; very large tree | 5.5–7.5 | ❌ Too large for pots | No | Best given its own space | — | — |
+| H102 | Horseradish | *Armoracia rusticana* | ☀️ to 🌤️ | Up to 90cm | Root cuttings/crowns at pot level; spring | 45–60cm between plants | 6.0–7.5 | ⚠️ Large container essential (contains spread) | No | Best given its own contained space | — | — |
+| S11 | Hosta fortunei | *Hosta fortunei* | 🌥️ to 🌑 | 40–60cm | At pot level; crown at surface | 40–60cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ | Good | Astilbe, ferns, hellebores, bergenia | — | — |
+| S11 | Hosta sieboldiana | *Hosta sieboldiana* | 🌥️ to 🌑 | 10–90cm | At pot level; crown at surface | 60–90cm between plants | 5.5–7.5 | ✅ 30–60cm / 20–50L+ | Good | Astilbe, ferns, hellebores, bergenia | Хоста | — |
+| G8 | Houseleek | *Sempervivum spp.* | ☀️ | 5–15cm | At pot level | 10–15cm between rosettes | 6.0–7.5 | ✅ Shallow pot/trough, 3–5L | No | Saxifrage, wall pennywort, thyme, sedum | Молодило | Lus an tóiteáin |
+| B14 | Hyacinth | *Hyacinthus orientalis* | ☀️ to 🌤️ | 20–30cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.0 | ✅ 10–15L container | Good, fragrant | Daffodils, tulips, forget-me-nots | — | — |
+| G6 | Irish Heath | *Erica erigena* | ☀️ | 45–75cm (some cultivars to 1.2m) | At pot level | 45–60cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
+| G9 | Irish Moss | *Sagina subulata* | ☀️ to 🌥️ | 2–5cm | At pot level | 20–30cm between plants; self-seeds readily | 6.0–7.5 | ✅ 5–10L container/trough | No | Thyme, sempervivum, other paving/rockery plants | — | — |
+| T20 | Irish Yew | *Taxus baccata 'Fastigiata'* | 🌑 to ☀️ | 3–5m | At pot level | Column 1m wide eventually; 1m from structures | 5.0–8.0 | ⚠️ 50L+ container | No ⚠️ toxic | Holly, peonies, roses (backdrop), hellebores | Тис ягодный | Iúr |
+| B15 | Iron Cross | *Oxalis tetraphylla 'Iron Cross'* | ☀️ to 🌤️ | 10–15cm | 5cm deep; spring, lift & store | 10–15cm between tubers; lift over winter | 6.0–7.0 | ✅ 3–5L container | No | Ixia, dwarf dahlias, other summer bulbs | Кислица | — |
+| C3 | Italian Clematis | *Clematis viticella* | 🌤️ (roots shaded) | 3–4m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
 | C10 | Ivy | *Hedera helix / H. hibernica — native Irish ivy* | 🌑 to ☀️ | 10–20m | At pot level | 30–50cm between plants | 5.0–8.0 | ✅ 20L+ (25–35cm pot) | Good, foliage filler | Virginia creeper, ferns, snowdrops, bluebells | Плющ обыкновенный | Eidhneán |
 | P20 | Japanese Anemone | *Anemone × hybrida* | 🌥️ | Leaves float; flowers just above surface | At pot level | 45–60cm between plants; can spread | 6.0–7.5 | ✅ 40–50cm / 30L+ | Good | Hostas, astilbe, hellebores | Ветреница гибридная | — |
-| T23 | Japanese Barberry | *Berberis thunbergii* | ☀️ | 1–1.2m | At nursery soil mark | 60–90cm hedge; 1–1.2m specimen | 6.0–7.5 | ✅ 40–50L container | Good, foliage | Golden/lime-green shrubs, spring bulbs | — | — |
-| P56 | Japanese Blood Grass | *Imperata cylindrica* | ☀️ | 40–60cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sedum, echinacea, rudbeckia | — | — |
-| T24 | Japanese Camellia | *Camellia japonica* | 🌥️ | 30–60cm | At nursery soil mark | 1–1.5m between plants | 5.0–6.5 | ✅ 40–50L ericaceous compost | Good, short vase life | Skimmia, hydrangea macrophylla, Japanese maple | Камелия японская | — |
-| T25 | Japanese Cedar | *Cryptomeria japonica* | ☀️ to 🌥️ | 30–60cm | At nursery soil mark | 4–6m between plants; dwarf cultivars 1–1.5m | 5.5–6.5 | ✅ Large container for dwarf cultivars | No | Japanese maple, camellia, rhododendron, ferns | — | — |
-| P53 | Japanese Forest Grass | *Hakonechloa macra* | 🌥️ | 30–40cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Hostas, ferns, hellebores | — | — |
-| T26 | Japanese Maple | *Acer palmatum* | 🌥️ | 2–4m | At pot level (shallow) | 2–4m from structures; wind shelter essential | 5.5–6.5 | ✅ 50–80L terracotta/stone | Good, foliage | Hostas, ferns, hellebores, snowdrops | Клён дланевидный | — |
-| S22 | Japanese Painted Fern | *Athyrium niponicum* | 🌥️ to 🌑 | 30–45cm | At pot level; crown at/just below surface | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ | Good | Hostas, hellebores, astilbe | — | — |
-| T27 | Japanese Skimmia | *Skimmia japonica* | 🌑 to ☀️ | 30–60cm | At nursery soil mark | 60–90cm between plants; ♂+♀ within a few metres for berries | 5.5–6.5 | ✅ 30–40L container | Good, berried foliage | Hellebores, ferns, hostas, Japanese maple | Скиммия японская | — |
-| W33 | Japanese Water Iris | *Iris ensata* | ☀️ to 🌤️ | 50–90cm | Rhizome at soil level; moist to wet soil | 30–40cm between plants | 5.5–6.5 | ✅ Large container, kept constantly moist | Good | Bogbean, yellow flag iris | — | — |
-| S23 | Japanese Wood Fern | *Dryopteris erythrosora* | 🌥️ to 🌑 | 45–60cm | At pot level | 45–60cm between plants | 5.0–6.0 | ✅ 20–30L container | Good, foliage filler | Hostas, heuchera, hellebores | Щитовник красносорусовый | — |
-| G20 | Jenny's Stonecrop (Reflexed Stonecrop) | *Petrosedum rupestre* | ☀️ | 10–15cm | At pot level | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sempervivum, other sedums, ornamental grasses | — | — |
-| G21 | Juniper | *Juniperus communis* | ☀️ | 20–40cm, spreading | At pot level, ~15cm deep | 1–1.5m for ground cover | 4.5–7.5 | ⚠️ Large shallow container | No | Heather, sempervivum, saxifrage | — | — |
+| T21 | Japanese Barberry | *Berberis thunbergii* 'Atropurpurea'; 'Atropurpurea Nana' | ☀️ | 1–1.2m; Nana max 60cm | At nursery soil mark | 60–90cm hedge; 1–1.2m specimen; Nana ~60–75cm | 6.0–7.5 | ✅ 40–50L container (Nana: smaller pot) | Good, foliage | Golden/lime-green shrubs, spring bulbs | — | — |
+| P28 | Japanese Blood Grass | *Imperata cylindrica* | ☀️ | 40–60cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sedum, echinacea, rudbeckia | — | — |
+| T22 | Japanese Camellia | *Camellia japonica* | 🌥️ | 30–60cm | At nursery soil mark | 1–1.5m between plants | 5.0–6.5 | ✅ 40–50L ericaceous compost | Good, short vase life | Skimmia, hydrangea macrophylla, Japanese maple | Камелия японская | — |
+| T23 | Japanese Cedar | *Cryptomeria japonica* | ☀️ to 🌥️ | 30–60cm | At nursery soil mark | 4–6m between plants; dwarf cultivars 1–1.5m | 5.5–6.5 | ✅ Large container for dwarf cultivars | No | Japanese maple, camellia, rhododendron, ferns | — | — |
+| T24 | Japanese Flowering Cherry | *Prunus serrulata* | ☀️ | 2.5–8m | Graft union at/above soil | 4–6m between plants; 'Kiku-shidare' 2.5–4m | 6.0–7.5 | ❌ Too large for pots | No | Daffodils, tulips, forget-me-nots, hostas, hardy geraniums | Вишня мелкопильчатая | — |
+| P28 | Japanese Forest Grass | *Hakonechloa macra* | 🌥️ | 30–40cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Hostas, ferns, hellebores | — | — |
+| T25 | Japanese Maple | *Acer palmatum* | 🌥️ | 2–4m | At pot level (shallow) | 2–4m from structures; wind shelter essential | 5.5–6.5 | ✅ 50–80L terracotta/stone | Good, foliage | Hostas, ferns, hellebores, snowdrops | Клён дланевидный | — |
+| S16 | Japanese Painted Fern | *Athyrium niponicum* | 🌥️ to 🌑 | 30–45cm | At pot level; crown at/just below surface | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ | Good | Hostas, hellebores, astilbe | — | — |
+| T26 | Japanese Skimmia | *Skimmia japonica* | 🌑 to ☀️ | 30–60cm | At nursery soil mark | 60–90cm between plants; ♂+♀ within a few metres for berries | 5.5–6.5 | ✅ 30–40L container | Good, berried foliage | Hellebores, ferns, hostas, Japanese maple | Скиммия японская | — |
+| W25 | Japanese Water Iris | *Iris ensata* | ☀️ to 🌤️ | 50–90cm | Rhizome at soil level; moist to wet soil | 30–40cm between plants | 5.5–6.5 | ✅ Large container, kept constantly moist | Good | Bogbean, yellow flag iris | — | — |
+| S16 | Japanese Wood Fern | *Dryopteris erythrosora* | 🌥️ to 🌑 | 45–60cm | At pot level | 45–60cm between plants | 5.0–6.0 | ✅ 20–30L container | Good, foliage filler | Hostas, heuchera, hellebores | Щитовник красносорусовый | — |
+| G10 | Jenny's Stonecrop (Reflexed Stonecrop) | *Petrosedum rupestre* | ☀️ | 10–15cm | At pot level | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sempervivum, other sedums, ornamental grasses | — | — |
+| G11 | Juniper | *Juniperus communis* | ☀️ | 20–40cm, spreading | At pot level, ~15cm deep | 1–1.5m for ground cover | 4.5–7.5 | ⚠️ Large shallow container | No | Heather, sempervivum, saxifrage | — | — |
 | C11 | Kiwi | *Actinidia deliciosa* | ☀️ | 4–9m | At pot level; do not bury crown | 3–5m between plants; needs permanent support | 6.0–7.0 | ⚠️ Min. 60–80L (better in ground) | No | Climbing roses, wisteria, lavender, garlic | Киви | — |
-| S24 | Koidzumi's Wood Fern | *Dryopteris koidzumiana* | 🌥️ to 🌑 | 60–90cm | At pot level; crown at/just below surface | 60cm between plants | 5.5–7.0 | ✅ 40–50cm / 25–30L | No | Hostas, astilbe, hellebores, bamboo | — | — |
-| T28 | Korean Fir | *Abies koreana* | ☀️ to 🌥️ | 2–5m | At nursery soil mark | 3–4m; dwarf cvs. much closer | 5.0–6.5 | ⚠️ Large container for young plants | No | Heather, dwarf conifers | — | — |
+| S16 | Koidzumi's Wood Fern | *Dryopteris koidzumiana* | 🌥️ to 🌑 | 60–90cm | At pot level; crown at/just below surface | 60cm between plants | 5.5–7.0 | ✅ 40–50cm / 25–30L | No | Hostas, astilbe, hellebores, bamboo | — | — |
+| T27 | Korean Fir | *Abies koreana* | ☀️ to 🌥️ | 2–5m | At nursery soil mark | 3–4m; dwarf cvs. much closer | 5.0–6.5 | ⚠️ Large container for young plants | No | Heather, dwarf conifers | — | — |
 | A10 | Lacy Phacelia | *Phacelia tanacetifolia* | ☀️ | 60–90cm | 1cm deep (seed) | 20–30cm between plants; annual, sow successionally | 6.0–7.5 | ✅ 5L+ container | No | Vegetable beds, fruit trees (pollinator support) | Фацелия пижмолистная | — |
-| S25 | Lady Fern | *Athyrium filix-femina* | 🌥️ to 🌑 | 60–120cm | At pot level; crown at/just below surface | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ | No | Hostas, hellebores, astilbe | — | — |
+| S14 | Lady Fern | *Athyrium filix-femina* | 🌥️ to 🌑 | 60–120cm | At pot level; crown at/just below surface | 30–45cm between plants | 5.5–6.5 | ✅ 30–40cm / 15L+ | No | Hostas, hellebores, astilbe | — | — |
 | P21 | Lady's Bedstraw | *Galium verum* | ☀️ | 20–30cm | Crown at soil level | 20–30cm between plants | 6.0–7.5 | ✅ 5L+ container | Good, dries well | Ox-eye daisy, yarrow, wild grasses | Подмаренник настоящий | Bolach cnis |
 | A100 | Lambs Tails | *Ptilotus exaltatus* | ☀️ | 30cm–1.2m | Sow under cover, spring; at pot level | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container | Good | Other drought-tolerant annuals, gravel-garden plants | — | — |
 | P22 | Lanceleaf Tickseed | *Coreopsis lanceolata* | ☀️ | 45–60cm | Crown at soil level | 30–45cm between plants; self-seeds freely | 5.5–7.0 | ✅ 15–20L container | Good | Yarrow, dianthus, ornamental grasses | Кореопсис ланцетовидный | — |
@@ -8604,184 +8634,185 @@ West of Ireland clay soil is typically heavy, poorly draining, and mildly acidic
 | H16 | Lemon Balm | *Melissa officinalis* | ☀️ to 🌥️ | 60–90cm | At pot level | 30–45cm between plants; spreads readily | 6.0–7.5 | ✅ 15–20L container (to contain spread) | No | Brassicas, tomatoes | Мелисса лекарственная | Lus na meala |
 | H17 | Lemon Verbena | *Aloysia citrodora* | ☀️ | 1–2m | At pot level | One plant per pot; 60–90cm if grown in a bed | 6.0–7.5 | ✅ Essential; move under cover for winter | Good, fragrant foliage | Best grown alone in own container | — | — |
 | H18 | Lemongrass | *Cymbopogon citratus* | ☀️ | 60cm–1m | At pot level | One plant per pot; 40–50cm if grown in a bed | 6.0–7.5 | ✅ Essential; move under cover for winter | No | Best grown alone in own container | — | — |
-| T29 | Lewis Mock Orange | *Philadelphus lewisii* | ☀️ to 🌤️ | 2–3m | At nursery soil mark | 1.5–2m between plants | 6.0–7.5 | ⚠️ 50L+ container | Good, fragrant branches | Deutzia, lilac, roses, spring bulbs | Чубушник Льюиса | — |
-| T30 | Lilac | *Syringa vulgaris* | ☀️ | 20–50cm | At nursery soil mark | 1.5m between; 2m from walls | 6.5–8.0 | ❌ Too large | Good | Roses, alliums, peonies, irises | Сирень обыкновенная | Craobh liathchorcra |
-| B26 | Lilies | *Lilium spp.* | 🌤️ | 20–30cm | 15cm (3× bulb height) on grit; autumn/spring | 15–30cm between bulbs | 6.0–7.0 | ✅ 30–40cm / 15–25L | Good | Hostas, geraniums, roses, alliums | Лилия | — |
-| T31 | Lily Magnolia | *Magnolia liliiflora* | ☀️ to 🌤️ | 2.5–3m | At nursery soil mark | 2–3m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
-| S26 | Lily of the Valley | *Convallaria majalis* | 🌥️ | 15–20cm | 2–3cm deep (rhizome) | 15–20cm between plants; ⚠️ toxic, spreads | 6.0–7.5 | ✅ 15–20L container | Good ⚠️ toxic, handle with care | Ferns, hostas, hellebores | Ландыш майский | — |
+| T28 | Lewis Mock Orange | *Philadelphus lewisii* | ☀️ to 🌤️ | 2–3m | At nursery soil mark | 1.5–2m between plants | 6.0–7.5 | ⚠️ 50L+ container | Good, fragrant branches | Deutzia, lilac, roses, spring bulbs | Чубушник Льюиса | — |
+| T29 | Lilac | *Syringa vulgaris* | ☀️ | 20–50cm | At nursery soil mark | 1.5m between; 2m from walls | 6.5–8.0 | ❌ Too large | Good | Roses, alliums, peonies, irises | Сирень обыкновенная | Craobh liathchorcra |
+| B16 | Lilies | *Lilium spp.* | 🌤️ | 20–30cm | 15cm (3× bulb height) on grit; autumn/spring | 15–30cm between bulbs | 6.0–7.0 | ✅ 30–40cm / 15–25L | Good | Hostas, geraniums, roses, alliums | Лилия | — |
+| T30 | Lily Magnolia | *Magnolia liliiflora* | ☀️ to 🌤️ | 2.5–3m | At nursery soil mark | 2–3m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
+| S12 | Lily of the Valley | *Convallaria majalis* | 🌥️ | 15–20cm | 2–3cm deep (rhizome) | 15–20cm between plants; ⚠️ toxic, spreads | 6.0–7.5 | ✅ 15–20L container | Good ⚠️ toxic, handle with care | Ferns, hostas, hellebores | Ландыш майский | — |
 | P23 | Lilyleaf Ladybells | *Adenophora liliifolia* | ☀️ to 🌥️ | 60–90cm | Crown at soil level | 30–40cm between plants | 6.0–7.5 | ⚠️ 20L+ container (dislikes disturbance) | Good | Bellflowers, delphiniums, phlox | Бубенчик лилиелистный (колокольчик лилиелистный) | — |
 | F13 | Lingonberry | *Vaccinium vitis-idaea* | 🌥️ | 15–20cm | At pot level | 30cm between plants | 4.2–5.5 | ✅ 25–30cm / 10–15L | No | Blueberry, heather, cranberry, deer fern | Брусника обыкновенная | — |
-| T1 | "Little Girl" Magnolia hybrids | *Magnolia liliiflora 'Nigra' × Magnolia stellata 'Rosea'* | ☀️ to 🌤️ | 2.5–4m | At nursery soil mark | 2.5–4m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
-| T32 | Loebner Magnolia | *Magnolia × loebneri* | ☀️ to 🌤️ | 4–6m | At nursery soil mark | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
-| T33 | Monkey Puzzle Tree | *Araucaria araucana* | ☀️ to 🌤️ | 15–25m | At nursery soil mark | Allow at least 6–8m from buildings and paths | 5.5–7.0 | ❌ Too large for pots long-term | No | Best as a specimen tree | — | — |
+| T30 | "Little Girl" Magnolia hybrids | *Magnolia liliiflora 'Nigra' × Magnolia stellata 'Rosea'* | ☀️ to 🌤️ | 2.5–4m | At nursery soil mark | 2.5–4m between plants/structures | 5.0–6.5 | ⚠️ 50–80L container | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
+| T30 | Loebner Magnolia | *Magnolia × loebneri* | ☀️ to 🌤️ | 4–6m | At nursery soil mark | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
+| T31 | Monkey Puzzle Tree | *Araucaria araucana* | ☀️ to 🌤️ | 15–25m | At nursery soil mark | Allow at least 6–8m from buildings and paths | 5.5–7.0 | ❌ Too large for pots long-term | No | Best as a specimen tree | — | — |
 | W14 | Loosestrife | *Lysimachia vulgaris and L. punctata* | ☀️ to 🌥️ | 20–50cm | Crown at soil level | 30–50cm between plants; spreads vigorously | 6.0–7.5 | ✅ 20L+ container (to contain spread) | Good, filler | Yellow Flag Iris, Meadowsweet, Marsh Marigold | Вербейник обыкновенный | Breallán léana (Breallán dlúth) |
 | W15 | Lotus | *Nelumbo spp.* | ☀️ | 30–60cm above water | Tuber horizontal, just under soil; 5–60cm water above | One tuber per large container | 6.0–7.0 (water) | ✅ Essential: large container acting as mini-pond | Good, seedheads dry well | Best grown alone in own container | — | — |
 | A11 | Love-in-a-Mist | *Nigella damascena* | ☀️ to 🌤️ | 30–60cm | 1cm deep (seed) | 20cm between plants; annual, self-seeds freely | 6.0–7.5 | ✅ 5L+ container | Good, seed pods dry well | Cornflower, poppies, briza maxima | Чернушка дамасская (девица в зелени, нигелла) | Nigéal |
 | P25 | Lungworts | *Pulmonaria spp.* | 🌥️ | 25–30cm | Crown at soil level | 30–40cm between plants; divide every 3–4 yrs | 6.0–7.5 | ✅ 15–20L container | No | Hellebores, ferns, hostas | Медуница | — |
 | P26 | Lupins | *Lupinus polyphyllus and hybrids* | ☀️ to 🌤️ | 90cm–1.5m | Crown at soil level | 45–60cm between plants | 5.5–6.5 | ⚠️ 20L+ container (dislikes disturbance) | Good | Delphiniums, roses, foxgloves | Люпин многолистный | — |
-| P61 | Maiden Pink | *Dianthus deltoides* | ☀️ | 15–20cm | At pot level | 20–30cm between plants | 6.0–7.5 | ✅ 15–20cm / 5L+ | No | Phlox subulata, sempervivum, saxifrage | — | — |
-| S27 | Maidenhair Fern (Himalayan) | *Adiantum venustum* | 🌥️ to 🌑 | 15–25cm | At pot level | 20–30cm between plants | 5.5–7.0 | ✅ 25–30cm / 10–15L | No | Hostas, hellebores, primroses | — | — |
-| S28 | Male Fern | *Dryopteris filix-mas* | 🌥️ to 🌑 | 60–100cm | Crown 7–12cm above soil | 60–90cm between plants | 5.0–7.0 | ✅ 40–50cm / 30L+ | Good, foliage filler | Hostas, astilbe, bamboo, snowdrops | Щитовник мужской | Raithneach mhadra |
+| P35 | Maiden Pink | *Dianthus deltoides* | ☀️ | 15–20cm | At pot level | 20–30cm between plants | 6.0–7.5 | ✅ 15–20cm / 5L+ | No | Phlox subulata, sempervivum, saxifrage | — | — |
+| S16 | Maidenhair Fern (Himalayan) | *Adiantum venustum* | 🌥️ to 🌑 | 15–25cm | At pot level | 20–30cm between plants | 5.5–7.0 | ✅ 25–30cm / 10–15L | No | Hostas, hellebores, primroses | — | — |
+| S14 | Male Fern | *Dryopteris filix-mas* | 🌥️ to 🌑 | 60–100cm | Crown 7–12cm above soil | 60–90cm between plants | 5.0–7.0 | ✅ 40–50cm / 30L+ | Good, foliage filler | Hostas, astilbe, bamboo, snowdrops | Щитовник мужской | Raithneach mhadra |
 | W16 | Mare's Tail | *Hippuris vulgaris* | ☀️ to 🌤️ | 20–50cm | Crown at soil surface; shallow water/wet mud | 20–30cm between plants | 6.5–7.5 | ✅ Aquatic basket | No | Water mint, water forget-me-not | — | — |
 | W17 | Marsh Marigold | *Caltha palustris* | ☀️ to 🌥️ | 15–30cm | Crown at soil level / shallow water | 30–40cm between plants | 6.0–7.5 | ✅ Aquatic basket, 3–5L | No | Yellow flag iris, bogbean, ferns | Калужница болотная | Lus buí Bealtaine |
 | W18 | Marsh Orchids | *Dactylorhiza spp.* | ☀️ to 🌥️ | 20–50cm | 5–8cm deep (tuber) / at pot level | 15–20cm between plants; buy nursery stock only | 6.0–7.0 | ⚠️ Large container, kept constantly moist | No, do not pick (protected) | Yellow flag iris, meadowsweet, ragged robin | Пальчатокоренник | — |
-| B27 | Martagon Lily | *Lilium martagon* | 🌥️ | 90–150cm | 15cm deep (3× bulb height); autumn/spring | 20–30cm between bulbs | 6.0–7.5 | ✅ Large 20L+ container | Good | Hostas, ferns, hellebores; light woodland edge | Лилия кудреватая | — |
-| B28 | Meadow Saffron (Colchicum) | *Colchicum autumnale* | ☀️ to 🌥️ | 10–20cm | 7–10cm deep; July–August | 15cm between corms | 4.5–7.5 | ✅ 10–15L container | No | Daffodils, snake's head fritillaries, camassia | — | — |
+| B17 | Martagon Lily | *Lilium martagon* | 🌥️ | 90–150cm | 15cm deep (3× bulb height); autumn/spring | 20–30cm between bulbs | 6.0–7.5 | ✅ Large 20L+ container | Good | Hostas, ferns, hellebores; light woodland edge | Лилия кудреватая | — |
+| B18 | Meadow Saffron (Colchicum) | *Colchicum autumnale* | ☀️ to 🌥️ | 10–20cm | 7–10cm deep; July–August | 15cm between corms | 4.5–7.5 | ✅ 10–15L container | No | Daffodils, snake's head fritillaries, camassia | — | — |
 | P27 | Masterwort | *Astrantia major* | ☀️ to 🌥️ | 60–90cm | Crown at soil level | 30–45cm between plants | 5.5–7.5 | ✅ 20–25L container | Good, dries well | Roses, ferns, hostas | Астранция крупная | — |
 | W19 | Meadowsweet | *Filipendula ulmaria* | ☀️ to 🌤️ | 1–1.5m | Crown at soil level | 60cm between plants; can self-seed | 5.0–6.5 | ⚠️ Large 40–50cm / 30L+ | Good, fragrant filler | Yellow flag iris, bogbean, royal fern, astilbe | Лабазник вязолистный | Airgead luachra |
 | A12 | Mealycup Sage | *Salvia farinacea* | ☀️ | 45–60cm | At pot level | 25–30cm between plants | 5.5–7.5 | ✅ 10–15L container | Good, dries reasonably | Zinnias, cosmos, gomphrena | Шалфей мучнистый | — |
-| P54 | Mexican Feather Grass | *Nassella tenuissima (syn. Stipa tenuissima)* | ☀️ | 40–60cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sedum, echinacea, rudbeckia | — | — |
+| P28 | Mexican Feather Grass | *Nassella tenuissima (syn. Stipa tenuissima)* | ☀️ | 40–60cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sedum, echinacea, rudbeckia | — | — |
 | H19 | Mint | *Mentha spp.* | 🌤️ | 30–90cm | At pot level | 60cm if in ground with root barrier | 6.0–7.0 | ✅ Essential (contains spread): 30cm / 10L+ | No | Near brassicas/tomatoes as repellent (in pots) | Мята | Miontas |
-| S29 | Monkshood | *Aconitum napellus* | 🌥️ to ☀️ | 90cm–1.5m | Crown at soil level | 45–60cm between plants; ⚠️ toxic, wear gloves | 6.0–7.5 | ⚠️ 20–30L container | Good ⚠️ toxic, handle with care | Delphiniums, hostas, astilbe | Борец клобучковый (аконит) | — |
-| T34 | Mophead / Lacecap Hydrangea | *Hydrangea macrophylla* | 🌥️ | 1–2m | At pot level; rootball top slightly raised | 90cm–2.4m between (check label for variety size) | 5.0–7.0 (blue 5.0–6.0; pink 6.0–7.0) | ✅ Excellent: 40cm compact / 50–60cm standard | Good, dries well | Astilbe, hostas, ferns, yarrow, heucheras | Гортензия крупнолистная | — |
-| G22 | Mother of Thyme (Creeping Thyme) | *Thymus serpyllum* | ☀️ | 5–10cm, mat-forming | At pot level | 20–30cm between plants | 6.0–8.0 | ✅ Terracotta 20cm / 5L+ with grit | No | Rosemary, oregano, lavender, creeping juniper | Тимьян ползучий | — |
-| T35 | Mountain Ash (Rowan) | *Sorbus aucuparia* | ☀️ to 🌤️ | 10–15m | At nursery soil mark | 3–5m from structures | 5.0–7.0 | ⚠️ 80–100L container | Good, berried branches | Holly, hawthorn, ferns, foxgloves, hellebores | Рябина обыкновенная | Caorthann |
-| T36 | Norfolk Island Pine | *Araucaria heterophylla* | ☀️ to 🌤️ | 1–2m in containers (Ireland) | At pot level | Grown as a single container specimen | 6.0–7.0 | ⚠️ Container essential, brought indoors for winter | No | Not typically underplanted | — | — |
-| G23 | Mountain/Caucasian Rock Cress | *Arabis caucasica* | ☀️ | 25–30cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Aubretia, alyssum, spring bulbs | — | — |
+| S13 | Monkshood | *Aconitum napellus* | 🌥️ to ☀️ | 90cm–1.5m | Crown at soil level | 45–60cm between plants; ⚠️ toxic, wear gloves | 6.0–7.5 | ⚠️ 20–30L container | Good ⚠️ toxic, handle with care | Delphiniums, hostas, astilbe | Борец клобучковый (аконит) | — |
+| T32 | Mophead / Lacecap Hydrangea | *Hydrangea macrophylla* | 🌥️ | 1–2m | At pot level; rootball top slightly raised | 90cm–2.4m between (check label for variety size) | 5.0–7.0 (blue 5.0–6.0; pink 6.0–7.0) | ✅ Excellent: 40cm compact / 50–60cm standard | Good, dries well | Astilbe, hostas, ferns, yarrow, heucheras | Гортензия крупнолистная | — |
+| G20 | Mother of Thyme (Creeping Thyme) | *Thymus serpyllum* | ☀️ | 5–10cm, mat-forming | At pot level | 20–30cm between plants | 6.0–8.0 | ✅ Terracotta 20cm / 5L+ with grit | No | Rosemary, oregano, lavender, creeping juniper | Тимьян ползучий | — |
+| T33 | Mountain Ash (Rowan) | *Sorbus aucuparia* | ☀️ to 🌤️ | 10–15m | At nursery soil mark | 3–5m from structures | 5.0–7.0 | ⚠️ 80–100L container | Good, berried branches | Holly, hawthorn, ferns, foxgloves, hellebores | Рябина обыкновенная | Caorthann |
+| T34 | Norfolk Island Pine | *Araucaria heterophylla* | ☀️ to 🌤️ | 1–2m in containers (Ireland) | At pot level | Grown as a single container specimen | 6.0–7.0 | ⚠️ Container essential, brought indoors for winter | No | Not typically underplanted | — | — |
+| G17 | Mountain/Caucasian Rock Cress | *Arabis caucasica* | ☀️ | 25–30cm | At pot level | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Aubretia, alyssum, spring bulbs | — | — |
 | H100 | Mustard Greens | *Brassica juncea* | ☀️ to 🌥️ | 30–60cm | Sow direct/modules, 1cm deep | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Other brassicas (rotate); legumes | — | — |
-| B29 | Naples Garlic | *Allium cowanii (syn. Allium neapolitanum)* | ☀️ | 20–30cm | 8–10cm deep; autumn | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container | No | Crocus, dwarf iris, other small spring bulbs | — | — |
+| B20 | Naples Garlic | *Allium cowanii (syn. Allium neapolitanum)* | ☀️ | 20–30cm | 8–10cm deep; autumn | 10–15cm between bulbs | 6.0–7.5 | ✅ 3–5L container | No | Crocus, dwarf iris, other small spring bulbs | — | — |
 | H20 | Nasturtiums | *Tropaeolum majus* | ☀️ to 🌤️ | 20–30cm | 1–2cm deep (seed) | 20–30cm between plants; annual, self-seeds | 6.0–7.5 | ✅ 5L+ container | Good, short vase life | Apples, brassicas, cucumbers (trap crop) | Настурция большая | Gleorán |
-| B30 | Native Bluebells | *Hyacinthoides non-scripta* | 🌥️ | 20–40cm | 8cm deep; autumn | 8–10cm between bulbs | 6.0–6.8 | ✅ 5L+ container | No, do not pick (protected) | Ferns, hostas, primroses, wood anemones | Гиацинтоидес неописанный | Coinnle corra |
-| S30 | Native Irish Mosses | *various spp.* | 🌥️ to 🌑 | 1–5cm | Surface transplant, not buried | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot | No | Ferns, wood sorrel, primroses | Мхи | — |
-| W35 | Native White Water Lily | *Nymphaea alba* | ☀️ | Leaves float; flowers just above surface | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | 1.5–2m between plants; large ponds only | 6.5–7.5 (water) | ✅ (pond basket essential): 30–40cm+ basket | Good, short vase life | Yellow flag iris, bogbean, oxygenating plants | Кувшинка белая | Bacán bán |
+| B19 | Native Bluebells | *Hyacinthoides non-scripta* | 🌥️ | 20–40cm | 8cm deep; autumn | 8–10cm between bulbs | 6.0–6.8 | ✅ 5L+ container | No, do not pick (protected) | Ferns, hostas, primroses, wood anemones | Гиацинтоидес неописанный | Coinnle corra |
+| S15 | Native Irish Mosses | *various spp.* | 🌥️ to 🌑 | 1–5cm | Surface transplant, not buried | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot | No | Ferns, wood sorrel, primroses | Мхи | — |
+| W26 | Native White Water Lily | *Nymphaea alba* | ☀️ | Leaves float; flowers just above surface | Crown at soil surface in basket; start 20–30cm below water surface, lower to 90–150cm | 1.5–2m between plants; large ponds only | 6.5–7.5 (water) | ✅ (pond basket essential): 30–40cm+ basket | Good, short vase life | Yellow flag iris, bogbean, oxygenating plants | Кувшинка белая | Bacán bán |
 | C12 | Necklace Vine (Maidenhair Vine) | *Muehlenbeckia complexa* | ☀️ to 🌤️ | 3–4m | At nursery soil mark | 1–1.5m between plants | 5.5–7.5 | ✅ Large container or ground | No | Ornamental grasses, topiary frames | — | — |
 | F14 | Olive | *Olea europaea* | ☀️ | 2–3m | At nursery soil mark | 2–3m between plants | 6.0–8.5 | ✅ Strongly recommended | No | Lavender, rosemary | — | — |
 | H21 | Oregano (Wild Marjoram) | *Origanum vulgare* | ☀️ | 15–40cm | At pot level | 30–45cm between plants | 6.5–8.0 | ✅ 25cm / 8L+ | No | Thyme, rosemary; pollinator attractor for fruit | Душица обыкновенная | Máirtín fiáin |
-| S31 | Ostrich Fern | *Matteuccia struthiopteris* | 🌥️ to 🌑 | 1–1.8m | Crown at soil surface | 45–90cm between plants; spreads by runners | 5.0–7.0 | ⚠️ Large 30L+ container, keep very moist | Good, foliage filler | Bog-garden and damp-border companions | Страусник обыкновенный | — |
-| B31 | Ostrowsky's Onion | *Allium oreophilum* | ☀️ | 15–20cm | 8–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ 3–5L container | No | Dwarf iris, crocus, other rockery bulbs | — | — |
-| P57 | Pampas Grass | *Cortaderia selloana* | ☀️ | 2–3m | At pot level | 2–3m between plants | 6.0–7.5 | ❌ Too large for pots | Good, dried plumes | Best as a solo specimen | — | — |
+| S16 | Ostrich Fern | *Matteuccia struthiopteris* | 🌥️ to 🌑 | 1–1.8m | Crown at soil surface | 45–90cm between plants; spreads by runners | 5.0–7.0 | ⚠️ Large 30L+ container, keep very moist | Good, foliage filler | Bog-garden and damp-border companions | Страусник обыкновенный | — |
+| B20 | Ostrowsky's Onion | *Allium oreophilum* | ☀️ | 15–20cm | 8–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ 3–5L container | No | Dwarf iris, crocus, other rockery bulbs | — | — |
+| P28 | Pampas Grass | *Cortaderia selloana* | ☀️ | 2–3m | At pot level | 2–3m between plants | 6.0–7.5 | ❌ Too large for pots | Good, dried plumes | Best as a solo specimen | — | — |
 | H22 | Parsley | *Petroselinum crispum* | ☀️ to 🌤️ | 20–30cm | 1cm deep (seed) | 20–30cm between plants; sow successionally | 6.0–7.0 | ✅ 10–15L container | No | Tomatoes, asparagus, roses | Петрушка кудрявая | Peirsil |
 | P29 | Pasqueflower | *Pulsatilla vulgaris* | ☀️ | 20–50cm | At pot level; do not disturb | 20–30cm between plants | 6.5–8.0 | ✅ Essential on clay: 25–30cm / 10L+ | No, seedheads dry decoratively | Dianthus, Eryngium, Achillea, ornamental grasses | Прострел обыкновенный | — |
 | H23 | Patio Tomatoes | *Solanum lycopersicum (compact/dwarf cultivars)* | ☀️ | 30–45cm | Deep; bury to lowest leaves | One plant per 30–40cm pot | 6.0–6.8 | ✅ 30–40cm/10L+ pot; essential | No | Basil, marigolds, chives | — | — |
 | F15 | Peach | *Prunus persica* | ☀️ | 60cm+ | At nursery soil mark; graft above soil | 2–4m; cvs. 'Peregrine', 'Rochester', 'Melred' | 6.0–7.0 | ✅ Large container (compact cvs.) | Good, blossom | Chives, garlic | — | — |
-| P47 | Peach-leaved Bellflower | *Campanula persicifolia* | ☀️ to 🌥️ | 60cm–1m | Crown at soil level | 30–45cm between plants; divide every 2–4 yrs | 6.0–7.5 | ✅ 15–20L container | Good | Delphiniums, roses, lupins | — | — |
+| P4 | Peach-leaved Bellflower | *Campanula persicifolia* | ☀️ to 🌥️ | 60cm–1m | Crown at soil level | 30–45cm between plants; divide every 2–4 yrs | 6.0–7.5 | ✅ 15–20L container | Good | Delphiniums, roses, lupins | — | — |
 | F16 | Pear | *Pyrus communis* | ☀️ | 20–40cm, spreading | Graft union at/above soil | Depends on rootstock; cvs. 'Conference', 'Concorde', 'Doyenné du Comice' | 6.0–7.5 | ✅ Container on Quince C | No | Chives, garlic | — | — |
 | H24 | Peas | *Pisum sativum* | ☀️ | 45cm–1.8m | Sow 2–5cm deep | 5–7cm between seeds; 45–60cm between rows | 6.0–7.5 | ✅ 30–40cm / 10L+ container | No | Carrots, radishes, cucumbers, beans | — | — |
 | P30 | Penstemon | *Penstemon spp.* | ☀️ | 45–75cm | Crown at soil level | 30–45cm between plants | 5.5–7.0 | ✅ 20–30L container | Good | Salvia, echinacea, rudbeckia, lavender | Пенстемон | — |
 | P31 | Peonies | *Paeonia spp.* | ☀️ to 🌤️ | 60–90cm | Eyes MAX 2.5–5cm below soil | 90cm between plants | 6.5–7.0 | ⚠️ 50L+ large tub | Good | Alliums, irises, salvia, roses, foxgloves | Пион | — |
 | H25 | Peppermint | *Mentha × piperita* | 🌤️ | 30–90cm | At pot level | 45–60cm between plants; ⚠️ vigorous | 6.0–7.0 | ✅ 30cm+ container (or root barrier) | No | Roses, brassicas, tomatoes | — | — |
 | P32 | Perennial Flax | *Linum perenne* | ☀️ | 30–45cm | Crown at soil level | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Yarrow, lavender, drought-tolerant perennials | Лён многолетний | — |
-| G24 | Periwinkle | *Vinca minor and V. major* | 🌑 to ☀️ | 15–20cm | At pot level | 30–45cm between plants; can spread | 5.5–8.0 | ✅ 25–35cm / 10L+ | No | Hellebores, snowdrops, ivy; under trees/shrubs | Барвинок малый | Fincín mór |
-| B32 | Persian Fritillary | *Fritillaria persica* | ☀️ | 60cm+ | 15–20cm deep, on its side; autumn | 20–25cm between bulbs | 6.5–8.0 | ⚠️ Large gritty container | No | Tulips, alliums, euphorbia | — | — |
+| G13 | Periwinkle | *Vinca minor and V. major* | 🌑 to ☀️ | 15–20cm | At pot level | 30–45cm between plants; can spread | 5.5–8.0 | ✅ 25–35cm / 10L+ | No | Hellebores, snowdrops, ivy; under trees/shrubs | Барвинок малый | Fincín mór |
+| B12 | Persian Fritillary | *Fritillaria persica* | ☀️ | 60cm+ | 15–20cm deep, on its side; autumn | 20–25cm between bulbs | 6.5–8.0 | ⚠️ Large gritty container | No | Tulips, alliums, euphorbia | — | — |
 | P33 | Pheasant's Eye | *Adonis vernalis / A. amurensis* | ☀️ to 🌥️ | 30–40cm | Crown at soil level | 20–30cm between plants; ⚠️ toxic | 6.5–7.5 | ✅ 10–15L container | No ⚠️ toxic | Snowdrops, hellebores | Адонис весенний | — |
-| G25 | Pickle Plant | *Delosperma echinatum* | ☀️ | 15–20cm | At pot level | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sempervivum, saxifrage | — | — |
+| G14 | Pickle Plant | *Delosperma echinatum* | ☀️ | 15–20cm | At pot level | 20–30cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Sempervivum, saxifrage | — | — |
 | P34 | Pincushion Flower | *Scabiosa columbaria* | ☀️ | 30–60cm | Crown at soil level | 30–40cm between plants; divide every 2–3 yrs | 6.2–7.5 | ✅ 15–20L container | Good, seed pods dry well | Roses, salvias, ornamental grasses | Скабиоза голубиная | — |
-| B33 | Pineapple Lily | *Eucomis spp.* | ☀️ | 30–60cm | 10–15cm deep; spring | 25–30cm between bulbs | 6.0–7.5 | ✅ Large container ideal | Good | Alliums, crocosmia, dahlias | — | — |
+| B21 | Pineapple Lily | *Eucomis spp.* | ☀️ | 30–60cm | 10–15cm deep; spring | 25–30cm between bulbs | 6.0–7.5 | ✅ Large container ideal | Good | Alliums, crocosmia, dahlias | — | — |
 | F17 | Plum Tree | *Prunus domestica* | ☀️ | 3–4m | Top of rootball just below surface | 1–1.5m from structures; self-fertile | 6.0–7.0 | ✅ 25cm+ pot, standard form | No | Chives, garlic | — | — |
 | A13 | Poached Egg Plant | *Limnanthes douglasii* | ☀️ | 15–20cm | Surface-sown (seed) | 10–20cm between plants; annual, self-seeds | 5.5–7.5 | ✅ 5L+ container | No | Vegetable beds, cornflower, love-in-a-mist | Лимнантес Дугласа | Cúr léana |
-| B34 | Pointed-Petal Fritillary | *Fritillaria acmopetala* | ☀️ | 30–70cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–8.0 | ✅ Raised bed/trough/pot | No | Other species fritillarias, dwarf iris, crocus | — | — |
-| S32 | Polypody | *Polypodium vulgare* | 🌥️ to 🌑 | 15–40cm | Surface transplant, not buried | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot | No | Ferns, wood sorrel, primroses | — | — |
+| B12 | Pointed-Petal Fritillary | *Fritillaria acmopetala* | ☀️ | 30–70cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–8.0 | ✅ Raised bed/trough/pot | No | Other species fritillarias, dwarf iris, crocus | — | — |
+| S14 | Polypody | *Polypodium vulgare* | 🌥️ to 🌑 | 15–40cm | Surface transplant, not buried | Establish as patches; keep consistently moist | 5.0–6.5 (most) | ✅ Shallow tray/log/pot | No | Ferns, wood sorrel, primroses | — | — |
 | F18 | Pomegranate | *Punica granatum* | ☀️ | 1.5–3m | At nursery soil mark | 2–3m against wall; borderline hardy, best in a container | 5.5–7.0 | ✅ Large 50L+ container, movable | No | Passiflora, grapevine on same warm wall | Гранат обыкновенный | — |
 | A14 | Poppies | *Papaver spp., e.g. P. rhoeas, Shirley poppies* | ☀️ | 45–90cm | Surface-sown (seed) | 15–20cm between plants; annual, self-seeds freely | 6.0–7.5 | ✅ 5L+ container | Good, sear stems | Cornflower, love-in-a-mist, briza maxima | Мак самосейка | Cailleach dhearg |
-| B35 | Poppy Anemone | *Anemone coronaria* | ☀️ | 20–40cm | 5–8cm deep; autumn | 10–15cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ | No | Ranunculus, other spring corms | — | — |
+| B3 | Poppy Anemone | *Anemone coronaria* | ☀️ | 20–40cm | 5–8cm deep; autumn | 10–15cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ | No | Ranunculus, other spring corms | — | — |
 | A15 | Pot Marigold | *Calendula officinalis* | ☀️ to 🌤️ | 30–50cm | 1cm deep (seed) | 15–30cm between plants; annual, self-seeds | 6.0–7.0 | ✅ 10–15L container | Good | Brassicas, tomatoes, carrots | Календула лекарственная | — |
-| G26 | Prickly Heath | *Gaultheria mucronata* | ☀️ to 🌥️ | 60cm–1m | At nursery soil mark | 45–60cm between plants; ♂+♀ for berries | 4.5–6.0 | ✅ 20–30L ericaceous compost | No | Heather, blueberry, lingonberry, dwarf conifers | Гаультерия остроконечная | Fraoch deilgneach |
-| S33 | Primroses | *Primula vulgaris* | 🌥️ | 10–15cm | Crown at soil level | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Bluebells, wood anemones, violets, ferns | Первоцвет обыкновенный | Sabhaircín |
-| B36 | Purple-flowered Onion | *Allium atropurpureum* | ☀️ | 80cm–1m | 20cm deep (2–3× bulb depth); autumn | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container | No | Roses, peonies, ornamental grasses | — | — |
+| G15 | Prickly Heath | *Gaultheria mucronata* | ☀️ to 🌥️ | 60cm–1m | At nursery soil mark | 45–60cm between plants; ♂+♀ for berries | 4.5–6.0 | ✅ 20–30L ericaceous compost | No | Heather, blueberry, lingonberry, dwarf conifers | Гаультерия остроконечная | Fraoch deilgneach |
+| S17 | Primrose (Garden Hybrids) | *Primula acaulis* | 🌥️ | 10–20cm | Crown at soil level | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Spring bulbs, wood anemones, violets, ferns | Первоцвет бесстебельный | Sabhaircín |
+| S17 | Primroses | *Primula vulgaris* | 🌥️ | 10–15cm | Crown at soil level | 20–25cm between plants | 5.5–7.0 | ✅ 10–15L container | No | Bluebells, wood anemones, violets, ferns | Первоцвет обыкновенный | Sabhaircín |
+| B20 | Purple-flowered Onion | *Allium atropurpureum* | ☀️ | 80cm–1m | 20cm deep (2–3× bulb depth); autumn | 25–30cm between bulbs | 6.0–7.5 | ✅ Large 5L+ container | No | Roses, peonies, ornamental grasses | — | — |
 | P101 | Purpletop Vervain | *Verbena bonariensis* | ☀️ | 1.5–2m | At pot level | 45–60cm between plants; self-seeds freely | 6.0–7.5 | ✅ 15–20L container | Good | Ornamental grasses, echinacea, rudbeckia | — | — |
 | H26 | Radish | *Raphanus sativus* | ☀️ to 🌤️ | 10–15cm | 1cm deep (seed) | 2–3cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container | No | Carrots, lettuce, green onions | Редис | Raidis |
 | W20 | Ragged Robin | *Lychnis flos-cuculi* | ☀️ to 🌤️ | 30–45cm | Crown at soil level; damp meadow, not standing water | 30–45cm between plants | 6.0–7.5 | ✅ 10–15L container | Good | Meadowsweet, yellow flag iris, marsh orchids | — | — |
-| B37 | Ranunculus | *Ranunculus asiaticus* | 🌤️ | 30–45cm | 5–8cm deep; claws down; spring, lift & store | 15–20cm between tubers | 6.0–7.0 | ✅ Better in pots: 25–30cm / 10L+ | Good | Pansies, muscari, spring anemones | Лютик азиатский | — |
+| B22 | Ranunculus | *Ranunculus asiaticus* | 🌤️ | 30–45cm | 5–8cm deep; claws down; spring, lift & store | 15–20cm between tubers | 6.0–7.0 | ✅ Better in pots: 25–30cm / 10L+ | Good | Pansies, muscari, spring anemones | Лютик азиатский | — |
 | F19 | Raspberry (Glen Ample / Zefa Herbsternte / Autumn Bliss / Heritage / Good as Gold / Lucky Berry) | *Rubus idaeus* | 🌤️ | 1.5–1.75m | Crown 5–7cm below soil | 45–60cm between canes; 1.8m between rows | 5.8–6.5 | ❌ (patio cvs: ✅ 45–60cm wide deep pot) | No | Garlic, marigolds, tansy; away from potatoes | Малина обыкновенная | Sú craobh |
-| C27 | Red-Flowered Magnolia Vine | *Schisandra rubriflora* | 🌥️ | 6–9m | At nursery soil mark | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container | No | Climbing hydrangea, ivy | — | — |
+| C13 | Red-Flowered Magnolia Vine | *Schisandra rubriflora* | 🌥️ | 6–9m | At nursery soil mark | 2–3m between plants against support | 6.0–7.5 | ✅ Large 40–50L container | No | Climbing hydrangea, ivy | — | — |
 | F20 | Redcurrant | *Ribes rubrum* | 🌥️ (north fence ok) | 20–30cm | At nursery mark; roots 5cm | 1.5m between plants | 6.0–7.5 | ⚠️ 30L+ large pot | No | Gooseberry, whitecurrant | Смородина красная | Cuirín dearg |
-| G27 | Reindeer Lichen | *Cladonia rangiferina* | ☀️ to 🌥️ | 3–8cm | Surface only, not buried | Establishes slowly; avoid disturbance | 4.0–5.5 | ⚠️ Shallow tray/rockery | No | Heather, sempervivum, open heath planting | Кладония оленья | — |
+| G16 | Reindeer Lichen | *Cladonia rangiferina* | ☀️ to 🌥️ | 3–8cm | Surface only, not buried | Establishes slowly; avoid disturbance | 4.0–5.5 | ⚠️ Shallow tray/rockery | No | Heather, sempervivum, open heath planting | Кладония оленья | — |
 | F21 | Rhubarb | *Rheum × hybridum* | 🌤️ | 60–90cm | Buds 1–2cm below soil | 90cm between crowns | 6.0–7.0 | ⚠️ 50cm / 50L+ deep pot | No ⚠️ leaves toxic | Beans, peas nearby; away from fennel | Ревень | Biabhóg |
-| B38 | River Lily | *Hesperantha coccinea (syn. Schizostylis coccinea)* | ☀️ to 🌤️ | 60cm | Rhizome at soil level; spring | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container | Good | Astilbe, Japanese anemone, ornamental grasses | — | — |
-| G28 | Rockcress | *Arabis ferdinandi-coburgi* | ☀️ | 10–15cm | At pot level | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Aubretia, alyssum, spring bulbs | — | — |
+| B23 | River Lily | *Hesperantha coccinea (syn. Schizostylis coccinea)* | ☀️ to 🌤️ | 60cm | Rhizome at soil level; spring | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container | Good | Astilbe, Japanese anemone, ornamental grasses | — | — |
+| G17 | Rockcress | *Arabis ferdinandi-coburgi* | ☀️ | 10–15cm | At pot level | 30–40cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Aubretia, alyssum, spring bulbs | — | — |
 | H27 | Rocket | *Eruca sativa* | ☀️ to 🌥️ | 20–30cm | 1cm deep (seed) | 15–20cm between plants; sow successionally | 6.0–7.0 | ✅ 5L+ container | No | Radish, green onions, lettuce | Руккола (гусеничник посевной, индау посевной) | Ruachán |
-| G29 | Rose/Coast Rock Cress | *Arabis blepharophylla* | ☀️ | 15–20cm | At pot level | 20–25cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Aubretia, alyssum, spring bulbs | — | — |
+| G17 | Rose/Coast Rock Cress | *Arabis blepharophylla* | ☀️ | 15–20cm | At pot level | 20–25cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Aubretia, alyssum, spring bulbs | — | — |
 | H28 | Rosemary | *Salvia rosmarinus, syn. Rosmarinus officinalis* | ☀️ | 1–1.5m | At pot level | 45–60cm between plants | 6.0–7.5 | ✅ Terracotta 20–30L, with grit | Good, foliage filler | Brassicas, carrots, beans, thyme, lavender | Розмарин лекарственный | Marós |
-| S34 | Rough Tree Fern | *Cyathea australis* | 🌥️ | 2–4m | Trunk at same depth as grown | 1.5–3m between plants; wrap crown in hard frost | 5.5–7.0 | ✅ Large 50L+ container | No | Hostas, camellias, rhododendrons, mosses | Циатея южная | — |
+| S18 | Rough Tree Fern | *Cyathea australis* | 🌥️ | 2–4m | Trunk at same depth as grown | 1.5–3m between plants; wrap crown in hard frost | 5.5–7.0 | ✅ Large 50L+ container | No | Hostas, camellias, rhododendrons, mosses | Циатея южная | — |
 | W21 | Round-leaved Sundew | *Drosera rotundifolia* | ☀️ to 🌤️ | 3–8cm | Crown at soil surface, permanently wet | 10–15cm between plants | 4.0–5.5 | ✅ Boggy container | No | Common butterwort, bog asphodel | — | — |
-| S35 | Round-Lobed Hepatica | *Hepatica nobilis* | 🌥️ | 10–15cm | Crown at soil level | 15–20cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Snowdrops, hellebores, wood anemones | Печёночница благородная | — |
-| S36 | Royal Fern | *Osmunda regalis* | ☀️ to 🌥️ | 1–2m | Crown slightly above soil | 1–1.5m between plants | 4.5–6.5 | ❌ Too large | Good, foliage filler | Hostas, iris, marginal aquatics, bamboo | Чистоус королевский | Raithneach ríúil |
-| B39 | Saffron Crocus | *Crocus sativus* | ☀️ | 10–15cm | 8–10cm deep; plant August | 8–9cm between corms | 6.0–7.5 | ✅ Best in containers | No | Best grown alone for easy harvest | — | — |
+| S19 | Round-Lobed Hepatica | *Hepatica nobilis* | 🌥️ | 10–15cm | Crown at soil level | 15–20cm between plants | 6.0–7.5 | ✅ 10–15L container | No | Snowdrops, hellebores, wood anemones | Печёночница благородная | — |
+| S14 | Royal Fern | *Osmunda regalis* | ☀️ to 🌥️ | 1–2m | Crown slightly above soil | 1–1.5m between plants | 4.5–6.5 | ❌ Too large | Good, foliage filler | Hostas, iris, marginal aquatics, bamboo | Чистоус королевский | Raithneach ríúil |
+| B6 | Saffron Crocus | *Crocus sativus* | ☀️ | 10–15cm | 8–10cm deep; plant August | 8–9cm between corms | 6.0–7.5 | ✅ Best in containers | No | Best grown alone for easy harvest | — | — |
 | H29 | Sage | *Salvia officinalis* | ☀️ | 30–60cm | At pot level | 45–60cm between plants | 5.6–7.8 | ✅ Terracotta 20–30L, with grit | Good, foliage filler | Rosemary, lavender, thyme, cabbages, carrots | Шалфей лекарственный | Sáiste |
-| T37 | Saucer Magnolia | *Magnolia × soulangeana* | ☀️ to 🌤️ | 4.5–6m | At nursery soil mark | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
-| G30 | Saxifrage | *Saxifraga spp., including Mossy Saxifrage S. × arendsii* | ☀️ to 🌥️ | 10–15cm, trailing | At pot level | 15–25cm between plants | 5.5–7.5 | ✅ Trough/rockery, 3–5L | No | Sempervivum, campanula saxifraga, dwarf bulbs | Камнеломка | Mórán |
-| T38 | Scots Pine | *Pinus sylvestris* | ☀️ | 20–30cm | At nursery soil mark | 6–10m between plants | 4.5–7.0 | ❌ Too large for pots | No | Heather, gorse | — | — |
+| T30 | Saucer Magnolia | *Magnolia × soulangeana* | ☀️ to 🌤️ | 4.5–6m | At nursery soil mark | 4–6m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
+| G18 | Saxifrage | *Saxifraga spp., including Mossy Saxifrage S. × arendsii* | ☀️ to 🌥️ | 10–15cm, trailing | At pot level | 15–25cm between plants | 5.5–7.5 | ✅ Trough/rockery, 3–5L | No | Sempervivum, campanula saxifraga, dwarf bulbs | Камнеломка | Mórán |
+| T35 | Scots Pine | *Pinus sylvestris* | ☀️ | 20–30cm | At nursery soil mark | 6–10m between plants | 4.5–7.0 | ❌ Too large for pots | No | Heather, gorse | — | — |
 | H30 | Scurvy Grass | *Cochlearia officinalis* | ☀️ to 🌥️ | 10–20cm | At pot level / surface-sown seed | 15–20cm between plants | 6.5–7.5 | ✅ 5L+ container | No | Sea kale, coastal edible plants | Ложечница лекарственная | Biolar trá |
 | F22 | Sea Buckthorn | *Hippophae rhamnoides* | ☀️ | 2–4m | At nursery soil mark | 1.5–2m between plants; ♂+♀ for berries | 5.5–8.0 | ⚠️ Large 50–80L container | Good, berried branches | Other coastal shrubs; windbreak planting | Облепиха крушиновидная | Draighean mara |
 | P36 | Sea Holly | *Eryngium spp.* | ☀️ | 30–60cm | Crown at soil level | 40–90cm between plants; dislikes disturbance | 5.0–7.5 | ⚠️ Large 20–30L container, sharp drainage | Good, dries well | Roses, ornamental grasses, taller perennials | Синеголовник | Cuilleann trá |
 | F23 | Serviceberry | *Amelanchier lamarckii* | ☀️ to 🌤️ | 4–8m | At nursery soil mark | 2–4m between plants/structures | 5.5–7.0 | ⚠️ 50–80L container | Good, blossom/foliage branches | Hellebores, snowdrops, ferns, Japanese maple | Ирга Ламарка | — |
-| T39 | Shrub Roses | *Rosa, shrub and old-fashioned cultivars* | ☀️ | 1–2m | Bud union at/just below soil level | 75cm–1m between plants | 5.5–7.0 | ⚠️ Large 40–50L container | Good, some dry well | Alliums, catmint, hardy geraniums, lavender | Роза | Rós |
-| T40 | Shrubby Cinquefoil | *Potentilla fruticosa (incl. var. aurea)* | ☀️ | 60cm–1m | At nursery soil mark | 60–90cm hedge; 1m specimen | 5.5–8.0 | ✅ 20–30L container | Good, cut flowers | Lavender, catmint, ornamental grasses | — | — |
-| P49 | Siberian Iris | *Iris sibirica* | ☀️ to 🌤️ | 60–100cm | Rhizome at soil level or 2–3cm below | 30–45cm between plants; divide every 3–5 yrs | 5.8–7.0 | ✅ 35–40cm / 15–20L | Good, short vase life | Astilbe, hostas, yellow flag iris, daylilies, royal fern | Ирис сибирский | — |
-| B40 | Siberian Squill | *Scilla siberica* | ☀️ to 🌥️ | 10–15cm | 7–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container | No | Snowdrops, crocus, dwarf daffodils, chionodoxa | Пролеска сибирская | — |
+| T36 | Shrub Roses | *Rosa, shrub and old-fashioned cultivars* | ☀️ | 1–2m | Bud union at/just below soil level | 75cm–1m between plants | 5.5–7.0 | ⚠️ Large 40–50L container | Good, some dry well | Alliums, catmint, hardy geraniums, lavender | Роза | Rós |
+| T37 | Shrubby Cinquefoil | *Potentilla fruticosa (incl. var. aurea)* | ☀️ | 60cm–1m | At nursery soil mark | 60–90cm hedge; 1m specimen | 5.5–8.0 | ✅ 20–30L container | Good, cut flowers | Lavender, catmint, ornamental grasses | — | — |
+| P19 | Siberian Iris | *Iris sibirica* | ☀️ to 🌤️ | 60–100cm | Rhizome at soil level or 2–3cm below | 30–45cm between plants; divide every 3–5 yrs | 5.8–7.0 | ✅ 35–40cm / 15–20L | Good, short vase life | Astilbe, hostas, yellow flag iris, daylilies, royal fern | Ирис сибирский | — |
+| B24 | Siberian Squill | *Scilla siberica* | ☀️ to 🌥️ | 10–15cm | 7–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.0 | ✅ 5L+ container | No | Snowdrops, crocus, dwarf daffodils, chionodoxa | Пролеска сибирская | — |
 | P37 | Siberian Statice | *Goniolimon tataricum* | ☀️ | 45–60cm | Crown at soil level | 30–40cm between plants | 6.0–7.5 | ✅ 15–20L container | Good, dries well | Ornamental grasses, achillea, sedum | Кермек татарский | — |
-| S37 | Silver Fern | *Cyathea dealbata* | 🌥️ | 2–4m | Trunk at same depth as grown | 1.5–3m between plants; tender, overwinter under cover | 5.5–6.5 | ✅ Large 50L+ container, movable | Good, foliage filler | Hostas, ferns, hellebores, camellias | Циатея серебристая | — |
-| G31 | Siskiyou Lewisia | *Lewisia cotyledon* | ☀️ to 🌤️ | 10–15cm | Rosette proud of soil, grit collar | 20–25cm between plants | 6.0–7.0 | ✅ Trough/rockery, 3–5L | No | Sempervivum, saxifrage, houseleek | — | — |
+| S20 | Silver Fern | *Cyathea dealbata* | 🌥️ | 2–4m | Trunk at same depth as grown | 1.5–3m between plants; tender, overwinter under cover | 5.5–6.5 | ✅ Large 50L+ container, movable | Good, foliage filler | Hostas, ferns, hellebores, camellias | Циатея серебристая | — |
+| G19 | Siskiyou Lewisia | *Lewisia cotyledon* | ☀️ to 🌤️ | 10–15cm | Rosette proud of soil, grit collar | 20–25cm between plants | 6.0–7.0 | ✅ Trough/rockery, 3–5L | No | Sempervivum, saxifrage, houseleek | — | — |
 | P38 | Slender Vervain | *Verbena rigida* | ☀️ | 1–1.5m | At pot level | 25–35cm between plants; borderline hardy, mulch for winter | 6.0–7.2 | ✅ 15–20L container | Good | Ornamental grasses, other verbenas, sedum | Вербена жёсткая | — |
-| T41 | Smooth Sumac | *Rhus glabra* | ☀️ | 1–1.5m | At nursery soil mark | 2–3m between plants | 5.5–7.5 | ⚠️ Large container, controls suckering | Good, autumn foliage | Ornamental grasses | — | — |
+| T38 | Smooth Sumac | *Rhus glabra* | ☀️ | 1–1.5m | At nursery soil mark | 2–3m between plants | 5.5–7.5 | ⚠️ Large container, controls suckering | Good, autumn foliage | Ornamental grasses | — | — |
 | A16 | Snapdragons | *Antirrhinum majus* | ☀️ to 🌤️ | 30–90cm | Surface-sown (seed) / at pot level | 20–30cm between plants | 6.0–7.0 | ✅ 10–15L container | Good | Wallflowers, sweet William, forget-me-nots | Львиный зев | Srubh lao |
 | P39 | Sneezeweed | *Helenium autumnale* | ☀️ | 90cm–1.2m | Crown at soil level | 45–60cm between plants; divide every 2–3 yrs | 5.5–7.0 | ✅ 20–25L container | Good | Rudbeckia, echinacea, asters, ornamental grasses | Гелениум осенний | — |
 | P40 | Sneezewort | *Achillea ptarmica* | ☀️ to 🌥️ | 45–60cm | Crown at soil level | 30–45cm between plants; avoid heavy waterlogged clay | 5.5–7.5 | ✅ 15–20L container | Good, dries well | Yarrow, ornamental grasses, sedum | Тысячелистник птармика | Lus corráin |
-| B41 | Snow Crocus | *Crocus chrysanthus* | ☀️ | 7–10cm | 7–10cm deep; autumn | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Snowdrops, daffodils, muscari, aconites | — | — |
-| B42 | Snowdrops | *Galanthus nivalis* | 🌥️ to 🌑 | 10–20cm | 10cm dry (autumn) / at growing depth in the green (spring) | 8–10cm between bulbs | 5.5–7.0 | ✅ 20–25cm / 5L+ | No | Hellebores, aconites, early narcissus, cyclamen coum | Подснежник белоснежный | Plúirín sneachta |
-| B43 | Snowflake (Summer) | *Leucojum aestivum* | 🌤️ | 15–45cm | 8–10cm deep; autumn | 8–10cm between bulbs | 5.5–7.0 | ✅ 30–40cm / 15L+ | Good | Daffodils, snowdrops, hellebores; pond edges | Белоцветник летний | Plúirín samhraidh |
+| B6 | Snow Crocus | *Crocus chrysanthus* | ☀️ | 7–10cm | 7–10cm deep; autumn | 8–9cm between corms | 6.0–7.5 | ✅ Excellent: 15–20cm / 3L+ | No | Snowdrops, daffodils, muscari, aconites | — | — |
+| B25 | Snowdrops | *Galanthus nivalis* | 🌥️ to 🌑 | 10–20cm | 10cm dry (autumn) / at growing depth in the green (spring) | 8–10cm between bulbs | 5.5–7.0 | ✅ 20–25cm / 5L+ | No | Hellebores, aconites, early narcissus, cyclamen coum | Подснежник белоснежный | Plúirín sneachta |
+| B26 | Snowflake (Summer) | *Leucojum aestivum* | 🌤️ | 15–45cm | 8–10cm deep; autumn | 8–10cm between bulbs | 5.5–7.0 | ✅ 30–40cm / 15L+ | Good | Daffodils, snowdrops, hellebores; pond edges | Белоцветник летний | Plúirín samhraidh |
 | P41 | Society Garlic | *Tulbaghia violacea* | ☀️ | 30–45cm | Crown at soil level | 25–30cm between plants | 6.0–7.5 | ✅ 10–15L container | Good | Lavender, rosemary | — | — |
-| S38 | Solomon's Seal | *Polygonatum multiflorum / P. × hybridum* | 🌑 to ☀️ | 60–90cm | Rhizome 5cm deep | 20–30cm between plants; spreads slowly | 6.0–7.5 | ✅ 20–30L container | Good, arching stems | Ferns, hostas, hellebores, cyclamen, primroses | Купена многоцветковая | — |
+| S21 | Solomon's Seal | *Polygonatum multiflorum / P. × hybridum* | 🌑 to ☀️ | 60–90cm | Rhizome 5cm deep | 20–30cm between plants; spreads slowly | 6.0–7.5 | ✅ 20–30L container | Good, arching stems | Ferns, hostas, hellebores, cyclamen, primroses | Купена многоцветковая | — |
 | F24 | Sour Cherry | *Prunus cerasus* | 🌥️ | 2.5–4m | At nursery soil mark | Up to 4m; cvs. 'Morello', 'Nabella', 'Kentish Red' | 6.0–7.0 | ✅ Large container | No | Chives, garlic, spring bulbs | Вишня обыкновенная | Crann silíní searbha |
-| P46 | Spreading Bellflower | *Campanula patula* | ☀️ to 🌥️ | 30–60cm | Crown at soil level / surface-sown seed | 20–30cm between plants; biennial/short-lived | 6.0–7.5 | ✅ 10–15L container | Good | Ox-eye daisy, wild grasses | Колокольчик раскидистый | — |
+| P4 | Spreading Bellflower | *Campanula patula* | ☀️ to 🌥️ | 30–60cm | Crown at soil level / surface-sown seed | 20–30cm between plants; biennial/short-lived | 6.0–7.5 | ✅ 10–15L container | Good | Ox-eye daisy, wild grasses | Колокольчик раскидистый | — |
 | H101 | Spring Onions | *Allium cepa* | ☀️ to 🌤️ | 30–45cm | Sow direct, 1cm deep, or plant sets | 2.5–5cm between plants in rows | 6.0–7.0 | ✅ 10–15L container | No | Carrots, roses | — | — |
-| B44 | Spring Sowbread | *Cyclamen coum* | 🌥️ | 5–8cm | 2–3cm deep, flat side down; late summer/autumn | 10–15cm between tubers | 6.0–7.5 | ✅ 3–5L container | No | Snowdrops, winter aconite, hellebores | Цикламен косский (дряква косская) | — |
-| T42 | St John's Wort | *Hypericum calycinum* | ☀️ to 🌤️ | 1–1.5m | At nursery soil mark | 1–1.5m between plants | 5.5–7.5 | ⚠️ 40–50L container | Good, berries | Heather, skimmia, roses, late perennials | Зверобой | — |
-| S39 | St Patrick's Cabbage | *Saxifraga spathularis* | 🌥️ to 🌑 | 10–20cm | Crown at soil level | 15–20cm between plants | 5.0–6.0 | ✅ 10–15L container/rockery | No | Ferns, native mosses, shaded rockery plants | Камнеломка лопатчатая | Cabáiste mhadra rua |
-| T43 | Star Magnolia | *Magnolia stellata* | 🌤️ | 2–3m | At pot level; no deeper | 2.5m spread; shelter from N/E winds | 5.0–6.5 | ✅ 80–100L stone/terracotta | Good, flowering branches | Snowdrops, daffodils, hellebores, hardy geraniums | — | — |
+| B27 | Spring Sowbread | *Cyclamen coum* | 🌥️ | 5–8cm | 2–3cm deep, flat side down; late summer/autumn | 10–15cm between tubers | 6.0–7.5 | ✅ 3–5L container | No | Snowdrops, winter aconite, hellebores | Цикламен косский (дряква косская) | — |
+| T39 | St John's Wort | *Hypericum calycinum* | ☀️ to 🌤️ | 1–1.5m | At nursery soil mark | 1–1.5m between plants | 5.5–7.5 | ⚠️ 40–50L container | Good, berries | Heather, skimmia, roses, late perennials | Зверобой | — |
+| S22 | St Patrick's Cabbage | *Saxifraga spathularis* | 🌥️ to 🌑 | 10–20cm | Crown at soil level | 15–20cm between plants | 5.0–6.0 | ✅ 10–15L container/rockery | No | Ferns, native mosses, shaded rockery plants | Камнеломка лопатчатая | Cabáiste mhadra rua |
+| T30 | Star Magnolia | *Magnolia stellata* | 🌤️ | 2–3m | At pot level; no deeper | 2.5m spread; shelter from N/E winds | 5.0–6.5 | ✅ 80–100L stone/terracotta | Good, flowering branches | Snowdrops, daffodils, hellebores, hardy geraniums | — | — |
 | P24 | Statice | *Limonium sinuatum* | ☀️ | 30–45cm | Crown at soil level | 30–45cm between plants | 6.0–8.0 | ✅ 10–15L container | Good, dries well | Ornamental grasses, achillea, sedum | Кермек выемчатый | — |
 | P42 | Stocks | *Matthiola incana / M. longipetala* | 🌤️ | 30–90cm | At pot level; seeds on surface | 20–30cm between plants | 6.5–7.5 | ✅ 25–30cm / 10L+ | Good, fragrant | Wallflowers, sweet William, pansies | Левкой седой | — |
 | F25 | Strawberry (Korona / Ostara / Summer Breeze) | *Fragaria × ananassa* | ☀️ | 20–30cm | Crown exactly at soil level | 30–45cm between plants (or 45cm × 75cm rows) | 5.5–6.8 | ✅ 30–35cm / 15–20L per plant | No | Borage, garlic, chives, marigolds | Клубника садовая (земляника ананасная) | Sú talún |
 | A17 | Strawflower | *Xerochrysum bracteatum* | ☀️ | 45–75cm | Surface-sown (seed) / at pot level | 20–30cm between plants | 5.5–7.0 | ✅ 10–15L container | Good, dries excellently | Cosmos, zinnias, ammobium | Бессмертник прицветниковый | — |
-| S40 | Sunset Fern | *Dryopteris lepidopoda* | 🌥️ to 🌑 | 60–75cm | At pot level | 45–60cm between plants | 5.5–7.0 | ✅ 20–25L container | Good, foliage filler | Heuchera, tiarella, hostas | Щитовник | — |
+| S16 | Sunset Fern | *Dryopteris lepidopoda* | 🌥️ to 🌑 | 60–75cm | At pot level | 45–60cm between plants | 5.5–7.0 | ✅ 20–25L container | Good, foliage filler | Heuchera, tiarella, hostas | Щитовник | — |
 | A18 | Sweet Alyssum | *Lobularia maritima* | ☀️ to 🌤️ | 10–15cm | 1–2mm deep (seed) | 15–25cm between plants; annual, self-seeds | 6.0–7.0 | ✅ 5L+ container | No | Roses, snapdragons, vegetable-bed edging | Лобулярия приморская (алиссум морской) | Alasam cumhra |
-| C23 | Sweet Autumn Clematis | *Clematis terniflora* | 🌤️ (roots shaded) | 3–6m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
+| C3 | Sweet Autumn Clematis | *Clematis terniflora* | 🌤️ (roots shaded) | 3–6m | 10–15cm DEEPER than pot | 60–90cm between; cool roots essential | 6.5–7.5 | ✅ 45cm/40L+ container | No | Climbing roses, other clematis | — | — |
 | F26 | Sweet Cherry | *Prunus avium* | ☀️ | 1–4m | Graft union at/above soil (own-root cvs. at pot level) | 1–4m depending on rootstock; cvs. 'Athos', 'Stella', 'Sunburst', 'Lapins', 'Sweetheart', 'Sylvia' | 5.5–7.5 | ✅ 30–40cm+ container | No | Chives, garlic | — | — |
 | A19 | Sweet Peas | *Lathyrus odoratus* | ☀️ | 1.8–2.5m | 2cm deep (seed) | 15–20cm between plants against support | 6.0–7.5 | ✅ Large 20L+ container with support | Good, fragrant | Climbing roses, clematis; vegetable garden | Душистый горошек | — |
-| P58 | Sweet William | *Dianthus barbatus* | ☀️ | 30–60cm | At pot level | 30cm between plants | 5.8–6.5 | ✅ 25–30cm / 10L+ | Good | Pinks, stocks, foxgloves, wallflowers, roses | Гвоздика турецкая (гвоздика бородатая) | — |
-| B45 | Tarda Tulip | *Tulipa tarda* | ☀️ | 10–15cm | 8–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, dwarf iris, sempervivum | — | — |
-| T44 | Tarentum Myrtle | *Myrtus communis subsp. tarentina* | ☀️ to 🌤️ | 1–2m | At nursery soil mark | 1–1.5m between plants; needs sheltered spot | 6.0–7.5 | ✅ 30–40L container | Good, foliage | Lavender, rosemary, Mediterranean shrubs | Мирт тарентский | — |
+| P35 | Sweet William | *Dianthus barbatus* | ☀️ | 30–60cm | At pot level | 30cm between plants | 5.8–6.5 | ✅ 25–30cm / 10L+ | Good | Pinks, stocks, foxgloves, wallflowers, roses | Гвоздика турецкая (гвоздика бородатая) | — |
+| B28 | Tarda Tulip | *Tulipa tarda* | ☀️ | 10–15cm | 8–10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, dwarf iris, sempervivum | — | — |
+| T40 | Tarentum Myrtle | *Myrtus communis subsp. tarentina* | ☀️ to 🌤️ | 1–2m | At nursery soil mark | 1–1.5m between plants; needs sheltered spot | 6.0–7.5 | ✅ 30–40L container | Good, foliage | Lavender, rosemary, Mediterranean shrubs | Мирт тарентский | — |
 | H31 | Tarragon | *Artemisia dracunculus* | ☀️ | 50–100cm | At pot level | 30–50cm between plants | 6.5–7.0 | ✅ 10–15L container | No | Rosemary, sage, lavender | — | — |
-| S41 | Tasmanian Tree Fern | *Dicksonia antarctica* | 🌥️ to 🌑 | 2–4m | Trunk at same depth as grown | 1.5–3m between plants; wrap crown in hard frost | 5.5–6.5 | ✅ Large 50L+ container | No | Hostas, ferns, hellebores, snowdrops | Диксония антарктическая | — |
-| S42 | Toad Lily | *Tricyrtis hirta* | 🌥️ to 🌑 | 30–90cm | Crown at soil level | 30–45cm between plants | 5.5–7.0 | ✅ 15–20L container | Good | Hostas, ferns, hellebores | — | — |
+| S23 | Tasmanian Tree Fern | *Dicksonia antarctica* | 🌥️ to 🌑 | 2–4m | Trunk at same depth as grown | 1.5–3m between plants; wrap crown in hard frost | 5.5–6.5 | ✅ Large 50L+ container | No | Hostas, ferns, hellebores, snowdrops | Диксония антарктическая | — |
+| S24 | Toad Lily | *Tricyrtis hirta* | 🌥️ to 🌑 | 30–90cm | Crown at soil level | 30–45cm between plants | 5.5–7.0 | ✅ 15–20L container | Good | Hostas, ferns, hellebores | — | — |
 | P43 | Toadflax | *Linaria vulgaris* | ☀️ to 🌤️ | 20–50cm | Crown at soil level / surface-sown seed | 20–30cm between plants; spreads readily | 6.0–7.5 | ✅ 5L+ container | No | Ox-eye daisy, yarrow, wildflower meadow | Льнянка обыкновенная | — |
-| G32 | Trailing Rock Bellflower | *Campanula saxifraga* | ☀️ | 10–15cm, trailing | At pot level | 15–20cm between plants | 6.5–7.5 | ✅ Trough/rockery, 3–5L | No | Sempervivum, saxifrage, wall pennywort | Колокольчик камнеломка | — |
-| G33 | Tree Heath | *Erica arborea* | ☀️ | 1–2m in cultivation (to 7m in the wild) | At pot level | 1–1.5m between plants; hardier var. alpina available | 5.0–6.5 | ⚠️ Large 40–50L container | Good, dries well | Blueberry, lingonberry, ornamental grasses | — | — |
+| G1 | Trailing Rock Bellflower | *Campanula saxifraga* | ☀️ | 10–15cm, trailing | At pot level | 15–20cm between plants | 6.5–7.5 | ✅ Trough/rockery, 3–5L | No | Sempervivum, saxifrage, wall pennywort | Колокольчик камнеломка | — |
+| G6 | Tree Heath | *Erica arborea* | ☀️ | 1–2m in cultivation (to 7m in the wild) | At pot level | 1–1.5m between plants; hardier var. alpina available | 5.0–6.5 | ⚠️ Large 40–50L container | Good, dries well | Blueberry, lingonberry, ornamental grasses | — | — |
 | C14 | Tufted Vetch | *Vicia cracca* | ☀️ to 🌤️ | 1–2m | 1–2cm (seed) / at pot level | 20–30cm between plants; scrambles via tendrils | 6.0–7.5 | ✅ 5L+ container | No | Grasses, wildflower meadow species, hedgerow shrubs | Горошек мышиный | Peasair na luch |
-| B46 | Tulip (garden hybrids) | *Tulipa spp.* | ☀️ | 30–60cm | 20cm (3× bulb height); autumn | 10–15cm between bulbs | 6.0–7.0 | ✅ Excellent: 25–30cm / 10L+ | Good | Forget-me-nots, daffodils, alliums, wallflowers | Тюльпан | Tiúilip |
-| B47 | Turkestan Tulip | *Tulipa turkestanica* | ☀️ | 10–15cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, dwarf iris, other early species bulbs | — | — |
+| B28 | Tulip (garden hybrids) | *Tulipa spp.* | ☀️ | 30–60cm | 20cm (3× bulb height); autumn | 10–15cm between bulbs | 6.0–7.0 | ✅ Excellent: 25–30cm / 10L+ | Good | Forget-me-nots, daffodils, alliums, wallflowers | Тюльпан | Tiúilip |
+| B28 | Turkestan Tulip | *Tulipa turkestanica* | ☀️ | 10–15cm | 10cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, dwarf iris, other early species bulbs | — | — |
 | W22 | Umbrella Grass | *Cyperus alternifolius (syn. Cyperus involucratus)* | ☀️ to 🌥️ | 60cm–1m | Crown just above water / max 5cm below water | 40–60cm between plants; borderline hardy, protect crown in winter | 6.0–7.5 | ✅ 10–20L aquatic basket | Good, foliage (fresh, architectural) | Egyptian papyrus, yellow flag iris | Сыть очерёднолистная | — |
 | W23 | Umbrella Plant | *Darmera peltata* | ☀️ to 🌥️ | 1–1.8m | Rhizome at/just below soil level | 60–90cm between plants | 5.5–7.0 | ⚠️ Large container, keep very moist | No | Rodgersia, candelabra primula, astilbe, ferns | — | — |
 | C15 | Virginia Creeper | *Parthenocissus quinquefolia* | 🌤️ | 10–20m | At pot level | 1.5–3m between plants | 5.5–7.5 | ✅ 30–40L container | Good, autumn foliage | Ivy (same wall), late clematis | Виноград девичий пятилисточковый | — |
-| G34 | Wall Pennywort | *Umbilicus rupestris* | 🌥️ | 5–10cm | At pot level / wall crevice | 15–20cm between plants | 6.0–7.5 | ✅ Small pot or wall crevice | No | Ivy, ferns, sempervivum, saxifrage | Умбиликус | Lus na pingine |
+| G21 | Wall Pennywort | *Umbilicus rupestris* | 🌥️ | 5–10cm | At pot level / wall crevice | 15–20cm between plants | 6.0–7.5 | ✅ Small pot or wall crevice | No | Ivy, ferns, sempervivum, saxifrage | Умбиликус | Lus na pingine |
 | W24 | Water Forget-me-not | *Myosotis scorpioides* | ☀️ to 🌤️ | 10–40cm | Crown at soil surface; up to 10cm water above | 15–30cm between plants | 6.0–7.5 | ✅ Aquatic basket | No | Yellow flag iris, marsh marigold, bogbean | — | — |
 | W100 | Water Hyacinth | *Eichhornia crassipes (syn. Pontederia crassipes)* | ☀️ | Up to 1m above water | ILLEGAL — EU/Irish invasive species ban | N/A — not for cultivation | N/A | ❌ Illegal — do not buy or keep | No | N/A — not for cultivation | — | — |
 | W27 | Water Mint | *Mentha aquatica* | ☀️ | 15–25cm above water | Crown at soil surface; up to 25cm water above | 30–45cm between plants; ⚠️ vigorous | 6.0–7.5 | ✅ Aquatic basket | No | Bog pimpernel, yellow flag iris | — | — |
 | W28 | Water Soldier | *Stratiotes aloides* | ☀️ | Floating rosette 15–25cm | Floats just below surface, sinks in winter | Allow to spread; thin if congested | 6.0–7.5 (water) | ✅ No planting needed; free-floating | No | Frogbit, native water lilies | — | — |
 | W29 | Water Violet | *Hottonia palustris* | ☀️ to 🌤️ | 10–15cm above water | Mostly submerged; do not disturb in summer | Allow to spread loosely | 6.0–7.5 (water) | ✅ No planting needed; free-floating | No | Hornwort, common water crowfoot | — | — |
 | W30 | Watershield | *Brasenia schreberi* | ☀️ to 🌤️ | Floating at surface | Rhizome in mud; floating leaves | Allow room to spread | 6.0–7.5 (water, estimated) | ⚠️ Aquatic basket; limited Irish availability | No | Water lilies | — | — |
-| S43 | Western Sword Fern | *Polystichum munitum* | 🌥️ to 🌑 | 60–120cm | At pot level | 60cm–1m between plants | 5.0–7.0 | ✅ 30–40L container | Good, foliage filler | Hostas, astilbe, snowdrops | Многорядник защищённый | — |
-| G35 | White Clover | *Trifolium repens* | ☀️ to 🌥️ | 5–15cm | At pot level / sow direct | Sow/plant as a patch; spreads by stolons | 6.0–7.5 | ⚠️ 10–15L container | No | Lawn grasses; fixes nitrogen, benefiting neighbouring plants | Клевер белый | Seamair bhán |
-| B48 | Whittall's Tulip | *Tulipa orphanidea* | ☀️ | 15–20cm | 10–15cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, grape hyacinth, other species tulips | — | — |
+| S16 | Western Sword Fern | *Polystichum munitum* | 🌥️ to 🌑 | 60–120cm | At pot level | 60cm–1m between plants | 5.0–7.0 | ✅ 30–40L container | Good, foliage filler | Hostas, astilbe, snowdrops | Многорядник защищённый | — |
+| G22 | White Clover | *Trifolium repens* | ☀️ to 🌥️ | 5–15cm | At pot level / sow direct | Sow/plant as a patch; spreads by stolons | 6.0–7.5 | ⚠️ 10–15L container | No | Lawn grasses; fixes nitrogen, benefiting neighbouring plants | Клевер белый | Seamair bhán |
+| B28 | Whittall's Tulip | *Tulipa orphanidea* | ☀️ | 15–20cm | 10–15cm deep; autumn | 8–10cm between bulbs | 6.0–7.5 | ✅ Raised bed/pot | No | Crocus, grape hyacinth, other species tulips | — | — |
 | H32 | Wild Garlic | *Allium ursinum* | 🌑 | 25–30cm | 2.5cm deep | 15–20cm between bulbs; spreads vigorously | 5.5–7.0 | ✅ 10–15L container (to contain spread) | No | Native bluebells, ferns, primroses | Лук медвежий | Creamh |
-| G36 | Wild Thyme | *Thymus polytrichus* | ☀️ | 2–5cm, mat-forming | At pot level | 20–30cm between plants; spreads by runners | 6.5–7.5 | ✅ Trough/rockery, 3–5L | No | Sempervivum, saxifrage, wall pennywort | Тимьян дикий | Tím chreige |
-| B49 | Wild Tulip | *Tulipa sylvestris* | 🌤️ to ☀️ | 20–30cm | 10–15cm deep; autumn | 10–15cm between bulbs | 6.0–7.5 | ✅ 5L+ container | Good | Daffodils, other naturalising bulbs | Тюльпан лесной | — |
+| G20 | Wild Thyme | *Thymus polytrichus* | ☀️ | 2–5cm, mat-forming | At pot level | 20–30cm between plants; spreads by runners | 6.5–7.5 | ✅ Trough/rockery, 3–5L | No | Sempervivum, saxifrage, wall pennywort | Тимьян дикий | Tím chreige |
+| B28 | Wild Tulip | *Tulipa sylvestris* | 🌤️ to ☀️ | 20–30cm | 10–15cm deep; autumn | 10–15cm between bulbs | 6.0–7.5 | ✅ 5L+ container | Good | Daffodils, other naturalising bulbs | Тюльпан лесной | — |
 | W31 | Willow Moss | *Fontinalis antipyretica* | 🌥️ to ☀️ | Submerged mats | Attach to submerged stone/wood | Space stones/clumps as desired | 6.0–7.5 (water) | ✅ No soil needed; attach to stone | No | Hornwort, common water crowfoot | — | — |
 | A20 | Winged Everlasting | *Ammobium alatum* | ☀️ | 45–60cm | At pot level; lightly cover seed | 30–40cm between plants | 5.5–7.0 | ✅ 10–15L container | Good, dries excellently | Strawflower, statice | Аммобиум крылатый | — |
-| B50 | Winter Aconite | *Eranthis hyemalis* | ☀️ to 🌥️ | 5–15cm | 5cm deep; early autumn | 5–8cm between tubers | 6.5–7.5 | ✅ 5L+ container | No | Snowdrops, crocus | — | — |
-| C24 | Winter Clematis | *Clematis cirrhosa* | ☀️ | 2.5–4m | At pot level (evergreen type) | 2.5–4m between plants against support | 6.5–7.5 | ✅ Large container against support | No | Climbing roses, honeysuckle | — | — |
-| G37 | Winter Heath | *Erica carnea* | ☀️ | 10–25cm | At pot level | 30–45cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
-| C25 | Winter-flowering Clematis | *Clematis urophylla* | 🌥️ | About 3m | At pot level (evergreen type) | 2–3m between plants against support | 6.5–7.5 | ✅ Large container against support | Good, winter interest | Climbing hydrangea, ivy | — | — |
+| B29 | Winter Aconite | *Eranthis hyemalis* | ☀️ to 🌥️ | 5–15cm | 5cm deep; early autumn | 5–8cm between tubers | 6.5–7.5 | ✅ 5L+ container | No | Snowdrops, crocus | — | — |
+| C3 | Winter Clematis | *Clematis cirrhosa* | ☀️ | 2.5–4m | At pot level (evergreen type) | 2.5–4m between plants against support | 6.5–7.5 | ✅ Large container against support | No | Climbing roses, honeysuckle | — | — |
+| G6 | Winter Heath | *Erica carnea* | ☀️ | 10–25cm | At pot level | 30–45cm between plants | 5.5–7.5 | ✅ 20–25cm / 5–10L ericaceous or multipurpose compost | Good, dries well | Blueberry, lingonberry, deer fern, ornamental grasses | — | — |
+| C3 | Winter-flowering Clematis | *Clematis urophylla* | 🌥️ | About 3m | At pot level (evergreen type) | 2–3m between plants against support | 6.5–7.5 | ✅ Large container against support | Good, winter interest | Climbing hydrangea, ivy | — | — |
 | C16 | Wisteria | *Wisteria sinensis / W. floribunda* | ☀️ | 9–18m | At pot level; graft above soil | 45cm from wall; 3m between plants | 6.0–7.0 | ⚠️ 45cm/60L+ container | Good, short vase life | Climbing roses (same wall), alliums, irises | Глициния китайская | — |
-| T45 | Witch Hazel | *Hamamelis × intermedia, Hamamelis mollis* | ☀️ to 🌥️ | 2.5–4m | At nursery soil mark | 3–4.5m between plants | 5.0–6.5 | ⚠️ Large 40–60L container | Good, fragrant, winter | Hellebores, snowdrops, spring bulbs underneath | Гамамелис | — |
-| B51 | Wood Anemone | *Anemone nemorosa* | 🌥️ | 10–15cm | 5–8cm deep; autumn | 10cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ | No | Snowdrops, bluebells, foxgloves | — | — |
-| S44 | Wood Sorrel | *Oxalis acetosella* | 🌑 to 🌥️ | 5–10cm | Crown at soil level | 10–15cm between plants | 5.0–6.5 | ✅ 5L+ container | No | Ferns, native mosses, primroses | Кислица обыкновенная | Seamsóg |
+| T41 | Witch Hazel | *Hamamelis × intermedia, Hamamelis mollis* | ☀️ to 🌥️ | 2.5–4m | At nursery soil mark | 3–4.5m between plants | 5.0–6.5 | ⚠️ Large 40–60L container | Good, fragrant, winter | Hellebores, snowdrops, spring bulbs underneath | Гамамелис | — |
+| B3 | Wood Anemone | *Anemone nemorosa* | 🌥️ | 10–15cm | 5–8cm deep; autumn | 10cm between corms | 6.0–7.5 | ✅ 20–25cm / 5L+ | No | Snowdrops, bluebells, foxgloves | — | — |
+| S25 | Wood Sorrel | *Oxalis acetosella* | 🌑 to 🌥️ | 5–10cm | Crown at soil level | 10–15cm between plants | 5.0–6.5 | ✅ 5L+ container | No | Ferns, native mosses, primroses | Кислица обыкновенная | Seamsóg |
 | F27 | Woodland Strawberry | *Fragaria vesca* | ☀️ to 🌥️ | 10–15cm | Crown at soil level | 25–30cm between plants; spreads by runners | 5.5–7.0 | ✅ 20–30L container | No | Ferns, hostas, primroses | Земляника лесная | Sú talún fiáin |
 | P44 | Yarrow | *Achillea millefolium* | ☀️ | 30–60cm | At pot level; bare-root buds 2–3cm below | 30–60cm between plants; divide every 2–3 yrs | 5.5–7.0 | ✅ 30cm / 10L+ | Good, dries well | Roses, salvia, echinacea, hydrangea, ornamental grasses | Тысячелистник обыкновенный | Athair thalún |
-| W34 | Yellow Flag Iris | *Iris pseudacorus* | ☀️ | 90cm–1.5m | Crown at soil level; 0–20cm water above | 30–60cm between plants; divide every 2–3 yrs | 5.5–8.0 | ✅ 19–24cm aquatic basket | Good | White water lily, bogbean, bog pimpernel | Ирис аировидный | Feileastram |
-| B52 | Yellow Star-of-Bethlehem | *Gagea lutea* | 🌥️ | 5–15cm | 5–8cm deep; autumn | 5–8cm between bulbs | 6.5–7.5 | ✅ 5L+ container | No | Snowdrops, wood anemones | Гусиный лук жёлтый | — |
+| W25 | Yellow Flag Iris | *Iris pseudacorus* | ☀️ | 90cm–1.5m | Crown at soil level; 0–20cm water above | 30–60cm between plants; divide every 2–3 yrs | 5.5–8.0 | ✅ 19–24cm aquatic basket | Good | White water lily, bogbean, bog pimpernel | Ирис аировидный | Feileastram |
+| B30 | Yellow Star-of-Bethlehem | *Gagea lutea* | 🌥️ | 5–15cm | 5–8cm deep; autumn | 5–8cm between bulbs | 6.5–7.5 | ✅ 5L+ container | No | Snowdrops, wood anemones | Гусиный лук жёлтый | — |
 | W32 | Yellow Water Lily | *Nuphar lutea* | ☀️ to 🌤️ | 45–150cm+ above water | Crown at basket surface; 45–150cm+ water above | 1–2m ultimate spread | 6.5–7.5 (water) | ⚠️ Large ponds/lakes only, not for small pots | No | Native white water lily, bogbean | — | — |
-| T46 | Yulan Magnolia | *Magnolia denudata* | ☀️ to 🌤️ | 6–9m | At nursery soil mark | 5–8m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
+| T30 | Yulan Magnolia | *Magnolia denudata* | ☀️ to 🌤️ | 6–9m | At nursery soil mark | 5–8m between plants/structures | 5.0–6.5 | ❌ Too large for pots long-term | Good, flowering branches | Hellebores, ferns, snowdrops, Japanese maple | — | — |
 | A21 | Zinnia | *Zinnia elegans* | ☀️ | 30–90cm | 5–6mm deep (seed) / at pot level | 20–30cm between plants | 5.5–7.5 | ✅ 15–20L container | Good | Cosmos, dahlias, cornflower | Цинния изящная | — |
 | H33 | Zucchini (Courgette) | *Cucurbita pepo var. cylindrica, var. giraumontia* | ☀️ | 45–60cm | At pot level (after frost) | 60–90cm between plants | 6.0–7.0 | ✅ Large 30–40L container | No | Nasturtiums, sweetcorn, beans | Кабачок (Цуккини) | Cúirséad |
 
@@ -8812,4 +8843,4 @@ Holly (berries) · Irish Yew (all parts except berry flesh) · Snowdrops · Daff
 
 ---
 
-*Sources: RHS Growing Guides (rhs.org.uk), gardens4you.ie product listings (P22 rootstock; Sweet Cherry 'Sylvia'), Future Forests Ireland (futureforests.ie), Irish Seed Savers Association (irishseedsavers.ie), NC State Extension Plant Toolbox (plants.ces.ncsu.edu), Plants For A Future (pfaf.org), Missouri Botanical Garden Plant Finder, BBC Gardeners' World Magazine (gardenersworld.com), Garden UK (gardenuk.co.uk), Thompson & Morgan, Farmer Gracy, Wild Your Garden, Wetland Plants UK, Plants for Ponds, Pond Informer (pondinformer.com), White Flower Farm, Hydrangea.com, Plantura (plantura.garden), Gardenia.net, Old Farmer's Almanac, Hardy Plant Society, Sarah Raven, Wilson Bros Gardens, Garden Design (gardendesign.com), Wayside Gardens, GrowItBuildit.com, Trehane Nursery, Primrose Hall Peonies, Pomona Fruits, Ashridge Trees, Wildflowers of Ireland (wildflowersofireland.net), Flora of Northern Ireland (habitas.org.uk), BSBI (bsbi.org), First Nature (first-nature.com), British Bryological Society (britishbryologicalsociety.org.uk), Woodland Trust (woodlandtrust.org.uk), Irish Peatland Conservation Council (ipcc.ie).*
+*Sources: RHS Growing Guides (rhs.org.uk), gardens4you.ie product listings (P22 rootstock; Sweet Cherry 'Sylvia'), Future Forests Ireland (futureforests.ie), Irish Seed Savers Association (irishseedsavers.ie), NC State Extension Plant Toolbox (plants.ces.ncsu.edu), Plants For A Future (pfaf.org), Missouri Botanical Garden Plant Finder, BBC Gardeners' World Magazine (gardenersworld.com), Garden UK (gardenuk.co.uk), Thompson & Morgan, Farmer Gracy, Wild Your Garden, Wetland Plants UK, Plants for Ponds, Pond Informer (pondinformer.com), White Flower Farm, Hydrangea.com, Plantura (plantura.garden), Gardenia.net, Old Farmer's Almanac, Hardy Plant Society, Sarah Raven, Wilson Bros Gardens, Garden Design (gardendesign.com), Wayside Gardens, GrowItBuildit.com, Trehane Nursery, Primrose Hall Peonies, Pomona Fruits, Ashridge Trees, Wildflowers of Ireland (wildflowersofireland.net), Flora of Northern Ireland (habitas.org.uk), BSBI (bsbi.org), First Nature (first-nature.com), British Bryological Society (britishbryologicalsociety.org.uk), Woodland Trust (woodlandtrust.org.uk), Irish Peatland Conservation Council (ipcc.ie), Galway City Council (galwaycity.ie), Plants of the World Online (powo.science.kew.org), Barnhaven (barnhaven.com).*
