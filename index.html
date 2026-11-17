@@ -16,7 +16,7 @@
   header .eyebrow{font-size:0.7rem;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:var(--sage);margin-bottom:0.75rem;}
   header h1{font-family:'Playfair Display',serif;font-size:clamp(2rem,5vw,3.2rem);font-weight:700;line-height:1.15;margin-bottom:0.6rem;}
   header h1 em{font-style:italic;font-weight:400;color:#afc99e;}
-  header .sub{font-size:0.875rem;color:#b0cca4;max-width:560px;margin:0 auto 1.5rem;}
+  header .sub{font-size:0.875rem;color:#b0cca4;max-width:560px;margin:0 auto;}
   .materials-bar{display:flex;flex-wrap:wrap;gap:0.4rem;justify-content:center;margin-top:1.2rem;}
   .material-pill{background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.2);border-radius:2rem;padding:0.2rem 0.75rem;font-size:0.72rem;color:#d4e8cc;letter-spacing:0.03em;}
   .group-nav{background:var(--fern);padding:0.6rem 1rem;display:flex;flex-wrap:wrap;gap:0.3rem;justify-content:center;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px var(--shadow);}
@@ -95,23 +95,24 @@
   footer{text-align:center;padding:2rem 1rem;background:var(--moss);color:#8ab87a;font-size:0.75rem;line-height:1.8;}
   footer a{color:#afd49e;text-decoration:none;}
   @media(max-width:600px){.plant-toggle .plant-latin{display:none;}.filter-bar{flex-direction:column;align-items:stretch;}.row-count{margin-left:0;}}
+
+  /* shared site nav (Plant Guide / Monthly Works) */
+  .site-nav{background:var(--white);border-bottom:1px solid var(--rule);display:flex;justify-content:center;gap:0.4rem;padding:0.5rem 1rem;}
+  .site-nav a{color:var(--moss);text-decoration:none;font-size:0.78rem;font-weight:600;letter-spacing:0.04em;padding:0.3rem 0.9rem;border-radius:2rem;border:1px solid transparent;transition:background 0.15s,border-color 0.15s;}
+  .site-nav a:hover{background:var(--mist);border-color:var(--rule);}
+  .site-nav a[aria-current="page"]{background:var(--moss);color:var(--white);}
 </style>
 </head>
 <body>
+<nav class="site-nav" aria-label="Guide pages">
+  <a href="index.html" aria-current="page">Plant Guide</a>
+  <a href="monthly.html">Monthly Works</a>
+</nav>
+
 <header>
   <div class="inner">
-    <div class="eyebrow">Complete Gardening Reference &middot; West of Ireland</div>
-    <h1>Planting Guide<br><em>Clay Soil &middot; Atlantic Climate</em></h1>
-    <div class="materials-bar">
-      <span class="material-pill">Clay soil</span>
-      <span class="material-pill">Multipurpose compost</span>
-      <span class="material-pill">Ericaceous compost</span>
-      <span class="material-pill">Horticultural bark</span>
-      <span class="material-pill">Horticultural grit</span>
-      <span class="material-pill">Small pebbles</span>
-      <span class="material-pill">Vermiculite</span>
-      <span class="material-pill">Perlite</span>
-    </div>
+    <h1>Galway Gardening Reference<br><em>Clay Soil &middot; Atlantic Climate</em></h1>
+    <p class="sub">A comprehensive planting guide for the west of Ireland, written for heavy clay, high rainfall and Atlantic wind.</p>
   </div>
 </header>
 
