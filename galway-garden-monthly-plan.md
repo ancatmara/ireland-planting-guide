@@ -1,6 +1,6 @@
 # Galway Garden Calendar: A Month-by-Month Plan
 
-*Built from the "West of Ireland Planting Guide" (README.md), checked against Galway and Irish climate data, and written for heavy clay, high rainfall and Atlantic wind.*
+*Built from the "West of Ireland Planting Guide", checked against Galway and Irish climate data, and written for heavy clay, high rainfall and Atlantic wind.*
 
 ---
 
